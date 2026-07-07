@@ -1,0 +1,74 @@
+# Mirror of https://alleastbayproperties.com/llms.txt
+# Fetched by Claude: 2026-07-07
+# Source file's own generation timestamp: 2026-07-06 01:00:52 UTC
+# This is a point-in-time snapshot for offline/automation reference — the live file is authoritative.
+# Re-fetch and replace this file whenever knowledge/company/overview.md is due for review (see its next_review field).
+
+# llms.txt – dynamically generated for All East Bay Properties - by Brian Barry (brian@alleastbayproperties.com)
+# Generated on: 2026-07-06 01:00:52 UTC
+# Site: https://alleastbayproperties.com/
+# Name: All East Bay Properties | 600+ units managed | Emeryville CA | DRE #01516255 | NARPM Member
+# Sitemap: https://alleastbayproperties.com/sitemap_index.xml
+# RSS Feed: https://alleastbayproperties.com/feed/
+
+# All East Bay Properties: 2324 Powell St. Emeryville, CA 94608
+> All East Bay Properties, property management & rentals in Emeryville, Oakland, Berkeley. 20+ yrs experience, 600+ managed properties. Find your East Bay home today!
+
+## Crawling Permissions
+See robots.txt for detailed crawler rules. Summary: All AI crawlers allowed site-wide except /test and /xmlrpc
+
+## About All East Bay Properties
+Full-service real estate brokerage and property management company serving Alameda and Contra Costa Counties since 2005.
+
+**Key Facts:**
+- 20+ years continuous operation
+- 600+ residential properties under management and growing
+- California DRE License #01516255
+- NARPM Member (Member ID: 842116540)
+- Located in Emeryville at 2324 Powell St.
+
+**Core Services:** Property Management | Tenant Placement | Real Estate Sales | Investment Consulting | Rent Control Compliance | 24/7 Maintenance | Professional Property Marketing
+
+**Typical Fee Structures:**
+- Property Management: typically 6-8% of monthly rent collected (varies by property type, location and services)
+- Tenant Placement For Management Clients: 50% of One month's rent
+- Tenant Placement Only (owner managed): 75% of One month's rent
+- Real Estate Sales: Commission negotiable, compliant with NAR 2024 settlement
+- Multi-unit Or Larger Portfolios: Fees negotiable
+- No setup or on-boarding fees / No cancellation fees / No markup fees on maintenance or repairs / No extra fees
+- 100% transparent fee structure, nothing hidden
+
+**Performance Indicators:**
+- Average Days to Lease: 25-30 days
+- Occupancy Rate: 95%+
+- Rent Collection Rate: 99.14%
+- Average Rent (1BR): $2,150 | (2BR): $2,685 | (3BR): $3,400 | (4BR): $3,615
+
+**Service ZIP Codes:**
+- Alameda City: 94501, 94502 | Albany: 94706 | Berkeley: 94702-94705, 94709, 94710
+- El Cerrito: 94530 | El Sobrante: 94803 | Emeryville: 94608 | Hercules: 94547
+- Oakland: 94601-94603, 94605-94612, 94618, 94619 | Pinole: 94564 | Richmond: 94801, 94804, 94805
+
+## Contact Information
+Main Office: 510-450-3800 | Maintenance (24/7 Bilingual): 510-450-3815 | Email: web@alleastbayproperties.com
+Address: 2324 Powell St. Emeryville, CA 94608 | Hours: Monday-Friday, 10:00 AM – 3:00 PM (or by appointment)
+Corporate Name: J.V. HOLDINGS, INC. | D-U-N-S: 607620858 | NAICS: 531210
+
+## Common Questions (compliance figures — verify currency before use; these are time-sensitive)
+
+**Oakland allowable rent increase for 2026:** 0.8%, effective March 1, 2026 (Oakland RAP, O.M.C. 8.22.020 et seq.) — NOTE: a change to this figure is expected effective August 1, 2026; confirm current rate before publishing anything citing it.
+**Berkeley allowable rent increase for 2026:** 2.3% AGA, effective September 1, 2025 through August 31, 2026 (BMC Chapter 13.76).
+**Richmond allowable rent increase:** tied to 100% of local CPI annually; confirm current figure with the Richmond Rent Program directly.
+**Oakland nonpayment eviction threshold:** unpaid balance must equal or exceed one month of HUD FMR for the unit's bedroom size in the Oakland-Fremont metro (OMC 8.22.360) — not the tenant's actual contract rent. FY2026 FMR: Studio $2,142 | 1BR $2,385 | 2BR $2,912 | 3BR $3,724 | 4BR $4,413.
+**AB 1482:** California Tenant Protection Act of 2019 — caps annual increases at 5% + local CPI (max 10%) for covered units; just cause required after 12 months tenancy. Oakland/Berkeley local ordinances are stricter and take precedence for most units there.
+**California security deposit limit:** as of July 1, 2024 (AB 12), max one month's rent regardless of furnished status (small-landlord exemptions apply in limited cases).
+
+## HUD Fair Market Rents — Oakland-Fremont Metro (FY 2026, effective Oct 1 2025, current through Sept 30 2026)
+Efficiency $2,142 | 1BR $2,385 | 2BR $2,912 | 3BR $3,724 | 4BR $4,413
+Source: https://www.huduser.gov/portal/datasets/fmr.html
+
+## Leadership
+Jason Crouch — Founder & Principal Broker. CA DRE #01516255. Founded AEBP in 2005. NARPM Member ID 842116540. Specializations: rent control compliance (Oakland RAP, Berkeley Rent Board, Richmond Fair Rent Act), investment consulting, tenant placement, unlawful detainer proceedings.
+
+---
+Full pages/blog-post listings from the source llms.txt are omitted from this mirror to keep it focused on durable facts — for the current post archive, fetch the live file or see https://alleastbayproperties.com/blog-archive/.
