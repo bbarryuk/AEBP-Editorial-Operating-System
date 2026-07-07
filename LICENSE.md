@@ -1,13 +1,24 @@
 # License
 
-**Placeholder — Brian, this needs your actual decision, not mine.**
+This repository — its editorial standards, company knowledge, templates, prompts, and skill manifests — is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
-This repo is public, but "public" and "openly licensed" are different things. Right now no formal license is applied, which under GitHub's own terms means the default is **all rights reserved**: people can view and fork the repo, but have no legal right to reuse, redistribute, or build on the content or templates without your permission — GitHub's Terms of Service explain this default at https://docs.github.com/site-policy/github-terms/github-terms-of-service.
+## What that means in plain terms
 
-Worth deciding deliberately once the repo has real content in it:
+Anyone may:
+- View, read, and cite this repository, with attribution to All East Bay Properties.
 
-- **Keep all rights reserved (do nothing further)** — safest if you consider the editorial methodology itself (not just the underlying facts, which are already public via `llms.txt`) a competitive asset you don't want other property management companies copying wholesale.
-- **A restrictive content license (e.g. CC BY-NC-ND)** — lets people read and reference it, explicitly disallows commercial reuse or modification, gives you a citable license name instead of relying on the silent default.
-- **MIT or similarly permissive** — appropriate if this ever becomes something you want other AI-native businesses to fork and adapt (the framing several of the "AI-native editorial operating system" discussions gestured at), but means anyone can legally reuse and resell your standards and templates.
+Anyone may **not**, without Brian Barry / All East Bay Properties' prior written permission:
+- Use any part of this repository for **commercial purposes** — including another property management company adapting these standards, templates, or prompts for their own business.
+- Create and distribute **modified versions** — forks, adaptations, or derivative editorial systems built on this one.
 
-None of these change who owns the underlying facts about AEBP (those aren't copyrightable in the way the editorial methodology and templates are) — this decision is specifically about the standards, templates, and prompts you're building here.
+This is intentional: the value of this repository is the editorial methodology itself — the standards, the review framework, the templates — not just the underlying facts about AEBP (which are already public via `alleastbayproperties.com/llms.txt` and don't need a restrictive license). The public repo stays public for transparency, versioning, and so both Claude and ChatGPT can read it — it is not an invitation for competitors to reuse the work.
+
+Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+## Scope note
+
+CC BY-NC-ND is a content license — it fits `docs/`, `knowledge/`, `templates/`, `prompts/`, and `skills/` well. It's not designed for software. If `automation/` later contains actual code (GitHub Actions, scripts, API integration code), that code should get its own license notice at that time — worth revisiting when that folder stops being empty, rather than assuming this license covers it by default.
+
+## Attribution
+
+All East Bay Properties Editorial Operating System © 2026 Brian Barry / All East Bay Properties. Licensed under CC BY-NC-ND 4.0.

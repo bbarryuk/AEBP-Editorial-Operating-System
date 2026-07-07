@@ -1,7 +1,7 @@
 ---
 skill_name: aebp-thursday-tip
 implementation: Claude skill, packaged and installed in Cowork
-sync_status: NOT YET WIRED — see note at bottom
+sync_status: PARTIALLY WIRED — see note at bottom
 last_synced: 2026-07-07
 ---
 
@@ -32,6 +32,8 @@ That week's published cornerstone blog post (prerequisite — this skill doesn't
 - `knowledge/company/overview.md` — for any AEBP fact used in the micro-case-study or takeaway
 - Tag whitelist (currently only in the skill body — should move to a `knowledge/website/tags.md` once that file exists)
 
-## Sync status: not yet wired
+## Sync status: partially wired (as of 2026-07-07)
 
-Same caveat as the Monday Cornerstone skill: this manifest documents current behavior, it doesn't mean the skill reads this repo yet. Rewiring is a follow-up task.
+**Now reads from this repo:** `knowledge/company/overview.md` for facts used in the micro-case-study, and `docs/01-Editorial-Standards.md` §5–6/§10 for the Evidence Standard, Confidence Levels, and the pass/fail Legal Accuracy gate — with an inline fallback if the repo isn't connected that session.
+
+**Still inline, not yet migrated:** the tag whitelist, HeyGen script structure and "we, never I" rule, Adobe Express/Mailchimp mechanics. The tag whitelist should move to `knowledge/website/tags.md` once that file exists; the brand-voice rules belong in `docs/02-Brand-Voice.md` once it's written.

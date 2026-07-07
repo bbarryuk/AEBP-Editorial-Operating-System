@@ -2,6 +2,14 @@
 
 All notable changes to the AEBP Editorial Operating System are recorded here. Versions are tagged when a document has actually been used on real content and held up — not on a fixed schedule.
 
+## [Unreleased]
+
+### Added
+- `LICENSE.md` — CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives). Brian's decision: repo stays public for transparency/AI access, but competitors can't legally reuse or adapt the editorial methodology. Applies to content (`docs/`, `knowledge/`, `templates/`, `prompts/`, `skills/`); any future code in `automation/` will need its own license note.
+
+### Changed
+- All three `skills/*.md` manifests updated from `NOT YET WIRED` to `PARTIALLY WIRED` — the installed Cowork skills (`aebp-monday-cornerstone`, `aebp-thursday-tip`, `aebp-wwyd-social`) now read `knowledge/company/overview.md` and `docs/01-Editorial-Standards.md` (Evidence Standard, Confidence Levels, gated-vs-scored standards gate) at draft time, with an explicit inline fallback if this repo folder isn't connected in a given session. Post/scenario structure and tool-specific mechanics remain inline pending `templates/` and `docs/02+`.
+
 ## [0.1.0] — 2026-07-07
 
 Initial foundation, built by Claude in Cowork per the plan worked out between Brian, Claude, and ChatGPT.

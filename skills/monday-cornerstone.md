@@ -1,7 +1,7 @@
 ---
 skill_name: aebp-monday-cornerstone
 implementation: Claude skill, packaged and installed in Cowork
-sync_status: NOT YET WIRED — see note at bottom
+sync_status: PARTIALLY WIRED — see note at bottom
 last_synced: 2026-07-07
 ---
 
@@ -38,6 +38,10 @@ Week's assigned topic from the content calendar. AEBP-specific angle/observation
 - Video posts always use category ID 629 regardless of blog post category
 - GBP posting is live (account/location IDs in the skill); local MCP server's OAuth token needs periodic re-auth (see `gbp-token-expiry-check` scheduled task)
 
-## Sync status: not yet wired
+## Sync status: partially wired (as of 2026-07-07)
 
-As of 2026-07-07, this manifest documents what the installed `aebp-monday-cornerstone` Cowork skill does — it does **not** yet mean the skill reads this repo at draft time. The skill's own `SKILL.md` currently still encodes the standards inline (that's the duplication this repo exists to eliminate). Rewiring the skill to reference `docs/01-Editorial-Standards.md` and `knowledge/company/overview.md` directly, instead of repeating those rules, is a follow-up task — flag it to Brian before assuming it's done.
+**Now reads from this repo:** verified company facts (`knowledge/company/overview.md`) and the Evidence Standard / Confidence Levels (`docs/01-Editorial-Standards.md` §5–6) at draft time, with an inline fallback only if the repo folder isn't connected that session. The skill also now runs a standards-gate check against §10's gated-vs-scored categories before calling a draft done.
+
+**Still inline, not yet migrated:** the actual post structure (In Short box → Key Facts box → body → AEBP-specific section → comparison table → CTA → FAQ) — this is template-level detail with no home in the repo yet. It belongs in `templates/cornerstone-blog.md`, which doesn't exist. Also still inline: WordPress/image/GBP tool mechanics (these are legitimately skill-owned, not editorial standards, so no migration needed there).
+
+**Next migration candidate:** once `templates/cornerstone-blog.md` exists and has been validated against a real post, move the structure checklist there and have the skill read it the same way it now reads `docs/01`.

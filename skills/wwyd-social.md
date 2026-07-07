@@ -1,7 +1,7 @@
 ---
 skill_name: aebp-wwyd-social
 implementation: Claude skill, packaged and installed in Cowork
-sync_status: NOT YET WIRED — see note at bottom
+sync_status: PARTIALLY WIRED — see note at bottom
 last_synced: 2026-07-07
 ---
 
@@ -27,8 +27,11 @@ That week's WWYD scenario from the content calendar (usually specified alongside
 
 ## Documents referenced
 
-- None from `/knowledge` yet directly — scenarios are drawn from the content calendar, not company facts. Worth revisiting once `knowledge/laws/` exists, since several past scenarios have hinged on specific statutory details (e.g. grace period clocks) that should be checked against a maintained source rather than memory.
+- `knowledge/company/overview.md` and `docs/01-Editorial-Standards.md` §6 (Confidence Levels) — now read at draft time for any legal/regulatory detail in a scenario.
+- Still no `knowledge/laws/` — several past scenarios hinge on statutory details (e.g. grace period clocks) that should eventually be checked against a maintained laws file rather than the content calendar or memory. Worth prioritizing once the laws knowledge folder exists, especially given the pending Aug 1 rent-cap changes flagged in `knowledge/llms.txt`.
 
-## Sync status: not yet wired
+## Sync status: partially wired (as of 2026-07-07)
 
-Same caveat as the other two skills: this manifest documents current behavior; the skill doesn't read this repo yet. Rewiring is a follow-up task.
+**Now reads from this repo:** `knowledge/company/overview.md` and the Confidence Levels section of `docs/01`, with a fallback to the content calendar/existing posts if the repo isn't connected.
+
+**Still inline, not yet migrated:** the Hook→Tension→Decision→Insight→CTA framework and platform-specific rules (hashtag counts, link placement, SMS timing) — these are template/behavior content with no home in `/docs` yet. A future `docs/05-Content-Structure.md` or a `templates/` entry is the natural destination once validated.
