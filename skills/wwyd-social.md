@@ -27,7 +27,7 @@ That week's WWYD scenario from the content calendar (usually specified alongside
 
 ## Documents referenced
 
-- `knowledge/company/overview.md` and `docs/01-Editorial-Standards.md` §6 (Confidence Levels) — now read at draft time for any legal/regulatory detail in a scenario.
+- `knowledge/company/overview.md` and `docs/02-Evidence-and-Sourcing.md` (EVD-CONFIDENCE-LEVELS) — now read at draft time for any legal/regulatory detail in a scenario.
 - Still no `knowledge/laws/` — several past scenarios hinge on statutory details (e.g. grace period clocks) that should eventually be checked against a maintained laws file rather than the content calendar or memory. Worth prioritizing once the laws knowledge folder exists, especially given the pending Aug 1 rent-cap changes flagged in `knowledge/llms.txt`.
 
 ## Sync status: partially wired (as of 2026-07-07)

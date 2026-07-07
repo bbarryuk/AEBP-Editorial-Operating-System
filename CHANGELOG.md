@@ -5,6 +5,19 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 ## [Unreleased]
 
 ### Added
+- `doc_type` frontmatter field (`normative`/`informative`) on `docs/01`, `docs/02`, and `knowledge/company/overview.md` — normative documents define requirements a draft can violate; informative documents provide context/facts and aren't themselves checkable rules.
+- README section documenting normative/informative and listing three deliberately deferred ideas from this round of ChatGPT review: a `/tests` editorial regression suite, a glossary, and an `automation_ready` knowledge field — noted as planned rather than silently dropped.
+
+### Considered and explicitly not done this round
+- Sequential numeric rule IDs — kept mnemonic slugs (already decided last round; GPT concurred this round).
+- `/tests` folder and example test cases — format is documented in README, but no files created; should grow from real review cases, not invented ones.
+- Glossary — deferred until documents actually show definitional drift.
+- `automation_ready` field — deferred until an automation step exists that would consume it.
+- `docs/02-Evidence-and-Sourcing.md` — split out of `docs/01` §5–6 per ChatGPT's review. Adds `EVD-SOURCE-HIERARCHY` (8-level evidence priority), `EVD-CURRENCY-CHECK`, `EVD-UNCERTAINTY-HANDLING`, and `EVD-BLOCK-PENDING-VERIFICATION` — none of which existed before this pass.
+- Mnemonic rule IDs across `docs/01` and `docs/02` (`STD-*`, `GATE-*`, `SCORE-*`, `EVD-*`) — deliberately non-sequential slugs rather than numbers, so inserting a new rule later doesn't require renumbering anything that cites an existing one.
+- `STD-OUT-OF-SCOPE` section in `docs/01` — names what this doc does NOT cover and where that content belongs instead, to keep the standards doc from growing indefinitely.
+- Dependency frontmatter (`purpose`/`used_by`/`depends_on`/`referenced_by`) on `docs/01` and `docs/02`.
+- Extended knowledge frontmatter schema (`review_frequency`, `authority`, `confidence`, `review_method`) — applied to `knowledge/company/overview.md`, documented in `README.md`.
 - `LICENSE.md` — CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives). Brian's decision: repo stays public for transparency/AI access, but competitors can't legally reuse or adapt the editorial methodology. Applies to content (`docs/`, `knowledge/`, `templates/`, `prompts/`, `skills/`); any future code in `automation/` will need its own license note.
 
 ### Changed

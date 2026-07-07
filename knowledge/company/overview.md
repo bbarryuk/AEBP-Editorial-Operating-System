@@ -1,8 +1,13 @@
 ---
 title: Company Overview
+doc_type: informative
 owner: Brian
 last_verified: 2026-07-06
 next_review: 2026-08-06
+review_frequency: monthly
+authority: Internal
+confidence: Verified
+review_method: Manual
 source:
   - https://alleastbayproperties.com/llms.txt
 ---

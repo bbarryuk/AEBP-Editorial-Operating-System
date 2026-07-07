@@ -35,7 +35,8 @@ AEBP-Editorial-Operating-System/
 │
 ├── docs/                  — BEHAVIOR: how to do things. Changes rarely.
 │   ├── 01-Editorial-Standards.md
-│   └── 02-Brand-Voice.md              (coming next)
+│   ├── 02-Evidence-and-Sourcing.md
+│   └── 03-Brand-Voice.md              (coming next)
 │
 ├── knowledge/              — FACTS: what is true right now. Changes often.
 │   ├── company/
@@ -65,12 +66,41 @@ title: Company Overview
 owner: Brian
 last_verified: 2026-07-06
 next_review: 2026-08-06
+review_frequency: monthly
+authority: Internal
+confidence: Verified
+review_method: Manual
 source:
   - https://alleastbayproperties.com/llms.txt
 ---
 ```
 
-`next_review` is what makes this maintainable at scale — eventually an automated check can simply find every knowledge document whose `next_review` date has passed and flag it, rather than someone needing to remember which facts might be stale.
+`next_review` is what makes this maintainable at scale — eventually an automated check can simply find every knowledge document whose `next_review` date has passed and flag it, rather than someone needing to remember which facts might be stale. `review_frequency`/`authority`/`confidence`/`review_method` exist so that same future automation knows not just *when* to check a document but *how* — a `Manual`/monthly company-facts doc gets handled differently than something that could eventually be checked automatically against a live source.
+
+## Documents declare their dependencies
+
+Every file in `/docs` opens with a frontmatter block naming its `purpose`, who/what `used_by` it (Claude, ChatGPT, human reviewer, automation), what it `depends_on`, and what `referenced_by` it — a lightweight dependency graph. When a standard changes, this is how you find out what else needs to change with it, without searching the whole repo by hand.
+
+## Rules carry stable IDs
+
+Individual rules within `/docs` carry mnemonic IDs (`STD-HONEST`, `GATE-LEGAL-ACCURACY`, `EVD-SOURCE-HIERARCHY`) rather than section numbers, specifically so a review can cite "violates GATE-LEGAL-ACCURACY" durably — inserting a new rule later doesn't renumber anything, unlike sequential numbering would.
+
+## Normative vs. informative documents
+
+Every document declares a `doc_type` in its frontmatter:
+
+- **Normative** — defines a requirement; a draft that violates it isn't ready to publish. `docs/01-Editorial-Standards.md` and `docs/02-Evidence-and-Sourcing.md` are normative.
+- **Informative** — provides context, facts, or examples, but isn't itself a rule to check a draft against. `knowledge/company/overview.md` is informative.
+
+Keeping these distinct matters once the repo has more documents: a reviewer (human or AI) should be able to tell at a glance whether a document is something to cite as a violation, or something to read for background.
+
+## Planned, not yet built
+
+A few things are intentionally deferred rather than forgotten:
+
+- **`/tests`** — an editorial regression suite: small excerpts of intentionally flawed content, the rule IDs they should trigger, and the expected verdict (e.g., a claim like "landlords must always professionally clean carpets" should fail `GATE-LEGAL-ACCURACY` and `EVD-SOURCE-HIERARCHY` for asserting a requirement with no cited authority). The point is to catch a future revision of the standards quietly becoming *less* strict. Not building this yet — it should grow organically from real cases encountered during review, not from invented examples.
+- **A glossary** — canonical one-line definitions for recurring terms (Cornerstone, Thursday Tip, WWYD, GEO, EEAT, Confidence Level, Review Gate) so wording doesn't drift across documents. Worth doing once there are enough documents that drift has actually started, not preemptively.
+- **`automation_ready` knowledge metadata** — flagged as a good future field once there's an actual automation step that would read it. Adding a field with undefined semantics now would create more confusion than it resolves.
 
 ## Editorial standards are gated, not just scored
 

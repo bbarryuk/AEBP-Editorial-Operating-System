@@ -34,6 +34,6 @@ That week's published cornerstone blog post (prerequisite — this skill doesn't
 
 ## Sync status: partially wired (as of 2026-07-07)
 
-**Now reads from this repo:** `knowledge/company/overview.md` for facts used in the micro-case-study, and `docs/01-Editorial-Standards.md` §5–6/§10 for the Evidence Standard, Confidence Levels, and the pass/fail Legal Accuracy gate — with an inline fallback if the repo isn't connected that session.
+**Now reads from this repo:** `knowledge/company/overview.md` for facts used in the micro-case-study, and `docs/02-Evidence-and-Sourcing.md`, and `docs/01-Editorial-Standards.md`'s `GATE-LEGAL-ACCURACY` for the Evidence Standard, Confidence Levels, and the pass/fail Legal Accuracy gate — with an inline fallback if the repo isn't connected that session.
 
 **Still inline, not yet migrated:** the tag whitelist, HeyGen script structure and "we, never I" rule, Adobe Express/Mailchimp mechanics. The tag whitelist should move to `knowledge/website/tags.md` once that file exists; the brand-voice rules belong in `docs/02-Brand-Voice.md` once it's written.
