@@ -35,7 +35,9 @@ The secondary lesson: not all uncited claims deserve equal treatment once you go
 
 ## Expected verdict
 
-Both gates should **FAIL** as originally published (no citations present). After the fix (see `knowledge/laws/rent-caps.md` and the citations added to post 7938 on 2026-07-07), both gates should **PASS** — with the Oakland figure specifically labeled as calculated/pending rather than confirmed, which itself should not trigger a fail once the distinction is stated honestly per `EVD-UNCERTAINTY-HANDLING`.
+Both gates should **FAIL** as originally published (no citations present). After the fix (see `knowledge/laws/rent-caps.md` and the citations added to posts 7938/7958 on 2026-07-07), both gates should **PASS** — with the Oakland figure specifically labeled as calculated/pending rather than confirmed, which itself should not trigger a fail once the distinction is stated honestly per `EVD-UNCERTAINTY-HANDLING`.
+
+**Update, same day (2026-07-07):** Oakland's 2.3% figure was upgraded from "calculated, pending confirmation" to "Confirmed" a few hours later, once a direct fetch of the City of Oakland's own "Learn More About Allowable Rent Increases" page turned up the actual official rate table (the earlier search-only pass had missed it). Both posts and `knowledge/laws/rent-caps.md` were updated again to drop the "pending" language. This is itself worth keeping in the test case: the honest "pending confirmation" label wasn't a permanent state, it was a snapshot — and the system correctly treated "found the primary source" as a reason to upgrade confidence rather than leaving stale hedging in place after the fact. A good review-format should make re-checking cheap enough that this kind of same-day upgrade is normal, not a special case.
 
 ## What this should catch in the future
 
