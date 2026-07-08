@@ -4,11 +4,22 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 
 ## [Unreleased]
 
+### Fixed
+- **Post 7938** ("What Does a Property Manager Actually Do?") — the two GATE-LOCAL-ACCURACY / GATE-LEGAL-ACCURACY failures from the 2026-07-07 review are resolved. Added citations to the Key Facts table, a source note after the video transcript, the licensing paragraph, and FAQ #5; added a new "Sources" section (matches AEBP's existing house style on other legal posts). Both flagged figures were independently re-verified against primary sources rather than just cited on faith: AB 1482's 8.8% cap is confirmed via BLS News Release 26-739-SAN (San Francisco-Oakland-Hayward CPI, April 2026); Oakland's 2.3% RAP figure is a calculation from the City's published formula (60% of CPI, max 3%) and is explicitly labeled "pending Oakland's official notice" rather than asserted as confirmed — no independent search found an actual City of Oakland notice for the Aug 1, 2026 rate yet. All edits stayed within native Gutenberg blocks.
+
 ### Added
+- `knowledge/laws/rent-caps.md` — first file in `knowledge/laws/`. Documents AB 1482 (confirmed, statutory formula + BLS data) and Oakland RAP (calculated, pending city confirmation) rent-cap figures for Alameda/Contra Costa, with per-figure confidence levels and a currency-check date (re-verify after Aug 1, 2026). Exists so the next post citing these numbers has something to check against instead of repeating the citation gap that caused this round's review failure.
+- `tests/legal/TEST-LEGAL-001.md` — first real entry in the `/tests` regression suite (previously documented in README but empty). Logged from the actual post-7938 review: both flagged claims turned out to be numerically correct, but still should have failed `EVD-CITATION-REQUIREMENT` as originally published — the case exists to catch a future standards revision that quietly stops requiring citations for claims a writer is confident about.
+- `docs/03-Review-Format.md` (v0.1) — new normative document defining how a review gets classified and written up: `FIND-TYPE` (Type A Content Error / Type B Evidence Gap / Type C System Gap), root-cause structure (Finding → Root Cause → Fix → Future Prevention), a "Strengths Worth Preserving" section, separated Article-fixes vs. Operating-System-improvements lists, and a presentation layer for `SCORE-*` categories (still numeric per `docs/01`, now with explicit threshold-status and what's-working/what's-holding-it-back framing). Synthesized from ChatGPT's critique of the first real review, with one deliberate divergence — see below.
+- Brand Voice renumbered from `docs/03` to `docs/04` in `docs/01`'s `STD-OUT-OF-SCOPE` section to make room for `docs/03-Review-Format.md`. The document itself still doesn't exist yet.
+
+### Previously added
 - `doc_type` frontmatter field (`normative`/`informative`) on `docs/01`, `docs/02`, and `knowledge/company/overview.md` — normative documents define requirements a draft can violate; informative documents provide context/facts and aren't themselves checkable rules.
 - README section documenting normative/informative and listing three deliberately deferred ideas from this round of ChatGPT review: a `/tests` editorial regression suite, a glossary, and an `automation_ready` knowledge field — noted as planned rather than silently dropped.
 
-### Considered and explicitly not done this round
+### Considered and explicitly not done (across both rounds)
+- A Critical/Major/Minor severity scale on every finding, as ChatGPT proposed this round — not adopted in `docs/03-Review-Format.md`. Reasoning: `docs/01` already establishes gated categories as pass/fail with no partial credit; a severity scale on top of a binary gate would quietly reintroduce partial credit ("it only failed a Minor"). The Type A/B/C classification already carries the same practical information (Type A always blocks, Type B blocks but is typically fast to fix, Type C often doesn't block this post but always creates follow-up work) without touching the gate's binary nature.
+- Berkeley and Richmond rent-cap figures — referenced in AEBP's own published guides (1.0% and 1.62% respectively) but not independently re-verified this round, so not added to `knowledge/laws/rent-caps.md` as confirmed. Flagged in that file as unconfirmed rather than silently omitted.
 - Sequential numeric rule IDs — kept mnemonic slugs (already decided last round; GPT concurred this round).
 - `/tests` folder and example test cases — format is documented in README, but no files created; should grow from real review cases, not invented ones.
 - Glossary — deferred until documents actually show definitional drift.

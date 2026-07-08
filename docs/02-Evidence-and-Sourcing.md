@@ -8,7 +8,7 @@ last_updated: 2026-07-07
 purpose: Defines what counts as sufficient evidence for a legal or procedural claim, in what priority, and when a claim must be blocked pending verification rather than published with a caveat.
 used_by: [Claude, ChatGPT, human reviewer]
 depends_on: []
-referenced_by: [docs/01-Editorial-Standards.md, skills/monday-cornerstone.md, skills/thursday-tip.md, skills/wwyd-social.md]
+referenced_by: [docs/01-Editorial-Standards.md, docs/03-Review-Format.md, skills/monday-cornerstone.md, skills/thursday-tip.md, skills/wwyd-social.md]
 ---
 
 # Document 02 — Evidence and Sourcing

@@ -8,7 +8,7 @@ last_updated: 2026-07-07
 purpose: Defines the editorial philosophy, audience, principles, and publish-readiness gates for all AEBP educational content.
 used_by: [Claude, ChatGPT, human reviewer]
 depends_on: [docs/02-Evidence-and-Sourcing.md]
-referenced_by: [skills/monday-cornerstone.md, skills/thursday-tip.md, skills/wwyd-social.md]
+referenced_by: [docs/03-Review-Format.md, skills/monday-cornerstone.md, skills/thursday-tip.md, skills/wwyd-social.md]
 ---
 
 # Document 01 — Editorial Standards
@@ -91,7 +91,8 @@ The measure of success is not whether an article ranks. It's whether a landlord 
 This document does **not** define:
 
 - Evidence, sourcing, or citation rules — `docs/02-Evidence-and-Sourcing.md`
-- Brand voice, tone specifics, or the "we, never I" HeyGen rule — `docs/03-Brand-Voice.md` (not yet written)
+- How a review is structured, classified, and written up — `docs/03-Review-Format.md`
+- Brand voice, tone specifics, or the "we, never I" HeyGen rule — `docs/04-Brand-Voice.md` (not yet written)
 - SEO/GEO tactical implementation (keyword research, schema specifics) — a future SEO/GEO document, not yet written
 - WordPress publishing mechanics (Gutenberg block conventions, tag whitelist, image generation) — currently owned by the individual Claude skills; may migrate to `templates/` or an automation doc later
 - Post/scenario structure templates (In Short box order, Hook→Tension→Decision→Insight→CTA framework) — belongs in `templates/`, not yet written
