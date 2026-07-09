@@ -132,4 +132,11 @@ v1.0  — validated across ~25 real posts, stable
 v2.0  — automation: Claude API + ChatGPT API + GitHub-PR publishing pipeline
 ```
 
-We are not building the v2.0 automation pipeline yet. The process gets validated by hand first; automation should only eve
+We are not building the v2.0 automation pipeline yet. The process gets validated by hand first; automation should only ever execute a process that's already been proven, not stand in for figuring the process out.
+
+## Adding a new document
+
+1. Decide: is this behavior (`docs/`) or fact (`knowledge/`)? If it's a fact, add YAML frontmatter with an honest `next_review` date.
+2. Keep it focused — roughly 1,500–3,000 words. Smaller, single-purpose documents are easier for both AIs to load and easier for Brian to maintain than one large manual.
+3. If it changes how a Claude skill should behave, update that skill's manifest in `/skills` so the dependency is visible, and flag to Brian that the actual Cowork skill may need updating too (this repo doesn't automatically change what's installed in Cowork).
+4. Tag a version in `CHANGELOG.md` once the document has actually been used on real content, not before.

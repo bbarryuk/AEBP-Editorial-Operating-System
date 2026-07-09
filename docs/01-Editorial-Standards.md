@@ -94,4 +94,14 @@ The measure of success is not whether an article ranks. It's whether a landlord 
 This document does **not** define:
 
 - Evidence, sourcing, or citation rules — `docs/02-Evidence-and-Sourcing.md`
-- How a review is structured, classified, and written up — `docs/03-Review-F
+- How a review is structured, classified, and written up — `docs/03-Review-Format.md`
+- Brand voice, tone specifics, or the "we, never I" HeyGen rule — `docs/04-Brand-Voice.md` (not yet written)
+- SEO/GEO tactical implementation (keyword research, schema specifics) — a future SEO/GEO document, not yet written
+- WordPress publishing mechanics (Gutenberg block conventions, tag whitelist, image generation) — currently owned by the individual Claude skills; may migrate to `templates/` or an automation doc later
+- Post/scenario structure templates (In Short box order, Hook→Tension→Decision→Insight→CTA framework) — belongs in `templates/`, not yet written
+
+If a rule doesn't fit one of the documents above and doesn't have an obvious future home, that's a signal it may not belong in the Editorial Operating System at all — see the versioning discipline in the root `README.md`.
+
+## Status
+
+This is v0.3 (revised 2026-07-08 to add `GATE-COMPLIANCE-RISK` and fold internal-linking into `GATE-TECHNICAL-SEO`, both prompted by ChatGPT's review of the Thursday Tip skill's output). Validated against two real posts so far (7996, 8006). The scored-category thresholds are still current best guesses, not calibrated numbers.

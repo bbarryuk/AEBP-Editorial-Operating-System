@@ -84,4 +84,49 @@ Added 2026-07-08, proposed by ChatGPT after reviewing a Thursday Tip post outsid
 |---|---|---|---|
 | **Editorial Review** | `SCORE-READABILITY`, brand voice (once `docs/04-Brand-Voice.md` exists), prose-level flow/engagement notes | All `GATE-*`, `SCORE-SEO`, `SCORE-GEO`, `SCORE-CONVERSION`, `GATE-COMPLIANCE-RISK` | A quick gut-check on prose quality mid-draft, before the piece is otherwise finished |
 | **QA Review** | All `GATE-*` and all `SCORE-*` from `docs/01`, plus the content type's manifest in `/reviews` if one exists | Freeform commentary not tied to a defined category | Confirming a finished draft meets the Operating System's defined bar |
-| **Pr
+| **Pre-Publish Audit** | QA Review + Editorial Review run together, plus a final internal-linking/schema/technical pass | Nothing — this is the full check | The last gate before Brian publishes |
+
+**Default:** a review request that doesn't name a mode is treated as a **Pre-Publish Audit** — the highest bar — and the review's header states which mode actually ran, so the requester can see what was checked and ask for a lighter pass next time if that's what they wanted. This default exists because the reviews that have happened so far (post 7938, 7996, 8006) were all functionally pre-publish checks even when not labeled as such; defaulting to the narrower Editorial or QA mode would risk silently skipping gated categories on a request that meant "is this ready."
+
+A review conducted outside any of the three modes — general editorial instinct with no stated scope, the kind ChatGPT flagged about its own Thursday Tip review — isn't invalid, but it isn't a Content Operating System review either, and shouldn't be logged as one in `/tests` or cited as having passed a gate it never actually checked.
+
+## Review template
+
+```
+# Editorial Review — Post [ID]
+**[Title]**
+Published [date] · Reviewed [date] against docs/01 vX.X + docs/02 vX.X + docs/03 vX.X
+Reviewer: [Claude/ChatGPT/human]
+Review Mode: [Editorial Review / QA Review / Pre-Publish Audit]
+
+## Gated categories (pass/fail)
+### GATE-[ID] — PASS/FAIL
+[If FAIL, use FIND-STRUCTURE format with FIND-TYPE tagged]
+
+## Scored categories
+[Use FIND-SCORING format per category]
+
+## Strengths Worth Preserving
+[FIND-STRENGTHS]
+
+## Article fixes
+[Scoped to this post]
+
+## Operating System improvements
+[Scoped to the repo]
+
+## Recommendation
+[Publish as-is / hold pending fixes / unpublish]
+```
+
+## Where this diverges from the ChatGPT critique
+
+ChatGPT's review-of-the-review recommended: Type A/B/C classification (adopted, above), a Critical/Major/Minor severity scale (not adopted — see FIND-SEVERITY), root-cause analysis format (adopted, above), separated fix lists (adopted, above), structured qualitative scoring instead of bare numbers (adopted as a presentation layer, not a replacement for the numeric scale — see FIND-SCORING), and a Strengths Worth Preserving section (adopted, above). The one substantive disagreement is the severity scale; everything else is adopted close to as proposed.
+
+## Round two, 2026-07-08 — ChatGPT's post-hoc Thursday Tip proposal
+
+After reviewing post 8006 outside this framework entirely, ChatGPT proposed: (1) a 10-gate universal PASS/FAIL rubric replacing the `docs/01` gate/score split, (2) a `/reviews` folder of per-content-type manifests, (3) a formal Claude-drafts → self-check → ChatGPT-review → fix → verify → publish workflow, (4) machine-readable review output. Claude's pushback and ChatGPT's revised position, after seeing it: keep the gate/score split (binary categories stay binary, gradient categories stay scored — collapsing `SCORE-GEO`/`SCORE-READABILITY` into pass/fail reintroduces the same false-precision-removal problem the severity scale did); extend `FIND-TYPE` rather than adding separate Accuracy/Evidence gates (see the note under `FIND-TYPE` above); adopt a `GATE-COMPLIANCE-RISK` gate (added to `docs/01` this round — the one genuinely missing check in the original proposal); build `/reviews` as manifests that *extend* `docs/01`'s categories per content type rather than replace them (see `/reviews`); delay machine-readable output, since it would violate the "prove the manual process before automating" principle all three parties already agreed to; and add `REVIEW-MODE` (above) to make explicit what kind of review is being requested — the one item from ChatGPT's proposal that's about how reviewers engage with the framework rather than changing the framework, and the reason the original ambiguity happened at all.
+
+## Status
+
+v0.2 — informed by two real reviews (post 7938, post 8006) and two rounds of ChatGPT critique. Re-run `TEST-LEGAL-001` and `TEST-LEGAL-002` against this format the next time a review happens, to confirm `REVIEW-MODE` and the `FIND-TYPE` extension note hold up in practice rather than just resolving the disagreement on paper.
