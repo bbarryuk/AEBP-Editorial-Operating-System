@@ -1,8 +1,8 @@
 ---
 title: Editorial Standards
 doc_type: normative
-version: 0.3 (Working Draft)
-status: drafted, validated against two real reviews (post 7996 Monday Cornerstone, post 8006 Thursday Tip)
+version: 0.4 (Working Draft)
+status: drafted, validated against three real reviews (post 7996 Monday Cornerstone, post 8006 Thursday Tip, post 8006 fabricated-anecdote incident)
 owner: Brian
 last_updated: 2026-07-08
 purpose: Defines the editorial philosophy, audience, principles, and publish-readiness gates for all AEBP educational content.
@@ -67,10 +67,13 @@ Categories split into two kinds, deliberately. A legal claim is either sourced a
 | GATE-LOCAL-ACCURACY | Local Accuracy | Local ordinance details verified against current source (`/knowledge`), city-specific examples used where relevant |
 | GATE-TECHNICAL-SEO | Technical SEO / WordPress | Valid Gutenberg blocks (no classic/HTML dump), schema present where applicable, meta fields set, and required internal links present (at minimum: a link to the jurisdiction-specific deep-dive guide when this post only summarizes it, and a link to `/lets-talk/` or another live conversion path) |
 | GATE-COMPLIANCE-RISK | Compliance Risk | Content stays in general education and doesn't cross into individualized legal advice — no telling a specific reader what they personally must do, no "your situation requires X," no answering as if the reader's facts are known. General statements of what the law requires, framed per `STD-HONEST`, are not advice; a direct instruction addressed to "you" about a hypothetical reader's specific facts is. |
+| GATE-ANECDOTE-INTEGRITY | Anecdote Integrity | Every first-person, AEBP-specific claim ("we've seen/done/experienced X") is either confirmed real by Brian, replaced with a sourced general/regulatory fact, or explicitly flagged as hypothetical — never presented as a real AEBP event when it was invented. See `EVD-ANECDOTE-INTEGRITY` in `docs/02-Evidence-and-Sourcing.md`. |
 
 A gated category that fails blocks publication outright, regardless of how well the article scores elsewhere.
 
 `GATE-COMPLIANCE-RISK` added 2026-07-08, prompted by ChatGPT flagging it as a gap in its review of the Thursday Tip skill's output — see `CHANGELOG.md`. Internal-linking requirement folded into `GATE-TECHNICAL-SEO` the same day rather than made a fifth gate, since it's a mechanical presence check rather than a distinct evaluative judgment.
+
+`GATE-ANECDOTE-INTEGRITY` added 2026-07-08, prompted by Brian catching a fabricated first-person claim in post 8006 and its HeyGen script that neither Claude's drafting nor ChatGPT's Pre-Publish Audit review caught — ChatGPT's review actually praised the fabricated claim and suggested making it more specific, without ever checking whether it was true. This is a distinct failure mode from `GATE-LEGAL-ACCURACY`/`GATE-LOCAL-ACCURACY`: those gates check whether legal/local statements are accurate, not whether a "this happened to us" claim is real — a fabricated anecdote can be internally consistent and legally uncontroversial while still being false. See `CHANGELOG.md` and `tests/editorial/TEST-EDITORIAL-001.md`.
 
 ### Scored (0–100, minimum threshold to publish)
 
@@ -104,4 +107,4 @@ If a rule doesn't fit one of the documents above and doesn't have an obvious fut
 
 ## Status
 
-This is v0.3 (revised 2026-07-08 to add `GATE-COMPLIANCE-RISK` and fold internal-linking into `GATE-TECHNICAL-SEO`, both prompted by ChatGPT's review of the Thursday Tip skill's output). Validated against two real posts so far (7996, 8006). The scored-category thresholds are still current best guesses, not calibrated numbers.
+This is v0.4 (revised 2026-07-08 to add `GATE-ANECDOTE-INTEGRITY`, prompted by Brian catching a fabricated AEBP anecdote in post 8006 that passed ChatGPT's Pre-Publish Audit review). Earlier the same day, v0.3 added `GATE-COMPLIANCE-RISK` and folded internal-linking into `GATE-TECHNICAL-SEO`, both prompted by ChatGPT's review of the Thursday Tip skill's output. Validated against three real incidents so far (post 7996, post 8006 structural review, post 8006 fabrication catch). The scored-category thresholds are still current best guesses, not calibrated numbers.

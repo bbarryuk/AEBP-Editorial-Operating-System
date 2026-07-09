@@ -110,7 +110,7 @@ A few things are intentionally deferred rather than forgotten:
 - **A glossary** — canonical one-line definitions for recurring terms (Cornerstone, Thursday Tip, WWYD, GEO, EEAT, Confidence Level, Review Gate) so wording doesn't drift across documents. Worth doing once there are enough documents that drift has actually started, not preemptively.
 - **`automation_ready` knowledge metadata** — flagged as a good future field once there's an actual automation step that would read it. Adding a field with undefined semantics now would create more confusion than it resolves.
 
-`/tests` is no longer on this list — it's built and growing (`tests/legal/TEST-LEGAL-001` through `003`, logged from real reviews as they happened). `/reviews` is also now built, following the same "grow from real cases" discipline: most of its files are still placeholders for content types that haven't had a real review yet.
+`/tests` is no longer on this list — it's built and growing (`tests/legal/TEST-LEGAL-001` through `003`, plus a new `tests/editorial/` category started 2026-07-08 with `TEST-EDITORIAL-001` for non-legal content-integrity failures, logged from real reviews and incidents as they happened). `/reviews` is also now built, following the same "grow from real cases" discipline: most of its files are still placeholders for content types that haven't had a real review yet.
 
 ## Editorial standards are gated, not just scored
 

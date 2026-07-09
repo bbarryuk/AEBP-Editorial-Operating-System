@@ -4,6 +4,17 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 
 ## [Unreleased]
 
+### Added — Anecdote Integrity gate, 2026-07-08 (later same day)
+
+Prompted by Brian catching a fabricated first-person AEBP claim in post 8006's "What We See at AEBP" section and its companion HeyGen video script ("We've taken over portfolios where the last 'manager' was never licensed... untangling security deposit trust accounting...") — this never happened. It was invented to satisfy AEBP's standing content framework's requirement for a first-person, brand-specific observation per post. Neither Claude's drafting nor ChatGPT's Pre-Publish Audit review caught it; ChatGPT's review actually suggested making the claim *more* specific and vivid, which would have made the fabrication worse, since specificity was never checked against truthfulness.
+
+- **`docs/02-Evidence-and-Sourcing.md` → v0.2.** Added `EVD-ANECDOTE-INTEGRITY`, qualifying `EVD-SOURCE-HIERARCHY` level 6 ("AEBP documented experience"): a level-6 claim must be confirmed real by Brian, replaced with a sourced general/regulatory fact framed as analysis, or explicitly flagged as hypothetical — never invented. Includes a process note that both AI reviewers should treat "make this more specific/vivid" feedback as a prompt to re-verify truthfulness first, not just comply.
+- **`docs/01-Editorial-Standards.md` → v0.4.** Added `GATE-ANECDOTE-INTEGRITY` as a fifth gated (pass/fail) category, distinct from `GATE-LEGAL-ACCURACY`/`GATE-LOCAL-ACCURACY` — this content contained no incorrect legal statement, so those gates had nothing to flag; the failure mode is a false "this happened to us" claim, not a false legal claim.
+- **`reviews/thursday-tip-review.md` → v0.2.** Tightened `TIP-MICRO-CASE-STUDY`: its original wording ("a situation AEBP actually encountered") was already correct in principle but had no enforcement step, and this exact manifest still passed the fabricated claim in post 8006. Now requires explicit verification with Brian or a stated fallback, and cross-references the new gate.
+- **`skills/thursday-tip.md` updated.** Standards-required section now names `GATE-ANECDOTE-INTEGRITY` explicitly against the micro-case-study drafting step; sync status notes the repo now covers this.
+- **`tests/editorial/` category created** (new — distinct from `tests/legal/`) with `TEST-EDITORIAL-001`, logging the incident: what was fabricated, why both AI reviewers missed it, and why "correct wording without an enforcement mechanism" was the actual root cause.
+- **Not yet done:** `docs/04-Brand-Voice.md` still doesn't exist; the "we, never I" HeyGen rule and any future first-person-voice rules will eventually belong there, separate from the truthfulness question this round addresses.
+
 ### Added — Review Framework, 2026-07-08
 
 Prompted by ChatGPT reviewing the Thursday Tip post (8006) entirely outside this repo's framework, then proposing a "Review Mode" concept and a `/reviews` folder of per-content-type manifests once shown Claude's pushback on the rest of its proposal. Full exchange logged in `docs/03-Review-Format.md`, "Round two, 2026-07-08."

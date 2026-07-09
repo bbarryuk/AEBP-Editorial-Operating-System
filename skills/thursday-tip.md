@@ -2,7 +2,7 @@
 skill_name: aebp-thursday-tip
 implementation: Claude skill, packaged and installed in Cowork
 sync_status: PARTIALLY WIRED — see note at bottom
-last_synced: 2026-07-07
+last_synced: 2026-07-08
 ---
 
 # Skill: Thursday Tip
@@ -24,7 +24,7 @@ That week's published cornerstone blog post (prerequisite — this skill doesn't
 
 ## Standards required
 
-- `docs/01-Editorial-Standards.md` — evidence standard and confidence levels apply directly to the micro-case-study (real figures or clearly hypothetical, never fabricated as a specific client story)
+- `docs/01-Editorial-Standards.md` — evidence standard and confidence levels apply directly to the micro-case-study (real figures or clearly hypothetical, never fabricated as a specific client story). Specifically `GATE-ANECDOTE-INTEGRITY` — before drafting the "AEBP observation" this skill's Step 1 requires, confirm a real example exists (ask Brian) or fall back to a sourced general fact / explicitly-flagged hypothetical instead. Added 2026-07-08 after this exact skill produced a fabricated anecdote in post 8006 and its HeyGen script; see `docs/02-Evidence-and-Sourcing.md`'s `EVD-ANECDOTE-INTEGRITY` and `tests/editorial/TEST-EDITORIAL-001.md`.
 - `docs/02-Brand-Voice.md` — not yet written; HeyGen script "we," never "I," is a brand-voice rule currently living only in the skill
 
 ## Documents referenced
@@ -34,6 +34,6 @@ That week's published cornerstone blog post (prerequisite — this skill doesn't
 
 ## Sync status: partially wired (as of 2026-07-07)
 
-**Now reads from this repo:** `knowledge/company/overview.md` for facts used in the micro-case-study, and `docs/02-Evidence-and-Sourcing.md`, and `docs/01-Editorial-Standards.md`'s `GATE-LEGAL-ACCURACY` for the Evidence Standard, Confidence Levels, and the pass/fail Legal Accuracy gate — with an inline fallback if the repo isn't connected that session.
+**Now reads from this repo:** `knowledge/company/overview.md` for facts used in the micro-case-study, and `docs/02-Evidence-and-Sourcing.md`, and `docs/01-Editorial-Standards.md`'s `GATE-LEGAL-ACCURACY` for the Evidence Standard, Confidence Levels, and the pass/fail Legal Accuracy gate — with an inline fallback if the repo isn't connected that session. As of 2026-07-08, also `GATE-ANECDOTE-INTEGRITY` / `EVD-ANECDOTE-INTEGRITY` — the micro-case-study step must not proceed with an invented "we've done X" claim.
 
 **Still inline, not yet migrated:** the tag whitelist, HeyGen script structure and "we, never I" rule, Adobe Express/Mailchimp mechanics. The tag whitelist should move to `knowledge/website/tags.md` once that file exists; the brand-voice rules belong in `docs/02-Brand-Voice.md` once it's written.
