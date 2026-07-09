@@ -1,14 +1,14 @@
 ---
 title: Review Format
 doc_type: normative
-version: 0.1 (Working Draft)
-status: drafted, informed by one real review (post 7938) and ChatGPT's critique of that review
+version: 0.2 (Working Draft)
+status: drafted, informed by two real reviews (post 7938, post 8006) and two rounds of ChatGPT critique
 owner: Brian
-last_updated: 2026-07-07
+last_updated: 2026-07-08
 purpose: Defines how an editorial review is classified, structured, and written up — so two different reviewers (Claude, ChatGPT, or a human) produce comparable output.
 used_by: [Claude, ChatGPT, human reviewer]
 depends_on: [docs/01-Editorial-Standards.md, docs/02-Evidence-and-Sourcing.md]
-referenced_by: []
+referenced_by: [reviews/*.md]
 ---
 
 # Document 03 — Review Format
@@ -30,6 +30,8 @@ Every failed gate or flagged issue gets one of three types. The type determines 
 | **Type C — System Gap** | The reviewer can't fully evaluate the claim because the Operating System itself has no reference material for it — no `/knowledge` file to check against, no rule covering this scenario. | Build the missing reference material (new `/knowledge` doc, new rule, new `/tests` case) — independent of whatever happens to the post. |
 
 A single finding can be more than one type. Post 7938's rent-cap claims were Type B (no citation in the post) *and* Type C (no `knowledge/laws/rent-caps.md` existed for the reviewer to check the number against) at the same time — fixing the citation didn't fix the system gap, and vice versa. Log both.
+
+**Why this document does not add separate "Accuracy" and "Evidence" gates.** ChatGPT's second-round proposal (2026-07-08) suggested splitting accuracy and evidence into two distinct review gates. Not adopted, for the same reason a claim can be both Type A and Type B at once: a single finding routinely needs both tags simultaneously, and a gate structure forces it into one bucket or the other. `FIND-TYPE` already carries this distinction per-finding rather than per-category — extend the type system if a new distinction is needed, rather than adding a parallel gate that can disagree with it.
 
 ## FIND-SEVERITY — Why this document does not add a separate severity scale
 
@@ -74,38 +76,12 @@ Every review ends with two distinct lists, not one merged one:
 
 Keeping these separate is what prevents the mistake the first review nearly made: treating "fix the article" and "fix the system" as the same task with the same urgency, when they usually aren't.
 
-## Review template
+## REVIEW-MODE — Which review is being requested
 
-```
-# Editorial Review — Post [ID]
-**[Title]**
-Published [date] · Reviewed [date] against docs/01 vX.X + docs/02 vX.X + docs/03 vX.X
-Reviewer: [Claude/ChatGPT/human]
+Added 2026-07-08, proposed by ChatGPT after reviewing a Thursday Tip post outside this framework entirely — a useful failure, since it showed that "review this post" is ambiguous about *what* gets checked. Three modes:
 
-## Gated categories (pass/fail)
-### GATE-[ID] — PASS/FAIL
-[If FAIL, use FIND-STRUCTURE format with FIND-TYPE tagged]
-
-## Scored categories
-[Use FIND-SCORING format per category]
-
-## Strengths Worth Preserving
-[FIND-STRENGTHS]
-
-## Article fixes
-[Scoped to this post]
-
-## Operating System improvements
-[Scoped to the repo]
-
-## Recommendation
-[Publish as-is / hold pending fixes / unpublish]
-```
-
-## Where this diverges from the ChatGPT critique
-
-ChatGPT's review-of-the-review recommended: Type A/B/C classification (adopted, above), a Critical/Major/Minor severity scale (not adopted — see FIND-SEVERITY), root-cause analysis format (adopted, above), separated fix lists (adopted, above), structured qualitative scoring instead of bare numbers (adopted as a presentation layer, not a replacement for the numeric scale — see FIND-SCORING), and a Strengths Worth Preserving section (adopted, above). The one substantive disagreement is the severity scale; everything else is adopted close to as proposed.
-
-## Status
-
-v0.1 — informed by exactly one real review (post 7938) plus one round of ChatGPT critique. Re-run `TEST-LEGAL-001` (see `/tests/legal/`) against this format once a second real review happens, to confirm the structure holds up rather than just fitting the one case that prompted it.
+| Mode | Includes | Excludes | Use when |
+|---|---|---|---|
+| **Editorial Review** | `SCORE-READABILITY`, brand voice (once `docs/04-Brand-Voice.md` exists), prose-level flow/engagement notes | All `GATE-*`, `SCORE-SEO`, `SCORE-GEO`, `SCORE-CONVERSION`, `GATE-COMPLIANCE-RISK` | A quick gut-check on prose quality mid-draft, before the piece is otherwise finished |
+| **QA Review** | All `GATE-*` and all `SCORE-*` from `docs/01`, plus the content type's manifest in `/reviews` if one exists | Freeform commentary not tied to a defined category | Confirming a finished draft meets the Operating System's defined bar |
+| **Pr

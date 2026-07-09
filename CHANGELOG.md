@@ -4,6 +4,17 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 
 ## [Unreleased]
 
+### Added — Review Framework, 2026-07-08
+
+Prompted by ChatGPT reviewing the Thursday Tip post (8006) entirely outside this repo's framework, then proposing a "Review Mode" concept and a `/reviews` folder of per-content-type manifests once shown Claude's pushback on the rest of its proposal. Full exchange logged in `docs/03-Review-Format.md`, "Round two, 2026-07-08."
+
+- **`docs/01-Editorial-Standards.md` → v0.3.** Added `GATE-COMPLIANCE-RISK` (content must stay in general education, not cross into individualized legal advice) as a fourth gated category — the one genuinely missing check in ChatGPT's original 10-gate proposal. Folded an internal-linking requirement into the existing `GATE-TECHNICAL-SEO` rather than adding a fifth gate, since it's a mechanical presence check, not a distinct evaluative judgment.
+- **`docs/03-Review-Format.md` → v0.2.** Added `REVIEW-MODE` (Editorial Review / QA Review / Pre-Publish Audit), so a bare "review this post" request has a stated, unambiguous scope — this is the one piece of ChatGPT's proposal that changes how reviewers engage with the framework rather than changing the framework itself, and it's a direct fix for the ambiguity that let post 8006 get an off-framework review in the first place. Also added a short note under `FIND-TYPE` explaining why this document doesn't add separate Accuracy/Evidence gates: a single finding routinely needs both `FIND-TYPE` tags at once, which a two-gate split can't represent without forcing a choice.
+- **Explicitly not adopted, again:** ChatGPT's proposal to replace `docs/01`'s gate/score split with a universal 10-gate pass/fail rubric. Two of the ten gates (`GEO/AI Optimization`, `Editorial`) would have converted `SCORE-GEO` and `SCORE-READABILITY` — categories `docs/01` deliberately scores 0–100 because they're genuinely gradient — into binary pass/fail. Same shape of mistake as the Critical/Major/Minor severity scale from the first review round, and not adopted for the same reason. ChatGPT reviewed this pushback and revised its own recommendation before this was implemented; see `docs/03-Review-Format.md` for its updated six-point summary.
+- **`/reviews` folder created** — `monday-cornerstone-review.md` and `thursday-tip-review.md` built as full manifests, each validated against one real post (7996 and 8006 respectively) and explicitly extending `docs/01`'s gates/scores rather than replacing them. `wwyd-review.md`, `social-review.md`, `email-review.md`, `video-review.md`, `schema-review.md` created as placeholders per this repo's "build from real cases, not invented ones" discipline — `video-review.md` already carries one real validated rule (`VIDEO-TRANSCRIPT-LITERAL`, from the 2026-07-07 incident) even though a full video review hasn't happened yet.
+- **New system gap surfaced, not yet resolved:** the Thursday Tip manifest's `TIP-EXTRACTABLE-STRUCTURE` and `TIP-FRESHNESS-JUSTIFIED` checks come from Brian's standing AEBP content framework (answer-first structure, justified freshness claims), which applies site-wide but isn't yet captured anywhere in `docs/01`. Logged in the manifest as a Type C follow-up rather than fixed in this pass — worth promoting to `docs/01` directly once validated against more than one content type.
+- **Deferred, on purpose:** ChatGPT's proposal for machine-readable review output that Claude could act on automatically. This would preempt the "prove the manual process before automating" principle all three parties already agreed to (see `README.md` versioning section) — not revisited until the manual Review Mode / manifest process has actually been used a few more times.
+
 ### Added — first real end-to-end workflow test, 2026-07-07 night
 - **WordPress post 7996** (draft, "East Bay Rent Cap Update: New 2026–2027 Increase Limits for AB 1482, Oakland, Berkeley & Richmond") drafted by Claude directly from `docs/01`–`03` and `knowledge/laws/rent-caps.md`, then reviewed by ChatGPT against the same three documents using the `docs/03` review template. This is the first time the intended Claude-drafts / ChatGPT-reviews loop actually ran end to end rather than being designed on paper.
 - ChatGPT's review caught two real Type A content errors Claude's own drafting missed: (1) the draft used "notice served/dated before the effective date" as the trigger for which rate applies, when the actual rule under Civil Code §1947.12 is the rent increase's own effective date — a notice served before a rate-change date can still use the new rate if the increase itself takes effect after that date and required notice periods are met; (2) the draft described Oakland's Business Tax Certificate requirement as a flat requirement, when Oakland's own page allows a payment-plan alternative for CPI-only increases (banked increases still require the certificate specifically, no alternative). Both were independently re-verified against primary sources (a legal search summary + Oakland's own page, respectively) before being applied — not just taken on the reviewer's word — per this repo's own `EVD-CITATION-REQUIREMENT` standard. Both fixes applied to post 7996, plus a "covered units only" footnote added to the Key Facts table and missing Yoast SEO metadata (title/meta description/focus keyphrase) set, both also flagged by the review.
@@ -48,32 +59,4 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 - `/tests` folder and example test cases — format is documented in README, but no files created; should grow from real review cases, not invented ones.
 - Glossary — deferred until documents actually show definitional drift.
 - `automation_ready` field — deferred until an automation step exists that would consume it.
-- `docs/02-Evidence-and-Sourcing.md` — split out of `docs/01` §5–6 per ChatGPT's review. Adds `EVD-SOURCE-HIERARCHY` (8-level evidence priority), `EVD-CURRENCY-CHECK`, `EVD-UNCERTAINTY-HANDLING`, and `EVD-BLOCK-PENDING-VERIFICATION` — none of which existed before this pass.
-- Mnemonic rule IDs across `docs/01` and `docs/02` (`STD-*`, `GATE-*`, `SCORE-*`, `EVD-*`) — deliberately non-sequential slugs rather than numbers, so inserting a new rule later doesn't require renumbering anything that cites an existing one.
-- `STD-OUT-OF-SCOPE` section in `docs/01` — names what this doc does NOT cover and where that content belongs instead, to keep the standards doc from growing indefinitely.
-- Dependency frontmatter (`purpose`/`used_by`/`depends_on`/`referenced_by`) on `docs/01` and `docs/02`.
-- Extended knowledge frontmatter schema (`review_frequency`, `authority`, `confidence`, `review_method`) — applied to `knowledge/company/overview.md`, documented in `README.md`.
-- `LICENSE.md` — CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives). Brian's decision: repo stays public for transparency/AI access, but competitors can't legally reuse or adapt the editorial methodology. Applies to content (`docs/`, `knowledge/`, `templates/`, `prompts/`, `skills/`); any future code in `automation/` will need its own license note.
-
-### Changed
-- All three `skills/*.md` manifests updated from `NOT YET WIRED` to `PARTIALLY WIRED` — the installed Cowork skills (`aebp-monday-cornerstone`, `aebp-thursday-tip`, `aebp-wwyd-social`) now read `knowledge/company/overview.md` and `docs/01-Editorial-Standards.md` (Evidence Standard, Confidence Levels, gated-vs-scored standards gate) at draft time, with an explicit inline fallback if this repo folder isn't connected in a given session. Post/scenario structure and tool-specific mechanics remain inline pending `templates/` and `docs/02+`.
-
-## [0.1.0] — 2026-07-07
-
-Initial foundation, built by Claude in Cowork per the plan worked out between Brian, Claude, and ChatGPT.
-
-### Added
-- `README.md` — vision, architecture, folder map, versioning philosophy, how Claude and ChatGPT should each use the repo
-- `docs/01-Editorial-Standards.md` (v0.1) — editorial philosophy, audience, evidence standard, confidence levels, gated vs. scored review categories with draft minimum thresholds
-- `knowledge/company/overview.md` — verified AEBP company facts, fees, service area, sourced from `llms.txt`, with `last_verified`/`next_review` metadata
-- `knowledge/llms.txt` — point-in-time mirror of `alleastbayproperties.com/llms.txt` (fetched 2026-07-07) for offline/automation reference
-- `skills/monday-cornerstone.md`, `skills/thursday-tip.md`, `skills/wwyd-social.md` — manifests for the three Claude skills already installed in Cowork, documenting purpose, inputs, outputs, and which standards/knowledge docs each depends on
-
-### Known gaps (not yet built)
-- `docs/02-Brand-Voice.md` and everything after it (Legal Accuracy, SEO/GEO, Content Structure, Conversion, WordPress, Scoring Rubric, Automation)
-- `templates/`, `automation/` folders — intentionally empty; automation comes after the process is validated by hand
-- The three installed Claude skills still encode standards inline rather than reading from `docs/` and `knowledge/` — this repo currently documents that gap rather than closing it (see `sync_status` in each `skills/*.md` manifest)
-- No test yet against a real post — v0.1 status on the standards doc means exactly that: drafted, unvalidated
-
-### Notes
-- Repo is public on GitHub (`bbarryuk/AEBP-Editorial-Operating-System`), cloned locally into a OneDrive-synced folder. Git's own file-locking has shown friction with OneDrive's sync engine (a stale `.git/index.lock` couldn't be removed from within Cowork) — worth keeping an eye on, or moving the working clone outside OneDrive sync if it recurs.
+- `docs/02-Evidence-and-Sourcing.md` — split out of `docs/01` §5–6 per ChatGPT's review. Adds `EVD-SOURCE-HIERARCHY` (8-level evidence priority), `EVD-CURRENCY-CHECK`, `EVD-UNCERTAINTY-HANDLING`, and `EVD-BLOCK-PENDING-VERIFICATION` — none of w

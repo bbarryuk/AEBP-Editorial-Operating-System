@@ -36,13 +36,22 @@ AEBP-Editorial-Operating-System/
 ├── docs/                  — BEHAVIOR: how to do things. Changes rarely.
 │   ├── 01-Editorial-Standards.md
 │   ├── 02-Evidence-and-Sourcing.md
-│   └── 03-Brand-Voice.md              (coming next)
+│   ├── 03-Review-Format.md
+│   └── 04-Brand-Voice.md              (coming next)
 │
 ├── knowledge/              — FACTS: what is true right now. Changes often.
 │   ├── company/
 │   │   └── overview.md     — company facts, fees, service areas, credentials
+│   ├── laws/                — rent caps, notice timing, and other verified legal reference
 │   └── llms.txt             — verbatim mirror of alleastbayproperties.com/llms.txt
 │
+├── reviews/                 — content-type-specific review manifests that EXTEND docs/01,
+│                              never replace it. One file per content type (cornerstone,
+│                              thursday-tip, wwyd, social, email, video, schema). Built from
+│                              real reviews as they happen, not invented in advance — most
+│                              of these currently exist as placeholders for that reason.
+│
+├── tests/                   — editorial regression suite: real cases logged from real reviews
 ├── templates/              — (coming later) per-content-type structural templates
 ├── automation/              — (coming later) API workflows, JSON schemas, prompt chains
 └── skills/                  — manifests describing each Claude skill: purpose, inputs,
@@ -98,16 +107,19 @@ Keeping these distinct matters once the repo has more documents: a reviewer (hum
 
 A few things are intentionally deferred rather than forgotten:
 
-- **`/tests`** — an editorial regression suite: small excerpts of intentionally flawed content, the rule IDs they should trigger, and the expected verdict (e.g., a claim like "landlords must always professionally clean carpets" should fail `GATE-LEGAL-ACCURACY` and `EVD-SOURCE-HIERARCHY` for asserting a requirement with no cited authority). The point is to catch a future revision of the standards quietly becoming *less* strict. Not building this yet — it should grow organically from real cases encountered during review, not from invented examples.
 - **A glossary** — canonical one-line definitions for recurring terms (Cornerstone, Thursday Tip, WWYD, GEO, EEAT, Confidence Level, Review Gate) so wording doesn't drift across documents. Worth doing once there are enough documents that drift has actually started, not preemptively.
 - **`automation_ready` knowledge metadata** — flagged as a good future field once there's an actual automation step that would read it. Adding a field with undefined semantics now would create more confusion than it resolves.
+
+`/tests` is no longer on this list — it's built and growing (`tests/legal/TEST-LEGAL-001` through `003`, logged from real reviews as they happened). `/reviews` is also now built, following the same "grow from real cases" discipline: most of its files are still placeholders for content types that haven't had a real review yet.
 
 ## Editorial standards are gated, not just scored
 
 `docs/01-Editorial-Standards.md` splits review categories into two kinds:
 
-- **Gated (pass/fail).** Legal Accuracy, Local Accuracy, Technical SEO/WordPress structure. These don't get a percentage — a legal claim is either sourced and correct, or it isn't. No partial credit.
+- **Gated (pass/fail).** Legal Accuracy, Local Accuracy, Technical SEO/WordPress structure (including internal linking), Compliance Risk. These don't get a percentage — a legal claim is either sourced and correct, or it isn't. No partial credit.
 - **Scored (0–100, with a minimum publish threshold).** SEO, GEO/AI Readiness, EEAT, Readability, Conversion. These are genuinely matters of degree, and a rubric adds real signal.
+
+This split has been proposed for replacement twice now — once as a Critical/Major/Minor severity scale, once as a universal 10-gate pass/fail rubric — and held both times. See `docs/03-Review-Format.md`, "Round two, 2026-07-08," for the reasoning.
 
 ## Versioning
 
@@ -120,11 +132,4 @@ v1.0  — validated across ~25 real posts, stable
 v2.0  — automation: Claude API + ChatGPT API + GitHub-PR publishing pipeline
 ```
 
-We are not building the v2.0 automation pipeline yet. The process gets validated by hand first; automation should only ever execute a process that's already been proven, not stand in for figuring the process out.
-
-## Adding a new document
-
-1. Decide: is this behavior (`docs/`) or fact (`knowledge/`)? If it's a fact, add YAML frontmatter with an honest `next_review` date.
-2. Keep it focused — roughly 1,500–3,000 words. Smaller, single-purpose documents are easier for both AIs to load and easier for Brian to maintain than one large manual.
-3. If it changes how a Claude skill should behave, update that skill's manifest in `/skills` so the dependency is visible, and flag to Brian that the actual Cowork skill may need updating too (this repo doesn't automatically change what's installed in Cowork).
-4. Tag a version in `CHANGELOG.md` once the document has actually been used on real content, not before.
+We are not building the v2.0 automation pipeline yet. The process gets validated by hand first; automation should only eve

@@ -1,14 +1,14 @@
 ---
 title: Editorial Standards
 doc_type: normative
-version: 0.2 (Working Draft)
-status: drafted, not yet validated against real posts
+version: 0.3 (Working Draft)
+status: drafted, validated against two real reviews (post 7996 Monday Cornerstone, post 8006 Thursday Tip)
 owner: Brian
-last_updated: 2026-07-07
+last_updated: 2026-07-08
 purpose: Defines the editorial philosophy, audience, principles, and publish-readiness gates for all AEBP educational content.
 used_by: [Claude, ChatGPT, human reviewer]
 depends_on: [docs/02-Evidence-and-Sourcing.md]
-referenced_by: [docs/03-Review-Format.md, skills/monday-cornerstone.md, skills/thursday-tip.md, skills/wwyd-social.md]
+referenced_by: [docs/03-Review-Format.md, reviews/*.md, skills/monday-cornerstone.md, skills/thursday-tip.md, skills/wwyd-social.md]
 ---
 
 # Document 01 — Editorial Standards
@@ -65,9 +65,12 @@ Categories split into two kinds, deliberately. A legal claim is either sourced a
 |---|---|---|
 | GATE-LEGAL-ACCURACY | Legal Accuracy | Every legal claim verified per `docs/02-Evidence-and-Sourcing.md`, confidence level labeled, nothing blocked per `EVD-BLOCK-PENDING-VERIFICATION` |
 | GATE-LOCAL-ACCURACY | Local Accuracy | Local ordinance details verified against current source (`/knowledge`), city-specific examples used where relevant |
-| GATE-TECHNICAL-SEO | Technical SEO / WordPress | Valid Gutenberg blocks (no classic/HTML dump), schema present where applicable, meta fields set |
+| GATE-TECHNICAL-SEO | Technical SEO / WordPress | Valid Gutenberg blocks (no classic/HTML dump), schema present where applicable, meta fields set, and required internal links present (at minimum: a link to the jurisdiction-specific deep-dive guide when this post only summarizes it, and a link to `/lets-talk/` or another live conversion path) |
+| GATE-COMPLIANCE-RISK | Compliance Risk | Content stays in general education and doesn't cross into individualized legal advice — no telling a specific reader what they personally must do, no "your situation requires X," no answering as if the reader's facts are known. General statements of what the law requires, framed per `STD-HONEST`, are not advice; a direct instruction addressed to "you" about a hypothetical reader's specific facts is. |
 
 A gated category that fails blocks publication outright, regardless of how well the article scores elsewhere.
+
+`GATE-COMPLIANCE-RISK` added 2026-07-08, prompted by ChatGPT flagging it as a gap in its review of the Thursday Tip skill's output — see `CHANGELOG.md`. Internal-linking requirement folded into `GATE-TECHNICAL-SEO` the same day rather than made a fifth gate, since it's a mechanical presence check rather than a distinct evaluative judgment.
 
 ### Scored (0–100, minimum threshold to publish)
 
@@ -91,14 +94,4 @@ The measure of success is not whether an article ranks. It's whether a landlord 
 This document does **not** define:
 
 - Evidence, sourcing, or citation rules — `docs/02-Evidence-and-Sourcing.md`
-- How a review is structured, classified, and written up — `docs/03-Review-Format.md`
-- Brand voice, tone specifics, or the "we, never I" HeyGen rule — `docs/04-Brand-Voice.md` (not yet written)
-- SEO/GEO tactical implementation (keyword research, schema specifics) — a future SEO/GEO document, not yet written
-- WordPress publishing mechanics (Gutenberg block conventions, tag whitelist, image generation) — currently owned by the individual Claude skills; may migrate to `templates/` or an automation doc later
-- Post/scenario structure templates (In Short box order, Hook→Tension→Decision→Insight→CTA framework) — belongs in `templates/`, not yet written
-
-If a rule doesn't fit one of the documents above and doesn't have an obvious future home, that's a signal it may not belong in the Editorial Operating System at all — see the versioning discipline in the root `README.md`.
-
-## Status
-
-This is v0.2 (revised 2026-07-07 to extract `docs/02-Evidence-and-Sourcing.md`) — still not tested against a real post. The scored-category thresholds in particular are current best guesses, not calibrated numbers.
+- How a review is structured, classified, and written up — `docs/03-Review-F
