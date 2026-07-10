@@ -39,6 +39,10 @@ Address: 2324 Powell St., Emeryville, CA 94608. Main office: 510-450-3800. Maint
 - Multi-unit/larger portfolios: negotiable
 - No setup or onboarding fees, no cancellation fees, no maintenance markup, no other hidden fees — 100% transparent fee structure
 
+## Nonresident owner tax withholding
+
+Per California Revenue and Taxation Code §18662 and FTB Publication 1017: AEBP withholds 7% on rental income for owners who aren't California residents, once payments exceed $1,500/year. The withholding is calculated on rent **net of the AEBP management fee** (FTB guidance permits the manager to deduct its fee before calculating withholding), not on gross rent. Example confirmed by Brian 2026-07-09: $3,400 rent, 7.5% fee ($255) → $3,145 withholding base → $220.15 withheld. Remitted to the FTB on the FTB's required payment schedule (quarterly-ish but not calendar quarters — due dates are Apr 15 / Jun 15 / Sep 15 / Jan 15). Owners can avoid withholding via FTB Form 590 (CA resident) or a waiver (Form 588); AEBP collects a W-9 as part of intake to help request a waiver, but the waiver itself is granted by the FTB, not by AEBP.
+
 ## Service area
 
 Primary counties: Alameda, Contra Costa. Cities: Oakland, Berkeley, Emeryville, Richmond, Albany, El Cerrito, Alameda City, Hercules, Pinole, El Sobrante.
