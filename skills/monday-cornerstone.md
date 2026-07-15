@@ -2,14 +2,14 @@
 skill_name: aebp-monday-cornerstone
 implementation: Claude skill, packaged and installed in Cowork
 sync_status: PARTIALLY WIRED — see note at bottom
-last_synced: 2026-07-07
+last_synced: 2026-07-14
 ---
 
 # Skill: Monday Cornerstone
 
 ## Purpose
 
-Builds the week's main blog post, its companion video page, and the Google Business Profile post — the anchor content everything else that week (WWYD social, Thursday Tip) links back to.
+Builds the week's main blog post, its companion video page, the Google Business Profile post, and — as of 2026-07-14 — the cornerstone video's social distribution. This is the anchor content everything else that week (Thursday Tip) links back to. WWYD's Tuesday/Wednesday social slot was discontinued 2026-07-14 (underperforming per Brian's own FB/IG analytics review); Monday's social step below replaces it rather than adding to it — the goal is two solid weekly social touchpoints (Monday + Thursday), not three mediocre ones.
 
 ## Inputs
 
@@ -19,7 +19,17 @@ Week's assigned topic from the content calendar. AEBP-specific angle/observation
 
 - WordPress blog post (native Gutenberg blocks), with In Short box, Key Facts box, AEBP-specific section, comparison table where applicable, FAQ (5 questions), hero image
 - Companion video page (custom `video` post type, category "Compliance & Legal")
-- GBP post (published directly via the `gbp` MCP connector)
+- GBP post (published directly via the `gbp` MCP connector — though as of 2026-07-13 this is blocked by a `SERVICE_DISABLED` API error at the GCP project level; see `aebp-content-connector-gaps` memory, deliver copy as a fallback until Brian re-enables it)
+- **Social distribution of the cornerstone video** (new step — see below)
+
+## Step — Monday social distribution (added 2026-07-14)
+
+Once the cornerstone video is rendered and uploaded to YouTube (same HeyGen pipeline WWYD used — see `reviews/video-review.md` for the render/transcript-literalness rules, they still apply), post it to social with a link back to the main blog post — not the video page — since the blog is the piece meant to rank and convert.
+
+- **Facebook / Instagram — post live via the Meta MCP** (confirmed connected and authenticated 2026-07-14, `meta_health_check` passing). Use `meta_create_video_post` / `meta_publish_instagram_reel` as appropriate. **Confirm with Brian before the first live post of the week** — unlike WordPress drafts, a Meta post goes live immediately with no draft state, so this isn't a "draft and let Brian flip a status later" situation the way blog/video posts are.
+- **LinkedIn / X / Nextdoor** — no connected posting MCP as of 2026-07-14; deliver copy for Brian to post manually, same as WWYD did for these platforms.
+- **Copy structure:** short hook pulled from the video's own opening line, 2-3 sentences on what the post covers, link to the blog post (with UTM: `utm_source=<platform>&utm_medium=social&utm_campaign=<week>-cornerstone&utm_content=monday-video`). Link placement follows the same rule WWYD used — first comment on FB/IG/LinkedIn (caption links get reach-penalized), inline on X/Nextdoor.
+- **Hashtags:** reuse WWYD's Wednesday counts as the working default (Instagram 10–14, Facebook 5–8, LinkedIn 4–6, X 3–4, Nextdoor none) until a Monday-specific pattern is validated over a few weeks.
 
 ## Standards required
 
