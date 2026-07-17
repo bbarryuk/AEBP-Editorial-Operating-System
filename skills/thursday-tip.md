@@ -20,7 +20,7 @@ That week's published cornerstone blog post (prerequisite — this skill doesn't
 - WordPress draft post (native Gutenberg blocks): hook/rule/consequence, AEBP micro-case-study, pull quote, action steps, takeaway, link back to the cornerstone post
 - Mailchimp email HTML (delivered as a file for manual paste — the connected Mailchimp MCP can't create campaign drafts directly)
 - HeyGen video script (locked avatar/voice/format specs)
-- Social posts for 5 platforms, graphic + video versions
+- Social posts for 5 platforms, graphic + video versions — **see `docs/04-Social-Publishing.md` for current connector status.** As of 2026-07-14, Facebook/Instagram and X can be posted live (Meta MCP and `x-write` respectively — X is text-only, no media upload tool yet); LinkedIn isn't connected yet, Nextdoor stays copy-only. Same rule as everywhere else these connectors are used: confirm the specific post with Brian before calling a live-posting tool, every time — these publish immediately with no draft state.
 
 ## Standards required
 

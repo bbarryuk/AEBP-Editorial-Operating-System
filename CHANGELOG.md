@@ -4,6 +4,13 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 
 ## [Unreleased]
 
+### Added — X (Twitter) live posting confirmed, new docs/04-Social-Publishing.md, 2026-07-14 (later same day)
+
+Brian connected a new `x-write` MCP after the read-only X connector checked earlier the same day turned out to have no posting/upload tools at all. Confirmed working by Brian directly. `post_to_x` exists (plus reply/quote/repost/delete) but **there is no media/video upload tool exposed** — `post_to_x` accepts an optional `media_ids` array, but nothing currently produces a `media_id`, so X posting is text-only until that gap closes.
+
+- **New `docs/04-Social-Publishing.md`** — single source of truth for platform connector status (Meta live since 2026-07-13, X live text-only since 2026-07-14, LinkedIn not yet connected, Nextdoor permanently copy-only) and the one governance rule that applies to all of them: every live-posting tool publishes immediately with no draft state, so Brian's explicit go-ahead is required before each individual post, not just once when a connector is set up. Both `skills/monday-cornerstone.md` (Step 8) and `skills/thursday-tip.md` (social posts output) now point here instead of duplicating connector mechanics inline — avoids the two files drifting out of sync the way the video/blog content itself did earlier this month.
+- **Also fixed:** `skills/monday-cornerstone.md` was rebuilt in full during this same work — it turned out only the packaged Cowork `.skill` file had received the earlier Steps 6-9 rewrite (video page, GBP, verification), not this repo file. They're back in sync now.
+
 ### Changed — Tue/Wed WWYD retired, Monday cornerstone gets social distribution, 2026-07-14
 
 Brian connected a Meta MCP (Facebook/Instagram, confirmed live via `meta_health_check`) and used it to review his own FB/IG performance data. Conclusion: Tuesday/Wednesday WWYD content — despite the real production investment made the day before (Step 4 video pipeline, HeyGen render, YouTube upload) — was underperforming relative to the rest of the weekly cadence. Decision: drop WWYD entirely rather than keep iterating, and move social distribution to Monday instead, attached to the cornerstone post/video that already exists that week. Net effect: two solid weekly social touchpoints (Monday, Thursday) instead of three inconsistent ones (Monday GBP, Tue/Wed WWYD, Thursday).
