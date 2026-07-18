@@ -62,9 +62,66 @@ Caught this time by the same AI that drafted it, on a structured re-read against
 
 `GATE-ANECDOTE-INTEGRITY` should **FAIL** as originally drafted. After the fix (2026-07-18): both passages reverted to only the Brian-confirmed claims (deposit-holding norm, the §1962(c) welcome letter practice), with the invented specifics removed rather than softened-but-kept. Now **PASS**. No new knowledge file needed here — the fix is behavioral (a stricter self-check pass), not a missing reference document.
 
+## Finding 3 — "Promptly" presented as if §10145 set a deadline
+
+### Excerpt
+
+Multiple locations across post 8342 and video 8344 stated that an outgoing broker "must... disburse it **promptly**" per Business & Professions Code §10145.
+
+### Rule IDs triggered
+
+- `GATE-LEGAL-ACCURACY` — **FAIL as originally drafted** (Type A, Content Error). §10145's actual text requires funds be "maintained there until disbursed by the broker in accordance with instructions from the person entitled to the funds" — no deadline word appears in the statute. "Promptly" was an editorial gloss that got typed next to a citation and read, on a fast pass, as if it were part of the cited rule.
+
+### Why this one is instructive
+
+This is a narrower version of Finding 1's lesson, caught by a second reviewer (ChatGPT) rather than self-caught: even after Finding 1's fix correctly re-sourced the deposit-handoff claim to §10145, a stray adjective smuggled an unsupported specificity claim back in. A citation being *correct* (the right statute, the right scenario) doesn't mean every word next to it is also sourced — each factual assertion attached to a citation needs its own check, not just the citation itself.
+
+### Expected verdict
+
+`GATE-LEGAL-ACCURACY` should **FAIL** as originally drafted. After the fix (2026-07-18): all "promptly" language removed from both posts' deposit-handoff claims (Key Facts table, FAQ 4, video body copy, video Key Takeaways, both video script copies), replaced with "in accordance with the owner's instructions" and an explicit note that the statute sets no deadline. Now **PASS**.
+
+## Finding 4 — Deposit-amount disclosure presented as part of a §1962 statutory requirement
+
+### Excerpt
+
+Step 2's "From our files" paragraph originally read: "...new payment instructions, **the security deposit amount and who's holding it**, and who's authorized to receive legal notices for the owner. **It's the same disclosure the law requires**..." — grouping an AEBP-only practice (disclosing the deposit amount on the welcome letter) with the two disclosures §1962(a) actually requires, then asserting the whole group is legally required.
+
+### Rule IDs triggered
+
+- `GATE-LEGAL-ACCURACY` — **FAIL as originally drafted** (Type A, Content Error). Confirmed against `knowledge/laws/change-of-manager-notice.md`: §1962(a) requires disclosure of the manager's contact info, rent payment instructions, and the authorized-notice contact — it does not require disclosing the security deposit amount. That disclosure is real and good practice (confirmed by Brian, backed by the actual welcome-letter PDF reviewed this session), but it's AEBP's own added practice, not a statutory element.
+- `EVD-CONFIDENCE-LEVELS` — the paragraph collapsed a Level 1 claim (required by law) and what should have been a "Company policy" or "Strongly recommended best practice" claim into one undifferentiated sentence.
+
+### Why this one is instructive
+
+This is a labeling failure, not a fabrication — every individual fact was true (AEBP does disclose the deposit amount on day one; §1962 does require the other two items). The error was in the connecting sentence asserting they're all "the same disclosure the law requires," which took a true AEBP practice and dressed it in false legal authority. This is the mirror image of Finding 1: there, a real rule got the wrong citation; here, a real (uncited-and-correctly-so) AEBP practice got attributed to a citation that doesn't cover it.
+
+### Expected verdict
+
+`GATE-LEGAL-ACCURACY` should **FAIL** as originally drafted. After the fix (2026-07-18): the paragraph now explicitly separates what §1962 requires from what AEBP adds as its own practice. Now **PASS**.
+
+## Finding 5 — Local ordinance claims (Oakland/Berkeley) still sourced from WebSearch summary, not primary fetch
+
+### Excerpt
+
+Step 5 originally claimed Oakland's RAP registration "includes... a checkbox specifically for when that agent has changed" and that Berkeley owners "should do the same with the Rent Stabilization Board" — both traced back to a WebSearch-summary origin during initial drafting, never fetched from either city's actual program page. Flagged by ChatGPT's Pre-Publish Audit as a `GATE-LOCAL-ACCURACY` gap (no supporting knowledge file existed).
+
+### Rule IDs triggered
+
+- `GATE-LOCAL-ACCURACY` — **FAIL as originally drafted.** Same root cause as Finding 1 (WebSearch summary treated as sufficient for a specific procedural claim) but for a local ordinance rather than a state statute.
+
+### Why this one is instructive
+
+Confirms Finding 1's lesson generalizes beyond state statutes to city program pages: fetching Oakland's and Berkeley's own registration pages directly (2026-07-18) showed the original claim was **partly unverifiable as stated** — no confirmed "checkbox for agent change" exists on Oakland's page; the annual-cycle mechanism is confirmed but a distinct off-cycle update path isn't. Richmond, meanwhile, turned out to have the single best-sourced mechanism of the three (a specifically named Amended Property Enrollment Form) and had been omitted from the post entirely despite AEBP servicing Richmond.
+
+### Expected verdict
+
+`GATE-LOCAL-ACCURACY` should **FAIL** as originally drafted. After the fix (2026-07-18): new knowledge file `knowledge/laws/local-rent-registry-manager-change.md` documents all three cities from primary-source fetches, including where Oakland's claim had to be *softened* (no confirmed checkbox) rather than kept as originally (over-specifically) worded. Both posts updated to match, and Richmond added throughout (Step 5, checklist, comparison table, FAQ, Sources, video Resources). Now **PASS**.
+
 ## What this should catch in the future
 
-Two distinct lessons, worth re-running separately:
+Four distinct lessons, worth re-running separately:
 
-1. **A citation found via WebSearch summary should be treated as "a rule like this probably exists," not "this is the rule."** Before a statute number goes into gate-checkable content, fetch the primary text (or a direct mirror, given the leginfo.legislature.ca.gov tooling gap) and confirm it actually covers the scenario being described — not just the general topic area. Re-run this case if a future draft cites a specific Civil Code or Business & Professions Code section sourced only from a search-engine summary.
-2. **A drafting pass that correctly uses a real, confirmed AEBP fact is not thereby safe from also inventing an adjacent, unconfirmed elaboration in the same paragraph.** `GATE-ANECDOTE-INTEGRITY` has to be checked claim-by-claim within a section, not once per section on the assumption that a confirmed anchor fact vouches for everything drafted near it. Re-run this case if a future review treats "the post has a real AEBP observation" as sufficient without checking whether every specific detail attached to it was actually confirmed.
+1. **A citation found via WebSearch summary should be treated as "a rule like this probably exists," not "this is the rule."** Before a statute number *or a specific local-agency procedural claim* goes into gate-checkable content, fetch the primary text/page (or a direct mirror, given known JS-rendering tooling gaps) and confirm it actually covers the scenario being described — not just the general topic area. Re-run this case if a future draft cites a specific statute, or describes a specific government-agency form/checkbox/field, sourced only from a search-engine summary. (Findings 1 and 5.)
+2. **A drafting pass that correctly uses a real, confirmed AEBP fact is not thereby safe from also inventing an adjacent, unconfirmed elaboration in the same paragraph.** `GATE-ANECDOTE-INTEGRITY` has to be checked claim-by-claim within a section, not once per section on the assumption that a confirmed anchor fact vouches for everything drafted near it. (Finding 2.)
+3. **A correct citation doesn't vouch for every adjective near it.** Once a claim is properly re-sourced, re-check the specific wording attached to it — words like "promptly," "immediately," or "within X days" need their own support and shouldn't be assumed just because the surrounding sentence now cites the right statute. (Finding 3.)
+4. **When a real AEBP practice exceeds what a cited law requires, say so explicitly.** Don't let a sentence like "it's the same disclosure the law requires" quietly launder a company-policy detail into a legal-requirement claim just because it's adjacent to one. Every distinct factual element in a sentence needs its own confidence label per `EVD-CONFIDENCE-LEVELS`, even when they're delivered together in practice (e.g., on the same welcome letter). (Finding 4.)
