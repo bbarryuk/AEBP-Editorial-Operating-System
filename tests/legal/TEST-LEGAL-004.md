@@ -99,6 +99,16 @@ This is a labeling failure, not a fabrication — every individual fact was true
 
 `GATE-LEGAL-ACCURACY` should **FAIL** as originally drafted. After the fix (2026-07-18): the paragraph now explicitly separates what §1962 requires from what AEBP adds as its own practice. Now **PASS**.
 
+### Regression assertion
+
+Added per ChatGPT's final Pre-Publish Audit (which caught a residual version of this same error surviving the first fix — see "Finding 4, round 2" below): **Civil Code §1962 does not require the change-of-manager notice to state the security-deposit amount or identify who holds it. Any content that pairs a deposit-amount/custody detail with a §1962 citation must label the deposit detail as AEBP company policy or best practice, not as part of the statutory disclosure — unless a different legal authority is cited for it.** Re-run this case if a future draft or edit reintroduces a sentence implying §1962 covers deposit information.
+
+### Finding 4, round 2 — the same mislabeling survived the first fix in adjacent sentences
+
+The first fix (above) corrected the Step 2 "From our files" paragraph, but ChatGPT's final audit (reviewing commit `980886b`) found the identical mislabeling had survived in four *other* locations that Finding 4's first pass didn't touch: Step 3's "your new manager still needs the exact amount on file, since it has to appear correctly in the tenant disclosure covered in Step 2" (a direct cross-reference back to the now-fixed Step 2, which no longer said what this sentence assumed it said); FAQ 4's "recorded accurately for the required tenant disclosure"; and both video-script copies plus the video-post body's "confirmed and disclosed correctly to your tenant."
+
+This is the concrete case the regression assertion above exists to catch: fixing one instance of a mislabeled claim doesn't verify the other instances describing the same fact elsewhere in the same post (and its companion video) got the same fix. All four locations corrected 2026-07-18 (same day as ChatGPT's final audit) to state the deposit amount/custody detail as AEBP practice, not statutory disclosure, consistently with the original Finding 4 fix.
+
 ## Finding 5 — Local ordinance claims (Oakland/Berkeley) still sourced from WebSearch summary, not primary fetch
 
 ### Excerpt
@@ -125,3 +135,4 @@ Four distinct lessons, worth re-running separately:
 2. **A drafting pass that correctly uses a real, confirmed AEBP fact is not thereby safe from also inventing an adjacent, unconfirmed elaboration in the same paragraph.** `GATE-ANECDOTE-INTEGRITY` has to be checked claim-by-claim within a section, not once per section on the assumption that a confirmed anchor fact vouches for everything drafted near it. (Finding 2.)
 3. **A correct citation doesn't vouch for every adjective near it.** Once a claim is properly re-sourced, re-check the specific wording attached to it — words like "promptly," "immediately," or "within X days" need their own support and shouldn't be assumed just because the surrounding sentence now cites the right statute. (Finding 3.)
 4. **When a real AEBP practice exceeds what a cited law requires, say so explicitly.** Don't let a sentence like "it's the same disclosure the law requires" quietly launder a company-policy detail into a legal-requirement claim just because it's adjacent to one. Every distinct factual element in a sentence needs its own confidence label per `EVD-CONFIDENCE-LEVELS`, even when they're delivered together in practice (e.g., on the same welcome letter). (Finding 4.)
+5. **Fixing one instance of a mislabeled claim doesn't fix the other instances of the same claim elsewhere in the post or its companion video.** A single fact (here: the deposit amount isn't a §1962 requirement) tends to get restated multiple times across a cornerstone post's sections — Key Facts, a Step, an FAQ answer, the video script, the video body — precisely because `CORNERSTONE-STRUCTURE` and `VIDEO-CONSISTENCY` require that kind of repetition for extractability. A review pass that fixes the first occurrence and moves on will miss the rest. Grep the whole post (and its companion video) for every restatement of the corrected fact before considering a `GATE-LEGAL-ACCURACY` fix complete. (Finding 4, round 2.)
