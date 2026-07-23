@@ -4,7 +4,17 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 
 ## [Unreleased]
 
-### Fixed — ChatGPT's final Pre-Publish Audit: deposit-disclosure mislabeling survived in four more spots, plus wording refinements, 2026-07-18 (third pass)
+### Fixed — Thursday Tip package (week 4) was drafted from an invented structure instead of the real site pattern, 2026-07-22
+
+Brian caught this after reviewing the first draft of post 8614 ("who holds the deposit") and its Mailchimp email: both were built from a plausible-sounding but made-up structure, not the site's actual established pattern. He pointed to 4 real published Thursday Tip posts, 4 example graphics, and the real `MC-Tip-Email-Template.html` as ground truth.
+
+- **New:** `docs/06-Thursday-Tip-Production-Standard.md` — the verified 3-step pipeline (graphic text spec → Mailchimp email from the real template → WordPress post matching the real Gutenberg structure), reconstructed from posts 7867/7928/8006 (8219 flagged as a one-off deviation, not a pattern to follow). Documents the fixed category (term_id 716, not 629), the real section order and anchor-id scheme, the ordered-list convention, and the exact closing boilerplate.
+- **Fixed:** post 8614 — rebuilt into `wp:group.container`-wrapped H3 sections with the real anchor ids (`h-what-we-see-at-aebp`, `h-this-week-s-takeaway`, `h-learn-more`), category corrected from 629 to 716, tags corrected to match the deposit-topic precedent (added Security Deposits/201, dropped Tenant Rights/220), added the "Learn more" section and the closing 📋 series boilerplate that were missing entirely from the first draft.
+- **Fixed:** Mailchimp email — rebuilt from `MC-Tip-Email-Template.html`'s actual 6 edit points instead of a from-scratch layout; added the image-placeholder markup (empty in the raw template) so Brian only has to swap in the uploaded graphic's URL.
+- **Added:** a graphic-text-spec step ahead of both — the featured-image/email-hero graphic is now specced first (with a hard ~200–220 character body budget, since one of the 4 real examples visibly overflowed its box) since both the email and the WordPress post depend on it.
+- **Not yet migrated:** these three steps still need to be added to `skills/aebp-thursday-tip/SKILL.md` itself — that file is read-only in Cowork sessions, so Brian needs to paste the cross-references in manually (see chat for exact text).
+
+: deposit-disclosure mislabeling survived in four more spots, plus wording refinements, 2026-07-18 (third pass)
 
 ChatGPT reviewed commit `980886b` (the fixes below) and returned "nearly ready, but not yet publishable" — one gated finding, several non-blocking refinements. Brian separately confirmed via Grok that Civil Code §1962 makes no mention of security deposits at all, corroborating the finding independently.
 
