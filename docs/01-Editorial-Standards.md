@@ -1,10 +1,10 @@
 ---
 title: Editorial Standards
 doc_type: normative
-version: 0.4 (Working Draft)
-status: drafted, validated against three real reviews (post 7996 Monday Cornerstone, post 8006 Thursday Tip, post 8006 fabricated-anecdote incident)
+version: 0.5 (Working Draft)
+status: drafted, validated against four real reviews (post 7996 Monday Cornerstone, post 8006 Thursday Tip, post 8006 fabricated-anecdote incident, mid-year insurance-crisis special edition role-ambiguity catch)
 owner: Brian
-last_updated: 2026-07-08
+last_updated: 2026-07-26
 purpose: Defines the editorial philosophy, audience, principles, and publish-readiness gates for all AEBP educational content.
 used_by: [Claude, ChatGPT, human reviewer]
 depends_on: [docs/02-Evidence-and-Sourcing.md]
@@ -42,6 +42,8 @@ Primary: DIY landlords, small portfolio investors, accidental landlords, out-of-
 **STD-EVERGREEN.** Avoid unnecessary references to current events or dates unless legally required. Write so the article stays valuable after publication with minimal updates.
 
 **STD-HONEST.** No exaggerated claims. Never imply certainty where the law allows discretion. Words like *always*, *never*, *guaranteed*, *required* are used only when legally accurate (see `EVD-CONFIDENCE-LEVELS` in `docs/02`).
+
+**STD-CLEAR-ROLES.** When a role-title word could plausibly refer to either AEBP/Jason Crouch or an unrelated third-party professional, the more specific term is used every time, not just on first reference. "Broker" is the live example: Jason Crouch is a licensed real estate broker (CalDRE #01516255), so any bare "broker" in content discussing a *different* professional — an insurance broker, a mortgage broker, etc. — reads as ambiguous or, worse, as if AEBP/Jason is that professional. Always write "insurance broker," "mortgage broker," etc. explicitly in these cases; never rely on context to disambiguate. Added 2026-07-26 after Brian caught exactly this ambiguity in the mid-year insurance-crisis special edition draft — see `CHANGELOG.md`.
 
 ## STD-QUALITY-QUESTIONS — Quality Standards
 
@@ -107,4 +109,4 @@ If a rule doesn't fit one of the documents above and doesn't have an obvious fut
 
 ## Status
 
-This is v0.4 (revised 2026-07-08 to add `GATE-ANECDOTE-INTEGRITY`, prompted by Brian catching a fabricated AEBP anecdote in post 8006 that passed ChatGPT's Pre-Publish Audit review). Earlier the same day, v0.3 added `GATE-COMPLIANCE-RISK` and folded internal-linking into `GATE-TECHNICAL-SEO`, both prompted by ChatGPT's review of the Thursday Tip skill's output. Validated against three real incidents so far (post 7996, post 8006 structural review, post 8006 fabrication catch). The scored-category thresholds are still current best guesses, not calibrated numbers.
+This is v0.5 (revised 2026-07-26 to add `STD-CLEAR-ROLES`, prompted by Brian catching ambiguous "broker" references in the mid-year insurance-crisis special edition draft — Jason Crouch's own title as a licensed real estate broker made unqualified references to an *insurance* broker read as if AEBP/Jason were that professional). Earlier, v0.4 (2026-07-08) added `GATE-ANECDOTE-INTEGRITY`, prompted by Brian catching a fabricated AEBP anecdote in post 8006 that passed ChatGPT's Pre-Publish Audit review. Earlier the same day, v0.3 added `GATE-COMPLIANCE-RISK` and folded internal-linking into `GATE-TECHNICAL-SEO`, both prompted by ChatGPT's review of the Thursday Tip skill's output. Validated against four real incidents so far (post 7996, post 8006 structural review, post 8006 fabrication catch, insurance-crisis role-ambiguity catch). The scored-category thresholds are still current best guesses, not calibrated numbers.
