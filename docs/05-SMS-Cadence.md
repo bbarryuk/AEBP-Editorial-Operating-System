@@ -59,8 +59,9 @@ Same approval rule as every other content type in this system: draft the copy, c
 - `skills/monday-cornerstone.md` — Monday Cornerstone Alert, alongside the existing Step 8 (Monday social distribution).
 - `skills/thursday-tip.md` — Thursday Tip SMS, alongside the existing Step 5 (social posts).
 
-Both skill files are a read-only cache in Cowork sessions and can't be edited directly from a session — Brian adds the cross-reference to each skill himself via Settings → Capabilities; this file is what they'd point to.
+Skill files themselves are a read-only cache on disk in Cowork sessions, but Claude can persist changes to a saved skill directly via the `save_skill` tool (`overwrite: true` on an existing skill) — this is the actual update mechanism, not something Brian has to do by hand via Settings → Capabilities as originally assumed here.
 
 ## Change log
 
 - 2026-07-20: Created. WWYD's SMS touchpoint (Tuesday/Wednesday, scenario + resolution, no link on Tuesday) is the precedent for "SMS as plain text, not HTML" and "confirm before send," but the two-text weekly cadence above is new — it replaces WWYD's SMS rather than extending it. Mailchimp mechanics (STOP auto-append, UTM-preserving shortener) confirmed against a real compose-screen screenshot in Brian's account.
+- 2026-07-27: Corrected the "Which skills use this" note above — `save_skill` (available to Claude directly) is the real mechanism for updating a saved skill, not a Brian-only manual step. Also: the Monday SMS was missed entirely for that week's mid-year insurance-crisis special edition (a one-off cornerstone post built outside a literal skill invocation), which is what prompted this correction and a matching addition to `aebp-monday-cornerstone`'s own instructions flagging that the full distribution checklist — SMS included — applies to special editions too, not just the literal weekly Monday post. Real example used that day: prefix "AllEastBay: Landlord Update:" (not this doc's "AEBP Landlord Update:" — align the doc to the real precedent next time both are touched).

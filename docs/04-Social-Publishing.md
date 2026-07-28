@@ -1,9 +1,9 @@
 ---
 title: Social Publishing — Connector Status and Governance
 doc_type: normative
-version: 0.1
+version: 0.2
 owner: Brian
-last_updated: 2026-07-14
+last_updated: 2026-07-27
 purpose: Single source of truth for which social platforms can be posted to directly via MCP, which are still copy-only, and the approval rule that applies to all of them. Referenced by any skill that produces social content (aebp-monday-cornerstone, aebp-thursday-tip) rather than duplicated in each.
 used_by: [Claude, ChatGPT]
 ---
@@ -17,7 +17,7 @@ used_by: [Claude, ChatGPT]
 | Facebook | Live posting | Meta MCP — `meta_create_post`, `meta_create_video_post`, `meta_create_photo_post` | Confirmed connected and authenticated 2026-07-13 (`meta_health_check`). **No tool exists to create a fresh top-level comment on a Page post** — only `meta_reply_post_comment` (replies to an existing comment_id). Discovered 2026-07-16 when two "link in first comment" posts went live with no comment ever added. Fix used: put the link inline in the post text via `meta_update_post` instead of the first-comment pattern. Until a real comment-creation tool shows up, don't promise "link in first comment" for Facebook — put it inline. |
 | Instagram | Live posting | Meta MCP — `meta_publish_instagram_reel`, `meta_publish_instagram_photo`, `meta_publish_instagram_carousel` | Same Meta connector as Facebook. |
 | X (Twitter) | Live posting, text only | `x-write` MCP — `post_to_x` (also `reply_to_post`, `quote_post`, `repost`, `delete_post`) | Confirmed working 2026-07-14. **`post_to_x` takes an optional `media_ids` array, but no media/video upload tool is exposed** — there is currently no way to obtain a `media_id` to attach, so treat X posts as text-only until an upload tool shows up. Don't promise video/image attachment on X without re-checking this. |
-| LinkedIn | Not yet connected | — | Brian is working on this (as of 2026-07-14). Once connected, re-check its actual capabilities (text only vs. media) the same way X's were checked — don't assume feature parity with Meta. |
+| LinkedIn | Live posting, personal profile only | `linkedin-poster` plugin — `linkedin_create_post`, `linkedin_create_comment`, `linkedin_list_my_posts` | Connected 2026-07-27. **Posts to Brian's personal LinkedIn profile, not the AEBP company page** — there is no company-page posting capability exposed by this connector. Confirm with Brian whether personal-profile posting is acceptable before treating LinkedIn as a default distribution channel; if a company page is required, this connector doesn't cover it yet. Also: `linkedin_create_comment` is currently broken — every call fails with "Unpermitted fields present in REQUEST_BODY: Data Processing Exception while processing fields [/message]," a connector-side bug, not a usage error. Until fixed, treat "link in first comment" for LinkedIn as copy delivered to Brian for manual posting, not something this tool can execute. |
 | Nextdoor | No MCP, not expected | — | No API path exists for this the way it does for the others; plan on this staying copy-only indefinitely, per Brian. |
 
 ## The approval rule (applies to every live-posting tool above, no exceptions)
@@ -36,3 +36,4 @@ Practically: draft the copy, show it to Brian, wait for confirmation, then post.
 - 2026-07-13: Meta (Facebook/Instagram) confirmed live.
 - 2026-07-14: X confirmed live via `x-write` (text only — no media upload tool available).
 - 2026-07-16: Discovered `post_to_x` silently truncates posts over 280 chars instead of erroring — always pre-count (URLs = 23 chars each, t.co) before posting. Discovered the Meta MCP has no Facebook top-level-comment tool — use inline links for Facebook instead of "link in first comment." Both posting workflows (Meta video/photo, X text) confirmed to require publicly-fetchable URLs — files only in OneDrive/dev-only locations aren't reachable by these tools; media must be uploaded to the live WordPress media library first.
+- 2026-07-27: LinkedIn connected via the `linkedin-poster` plugin. Two findings from the first real post (mid-year insurance-crisis special edition): (1) it posts to Brian's **personal profile**, not the AEBP company page — no company-page capability exists in this connector, so confirm this is acceptable before defaulting to LinkedIn for weekly distribution; (2) `linkedin_create_comment` fails every time with a connector-side data-processing error, so "link in first comment" isn't actually executable for LinkedIn yet — deliver that comment text to Brian for manual posting instead. Also confirmed the same day: `meta_list_pages`'s cached page token doesn't reliably persist across the session (a `meta_create_post` call failed with "no access token cached" despite an earlier successful `meta_list_pages` call that session) — re-call `meta_list_pages` immediately before any Meta post if there's been a gap since the last one, rather than trusting an earlier cache from the same session.
