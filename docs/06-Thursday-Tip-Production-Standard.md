@@ -32,7 +32,7 @@ Fields to deliver, every week:
 - **Headline:** short, punchy, often a question ("Do You Have 3 Months' Reserve Per Property?") or a direct claim ("Your deposit clock starts when they leave — not when the lease ends").
 - **Body paragraph:** **keep to ~200–220 characters.** One of the 4 real examples ran long and got visibly cut off mid-sentence in the actual graphic ("...catches an") — the template has no overflow handling, so this is a hard budget, not a style preference.
 - **Pull quote:** the same pull-quote used in the blog post and email, no attribution, bold italic in the graphic.
-- **Series label + date:** e.g. "Owner ROI Series · July 23, 2026." **There is no formal list of series names** — known ones so far are "Owner ROI Series" and "Move-Out Series." Ask Brian for the right one each week rather than inventing a new one; add it to this list once confirmed.
+- **Series label + date:** e.g. "Owner ROI Series · July 23, 2026." **There is no formal list of series names** — known ones so far are "Owner ROI Series," "Move-Out Series," and "Renewal Series" (confirmed 2026-07-30, used for all four August 2026 Thursday Tips, which are renewal-adjacent — pairs with "Renewal Season" as the broader August campaign/homepage name; the badge itself stays "Renewal Series" to match the fixed "[Topic] Series" pattern). Ask Brian for the right one each week rather than inventing a new one; add it to this list once confirmed.
 
 ## Step 2: Mailchimp email
 

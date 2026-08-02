@@ -21,8 +21,9 @@ WWYD's Tuesday/Wednesday pair was the only SMS touchpoint AEBP had. When WWYD wa
 
 No Tuesday/Wednesday SMS — that was WWYD-specific and doesn't carry over.
 
-## Mailchimp mechanics (confirmed 2026-07-20 against a real draft in Brian's account)
+## Mailchimp mechanics (confirmed 2026-07-20 against a real draft in Brian's account; sender-prefix behavior confirmed 2026-07-29 against a real compose-screen screenshot)
 
+- **Mailchimp auto-prepends "AllEastBay:" as a fixed sender-name line before the message body.** This is not something to type — the composer inserts it automatically ahead of whatever's typed in the message field. Drafted copy should start with the actual hook (e.g. "Landlord Update: ..." or "Landlord Tip: ..."), not "AllEastBay:" or "AEBP Landlord Update:" — those would double up with the auto-inserted prefix. The two example templates below have been corrected to reflect this; earlier versions of this file had it wrong.
 - **Mailchimp auto-appends "Text STOP to opt out."** Do not add a manual STOP/opt-out line to the drafted copy — it would double up. This satisfies the TCPA requirement automatically; it isn't optional courtesy copy, it's the compliance mechanism, and Mailchimp is already handling it.
 - **Mailchimp's built-in link shortener preserves UTM parameters.** A full UTM'd URL pasted into the SMS composer gets shortened to an `AEBP.mssg.io/...`-style link, but the underlying destination (visible on hover, per the composer's own status bar) still carries the full query string. Paste the full UTM URL as normal — don't hand-shorten it or strip the UTM params to save characters; Mailchimp does that work.
 - **Segment length:** budget for 2 SMS segments (up to ~306 characters including the shortened link and the auto-appended STOP footer) as the normal case for a message with a link. Don't force it into a single 160-character segment at the cost of clarity — 2 segments is standard here, not a failure.
@@ -34,9 +35,11 @@ No Tuesday/Wednesday SMS — that was WWYD-specific and doesn't carry over.
 
 Structure: one-line hook naming the topic, one sentence on what the guide actually covers (the two or three most concrete things, not a vague teaser), the link.
 
-Example (Week 4, "Switching Property Managers"):
+Example (Week 4, "Switching Property Managers" — as actually typed into Mailchimp, before the auto-prepended "AllEastBay:"):
 
-> AEBP Landlord Update: Switching property managers this year? New guide covers the tenant notice CA law requires + the deposit handoff most owners miss. Read here: [full UTM URL]
+> Landlord Update: Switching property managers this year? New guide covers the tenant notice CA law requires + the deposit handoff most owners miss. Read here: [full UTM URL]
+
+Rendered to the recipient, this appears as "AllEastBay: Landlord Update: ..." — the "AllEastBay:" is Mailchimp's auto-prefix, not part of the typed copy.
 
 UTM pattern: `utm_source=sms&utm_medium=text&utm_campaign=<month><year>-week<N>&utm_content=monday-alert`
 
@@ -44,9 +47,9 @@ UTM pattern: `utm_source=sms&utm_medium=text&utm_campaign=<month><year>-week<N>&
 
 Structure: the single practical takeaway in one line (pulled from the Thursday Tip post's own hook — don't re-derive it from the cornerstone post directly), the link back to the Thursday Tip post.
 
-Template:
+Template (as typed into Mailchimp — "AllEastBay:" is auto-prepended, don't type it):
 
-> AEBP Landlord Tip: [one-line practical takeaway]. Full tip: [full UTM URL]
+> Landlord Tip: [one-line practical takeaway]. Full tip: [full UTM URL]
 
 UTM pattern: `utm_source=sms&utm_medium=text&utm_campaign=<month><year>-week<N>&utm_content=thursday-tip`
 
@@ -65,3 +68,4 @@ Skill files themselves are a read-only cache on disk in Cowork sessions, but Cla
 
 - 2026-07-20: Created. WWYD's SMS touchpoint (Tuesday/Wednesday, scenario + resolution, no link on Tuesday) is the precedent for "SMS as plain text, not HTML" and "confirm before send," but the two-text weekly cadence above is new — it replaces WWYD's SMS rather than extending it. Mailchimp mechanics (STOP auto-append, UTM-preserving shortener) confirmed against a real compose-screen screenshot in Brian's account.
 - 2026-07-27: Corrected the "Which skills use this" note above — `save_skill` (available to Claude directly) is the real mechanism for updating a saved skill, not a Brian-only manual step. Also: the Monday SMS was missed entirely for that week's mid-year insurance-crisis special edition (a one-off cornerstone post built outside a literal skill invocation), which is what prompted this correction and a matching addition to `aebp-monday-cornerstone`'s own instructions flagging that the full distribution checklist — SMS included — applies to special editions too, not just the literal weekly Monday post. Real example used that day: prefix "AllEastBay: Landlord Update:" (not this doc's "AEBP Landlord Update:" — align the doc to the real precedent next time both are touched).
+- 2026-07-29: Corrected a real mechanical error found via a Mailchimp compose-screen screenshot (Thursday Tip - 30 July 2026 draft): "AllEastBay:" is a fixed sender-name prefix Mailchimp auto-inserts before the message body, the same way it auto-appends the STOP footer — it is not part of the typed copy. Every template and example in this file previously showed "AEBP Landlord Update:" / "AEBP Landlord Tip:" as literal typed text; both are corrected above to show what actually gets typed ("Landlord Update: ..." / "Landlord Tip: ..."), with a note on how it renders once Mailchimp's auto-prefix is added.
