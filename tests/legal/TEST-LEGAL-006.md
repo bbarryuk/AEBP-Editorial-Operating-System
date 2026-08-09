@@ -3,7 +3,7 @@ title: "TEST-LEGAL-006 — Local annual rent adjustment presented as a universal
 doc_type: informative
 owner: Brian
 last_verified: 2026-08-09
-source_case: WordPress post 8801, "Should You Raise Rent at Renewal or Keep This Tenant? The East Bay Landlord's Break-Even Math" (Week 2 Monday cornerstone, drafted 2026-08-09, Pre-Publish Audit requested same day)
+source_case: WordPress post 8801, "Should You Raise Rent at Renewal or Keep This Tenant? The East Bay Landlord's Break-Even Math" (Week 2 Monday cornerstone, drafted 2026-08-09; Findings 1–2 from first Pre-Publish Audit pass, Finding 3 from second pass same day)
 ---
 
 # TEST-LEGAL-006
@@ -56,8 +56,33 @@ The error wasn't caught by drafting or by the initial internal review pass — a
 
 Corrected in the same 2026-08-09 fix: Berkeley's monthly value corrected to $22.63, annual to approximately $272, and the recoup comparison corrected to roughly ten and a half years.
 
+## Finding 3 — Exemption from a local program was treated as automatic coverage under AB 1482 (found on second-pass review, 2026-08-09)
+
+### Excerpt
+
+After Finding 1 was fixed, the corrected language still read, in three places:
+
+> "A unit that isn't covered by the local program falls back to the statewide AB 1482 cap instead…"
+> "an exempt unit falls under the statewide AB 1482 cap instead"
+> "A unit not covered by the local program falls under the statewide AB 1482 cap of 8.8%… instead"
+
+### Rule IDs triggered
+
+- `GATE-LEGAL-ACCURACY` — **FAIL**, second instance in the same post. Civil Code §1947.12 (AB 1482) has its own separate statutory exemptions — certain newer construction, and certain single-family homes/condos when statutory ownership and notice requirements are met, among others. A unit exempt from Oakland RAP or Berkeley's AGA is not automatically AB 1482-covered; the two determinations are independent. Oakland's own published list of RAP-exempt properties notes some carry no Oakland rent-increase limitation at all, which only makes sense if AB 1482 coverage isn't assumed to fill the gap automatically. Berkeley similarly recognizes fully covered, partially covered, and exempt units, and partially covered units aren't subject to Berkeley's rent ceiling.
+
+### Why this one is instructive
+
+This is the same root-cause pattern as Finding 1 — coverage-scope conflation — but one level deeper. Finding 1 caught "local percentage presented as a citywide maximum." This finding is the mirror image: "exemption from the local program presented as automatic entry into the statewide program." Both are the same underlying error (assuming a rent-control figure applies to a unit without checking that unit's actual coverage status against *that specific* law), just applied to opposite ends of the same sentence. A single review pass fixed the first without automatically catching the second — worth remembering that fixing one direction of a coverage-conflation error doesn't guarantee the inverse direction is also fixed.
+
+### Expected verdict
+
+`GATE-LEGAL-ACCURACY` should **FAIL** as drafted after the Finding 1 fix. Corrected 2026-08-09 (second pass): all three instances rewritten so that non-coverage by a local program triggers a *separate, independent* AB 1482 coverage check rather than an assumed fallback — e.g. "the next question is whether AB 1482 applies — some locally exempt units are still covered by the state cap, while others may also qualify for their own AB 1482 exemption." The Key Facts table's AB 1482 source cell was also changed from "applies where no lower local limit covers the unit" to "applies to units covered by the statute; statutory exemptions apply" — removing the implication that AB 1482 coverage is the automatic default whenever a local program doesn't apply. Now **PASS**.
+
+**The bad-sentence pattern to test against, going forward:** "This unit is exempt from [local program], so the maximum rent increase is automatically [AB 1482 rate] under AB 1482." Expected result: **FAIL** — coverage under AB 1482 has to be established on its own terms, not inferred from exemption elsewhere.
+
 ## What this should catch in the future
 
 1. **A locally-sourced percentage is not automatically a citywide maximum.** Before describing any Oakland RAP, Berkeley AGA, or Richmond AGA figure as "the cap" or "the maximum" without qualification, confirm and state whether the figure applies to all units in that city or only to units covered by that city's specific rent-adjustment program, and note that non-covered units fall under the statewide AB 1482 cap instead. Re-run this case if a future draft says a local jurisdiction "isn't governed by" the statewide cap rather than explaining the coverage-dependent relationship between the two.
 2. **"Legally permitted" and "legally required" are not interchangeable when describing a rent increase.** A landlord choosing not to take an allowed increase is never violating the law. Re-run this case if a future draft implies an increase up to a cap is mandatory rather than optional.
 3. **Every worked dollar figure derived from a percentage and a stated base number should be independently recomputed before publishing**, not just the figure(s) that were originally calculated programmatically. Re-run this case if a future draft contains a percentage-of-rent calculation that wasn't verified against the stated base rent using the same method as the post's primary worked example.
+4. **Local rent-control exemption does not imply AB 1482 coverage, and the reverse fix isn't automatic just because the forward fix was made.** After correcting "local percentage = citywide cap," specifically re-check every sentence that describes what happens when a unit is *exempt* from the local program — confirm it directs the reader to check AB 1482 coverage independently rather than asserting AB 1482 applies by default. Re-run this case if a future draft says a unit "falls under," "falls back to," or "defaults to" the statewide cap solely because it's exempt from a local ordinance.

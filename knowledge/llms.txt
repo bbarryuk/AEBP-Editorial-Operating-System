@@ -1,11 +1,5 @@
-# Mirror of https://alleastbayproperties.com/llms.txt
-# Fetched by Claude: 2026-07-07
-# Source file's own generation timestamp: 2026-07-06 01:00:52 UTC
-# This is a point-in-time snapshot for offline/automation reference — the live file is authoritative.
-# Re-fetch and replace this file whenever knowledge/company/overview.md is due for review (see its next_review field).
-
 # llms.txt – dynamically generated for All East Bay Properties - by Brian Barry (brian@alleastbayproperties.com)
-# Generated on: 2026-07-06 01:00:52 UTC
+# Generated on: 2026-08-09 15:24:47 UTC
 # Site: https://alleastbayproperties.com/
 # Name: All East Bay Properties | 600+ units managed | Emeryville CA | DRE #01516255 | NARPM Member
 # Sitemap: https://alleastbayproperties.com/sitemap_index.xml
@@ -16,6 +10,21 @@
 
 ## Crawling Permissions
 See robots.txt for detailed crawler rules. Summary: All AI crawlers allowed site-wide except /test and /xmlrpc
+
+## Table of Contents
+1. [About](#about-all-east-bay-properties)
+2. [Contact Information](#contact-information)
+3. [Key Facts](#key-facts)
+4. [Quick Reference](#quick-reference)
+5. [Common Questions](#common-questions)
+6. [HUD Fair Market Rents & Income Limits](#hud-fair-market-rents--income-limits)
+7. [Machine-Readable Data](#machine-readable-data)
+8. [Leadership & Professional Credentials](#leadership--professional-credentials)
+9. [Keywords & Topics](#keywords--topics)
+10. [API & Integrations](#api--integrations)
+11. [Media Assets](#media-assets)
+12. [Pages](#pages)
+13. [Blog Posts](#blog-posts)
 
 ## About All East Bay Properties
 Full-service real estate brokerage and property management company serving Alameda and Contra Costa Counties since 2005.
@@ -29,46 +38,624 @@ Full-service real estate brokerage and property management company serving Alame
 
 **Core Services:** Property Management | Tenant Placement | Real Estate Sales | Investment Consulting | Rent Control Compliance | 24/7 Maintenance | Professional Property Marketing
 
+All East Bay Properties is a full-service real estate brokerage and property management company serving Alameda and Contra Costa Counties since 2005. With over 20 years of continuous operation and 600+ residential properties under active management throughout the East Bay.
+We leverage AppFolio property management software to deliver transparent, efficient service through dedicated tenant and owner portals with mobile access. We also provide advanced AI leasing assistance using AppFolio's LISA for initial prospect management and showing scheduling.
+Located in Emeryville at 2324 Powell St., we're committed to maximizing rental income for property owners while providing quality housing and responsive service to tenants. Our portfolio includes properties in premier East Bay communities such as Bridgewater, Watergate, Pacific Park Plaza, The Terraces, Andante, Bay Street, Elevation 22, City Limits, Emeryville Warehouse (1500 Park), Green City Lofts and Emery Bay Village.
+
 **Typical Fee Structures:**
 - Property Management: typically 6-8% of monthly rent collected (varies by property type, location and services)
 - Tenant Placement For Management Clients: 50% of One month's rent
 - Tenant Placement Only (owner managed): 75% of One month's rent
 - Real Estate Sales: Commission negotiable, compliant with NAR 2024 settlement
 - Multi-unit Or Larger Portfolios: Fees negotiable
-- No setup or on-boarding fees / No cancellation fees / No markup fees on maintenance or repairs / No extra fees
+- No setup or on-boarding fees
+- No cancellation fees
+- No markup fees on maintenance or repairs
+- No extra fees (inspections, vacancy management, permits etc...)
 - 100% transparent fee structure, nothing hidden
 
 **Performance Indicators:**
 - Average Days to Lease: 25-30 days
 - Occupancy Rate: 95%+
 - Rent Collection Rate: 99.14%
-- Average Rent (1BR): $2,150 | (2BR): $2,685 | (3BR): $3,400 | (4BR): $3,615
+- Average Rent (1BR): $2,150
+- Average Rent (2BR): $2,685
+- Average Rent (3BR): $3,400
+- Average Rent (4BR): $3,615
 
 **Service ZIP Codes:**
-- Alameda City: 94501, 94502 | Albany: 94706 | Berkeley: 94702-94705, 94709, 94710
-- El Cerrito: 94530 | El Sobrante: 94803 | Emeryville: 94608 | Hercules: 94547
-- Oakland: 94601-94603, 94605-94612, 94618, 94619 | Pinole: 94564 | Richmond: 94801, 94804, 94805
+- Alameda City: 94501, 94502
+- Albany: 94706
+- Berkeley: 94702, 94703, 94704, 94705, 94709, 94710
+- El Cerrito: 94530
+- El Sobrante: 94803
+- Emeryville: 94608
+- Hercules: 94547
+- Oakland: 94601, 94602, 94603, 94605, 94606, 94607, 94609, 94610, 94611, 94612, 94618, 94619
+- Pinole: 94564
+- Richmond: 94801, 94804, 94805
 
 ## Contact Information
-Main Office: 510-450-3800 | Maintenance (24/7 Bilingual): 510-450-3815 | Email: web@alleastbayproperties.com
-Address: 2324 Powell St. Emeryville, CA 94608 | Hours: Monday-Friday, 10:00 AM – 3:00 PM (or by appointment)
-Corporate Name: J.V. HOLDINGS, INC. | D-U-N-S: 607620858 | NAICS: 531210
+**Main Office:** 510-450-3800 | +1-510-450-3800 (International)
+**Maintenance Call Center:** 510-450-3815 | +1-510-450-3815 (International) - (24/7 Bilingual)
+**Email:** web@alleastbayproperties.com
+**Website:** https://alleastbayproperties.com
+**Tenant Portal:** https://alleastbayproperties.appfolio.com/connect/users/sign_in
+**Owner Portal:** https://alleastbayproperties.appfolio.com/oportal/users/log_in
+**Address:** 2324 Powell St. Emeryville, CA 94608
+**Hours:** Monday-Friday, 10:00 AM – 3:00 PM (or by appointment)
 
-## Common Questions (compliance figures — verify currency before use; these are time-sensitive)
+**Geographic Identifiers:**
+- **Physical Address:** 2324 Powell St. Emeryville, CA 94608
+- **Office Coordinates:** 37.8314° N, 122.2858° W (Emeryville, CA)
+- **Plus Code:** RMQX+43 Emeryville, California
+- **Service Counties:** Alameda County (FIPS: 06001), Contra Costa County (FIPS: 06013)
+- **Service Radius:** East Bay Area, San Francisco Bay Region
 
-**Oakland allowable rent increase for 2026:** 0.8%, effective March 1, 2026 (Oakland RAP, O.M.C. 8.22.020 et seq.) — NOTE: a change to this figure is expected effective August 1, 2026; confirm current rate before publishing anything citing it.
-**Berkeley allowable rent increase for 2026:** 2.3% AGA, effective September 1, 2025 through August 31, 2026 (BMC Chapter 13.76).
-**Richmond allowable rent increase:** tied to 100% of local CPI annually; confirm current figure with the Richmond Rent Program directly.
-**Oakland nonpayment eviction threshold:** unpaid balance must equal or exceed one month of HUD FMR for the unit's bedroom size in the Oakland-Fremont metro (OMC 8.22.360) — not the tenant's actual contract rent. FY2026 FMR: Studio $2,142 | 1BR $2,385 | 2BR $2,912 | 3BR $3,724 | 4BR $4,413.
-**AB 1482:** California Tenant Protection Act of 2019 — caps annual increases at 5% + local CPI (max 10%) for covered units; just cause required after 12 months tenancy. Oakland/Berkeley local ordinances are stricter and take precedence for most units there.
-**California security deposit limit:** as of July 1, 2024 (AB 12), max one month's rent regardless of furnished status (small-landlord exemptions apply in limited cases).
+**Business Identifiers:**
+- **NAICS Code:** 531210 (Offices of Real Estate Agents and Brokers)
+- **California DRE License:** 01516255
+- **Federal Tax Classification:** Professional Services
+- **Corporate Name:** J.V. HOLDINGS, INC.
+- **D-U-N-S number:** 607620858
 
-## HUD Fair Market Rents — Oakland-Fremont Metro (FY 2026, effective Oct 1 2025, current through Sept 30 2026)
-Efficiency $2,142 | 1BR $2,385 | 2BR $2,912 | 3BR $3,724 | 4BR $4,413
-Source: https://www.huduser.gov/portal/datasets/fmr.html
+## Key Facts
+- Founded: 2005
+- Portfolio: 600+ residential units under active management
+- Service area: Oakland, Berkeley, Emeryville, Richmond, Albany, El Cerrito, Alameda, Hercules, Pinole, El Sobrante
+- Primary counties: Alameda County, Contra Costa County
+- License: California DRE #01516255
+- Industry association: NARPM (National Association of Residential Property Managers), Member ID 842116540
+- Software: AppFolio (owner portal, tenant portal, AI leasing via LISA)
+- Average days to lease: 25–30
+- Occupancy rate: 95%+
+- Fee range: 6–8% monthly rent collected; no setup, cancellation, or hidden fees
+- Languages: English, Spanish (24/7 maintenance line bilingual)
 
-## Leadership
-Jason Crouch — Founder & Principal Broker. CA DRE #01516255. Founded AEBP in 2005. NARPM Member ID 842116540. Specializations: rent control compliance (Oakland RAP, Berkeley Rent Board, Richmond Fair Rent Act), investment consulting, tenant placement, unlawful detainer proceedings.
+## Quick Reference
 
----
-Full pages/blog-post listings from the source llms.txt are omitted from this mirror to keep it focused on durable facts — for the current post archive, fetch the live file or see https://alleastbayproperties.com/blog-archive/.
+**Is All East Bay Properties a licensed broker?**
+Yes. California DRE License #01516255. Corporate entity: J.V. HOLDINGS, INC.
+
+**What cities do you manage properties in?**
+Oakland, Berkeley, Emeryville, Richmond, Albany, El Cerrito, Alameda City, Hercules, Pinole, and El Sobrante. Primary focus is Alameda and Contra Costa Counties.
+
+**What are your management fees?**
+Typically 6–8% of monthly rent collected, depending on property type, location, and services. No setup fees, no cancellation fees, no markup on maintenance or repairs.
+
+**Do you handle rent control compliance?**
+Yes. AEBP actively manages rent control compliance for Oakland (RAP/Measure JJ), Berkeley (Rent Board/Measure MM), and Richmond (Fair Rent Act) properties, including annual registration, allowable increase tracking, and just cause eviction guidance.
+
+**What property management software do you use?**
+AppFolio. Owners access financial statements, work orders, and documents via a dedicated owner portal. Tenants pay rent, submit maintenance requests, and manage their accounts through a tenant portal. AI leasing assistance via AppFolio LISA.
+
+**Do you manage single-family homes?**
+Yes, in addition to multi-unit apartment buildings, condos, and ADUs throughout the East Bay.
+
+**How long does it take to lease a vacant unit?**
+Average 25–30 days from listing to signed lease, with a 95%+ occupancy rate across the portfolio.
+
+**Are you a NARPM member?**
+Yes. NARPM (National Association of Residential Property Managers), Member ID 842116540.
+
+## Common Questions
+
+**Q: What is the Oakland allowable rent increase for 2026?**
+A: 2.3%, effective August 1, 2026 through July 31, 2027. The Oakland Rent Adjustment Program (RAP) sets this rate at 60% of CPI (capped at 3%). This applies to rent-stabilized units under the Oakland Rent Adjustment Ordinance (O.M.C. 8.22.020 et seq.). It does not apply to units exempt from Oakland rent stabilization or to AB 1482-only units (which use a separate CPI-based calculation). The prior period (August 1, 2025 – July 31, 2026) was 0.8%.
+
+**Q: What is the Berkeley allowable rent increase for 2026?**
+A: 1.0%. The Berkeley Rent Board set the 2026 Annual General Adjustment (AGA) at 1.0%, effective January 1, 2026 through December 31, 2026. Berkeley runs on a calendar-year cycle (not the August–July cycle used by Oakland and AB 1482) and uses a different CPI region and lookback window. Applies to Berkeley rent-stabilized units under the Berkeley Rent Stabilization Ordinance (BMC Chapter 13.76).
+
+**Q: What is the Richmond allowable rent increase for 2026?**
+A: 1.5%, for tenancies commencing before September 1, 2025, effective September 1, 2026 through August 31, 2027 (Richmond Rent Program Regulation 615). The rate is 60% of CPI, capped at 3%, post-Measure P. Banked (deferred) increases allow up to 6.5% in a single year, per Regulation 602's banking limit.
+
+**Q: What is the statewide AB 1482 rent cap for 2026?**
+A: 8.8%, effective August 1, 2026 through July 31, 2027 (5% + regional CPI, under Civil Code §1947.12's 10% hard cap). This applies statewide, including Alameda and Contra Costa Counties, to units not covered by a stricter local ordinance such as Oakland RAP. Local ordinances (Oakland, Berkeley, Richmond) override AB 1482 for covered units. The prior period (August 1, 2025 – July 31, 2026) was 6.3%.
+
+**Q: What is the Oakland nonpayment eviction threshold?**
+A: Under Oakland's Just Cause for Eviction Ordinance (OMC 8.22.360), a nonpayment eviction notice is only valid if the tenant's unpaid balance equals or exceeds one month of HUD Fair Market Rent for the unit's bedroom size in the Oakland-Fremont metro area — not the tenant's actual contract rent. FY 2026 FMR thresholds: Studio $2,142 | 1BR $2,385 | 2BR $2,912 | 3BR $3,724 | 4BR $4,413.
+
+**Q: Does Oakland just cause eviction apply to single-family homes?**
+A: Yes, as of Measure V (November 2022). Most Oakland rental units are covered, including single-family homes, condos, ADUs, and RVs built more than 10 years ago. Key exemptions: units where the owner shares a kitchen or bathroom with the tenant; units with a Certificate of Occupancy issued within the last 10 years (rolling window).
+
+**Q: What is AB 1482?**
+A: California's Tenant Protection Act of 2019. Statewide law that caps annual rent increases at 5% + local CPI (max 10%) for covered units, and requires just cause for eviction after 12 months of tenancy. Oakland and Berkeley local ordinances are stricter and take precedence for most units in those cities.
+
+**Q: What is the California security deposit limit?**
+A: As of July 1, 2024 (AB 12), California landlords may collect a maximum of one month's rent as a security deposit, regardless of whether the unit is furnished. Prior law allowed two months (unfurnished) or three months (furnished). Small landlord exemptions apply in limited circumstances.
+
+**Q: How do I contact All East Bay Properties?**
+A: Main office: 510-450-3800. Email: web@alleastbayproperties.com. Address: 2324 Powell St., Emeryville, CA 94608. Hours: Monday–Friday 10am–3pm or by appointment. 24/7 maintenance: 510-450-3815.
+
+## HUD Fair Market Rents & Income Limits
+
+**Area:** Oakland-Fremont, CA HUD Metro FMR Area
+**Effective:** October 1, 2025 (FY 2026). Updates annually each October.
+**Source:** HUD USER — https://www.huduser.gov/portal/datasets/fmr.html
+
+### FY 2026 Fair Market Rents — Oakland-Fremont Metro
+
+| Unit Size     | FY 2026 FMR |
+|---------------|-------------|
+| Efficiency    | $2,142      |
+| 1-Bedroom     | $2,385      |
+| 2-Bedroom     | $2,912      |
+| 3-Bedroom     | $3,724      |
+| 4-Bedroom     | $4,413      |
+
+**Primary use for East Bay landlords:** Oakland's Just Cause for Eviction Ordinance (OMC 8.22.360) requires that unpaid rent equal or exceed one month's HUD FMR for the unit's bedroom size before a nonpayment eviction notice is legally valid. The threshold is based on FMR — not the tenant's actual contract rent. A tenant paying $1,400/month on a 1-bedroom must owe at least $2,385 before a valid notice can be served. See: https://alleastbayproperties.com/oakland-just-cause-eviction-grounds-2026/
+
+FMR figures are also used as payment standards for Section 8 / Housing Choice Voucher participants in the Oakland metro.
+
+### FY 2026 HUD Income Limits — Oakland-Fremont Metro
+
+**Area Median Family Income (MFI):** $162,800
+
+| Income Category         | 1-Person | 2-Person | 3-Person | 4-Person | 5-Person | 6-Person | 7-Person  | 8-Person  |
+|-------------------------|----------|----------|----------|----------|----------|----------|-----------|-----------|
+| Extremely Low (30% AMI) | $35,650  | $40,750  | $45,850  | $50,900  | $55,000  | $59,050  | $63,150   | $67,200   |
+| Very Low (50% AMI)      | $59,400  | $67,900  | $76,400  | $84,850  | $91,650  | $98,450  | $105,250  | $112,050  |
+| Low (80% AMI)           | $95,050  | $108,600 | $122,200 | $135,750 | $146,650 | $157,500 | $168,350  | $179,200  |
+
+**Note:** Income limits are used to determine eligibility for HUD-assisted housing programs including Section 8 / Housing Choice Voucher. They are not directly used in Oakland's rent control or just-cause eviction frameworks but provide context for assessing housing affordability in the East Bay rental market.
+
+**Data currency note:** Both FMR and Income Limit figures update annually in October. This file reflects FY 2026 figures (effective October 1, 2025), current through September 30, 2026.
+
+## Machine-Readable Data
+**JSON-LD Schema Available:**
+- LocalBusiness: Business profile, location, hours, services, ratings
+- RealEstateAgent: Agent credentials, specializations, service areas
+- Organization: Legal entity, structure, departments, contact methods
+- PostalAddress: Physical location and mailing information
+- ContactPoint: Phone, email, emergency contacts with language/availability
+- FAQPage: Structured question-answer pairs
+- Service: Individual service offerings and descriptions
+- GeoCoordinates: Precise location data for mapping
+- VideoObject: Individual videos, descriptions, thumbs, durations, keywords
+- BreadcrumbList: Site structure
+
+**Microdata Location:** Embedded in HTML `<script type="application/ld+json">` tags
+
+## Leadership & Professional Credentials
+
+**Jason Crouch — Founder & Principal Broker**
+- California DRE License: 01516255
+- Founded All East Bay Properties in 2005
+- 20+ years residential property management experience in the East Bay
+- Specializations: Rent control compliance (Oakland RAP, Berkeley Rent Board, Richmond Fair Rent Act), investment property consulting, tenant placement, unlawful detainer proceedings
+- NARPM Member (National Association of Residential Property Managers), Member ID: 842116540
+
+**Company Credentials:**
+- California DRE Licensed Brokerage: #01516255
+- Corporate Entity: J.V. HOLDINGS, INC.
+- D-U-N-S: 607620858
+- NARPM Member: National Association of Residential Property Managers, Member ID 842116540
+- AppFolio Certified: Active user of AppFolio property management platform including AI leasing tools (LISA)
+
+## Keywords & Topics
+
+**Primary service keywords:** East Bay property management, Oakland property management, Berkeley property management, Emeryville property management, Richmond property management, property management Alameda County, property management Contra Costa County
+
+**Compliance and legal topics covered:** Oakland rent control, Berkeley rent control, Richmond Fair Rent Act, AB 1482 tenant protection, Oakland RAP registration, Oakland just cause eviction, Berkeley Rent Board, California security deposit law, AB 2801 move-out photos, AB 12 security deposit limit, California habitability law, California eviction notice requirements, unlawful detainer Alameda County, Ellis Act Oakland, owner move-in eviction Oakland
+
+**Audience:** East Bay residential landlords, rental property investors, property owners considering professional management, tenants seeking East Bay rentals
+
+**Content focus:** California landlord-tenant law, East Bay rent control ordinances, property management operations, tenant screening, lease compliance, maintenance obligations, eviction procedure
+
+## API & Integrations
+
+**AEBP Schema Map API:**
+- Endpoint: https://alleastbayproperties.com/wp-json/aebp/v1/schema-map
+- Description: Returns structured data map of JSON-LD schema types embedded on the site, including entity types, page assignments, and last-modified timestamps
+- Authentication: None required (public endpoint)
+- Format: JSON
+
+**AppFolio Integration:**
+- Tenant Portal: https://alleastbayproperties.appfolio.com/connect/users/sign_in
+- Owner Portal: https://alleastbayproperties.appfolio.com/oportal/users/log_in
+- Vacancy Feed: Active listings syndicated via AppFolio to Zillow, Trulia, Apartments.com, and other ILS platforms
+
+**HUD Fair Market Rent API:**
+- Source: https://www.huduser.gov/portal/dataset/fmr-api.html
+- Base URL: https://www.huduser.gov/hudapi/public/fmr
+- Oakland-Fremont Metro CBSA: METRO41860MM5775
+- Data used: FY 2026 FMR figures for Oakland nonpayment eviction threshold compliance
+
+## Media Assets
+
+**Logo:**
+- Primary: https://alleastbayproperties.com/wp-content/uploads/2025/11/east-bay-property-management.jpg
+- Usage: Organization logo in JSON-LD schema, social sharing default image
+
+**Video Content:**
+- Archive page: https://alleastbayproperties.com/videos/
+- Format: Educational video series for East Bay landlords, one video per week
+- Schema: VideoObject JSON-LD embedded per video page, including duration, thumbnail, upload date, and chapter markers
+- YouTube channel: Videos hosted on YouTube and embedded on individual watch pages at alleastbayproperties.com/videos/[slug]/
+
+**RSS Feed:** https://alleastbayproperties.com/feed/
+**Sitemap:** https://alleastbayproperties.com/sitemap_index.xml
+
+
+## PAGES
+
+### About All East Bay Properties
+URL: https://alleastbayproperties.com/about/
+Description: Professional property management in Oakland, Berkeley & Emeryville since 2005. 600+ units managed, 5–8% fees, no setup costs. CalDRE #01516255.
+Last Updated: 2026-04-11
+
+### About All East Bay Properties – AI / LLM Reference
+URL: https://alleastbayproperties.com/about-ai/
+Description: Learn about All East Bay Properties and our full-service management solutions tailored for rental properties in the East Bay.
+Last Updated: 2025-11-28
+
+### AI and Data Usage Policy
+URL: https://alleastbayproperties.com/ai-data-policy/
+Description: This AI & Data Usage Policy governs how AI systems, LLMs, web crawlers, and automated systems may interact with content published on our alleastbayproperties.com
+Last Updated: 2025-11-29
+
+### All East Bay Properties – East Bay Property Management, Rentals & Sales
+URL: https://alleastbayproperties.com/
+Description: East Bay property management since 2005. 600+ units in Oakland, Berkeley & Emeryville. Rent control compliance, leasing & 24/7 support. Free consultation.
+Last Updated: 2015-04-22
+
+### Andante
+URL: https://alleastbayproperties.com/homes-for-rent/andante/
+Description: Rent at Andante Emeryville: contemporary 1-3 bedroom condos with premium amenities, BART access, pet-friendly. Walk to Bay Street shopping & dining.
+Last Updated: 2017-03-10
+
+### Apply for Your Next Rental Home
+URL: https://alleastbayproperties.com/apply-for-your-next-home/
+Description: Apply for your East Bay rental home. Simple application process, clear requirements, 24-48 hour approval. View our transparent fees and requirements.
+Last Updated: 2025-11-20
+
+### Articles & Guides
+URL: https://alleastbayproperties.com/blog-archive/
+Description: In-depth guides on California rental law, rent control, tenant rights, and East Bay property management — written for Oakland, Berkeley & Emeryville landlords.
+Last Updated: 2025-11-26
+
+### Bay Street
+URL: https://alleastbayproperties.com/homes-for-rent/bay-street/
+Description: Bay Street Emeryville. Shopping, Entertainment and Residential Apartments and Condos.
+Last Updated: 2015-11-13
+
+### Berkeley Property Management That Handles the Hard Parts
+URL: https://alleastbayproperties.com/property-management-services/property-management-in-berkeley/
+Description: Expert property management in Berkeley: tenant placement, rent collection, maintenance & Rent Board compliance. Maximize ROI. Free analysis!
+Last Updated: 2025-10-29
+
+### Bridgewater
+URL: https://alleastbayproperties.com/homes-for-rent/bridgewater/
+Description: Discover Bridgewater in the East Bay: Spacious 2-3 bed apartments for rent starting at $2,500/mo. Modern amenities, pet-friendly, prime Emeryville location. Schedule a viewing with All East Bay Properties today
+Last Updated: 2017-03-10
+
+### Buyer Agent Services
+URL: https://alleastbayproperties.com/buyer-agent-services/
+Description: Expert East Bay home buying services with 20+ years local experience. Navigate new commission rules and find your perfect Bay Area home with professional buyer representation.
+Last Updated: 2025-08-20
+
+### California Security Deposit Deductions: What Landlords Can (and Cannot) Charge
+URL: https://alleastbayproperties.com/security-deposit-deductions-california/
+Description: What can a landlord deduct from a California security deposit? Covers normal wear vs. damage, AB 2801 photo documentation, the 21-day deadline, and Oakland/Berkeley local rules.
+Last Updated: 2026-05-26
+
+### City Limits
+URL: https://alleastbayproperties.com/homes-for-rent/city-limits/
+Description: Discover modern apartments at City Limits in Emeryville, CA. Pet-friendly, waterfront views, in-unit laundry, near Bay Street. Tour today!
+Last Updated: 2015-11-13
+
+### Communities
+URL: https://alleastbayproperties.com/communities/
+Description: Explore premium East Bay communities in Emeryville, Oakland & Berkeley. Marina living, high-rise luxury, modern lofts & historic conversions.
+Last Updated: 2015-04-23
+
+### Contact Us
+URL: https://alleastbayproperties.com/contact-us/
+Description: Still have questions? We have answers. You can call us (510-450-3800), email us or visit us, and we'll be happy to help. Contact us today!
+Last Updated: 2024-06-21
+
+### Cookie Policy (US)
+URL: https://alleastbayproperties.com/cookie-policy-us/
+Description: Learn about our Cookie Policy at All East Bay Properties. Understand how we use cookies to enhance your browsing experience on our website.
+Last Updated: 2020-02-20
+
+### East Bay Homes for Rent – Quality Properties, Exceptional Service
+URL: https://alleastbayproperties.com/homes-for-rent/
+Description: Find quality East Bay rental homes, condos & apartments in Emeryville, Berkeley, Oakland. Professional property management, credit building benefits & 24/7 tenant portal. Browse rentals today!
+Last Updated: 2016-05-31
+
+### East Bay Landlord Resources: California Rental Law Guides for 2026
+URL: https://alleastbayproperties.com/landlord-resources/
+Description: In-depth guides on rent increases, eviction, habitability, deposits, and fair housing for Oakland, Berkeley, and East Bay landlords. Built from 20+ years managing 600+ units.
+Last Updated: 2026-06-09
+
+### East Bay Property Management — Get a Free Consultation
+URL: https://alleastbayproperties.com/eliminate-rental-property-headaches/
+Description: Ready to hand off your East Bay rental? Tell us about your property and we'll follow up within one business day. Serving Oakland, Berkeley, Emeryville and beyond since 2005.
+Last Updated: 2025-08-15
+
+### East Bay Property Management — Local Experts Since 2005
+URL: https://alleastbayproperties.com/property-management-services/
+Description: Full-service property management in Oakland, Berkeley & Emeryville. RAP & Measure BB compliance, 24/7 maintenance, no setup fees. Free consultation.
+Last Updated: 2025-08-12
+
+### East Bay Property Management Fees: What You Pay, What You Get, and What to Watch Out For
+URL: https://alleastbayproperties.com/property-management-services/property-management-fees-east-bay/
+Description: AEBP charges 6–8% of monthly rent — no setup fee, no maintenance markup, no renewal fee, no cancellation penalty. Two fees. See exactly what's included.
+Last Updated: 2026-06-20
+
+### East Bay Property Management Videos
+URL: https://alleastbayproperties.com/videos/
+Description: Short, practical videos for East Bay landlords — California rental law, rent control compliance, tenant rights, and what professional property management looks like day to day.
+Last Updated: 2026-05-27
+
+### East Bay Rental Rules Cheat Sheet — 2026
+URL: https://alleastbayproperties.com/east-bay-rental-rules-cheat-sheet-2026/
+Description: 5 quick rental rules for East Bay Property owners to help you stay compliant and profitable.
+Last Updated: 2026-01-09
+
+### Elevation 22 Emeryville: Luxury Townhomes & Lofts for Rent
+URL: https://alleastbayproperties.com/homes-for-rent/elevation-22-townhomes-lofts/
+Description: Rent a luxury townhome or loft at Elevation 22 Emeryville. 2-3 bedroom condos with attached garages, hardwood floors, and stainless appliances. Walk to Bay Street & Amtrak.
+Last Updated: 2015-11-13
+
+### Emery Bay Village
+URL: https://alleastbayproperties.com/homes-for-rent/emery-bay-village/
+Description: Discover Emery Bay Village rentals in Emeryville, CA – a peaceful 112-unit condo community with mature trees. View 1-3 bed units & apply now!
+Last Updated: 2015-11-13
+
+### Emeryville Warehouse Lofts: Iconic Live-Work Spaces at 1500 Park Avenue
+URL: https://alleastbayproperties.com/homes-for-rent/emeryville-warehouse/
+Description: Discover the historic Emeryville Warehouse Lofts at 1500 Park Avenue, Emeryville, CA 94608. Explore industrial-chic rentals with high ceilings, modern amenities, and a prime Bay Area location. Sign up for availability alerts!
+Last Updated: 2015-11-13
+
+### Frequently Asked Questions
+URL: https://alleastbayproperties.com/frequently-asked-questions/
+Description: East Bay property management FAQs: transparent fees, Oakland to Pinole service area, tenant screening, 24/7 maintenance & owner portal. Free consult!
+Last Updated: 2025-10-25
+
+### Get a FREE Home Buyer Consultation
+URL: https://alleastbayproperties.com/free-home-buyer-consultation/
+Description: Free East Bay home buyer consultation with 20+ years local expertise. Get personalized market analysis, expert negotiation, and transparent commission info.
+Last Updated: 2025-08-20
+
+### Get Your First Month of Property Management FREE
+URL: https://alleastbayproperties.com/nextdoor/
+Description: Get Your First Month of Property Management FREE! Trusted by 600+ East Bay landlords for over 20 years. No setup fees. No hidden costs. Cancel anytime.
+Last Updated: 2026-02-05
+
+### Green City Lofts
+URL: https://alleastbayproperties.com/homes-for-rent/green-city-lofts/
+Description: Green City Lofts. Environmentally friendly homes in Emeryville designed with efficiency in mind.
+Last Updated: 2015-11-13
+
+### Home Valuation
+URL: https://alleastbayproperties.com/home-valuation/
+Description: Get Your FREE Home Valuation! Discover what your East Bay property is worth with our expert market analysis
+Last Updated: 2025-08-17
+
+### Let’s Talk About Your Property
+URL: https://alleastbayproperties.com/lets-talk/
+Description: No long forms. No pressure. Just a quick conversation about what's happening with your rental property — and whether professional management makes sense for…
+Last Updated: 2026-04-14
+
+### Life in the East Bay
+URL: https://alleastbayproperties.com/life-in-the-east-bay/
+Description: Just a stones through from San Francisco, life in the East Bay offers affordable housing options than you might not find in the "city". But it also offers its own unique Style. There is a vibrant Arts community, fantastic Foodie hangouts, unique events, and much more.
+Last Updated: 2015-04-23
+
+### Listing Details
+URL: https://alleastbayproperties.com/listing-detail/
+Description: View available rental homes in the East Bay. Browse updated listings with photos, pricing, amenities & virtual tours. Apply online. Pet-friendly options available.
+Last Updated: 2025-06-29
+
+### Looking for Super Agents – We’re Hiring!
+URL: https://alleastbayproperties.com/looking-super-agents-hiring/
+Description: Join All East Bay Properties in Emeryville, CA. Experienced real estate agents wanted. Fantastic commission split, no desk fees, no admin fees. Call 510-450-3807.
+Last Updated: 2017-03-20
+
+### Maintenance Requests
+URL: https://alleastbayproperties.com/maintenance-requests/
+Description: 24/7 maintenance requests for All East Bay Properties tenants. Submit online, track progress, upload photos. Easy mobile app access. Professional service vendors.
+Last Updated: 2017-03-23
+
+### More In This Series
+URL: https://alleastbayproperties.com/series-archive/
+Description: More posts from our property management series covering topics from Fair Housing to Move-in Move-outs, Rent Control to Maintenance...
+Last Updated: 2026-05-24
+
+### Oakland Fair Chance Access to Housing Ordinance
+URL: https://alleastbayproperties.com/oakland-fair-chance-2/
+Description: OAKLAND LAW PROHIBITS RENTAL DISCRIMINATION BASED ON CRIMINAL HISTORY Fair Chance Access to Housing Ordinance No. 13581 C.M.S. (O.M.C. 8.25)
+Last Updated: 2020-06-16
+
+### Oakland Property Management That Keeps You Compliant
+URL: https://alleastbayproperties.com/property-management-services/property-management-in-oakland/
+Description: AEBP has managed Oakland rentals since 2005. RAP registration, Fair Chance compliance, just cause eviction guidance, and 24/7 maintenance. Free owner consultation.
+Last Updated: 2025-10-31
+
+### Online Payments
+URL: https://alleastbayproperties.com/online-payments/
+Description: Pay rent online 24/7 with All East Bay Properties. Secure eCheck, credit card, Apple Pay & cash payment options available. Access your tenant portal for instant rent payments today.
+Last Updated: 2017-03-22
+
+### Our Team
+URL: https://alleastbayproperties.com/our-team/
+Description: Our Team - All East Bay Properties. Exceptional real estate and property management services throughout the San Francisco East Bay.
+Last Updated: 2024-06-21
+
+### Owner Statements
+URL: https://alleastbayproperties.com/owner-statements/
+Description: Access your East Bay rental property statements 24/7 through our secure owner portal. View monthly financials, cash flow reports, work orders & tax documents online.
+Last Updated: 2017-03-23
+
+### Pacific Park Plaza
+URL: https://alleastbayproperties.com/homes-for-rent/pacific-park-plaza/
+Description: Pacific Park Plaza. 6363 Christie Ave. Emeryville. Luxury 30 story high-rise with bay and hills views. Pool, gym, 24-hour security and more.
+Last Updated: 2015-04-23
+
+### Privacy Policy
+URL: https://alleastbayproperties.com/privacy-policy/
+Description: All East Bay Properties privacy policy. Learn how we collect, use, and protect your personal information when you use our real estate website and services.
+Last Updated: 2017-07-08
+
+### Property Management In Emeryville
+URL: https://alleastbayproperties.com/property-management-services/property-management-in-emeryville/
+Description: Expert property management in Emeryville with 20+ years local experience. No rent control, premium tenants, 21-day average lease-up. Your trusted Emeryville property manager. Call 510-450-3800.
+Last Updated: 2025-11-01
+
+### Property Management In Richmond
+URL: https://alleastbayproperties.com/property-management-services/property-management-in-richmond/
+Description: Expert property management in Richmond, CA. Full compliance with rent control, just cause eviction laws & registration. 20+ years serving East Bay landlords.
+Last Updated: 2026-07-26
+
+### Sell Your East Bay Home
+URL: https://alleastbayproperties.com/sell-my-home/
+Description: Sell your East Bay home with expert local agents. 20+ years experience in Emeryville, Oakland, Berkeley. Free home valuation, professional marketing & maximum results guaranteed.
+Last Updated: 2015-04-23
+
+### The Terraces at Emerystation: Luxury Condos for Rent & Sale in Emeryville, CA
+URL: https://alleastbayproperties.com/homes-for-rent/emeryville-luxury-condos-the-terraces-at-emerystation/
+Description: Discover The Terraces at Emerystation - luxury condos for rent & sale in Emeryville. Modern lofts near Bay Street, BART & San Francisco. Tour today!
+Last Updated: 2026-02-04
+
+### Watergate
+URL: https://alleastbayproperties.com/homes-for-rent/watergate/
+Description: Discover luxury Watergate condos for rent in Emeryville. Marina-style living with heated pools, gym, tennis courts, 24-hour security. Browse available rentals from $2,200+
+Last Updated: 2015-04-23
+
+### What People Are Saying
+URL: https://alleastbayproperties.com/online-reviews/
+Description: Read real reviews from real clients about their experiences with our services. Discover why we’re the trusted choice in property management!
+Last Updated: 2025-10-05
+
+
+## BLOG POSTS
+
+*Showing most recent 25 posts. For complete archive, visit: https://alleastbayproperties.com/blog-archive/*
+
+### Thursday Tip: Your Lease Doesn’t Need a Renewal to Keep Working
+URL: https://alleastbayproperties.com/thursday-tip-lease-renewal-not-required/
+Description: Under California law, a fixed-term lease converts to month-to-month automatically if the tenant stays and you accept rent. Here's what that means for your notice periods.
+Last Updated: 2026-08-06
+
+### California Lease Renewals 2026: Notice Requirements, Rent Increases & What Landlords Often Get Wrong
+URL: https://alleastbayproperties.com/california-lease-renewals-2026/
+Description: How much notice is required to end or renew a lease in California? 2026 rules for month-to-month conversion (Civil Code §1945), rent-increase timing, and just-cause protection at renewal in Oakland and Berkeley.
+Last Updated: 2026-08-03
+
+### Thursday Tip: Your FAIR Plan Policy Isn’t Full Coverage
+URL: https://alleastbayproperties.com/fair-plan-coverage-gap-dic-wrap/
+Description: FAIR Plan only covers fire and wildfire damage. Here's why East Bay rental property owners need a separate DIC policy for liability, theft, and water damage.
+Last Updated: 2026-07-30
+
+### The Insurance Squeeze: What East Bay Landlords Need to Know About California’s 2026 Homeowners Insurance Crisis
+URL: https://alleastbayproperties.com/california-rental-property-insurance-crisis-2026/
+Description: FAIR Plan rates jump 29.1% this October and the wildfire non-renewal moratorium has expired. Here's what East Bay rental property owners need to know before their next renewal.
+Last Updated: 2026-07-27
+
+### Thursday Tip: Before You Switch Managers, Confirm Who’s Actually Holding the Deposit
+URL: https://alleastbayproperties.com/thursday-tip-who-holds-the-security-deposit/
+Description: When you switch property managers, don't assume the deposit is in a trust account. Confirm who's actually holding it before you call the transition done.
+Last Updated: 2026-07-23
+
+### How to Switch Property Managers in California Without Losing a Tenant or Violating Your Lease
+URL: https://alleastbayproperties.com/how-to-switch-property-managers-california/
+Description: Switching property managers in California: the termination notice, the tenant notice the law requires, and the deposit and records handoff owners miss.
+Last Updated: 2026-07-20
+
+### Thursday Tip: The 3-Month Reserve Rule Most Landlords Skip
+URL: https://alleastbayproperties.com/thursday-tip-3-month-reserve-rule/
+Description: Before hiring a property manager, ask about reserve requirements. AEBP requires 3 months' rent set aside per property — here's why it matters.
+Last Updated: 2026-07-16
+
+### What’s Actually in an East Bay Property Management Agreement (And What to Ask Before You Sign)
+URL: https://alleastbayproperties.com/east-bay-property-management-agreement-explained/
+Description: An AEBP onboarding packet includes 9 documents beyond the fee — spending limits, tax withholding, and a risk disclosure most owners skip reading. Here's what's in each one.
+Last Updated: 2026-07-13
+
+### Thursday Tip: The 3 Questions to Ask Before You Hire a Property Manager
+URL: https://alleastbayproperties.com/thursday-tip-3-questions-before-hiring-property-manager/
+Description: Before hiring an East Bay property manager, ask about licensing, rent control experience, and maintenance markups. Here's why each question matters.
+Last Updated: 2026-07-09
+
+### East Bay Rent Cap Update: New 2026–2027 Increase Limits for AB 1482, Oakland, Berkeley & Richmond
+URL: https://alleastbayproperties.com/east-bay-rent-cap-update-2026-2027/
+Description: AB 1482 rises to 8.8%, Oakland to 2.3%, Richmond drops to 1.5%, and Berkeley holds at 1.0%. See all four confirmed East Bay rent cap rates and effective dates.
+Last Updated: 2026-07-08
+
+### What Does a Property Manager Actually Do? An East Bay Landlord’s Guide
+URL: https://alleastbayproperties.com/what-does-a-property-manager-do-east-bay/
+Description: Leasing, screening, compliance, maintenance, accounting — here's exactly what an East Bay property manager handles day to day, and how to spot a good one.
+Last Updated: 2026-07-06
+
+### Thursday Tip: The Vacancy Gap You’re Not Tracking
+URL: https://alleastbayproperties.com/thursday-tip-the-vacancy-gap-youre-not-tracking/
+Description: The real comparison includes vacancy days, after-hours vendor premiums, and compliance time — costs that don't show up on any invoice
+Last Updated: 2026-07-02
+
+### Is a Property Manager Worth It? The Real Math for East Bay Landlords
+URL: https://alleastbayproperties.com/is-a-property-manager-worth-it-east-bay-landlords/
+Description: Is hiring a property manager worth the cost in Oakland or Berkeley? We break down the real numbers — time, vacancy, compliance risk, and fees — so you can decide.
+Last Updated: 2026-06-29
+
+### Thursday Tip: Your 21-Day Deposit Clock Starts When the Tenant Leaves
+URL: https://alleastbayproperties.com/thursday-tip-21-day-deposit-clock-start-2026/
+Description: The 21-day deposit return clock starts when your tenant vacates — not when the lease ends. One wrong date can cost you every deduction.
+Last Updated: 2026-06-25
+
+### California’s 21-Day Security Deposit Return Law: What Landlords Must Do (and When)
+URL: https://alleastbayproperties.com/california-21-day-security-deposit-return-law-2026/
+Description: California landlords have 21 calendar days to return a security deposit after move-out. Here's when the clock starts, what to include, and what a missed deadline actually costs you.
+Last Updated: 2026-06-22
+
+### Oakland Just Cause Eviction: Legal Grounds, Notice Requirements & What Landlords Must Know (2026)
+URL: https://alleastbayproperties.com/oakland-just-cause-eviction-grounds-2026/
+Description: Oakland landlords cannot evict without just cause — and Oakland's list of permitted grounds is stricter than California state law. Covers all 14 Oakland just-cause grounds, AB 1482, owner move-in rules, Ellis Act, and required notices.
+Last Updated: 2026-06-18
+
+### Thursday Tip: The Photo You Must Take Before Your Cleaning Crew Arrives
+URL: https://alleastbayproperties.com/thursday-tip-ab2801-move-out-photos-2026/
+Description: California's AB 2801 requires move-out photos before any cleaning begins. The legal baseline closes the moment your vendor walks in — here's the one rule that makes compliance automatic.
+Last Updated: 2026-06-18
+
+### Move-Out Photos in California: What AB 2801 Requires (2026)
+URL: https://alleastbayproperties.com/move-out-inspection-photos-california/
+Description: California's AB 2801 requires dated move-out photos before deducting from a security deposit. Here's exactly what to document — and what happens if you don't.
+Last Updated: 2026-06-15
+
+### Thursday Tip: The California Proration Rule That Costs Landlords in Small Claims Court
+URL: https://alleastbayproperties.com/california-security-deposit-proration-rule-landlords/
+Description: California courts apply the proration rule to deposit damage claims whether the landlord does or not. Here's what it means for your deductions and what to document at move-in.
+Last Updated: 2026-06-11
+
+### Normal Wear and Tear vs. Damage: The California Landlord’s Guide to Security Deposit Deductions (2026)
+URL: https://alleastbayproperties.com/california-security-deposit-deductions-wear-and-tear-2026/
+Description: What can a California landlord deduct from a security deposit? Covers normal wear and tear, deductible damage, proration, the 21-day deadline, and AB 2801 photo requirements.
+Last Updated: 2026-06-08
+
+### The Pre-Move-Out Inspection Protects Your Deposit Claim — But Only If You Offer It
+URL: https://alleastbayproperties.com/thursday-tip-pre-move-out-inspection-protects-deposit-claim-2026/
+Description: California law requires a written pre-move-out inspection offer before a tenant leaves. Skip it and you may forfeit deposit deductions — even for real, documented damage.
+Last Updated: 2026-06-04
+
+### California Tenant Move-Out: The Complete Landlord Checklist for 2026
+URL: https://alleastbayproperties.com/california-tenant-move-out-checklist-landlords-2026/
+Description: California landlord move-out checklist for 2026: pre-move-out inspection rules, AB 2801 photo requirements, 21-day deposit deadline, and Oakland/Berkeley local rules.
+Last Updated: 2026-06-01
+
+### The AB 1482 Exemption That Isn’t There — Because Nobody Served the Notice
+URL: https://alleastbayproperties.com/the-ab-1482-exemption-that-isnt-there-because-nobody-served-the-notice/
+Description: The AB 1482 single-family exemption isn't automatic. Without a properly served written notice, you may not be able to claim it when it matters most.
+Last Updated: 2026-05-28
+
+### California Landlord Protections & Self-Help Eviction Risks: What You Can (and Absolutely Cannot) Do (2026)
+URL: https://alleastbayproperties.com/landlord-owner-protections-self-help-eviction-california-2026/
+Description: California law gives landlords real protections. It also draws lines you cannot cross. Here's what East Bay owners can do — and what will cost them dearly.
+Last Updated: 2026-05-25
+
+### The Court Says You Win. Now Wait 2–4 More Weeks.
+URL: https://alleastbayproperties.com/alameda-county-sheriff-eviction-queue-timeline-2026/
+Description: Winning your UD case in court doesn't mean the eviction is over. The Alameda County Sheriff's queue adds 2–4 weeks before they even post the 5-day notice. Here's what to plan for.
+Last Updated: 2026-05-21
+
