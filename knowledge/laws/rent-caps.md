@@ -2,16 +2,22 @@
 title: Rent Cap Figures — AB 1482, Oakland RAP, Berkeley AGA, Richmond AGA
 doc_type: informative
 owner: Brian
-last_verified: 2026-07-07
-next_review: 2026-08-01
-review_frequency: as-changed (see Currency note)
+last_verified: 2026-08-09
+next_review: 2026-11-01
+next_review_by_jurisdiction:
+  ab_1482_statewide: 2027-08-01
+  oakland_rap: 2027-08-01
+  berkeley_aga: 2026-11-01
+  richmond_aga: 2027-06-01
+review_frequency: as-changed (see Currency note; per-jurisdiction dates above — the file-level next_review is the earliest of the four, so nothing in this file goes stale silently)
 authority: Statute / Local Ordinance
 confidence: Mixed — see per-figure confidence below
-review_method: Manual, cross-checked against primary sources
+review_method: Manual, cross-checked against primary sources; re-verified 2026-08-09 against live Oakland, Berkeley, and Richmond city pages during Pre-Publish Audit of post 8801
 source:
   - https://www.bls.gov/regions/west/news-release/consumerpriceindex_sanfrancisco.htm
   - https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1947.12.&lawCode=CIV
   - https://www.oaklandca.gov/Community/Housing-Programs-Support/For-Landlords/Allowable-Rent-Increases/Learn-More-About-Allowable-Rent-Increases
+  - https://www.oaklandca.gov/Community/Housing-Programs-Support/Rent-Adjustment-Program-RAP
   - https://rentboard.berkeleyca.gov/elected-rent-board/news/2026-aga-published-and-2025-security-deposit-interest-payment-due-soon
   - https://caanet.org/where-are-the-new-cpi-figures-for-rent-increases-under-ab-1482-5/
   - https://www.ci.richmond.ca.us/3376/Rent-Increase
@@ -72,3 +78,5 @@ Not previously captured in this file, surfaced by the same 2026-07-07 review. Pe
 ## Currency note (EVD-CURRENCY-CHECK)
 
 AB 1482 and Oakland RAP are both tied to the annual April-to-April CPI cycle and change every August 1 — re-verify before citing in any post published after **August 1, 2026**, and again after **August 1, 2027**. Berkeley runs on a separate calendar-year cycle (see above) — re-check around **Q4 2026** for the 2027 AGA. Richmond runs on a September-to-August cycle — re-check around **Q2 2027** for the next AGA announcement.
+
+**2026-08-09 re-verification:** this file's frontmatter `next_review` (2026-08-01) had lapsed by the time post 8801 (Week 2 Monday cornerstone) was drafted and reviewed, which technically put that draft under `EVD-BLOCK-PENDING-VERIFICATION` until re-checked. Live-verified during that post's Pre-Publish Audit: Oakland's official RAP page confirms 2.3% effective August 1, 2026; Berkeley Rent Board confirms 1.0% for calendar 2026; Richmond's Rent Increase page now renders correctly (the JavaScript-rendering tooling gap noted below, from 2026-07-07, appears resolved as of this check) and directly confirms 1.5%. All four figures in the tables above are unchanged and confirmed current as of this date. Frontmatter updated to per-jurisdiction `next_review` dates (see above) so a single lapsed date doesn't block unrelated content in the future — e.g. a Berkeley-only post shouldn't be blocked by an Oakland/AB 1482 date that hasn't actually lapsed, and vice versa.
