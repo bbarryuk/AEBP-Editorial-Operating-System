@@ -2,7 +2,7 @@
 title: Richmond Rent Program — Coverage, Fees, Just Cause, Relocation
 doc_type: informative
 owner: Brian
-last_verified: 2026-07-25
+last_verified: 2026-08-13
 next_review: 2026-09-01
 review_frequency: as-changed (see Currency note)
 authority: Local Ordinance / City Program
@@ -17,6 +17,7 @@ source:
   - https://www.ci.richmond.ca.us/2101/Rental-Inspection-Program
   - https://www.ci.richmond.ca.us/4832/Billing
   - https://library.municode.com/ca/richmond/codes/code_of_ordinances?nodeId=ARTXIPUSAWE_CH11.100FAREJUCAEVHOPR
+  - https://www.ci.richmond.ca.us/DocumentCenter/View/62636/082022-Rights-and-Responsibilities-PP-Presentation_English_FINAL (new-tenancy AGA eligibility rule, added 2026-08-13)
   - knowledge/laws/rent-caps.md (AGA rate — this file defers to that one rather than restating)
 ---
 
@@ -102,6 +103,18 @@ Enforcement: a failed inspection results in an inspection fail notice with a com
 - **Banked (deferred) increases:** a landlord may apply the current AGA plus up to 5% of previously deferred AGAs in a single year — Regulation 602's banking limit. This combined cap moves with the AGA every year (6.5% for the Sept 2026–Aug 2027 cycle at the current 1.5% AGA; was 6.62% the prior cycle at 1.62%). Never hardcode "6.5%" as a standing constant — always state which cycle it applies to.
 - **Notice:** 30 days for increases ≤10%; 90 days for increases >10% (Civil Code §827). Notice + Proof of Service must be filed with the Rent Program within **10 business days** of service on the tenant. Properties with more than 5 units must file via the online portal (Excel upload); 5 or fewer units may mail a hard copy to 440 Civic Center Plaza, Suite 200.
 
+### New-tenancy AGA eligibility delay — not previously captured in this file
+
+Gap surfaced 2026-08-13 by ChatGPT's Pre-Publish Audit of post 8842 (Week 3 Monday cornerstone, "Month-to-Month Rent Increases in California"), which flagged that Richmond has a new-tenancy eligibility requirement for the AGA that this file didn't document anywhere. Independently confirmed the same day via a direct fetch of the City of Richmond's own "Rights and Responsibilities for Landlords and Tenants" presentation (`ci.richmond.ca.us/DocumentCenter/View/62636/082022-Rights-and-Responsibilities-PP-Presentation_English_FINAL`), direct quote:
+
+> "The tenancy must exist for at least one full calendar year prior to the September 1 of the following year to implement that year's AGA. For example, if a tenancy began in February 2020, the first AGA may be taken on September 1, 2021."
+
+**Confidence: Level 1 (required by local ordinance, City-published) — confirmed 2026-08-13.** Practical effect: a tenancy has to have existed for a full year *before* the September 1 that starts a given AGA cycle to qualify for that cycle's increase. A tenancy that starts anytime after a given year's September 1 typically won't reach its first eligible AGA for close to two years — it misses the next September 1 (not yet a full year old) and has to wait for the one after that. This is a distinct requirement from the once-per-12-months frequency question and from the Base Rent definition above — it governs whether a brand-new tenancy is AGA-eligible *at all* yet, not how much or how often once it is.
+
+This is the same category of rule Berkeley and Oakland each have in their own form (see `rent-caps.md`) — all three of AEBP's local rent-control jurisdictions delay a brand-new tenancy's first increase, on three different clocks. Don't describe this as Berkeley-specific or assume AB 1482 has an equivalent; AB 1482 doesn't need one, since the very first rent charged to a new tenant isn't regulated at all under the statewide cap.
+
+**Source note:** the presentation this is sourced from is dated August 2022 in its filename; the underlying eligibility mechanic (tied to Regulation 602/615's Base Rent and AGA structure) is structural rather than rate-cyclical, so there's no reason to expect it's changed, but it hasn't been cross-checked against a second, more recent Richmond source yet. Re-verify against a live rendered fetch of `ci.richmond.ca.us/3376/Rent-Increase` (or a fresh document request to the Rent Program) the next time this file is touched, given the known JS-rendering tooling gap logged below prevented a direct check of that page this session.
+
 ## Just cause for eviction (RMC 11.100.050)
 
 Eight causes, in the city's own order (confirmed against the Termination of Tenancy page text directly, 2026-07-25):
@@ -153,3 +166,4 @@ Several official Richmond pages (`ci.richmond.ca.us/3376/Rent-Increase`, `/2101/
 - RRIP: amended January 2025 — no known pending change, but re-check if a post is drafted more than ~12 months after this file's `last_verified` date.
 - All FY 2025-2026 dollar figures (Business License %, RRIP fees, Fire Prevention tiers, Residential Rental Housing Fee): sourced from a document that is explicitly fees "as of July 1, 2025... subject to change without notice." Re-verify against the FY 2026-2027 summary once the city publishes it (that cycle typically follows the same July 1 pattern) — don't assume these dollar amounts hold past June 30, 2026.
 - Relocation amounts: **re-check before every use** until the city publishes 2026 figures (delayed by the BLS CPI shutdown gap above) — this is the one fact in this file on a genuinely unpredictable timeline right now.
+- New-tenancy AGA eligibility delay (added 2026-08-13): sourced from an August 2022 city presentation, not yet cross-checked against a second, more recent source. Re-verify against a live rendered fetch of the city's Rent Increase page (or a direct Rent Program document request) the next time this file is touched.
