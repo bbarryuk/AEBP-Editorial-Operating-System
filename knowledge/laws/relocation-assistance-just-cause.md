@@ -27,7 +27,7 @@ Existed for one reason: a Week 4 Monday cornerstone draft (post 8883, "Ending a 
 
 ## The core point: AB 1482's one-month figure is a statewide floor, not what most AEBP-service-area cities actually require
 
-Where no local ordinance applies, AB 1482 (Civil Code §1946.2) requires relocation assistance equal to one month's rent, or an equivalent rent waiver, for a no-fault just-cause termination. But **Oakland, Berkeley, and Emeryville each have their own relocation ordinances that supersede this figure for covered units** — and all three are substantially larger than one month's rent in most cases. A post or answer that states "$one month's rent" as the relocation figure for an Oakland, Berkeley, or Emeryville property is very likely wrong.
+Where no local ordinance applies, AB 1482 (Civil Code §1946.2) requires relocation assistance equal to one month's rent, or an equivalent rent waiver, due within 15 calendar days of the termination notice being served. But **Oakland, Berkeley, and Emeryville each have their own relocation ordinances (and their own payment timing) that supersede this figure for covered units** — often substantially larger than one month's rent, but not universally: Emeryville's small-landlord tier (4 units or fewer) is the greater of one month's HUD Fair Market Rent or one month's actual rent, which can land at or near AB 1482's own one-month figure rather than clearly above it. **Correction (2026-08-23, per ChatGPT pre-publish audit — see `tests/legal/TEST-LEGAL-007.md`):** don't describe the local-ordinance amounts categorically as "larger" — say "their own local relocation rules and amounts, which can be substantially higher than AB 1482's baseline" instead, so Emeryville's small-landlord case isn't misstated. A post or answer that states "one month's rent" as the relocation figure for an Oakland, Berkeley, or Emeryville property without checking the applicable local ordinance is very likely wrong — but so is a blanket claim that the local figure is always larger.
 
 ## Oakland — Uniform Residential Tenant Relocation Ordinance
 
@@ -44,6 +44,8 @@ For the period **August 1, 2025 – July 31, 2026** (the ordinance adjusts annua
 Plus an **additional $2,500 per unit** if the household includes a lower-income tenant, someone 60 or older, a disabled person, or minor children.
 
 Payment is split: the first half is due within 15 calendar days of serving the termination notice, the second half within 15 calendar days of the tenant vacating.
+
+**Ground-by-ground note (added 2026-08-23):** Oakland doesn't have one uniform relocation rule for every no-fault termination — owner/relative move-in, Ellis Act withdrawal, and code-compliance-required displacement each have their own City program and provisions (see `oaklandca.gov`'s Code Compliance Relocation Program page, distinct from the Uniform Residential Tenant Relocation Ordinance page). Content should say "the applicable Oakland amount and payment procedure depend on the termination ground" rather than presenting the URTRO schedule above as the single answer for every Oakland no-fault termination.
 
 **Currency flag:** this file's `last_verified` date (2026-08-19) is *after* the cited cycle's own end date (July 31, 2026) — meaning an updated August 2026–July 2027 figure should exist but was not found via web search this session (no city page or legal-practice summary surfaced a confirmed new figure as of this check). **Do not cite these exact dollar amounts in new content without re-verifying against a live `oaklandca.gov` source first** — treat this as `EVD-BLOCK-PENDING-VERIFICATION` for the specific dollar figures (the *existence* of Oakland's much-larger-than-AB-1482 relocation ordinance is well-corroborated and safe to state; the *current* dollar amounts are not, until re-checked).
 
@@ -74,6 +76,15 @@ Two points, both distinct from Oakland's and Berkeley's ordinances:
    Payment is due by the last day of the tenancy for which the landlord received rent.
 
 Brian's shorthand ("Emeryville always requires 1 month for no-cause") reflects the small-landlord tier, which likely covers most of AEBP's Emeryville portfolio — but the ordinance itself sets a materially larger figure for any landlord with more than 4 units, and content should represent both tiers rather than flattening to "one month" universally.
+
+## Payment timing by jurisdiction (added 2026-08-23 — gap flagged by ChatGPT pre-publish audit)
+
+Amount and timing are two separate things to check, and this file previously only documented timing for Oakland and Emeryville. Full picture:
+
+- **AB 1482 statewide baseline:** due within **15 calendar days of service** of the termination notice (Civil Code §1946.2). This is a firm statutory deadline, not "at the time of service" — content describing it as paid simultaneously with service is not accurate. (Confirmed against the statute text directly, 2026-08-23.)
+- **Oakland (URTRO):** split payment — first half within 15 calendar days of serving notice, second half within 15 calendar days of the tenant vacating (see above).
+- **Berkeley:** exact payment-timing deadline for Berkeley's no-fault relocation program has **not** been independently confirmed in this file — don't assert a specific deadline for Berkeley without checking the Rent Board's own page first. Treat as `EVD-BLOCK-PENDING-VERIFICATION` for timing specifically (the dollar amounts above ARE confirmed; the payment deadline is not).
+- **Emeryville:** due by the last day of the tenancy for which the landlord received rent (see above) — not tied to service of the notice the way AB 1482 and Oakland are.
 
 ## Practical implication for termination/relocation content
 

@@ -2,7 +2,7 @@
 title: Fixed-Term Lease Expiration, Holdover Conversion, and Just-Cause Interaction
 doc_type: informative
 owner: Brian
-last_verified: 2026-08-01
+last_verified: 2026-08-23
 next_review: n/a (no cyclical figure here — re-check only if Civil Code §1945, §1946.1, or §1946.2 are amended)
 review_frequency: as-changed
 authority: Statute / Local Ordinance
@@ -51,7 +51,7 @@ Only *here* does Civil Code §1946.1's 30/60-day no-cause notice rule become rel
 
 This is the piece most likely to get flattened in drafting, and the one that actually caused the TEST-LEGAL-005 failure.
 
-- **Statewide (AB 1482 / Civil Code §1946.2):** once the occupancy threshold is met, just cause is required to terminate the tenancy — lease expiration by itself is not one of the recognized at-fault or no-fault grounds. The threshold is **12 continuous months** for all tenants under the same household, **or 24 months** if an additional adult tenant was added to the lease before the original tenant(s) reached the 12-month mark (this prevents a landlord from resetting the clock by adding a roommate to the lease). Before the threshold is met, a no-cause termination with proper notice is still permitted for AB 1482 purposes.
+- **Statewide (AB 1482 / Civil Code §1946.2):** once the occupancy threshold is met, just cause is required to terminate the tenancy — lease expiration by itself is not one of the recognized at-fault or no-fault grounds. The threshold is **12 continuous months** for all tenants under the same household. **Correction (2026-08-23, per ChatGPT pre-publish audit of posts 8883/8885 — see `tests/legal/TEST-LEGAL-007.md`):** the added-tenant wrinkle is NOT "the threshold becomes 24 months, measured from the original tenant's move-in." The statute (Civil Code §1946.2(a)(1)) actually sets up an either/or test: if an additional adult tenant is added to the lease *before an existing tenant has occupied the unit for 24 months*, just cause applies once **either** (1) all tenants have continuously and lawfully occupied the unit for 12 months or more, **or** (2) at least one tenant has continuously and lawfully occupied it for 24 months or more — whichever happens first. In practice this usually means coverage attaches at whichever tenant hits the 12-month mark first (counting from when *they* moved in), not at a flat 24 months from the original tenant's move-in date. Do not describe this as the threshold "becoming" or "shifting to" 24 months, and do not state that the rule exists "so a landlord can't reset the clock by adding a roommate" — the statute's text doesn't say that, and the phrase invites exactly the oversimplified reading this correction fixes. Before either condition is met, a no-cause termination with proper notice is still permitted for AB 1482 purposes.
 - **Oakland (Just Cause for Eviction Ordinance, OMC 8.22.360):** applies to covered units **from day one** of the tenancy — no 12-month wait, unlike the state law. Lease expiration is not among the ordinance's permitted grounds for covered units.
 - **Berkeley (Rent Stabilization Ordinance, BMC Ch. 13.76):** same day-one-coverage pattern as Oakland for covered units. Expiration of a lease term is not, by itself, good cause to end the tenancy.
 
