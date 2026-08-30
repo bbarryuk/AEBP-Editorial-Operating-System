@@ -2,7 +2,7 @@
 title: Confirmed AEBP-Specific Anecdotes and Observations Log
 doc_type: informative
 owner: Brian
-last_verified: 2026-08-23
+last_verified: 2026-08-29
 next_review: as-needed (append on each new confirmed anecdote; no cyclical figure to re-check)
 review_frequency: as-changed
 authority: Internal
@@ -29,6 +29,38 @@ Existed for one reason: `GATE-ANECDOTE-INTEGRITY` requires that any AEBP-specifi
 **Used in:** Post 8883 ("Ending a Month-to-Month Tenancy in California," blog, "What We See Managing East Bay Rentals" section) and its companion video page, post 8885 (Video Script block). Also referenced in `knowledge/laws/relocation-assistance-just-cause.md`'s practical-implication framing.
 
 **Underlying legal point the anecdote supports:** paying (or offering) relocation assistance satisfies a notice requirement but does not, by itself, guarantee voluntary possession — a tenant can refuse the assistance and stay, pushing the matter toward a full unlawful detainer action. This point is independently sound regardless of the specific anecdote (it follows from relocation assistance being a payment obligation, not a buyout contract), but the anecdote itself is what makes it a first-person AEBP observation rather than generic advice.
+
+### 2026-08-26 — Berkeley new-client Rent Board registration penalty deal (Berkeley PM page refresh)
+
+**Claim as published:** AEBP onboarded a new client who owned multi-unit Berkeley properties that had never been registered with the Rent Board. The city offered to reduce the penalties owed, but the deal had a firm deadline and required an in-person visit to pay the reduced fees before it expired. The Rent Board was not sympathetic to the owner's situation.
+
+**Confirmed by:** Brian, directly, in the Cowork session drafting the September 2026 content plan and the Berkeley PM page refresh (2026-08-26). Supplied when asked for a real Berkeley-specific practitioner observation, to be used in generalized/anonymized form (no owner name, address, or unit count that would identify the property).
+
+**Used in:** Berkeley PM page refresh (post 2346), "mistake we see most often" / practitioner-observation section.
+
+**Underlying point the anecdote supports:** unregistered Berkeley rental units are a real, discoverable compliance gap AEBP catches at onboarding, and the city's own remediation process (a reduced-penalty deal) can carry a hard, unsympathetic deadline — supporting the broader point that Berkeley's Rent Board enforces registration strictly and doesn't extend grace to landlords who are new to the requirement.
+
+### 2026-08-26 — Berkeley security deposit interest paid as rent-ledger credit, not by check (Berkeley PM page refresh)
+
+**Claim as published:** AEBP rarely holds tenant security deposits directly (owners typically hold them), but where required, AEBP calculates Berkeley's annual deposit interest using the rate the city sets roughly two months before the January 31 payment deadline (around November), and issues it to tenants as a credit on their rent ledger rather than a physical check — because small-value checks tenants forgot to deposit used to end up requiring escheatment to the state after several years.
+
+**Confirmed by:** Brian, directly, in the Cowork session drafting the September 2026 content plan and the Berkeley PM page refresh (2026-08-26). Supplied when asked for a real Berkeley-specific practitioner observation.
+
+**Used in:** Berkeley PM page refresh (post 2346), security-deposit-interest Key Facts line / supporting detail.
+
+**Underlying point the anecdote supports:** Berkeley's security deposit interest requirement (Rent Board-set rate, annual payment) has a real operational wrinkle beyond just calculating the rate — how the payment is delivered matters, and AEBP's ledger-credit approach reflects lived process experience (avoiding uncashed-check escheatment), not just knowledge of the underlying rule. **Note:** the January 31 deadline and the November rate-announcement timing are Brian's own operational description of AEBP's process, not independently verified against a Berkeley Rent Board primary source in this session — if used in a legal-claim context (rather than as a description of AEBP's own practice), verify the January 31 statutory deadline against `rentboard.berkeleyca.gov` before publishing it as a compliance requirement rather than an AEBP-process description.
+
+### 2026-08-26 — Richmond post-purchase business license reminder letter (Richmond PM page refresh)
+
+**Claim as published:** A client who had just purchased a Richmond rental property received a letter directly from the City of Richmond reminding him that a business license is required to operate a rental property there — evidence the city tracks ownership changes on registered units against the public record (deed/title transfer) and follows up proactively, paying closer attention than new owners typically expect.
+
+**Confirmed by:** Brian, directly, in the Cowork session drafting the September 2026 content plan and the Richmond PM page refresh (2026-08-26). Supplied when asked for a real Richmond-specific practitioner observation, to be used in generalized/anonymized form (no owner name, address, or purchase date that would identify the property).
+
+**Used in:** Richmond PM page refresh (post 4480), "mistake we see most often" / practitioner-observation section.
+
+**Underlying point the anecdote supports:** Richmond's Business License Tax (RMC 7.04, due March 1 annually — see `knowledge/laws/richmond-rent-program.md`) is a real, actively-enforced requirement independent of whether a unit is rent-controlled, and a new owner inherits that obligation from day one of ownership, not from their first rent increase or tenant turnover. Brian's broader characterization — Richmond's rent-control information is comparatively well-organized and easy to navigate, and the city actively monitors ownership changes and follows up — is Brian's own comparative assessment, not independently sourced; treat it as AEBP's practitioner view.
+
+**Correction (2026-08-29):** the entry originally also characterized Richmond's day-to-day enforcement as "less aggressive" than Oakland's or Berkeley's. Brian asked that this comparative-aggressiveness framing be removed wherever it appears — both on the published Richmond PM page (post 4480, corrected the same day) and here — because it risked reading as an implication that Richmond landlords can get away with non-compliance. The anecdote itself (the business-license letter) and the "paying attention" framing stay; published content should say nothing about how Richmond's enforcement intensity compares to other cities.
 
 ## Reuse note
 
