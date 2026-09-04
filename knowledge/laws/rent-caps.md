@@ -2,7 +2,7 @@
 title: Rent Cap Figures — AB 1482, Oakland RAP, Berkeley AGA, Richmond AGA
 doc_type: informative
 owner: Brian
-last_verified: 2026-08-12
+last_verified: 2026-09-04
 next_review: 2026-11-01
 next_review_by_jurisdiction:
   ab_1482_statewide: 2027-08-01
@@ -39,7 +39,7 @@ Added 2026-08-12, prompted by ChatGPT's second-pass Pre-Publish Audit of post 88
 |---|---|---|---|---|
 | AB 1482 (statewide) | 5% + CPI, max 10% | Up to 2 increments per 12 months, combined total under the cap | No special waiting period — the *initial* rent on a new tenancy isn't regulated at all, so there's nothing to delay | No statewide banking provision in the source material verified here |
 | Oakland (RAP) | Local AGA (60% of CPI, max 3%) | Exactly 1 increase per 12 months, no exceptions | First increase can't be effective earlier than 12 months after move-in | Yes — multiplicative, capped at 3× the current year's CPI |
-| Berkeley (AGA) | Local AGA (65% of CPI, no stated max in source) | Single annual adjustment | No increase for the rest of the start year plus one full additional calendar year (the longest delay of the three) | Yes — uncapped by any banking-specific percentage, limited only by the unit's legal rent ceiling |
+| Berkeley (AGA) | Local AGA (65% of CPI, capped at 5% — lowered from 7% by Measure BB, Nov 2024) | Single annual adjustment | No increase for the rest of the start year plus one full additional calendar year (the longest delay of the three) | Yes — uncapped by any banking-specific percentage, limited only by the unit's legal rent ceiling |
 | Richmond (AGA) | Local AGA (60% of CPI, max 3%, post-Measure P) | Single annual adjustment | Tenancy must exist a full calendar year before the next September 1 AGA date | Yes — additive, current AGA + up to 5 percentage points of deferred AGAs |
 
 ## AB 1482 (statewide rent cap) — Alameda / Contra Costa
@@ -72,9 +72,21 @@ Not previously spelled out here, surfaced 2026-08-12 while fact-checking ChatGPT
 
 | Period | Formula | Rate | Confidence |
 |---|---|---|---|
-| Jan 1, 2026 – Dec 31, 2026 | 65% of CPI (SF-Oakland-San Jose, Jul 2024–Jun 2025), max not specified in this source | **1.0%** | Confirmed (City-published) |
+| Jan 1, 2026 – Dec 31, 2026 | 65% of CPI (SF-Oakland-San Jose, Jul 2024–Jun 2025), capped at 5% | **1.0%** | Confirmed (City-published) |
 
-**Confidence: Level 1 (required by local ordinance, City-published).** Source: [Berkeley Rent Board, "2026 AGA Published,"](https://rentboard.berkeleyca.gov/elected-rent-board/news/2026-aga-published-and-2025-security-deposit-interest-payment-due-soon) published November 3, 2025. Note the different mechanics from Oakland/AB 1482: Berkeley's AGA runs on a **calendar year** (effective Jan 1, applies to tenancies starting before Jan 1 of the prior year), uses a **different CPI region** (San Francisco-Oakland-San Jose, not San Francisco-Oakland-Hayward) and a **different lookback window** (July–June, not April–April), and is **not eligible** for units with certain registration or habitability violations. Don't reuse the Oakland/AB 1482 Aug 1 "re-verify" date for Berkeley — this rate is stable through Dec 31, 2026 and the next check is whenever a "2027 AGA" announcement would be expected (roughly Q4 2026).
+**Confidence: Level 1 (required by local ordinance, City-published).** Source: [Berkeley Rent Board, "2026 AGA Published,"](https://rentboard.berkeleyca.gov/elected-rent-board/news/2026-aga-published-and-2025-security-deposit-interest-payment-due-soon) published November 3, 2025. Note the different mechanics from Oakland/AB 1482: Berkeley's AGA runs on a **calendar year** (rent ceilings for fully covered units increase each January 1 by the AGA), uses a **different CPI region** (San Francisco-Oakland-San Jose, not San Francisco-Oakland-Hayward) and a **different lookback window** (July–June, not April–April), and is **not eligible** for units with certain registration or habitability violations. Don't reuse the Oakland/AB 1482 Aug 1 "re-verify" date for Berkeley — this rate is stable through Dec 31, 2026 and the next check is whenever a "2027 AGA" announcement would be expected (roughly Q4 2026).
+
+### Berkeley's AGA cap — 5%, lowered from 7% by Measure BB (corrected 2026-09-04)
+
+**This file previously said Berkeley's AGA formula had "no stated max in source." That was wrong, and it produced a factual error in post 9050 (caught by ChatGPT's Pre-Publish Audit) claiming there was "previously no statutory ceiling" before Measure BB.** Verified directly against the Berkeley Rent Board's own AGA page (`rentboard.berkeleyca.gov/rights-responsibilities/rent-levels/annual-general-adjustment`), direct quotes:
+
+> "If this formula produces an AGA that is greater than 5%, the AGA is capped at 5%... this cap was changed by Measure BB from 7% to 5%."
+>
+> "On January 1, the rent ceilings for most units fully covered by the Rent Ordinance increase by the AGA."
+>
+> "If a landlord chooses not to take an AGA rent increase in a given year, they do not lose it. Landlords can 'bank' unused AGAs and then raise the rent to the rent ceiling at any time if they provide the tenant with proper notice, even if the total rent increase exceeds 5%. The 5% AGA cap limits only the AGA percentage set by the elected Rent Board."
+
+**Confidence: Level 1 (required by local ordinance, City-published) — confirmed 2026-09-04.** Three points worth keeping separate when drafting: (1) Berkeley DID have a cap before Measure BB — 7%, not "no ceiling" — Measure BB lowered it to 5%, it didn't create it. (2) January 1 is when the rent *ceiling* rises by the AGA; it is not a rule that every actual tenant rent increase must become effective on January 1 — an eligible landlord can implement an allowable increase later in the year with proper notice (this is the banking mechanism, see below). Don't describe an August-dated increase as inherently using "the wrong effective date" — the actual trap is treating August 1 as Berkeley's *reset* date, which it isn't. (3) The 5% cap applies to the AGA the Board sets each year, not to the maximum a landlord can actually charge — banked prior-year AGAs can push a single year's actual increase above 5%, up to the unit's lawful rent ceiling.
 
 ### Berkeley's new-tenancy AGA delay — no increase in the year the tenancy starts, or the year after
 
