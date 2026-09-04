@@ -2,7 +2,7 @@
 title: Confirmed AEBP-Specific Anecdotes and Observations Log
 doc_type: informative
 owner: Brian
-last_verified: 2026-08-29
+last_verified: 2026-09-04
 next_review: as-needed (append on each new confirmed anecdote; no cyclical figure to re-check)
 review_frequency: as-changed
 authority: Internal
@@ -48,7 +48,9 @@ Existed for one reason: `GATE-ANECDOTE-INTEGRITY` requires that any AEBP-specifi
 
 **Used in:** Berkeley PM page refresh (post 2346), security-deposit-interest Key Facts line / supporting detail.
 
-**Underlying point the anecdote supports:** Berkeley's security deposit interest requirement (Rent Board-set rate, annual payment) has a real operational wrinkle beyond just calculating the rate — how the payment is delivered matters, and AEBP's ledger-credit approach reflects lived process experience (avoiding uncashed-check escheatment), not just knowledge of the underlying rule. **Note:** the January 31 deadline and the November rate-announcement timing are Brian's own operational description of AEBP's process, not independently verified against a Berkeley Rent Board primary source in this session — if used in a legal-claim context (rather than as a description of AEBP's own practice), verify the January 31 statutory deadline against `rentboard.berkeleyca.gov` before publishing it as a compliance requirement rather than an AEBP-process description.
+**Underlying point the anecdote supports:** Berkeley's security deposit interest requirement (Rent Board-set rate, annual payment) has a real operational wrinkle beyond just calculating the rate — how the payment is delivered matters, and AEBP's ledger-credit approach reflects lived process experience (avoiding uncashed-check escheatment), not just knowledge of the underlying rule.
+
+**Verified 2026-09-04, directly against `rentboard.berkeleyca.gov` (Security Deposit Interest & Calculator page, and the "2026 AGA Published and 2025 Security Deposit Interest Payment Due Soon" news page):** the interest year runs **November 1 – October 31**. Landlords make the annual payment **each December** (as a cash payment or rent credit/rebate). **January 31 is the legal backstop deadline**, not the primary due date — if payment isn't made by January 31, the tenant may deduct 10% of their security deposit from rent during that calendar year. This corrects an earlier version of this entry (and the post drafted from it) that implied January 31 was the primary payment date rather than the late-payment backstop; Brian flagged the discrepancy after an independent Grok lookup surfaced the December date, which is what prompted this verification. AEBP's own operational practice — calculating and applying the credit each November, ahead of the December norm — is Brian's stated description of AEBP's process and is accurate as such.
 
 ### 2026-08-26 — Richmond post-purchase business license reminder letter (Richmond PM page refresh)
 
