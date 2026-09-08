@@ -1,0 +1,204 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/bbarryuk/AEBP-Editorial-Operating-System/main/automation/schemas/review.schema.json",
+  "title": "AEBP Editorial Review",
+  "description": "Phase 1 (manual) structured output of a GPT, Claude, or human editorial review, per docs/07-Editorial-Automation.md. Reuses docs/01 GATE-*/SCORE-* IDs and docs/03 FIND-TYPE rather than defining a parallel review system.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "post_id", "content_type", "review_mode", "docs_versions",
+    "repo", "reviewer", "timestamp", "gates", "scores", "claim_provenance",
+    "strengths", "article_fixes", "operating_system_improvements", "recommendation"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Version of this schema, not of docs/01-03."
+    },
+    "post_id": { "type": ["string", "integer"], "description": "WordPress post ID." },
+    "title": { "type": "string" },
+    "content_type": {
+      "type": "string",
+      "enum": ["cornerstone", "thursday-tip", "wwyd", "social", "email", "video", "schema", "other"],
+      "description": "Selects which reviews/*-review.md manifest applies in addition to the docs/01 base gates. 'wwyd' is retained for historical reviews only; see aebp-wwyd-retired-monday-social-added — the content type is currently discontinued."
+    },
+    "review_mode": {
+      "type": "string",
+      "enum": ["Editorial Review", "QA Review", "Pre-Publish Audit"],
+      "description": "Per docs/03 REVIEW-MODE. Records what actually ran, not necessarily what was requested."
+    },
+    "docs_versions": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["doc_01", "doc_02", "doc_03"],
+      "properties": {
+        "doc_01": { "type": "string" },
+        "doc_02": { "type": "string" },
+        "doc_03": { "type": "string" },
+        "doc_07": { "type": "string" },
+        "manifest": {
+          "type": "string",
+          "description": "Version of the content-type manifest in /reviews, if content_type has one."
+        }
+      }
+    },
+    "repo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["commit", "state"],
+      "properties": {
+        "commit": {
+          "type": "string",
+          "description": "Local HEAD SHA at review time (git rev-parse HEAD, read-only). 'unknown' only if genuinely uncapturable."
+        },
+        "state": {
+          "type": "string",
+          "enum": ["clean", "dirty", "ahead_of_origin", "dirty_and_ahead_of_origin"],
+          "description": "Working-tree/push state at review time. See docs/07 AUTO-VERSIONING for why this matters."
+        }
+      }
+    },
+    "wordpress": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["post_id", "status"],
+      "properties": {
+        "post_id": { "type": ["string", "integer"] },
+        "revision_id": { "type": ["string", "integer", "null"] },
+        "modified_gmt": { "type": ["string", "null"], "format": "date-time" },
+        "status": { "type": "string", "enum": ["draft", "pending", "publish", "future", "private"] },
+        "permalink": { "type": "string", "format": "uri" }
+      },
+      "description": "Reference only, never a content snapshot. See docs/07 AUTO-NO-DUPLICATION."
+    },
+    "reviewer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "identity"],
+      "properties": {
+        "name": { "type": "string", "enum": ["claude", "chatgpt", "human"] },
+        "identity": { "type": "string", "description": "e.g. 'claude-sonnet-5', 'gpt-5.x', or 'Brian'." }
+      }
+    },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "gates": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["gate_id", "status"],
+        "properties": {
+          "gate_id": {
+            "type": "string",
+            "pattern": "^[A-Z][A-Z0-9-]*$",
+            "description": "A GATE-* ID from docs/01, or a structural check ID from the content_type's manifest in /reviews (e.g. CORNERSTONE-STRUCTURE, TIP-MICRO-CASE-STUDY). Deliberately not a fixed enum here — docs/01 and the manifests own this vocabulary, not this schema."
+          },
+          "status": { "type": "string", "enum": ["PASS", "FAIL"] },
+          "findings": { "type": "array", "items": { "$ref": "#/$defs/finding" } }
+        },
+        "if": { "properties": { "status": { "const": "FAIL" } } },
+        "then": { "required": ["findings"], "properties": { "findings": { "minItems": 1 } } }
+      }
+    },
+    "scores": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["score_id", "value", "threshold", "status", "whats_working", "whats_holding_back"],
+        "properties": {
+          "score_id": { "type": "string", "pattern": "^SCORE-[A-Z-]+$" },
+          "value": { "type": "integer", "minimum": 0, "maximum": 100 },
+          "threshold": {
+            "type": "integer", "minimum": 0, "maximum": 100,
+            "description": "The docs/01 minimum for this score_id at review time."
+          },
+          "status": { "type": "string", "enum": ["PASS", "FAIL"] },
+          "estimated": {
+            "type": "boolean", "default": true,
+            "description": "False only if value was computed against an actual rubric, not eyeballed. Per docs/03 FIND-SCORING."
+          },
+          "whats_working": { "type": "string" },
+          "whats_holding_back": { "type": "string" }
+        }
+      }
+    },
+    "claim_provenance": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/claim" },
+      "description": "Every first-person AEBP-experience claim in the draft, per EVD-ANECDOTE-INTEGRITY / GATE-ANECDOTE-INTEGRITY."
+    },
+    "strengths": { "type": "array", "items": { "type": "string" }, "description": "Per docs/03 FIND-STRENGTHS." },
+    "article_fixes": { "type": "array", "items": { "type": "string" }, "description": "Scoped to this post. Per docs/03 FIND-FIXLISTS." },
+    "operating_system_improvements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["description", "type_c_followup"],
+        "properties": {
+          "description": { "type": "string" },
+          "target_doc": { "type": ["string", "null"] },
+          "type_c_followup": { "type": "boolean" }
+        }
+      },
+      "description": "Scoped to the repo, not this post. Per docs/03 FIND-FIXLISTS."
+    },
+    "recommendation": { "type": "string", "enum": ["publish_as_is", "hold_pending_fixes", "unpublish"] },
+    "notes": { "type": ["string", "null"] }
+  },
+  "$defs": {
+    "finding": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["finding_id", "quote", "find_type", "root_cause", "fix"],
+      "properties": {
+        "finding_id": { "type": "string" },
+        "quote": { "type": "string", "description": "The actual text in the draft, per docs/03 FIND-STRUCTURE." },
+        "find_type": {
+          "type": "array", "minItems": 1,
+          "items": { "type": "string", "enum": ["A", "B", "C"] },
+          "description": "Per docs/03 FIND-TYPE. A single finding can carry more than one type."
+        },
+        "root_cause": { "type": "string" },
+        "fix": { "type": "string" },
+        "future_prevention": { "type": ["string", "null"] }
+      }
+    },
+    "claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["claim_id", "quote", "provenance"],
+      "properties": {
+        "claim_id": { "type": "string" },
+        "quote": { "type": "string", "description": "The first-person AEBP-experience claim as written." },
+        "provenance": {
+          "type": "string",
+          "enum": ["documented", "owner_verified", "hypothetical_example", "unverified"],
+          "description": "Per EVD-ANECDOTE-INTEGRITY. 'unverified' is the required default when a reviewer cannot confirm the claim happened -- never inferred as true from plausibility alone."
+        },
+        "source": { "type": ["string", "null"], "description": "Citation, if provenance is 'documented'." },
+        "note": { "type": ["string", "null"] }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "description": "Only a human reviewer may mark a claim owner_verified. An AI reviewer inferring truth from plausibility is exactly the failure GATE-ANECDOTE-INTEGRITY exists to catch (see the post-8006 incident, tests/editorial/TEST-EDITORIAL-001.md).",
+      "if": {
+        "properties": { "reviewer": { "properties": { "name": { "enum": ["claude", "chatgpt"] } } } }
+      },
+      "then": {
+        "properties": {
+          "claim_provenance": {
+            "items": {
+              "properties": { "provenance": { "not": { "const": "owner_verified" } } }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

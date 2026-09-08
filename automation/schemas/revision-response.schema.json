@@ -1,0 +1,165 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/bbarryuk/AEBP-Editorial-Operating-System/main/automation/schemas/revision-response.schema.json",
+  "title": "AEBP Editorial Revision Response",
+  "description": "Phase 1 (manual) structured record of how every finding in a review.schema.json artifact was disposed of, per docs/07-Editorial-Automation.md AUTO-DISPOSITION. No finding may go unanswered. The repo/wordpress object shapes here intentionally mirror review.schema.json rather than $ref-ing across files, so this schema is usable standalone during Phase 1 -- keep the two shapes in sync by hand if either changes (see docs/07 AUTO-VOCABULARY-REUSE).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "post_id", "content_type", "responds_to", "repo",
+    "reviewer", "timestamp", "dispositions", "summary", "requires_human_review",
+    "recommendation_to_brian"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "post_id": { "type": ["string", "integer"] },
+    "content_type": {
+      "type": "string",
+      "enum": ["cornerstone", "thursday-tip", "wwyd", "social", "email", "video", "schema", "other"]
+    },
+    "responds_to": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["review_file", "timestamp"],
+      "properties": {
+        "review_file": {
+          "type": "string",
+          "description": "Relative path, e.g. reviews/posts/8460/01-review.json"
+        },
+        "timestamp": {
+          "type": "string", "format": "date-time",
+          "description": "The timestamp field of the review being responded to, so the pair stays matched even if a file is renamed."
+        }
+      }
+    },
+    "repo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["commit", "state"],
+      "properties": {
+        "commit": { "type": "string" },
+        "state": {
+          "type": "string",
+          "enum": ["clean", "dirty", "ahead_of_origin", "dirty_and_ahead_of_origin"]
+        }
+      }
+    },
+    "wordpress": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["post_id", "status"],
+      "properties": {
+        "post_id": { "type": ["string", "integer"] },
+        "revision_id": { "type": ["string", "integer", "null"] },
+        "modified_gmt": { "type": ["string", "null"], "format": "date-time" },
+        "status": { "type": "string", "enum": ["draft", "pending", "publish", "future", "private"] },
+        "permalink": { "type": "string", "format": "uri" }
+      },
+      "description": "The post's state AFTER this response's edits were applied."
+    },
+    "reviewer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "identity"],
+      "properties": {
+        "name": {
+          "type": "string", "enum": ["claude", "human"],
+          "description": "ChatGPT never appears here -- a revision response is always the drafter's (or Brian's) answer to a review, never another review."
+        },
+        "identity": { "type": "string" }
+      }
+    },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "dispositions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["finding_id", "disposition", "rationale"],
+        "properties": {
+          "finding_id": {
+            "type": "string",
+            "description": "Must match a finding_id (or gate_id/score_id, for a finding not tied to a specific quoted passage) from the review this responds to."
+          },
+          "disposition": {
+            "type": "string",
+            "enum": ["accepted", "accepted_with_modification", "rejected", "requires_human"]
+          },
+          "rationale": { "type": "string", "minLength": 1 },
+          "change_applied": {
+            "type": ["string", "null"],
+            "description": "What was actually edited in the draft. Required when disposition is accepted or accepted_with_modification."
+          },
+          "quote_before": { "type": ["string", "null"] },
+          "quote_after": { "type": ["string", "null"] }
+        },
+        "if": { "properties": { "disposition": { "enum": ["accepted", "accepted_with_modification"] } } },
+        "then": { "required": ["change_applied"] }
+      }
+    },
+    "claim_provenance_updates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["claim_id", "old_provenance", "new_provenance", "action"],
+        "properties": {
+          "claim_id": { "type": "string" },
+          "old_provenance": {
+            "type": "string",
+            "enum": ["documented", "owner_verified", "hypothetical_example", "unverified"]
+          },
+          "new_provenance": {
+            "type": "string",
+            "enum": ["documented", "owner_verified", "hypothetical_example", "unverified"]
+          },
+          "action": {
+            "type": "string",
+            "enum": ["replaced_with_sourced_fact", "marked_hypothetical", "removed", "confirmed_by_brian"]
+          }
+        }
+      },
+      "description": "How EVD-ANECDOTE-INTEGRITY claims flagged unverified in the review were actually resolved."
+    },
+    "operating_system_followups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["description", "type_c_followup"],
+        "properties": {
+          "description": { "type": "string" },
+          "target_doc": { "type": ["string", "null"] },
+          "type_c_followup": { "type": "boolean" }
+        }
+      },
+      "description": "New system-gap follow-ups discovered while responding, additive to any the review already listed."
+    },
+    "summary": {
+      "type": "string",
+      "description": "Short human-readable recap for Brian's triage. Never a substitute for reading the actual draft -- see docs/07 AUTO-HUMAN-GATE."
+    },
+    "requires_human_review": {
+      "type": "boolean",
+      "description": "True if any disposition is requires_human, or any claim_provenance_updates leaves a claim at 'unverified'."
+    },
+    "recommendation_to_brian": {
+      "type": "string",
+      "enum": ["proceed_to_gpt_final_review", "hold_for_brian_decision"]
+    }
+  },
+  "allOf": [
+    {
+      "description": "requires_human_review must be true whenever any disposition is requires_human -- this cannot silently read false while an unresolved finding sits in the array.",
+      "if": {
+        "properties": {
+          "dispositions": {
+            "contains": { "properties": { "disposition": { "const": "requires_human" } } }
+          }
+        }
+      },
+      "then": { "properties": { "requires_human_review": { "const": true } } }
+    }
+  ]
+}

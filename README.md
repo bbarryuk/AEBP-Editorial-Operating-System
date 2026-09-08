@@ -53,7 +53,9 @@ AEBP-Editorial-Operating-System/
 │
 ├── tests/                   — editorial regression suite: real cases logged from real reviews
 ├── templates/              — (coming later) per-content-type structural templates
-├── automation/              — (coming later) API workflows, JSON schemas, prompt chains
+├── automation/              — Phase 1 JSON schemas for the manual editorial-review
+│                              protocol (see docs/07-Editorial-Automation.md). API/
+│                              GitHub Action orchestration (Phase 2) not yet built.
 └── skills/                  — manifests describing each Claude skill: purpose, inputs,
                                outputs, which docs/knowledge files it depends on
 ```
@@ -133,6 +135,8 @@ v2.0  — automation: Claude API + ChatGPT API + GitHub-PR publishing pipeline
 ```
 
 We are not building the v2.0 automation pipeline yet. The process gets validated by hand first; automation should only ever execute a process that's already been proven, not stand in for figuring the process out.
+
+`docs/07-Editorial-Automation.md` formalizes the JSON contract this eventual pipeline would use (Phase 1, still manual) — read that document before treating v2.0 as ready to build.
 
 ## Adding a new document
 
