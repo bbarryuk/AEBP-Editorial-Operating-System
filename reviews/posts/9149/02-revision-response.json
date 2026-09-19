@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9149,
+  "content_type": "cornerstone",
+  "responds_to": {
+    "review_file": "reviews/posts/9149/01-review.json",
+    "timestamp": "2026-09-08T05:38:01Z"
+  },
+  "repo": {
+    "commit": "3f947319d5734072553348a513650c79c0d7b928",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9149,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=9149"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "claude-sonnet-5"
+  },
+  "timestamp": "2026-09-08T06:04:36Z",
+  "dispositions": [
+    {
+      "finding_id": "9149-01",
+      "disposition": "accepted",
+      "rationale": "Independently verified against primary sources before accepting: Oakland's own Allowable Rent Increases page confirms the Aug 2024 RAP rate was 2.3%, and contemporaneous local reporting (RichmondSide, July 2024) confirms Richmond's 2024 AGA was 1.4% -- so Richmond was already below Oakland in that earlier cycle. The draft's 'ran higher for long enough' and 'first time in years the two have swapped places' claims were not supportable; the review was correct.",
+      "change_applied": "Rewrote the '2026-27 Rate' section's second paragraph and the 'What We See at AEBP' section to compare only the specific 2025-26 vs 2026-27 cycle numbers (Richmond 1.62%/Oakland 0.8% vs Richmond 1.5%/Oakland 2.3%), removed 'the first time in years the two have swapped places' and 'ran higher for long enough' framing, and added a caveat that which city runs higher has moved before and isn't a fixed pattern.",
+      "quote_before": "the first time in years the two have swapped places",
+      "quote_after": "Which city runs higher has moved before and will likely move again, so the safer habit is checking each city's current-cycle number rather than assuming either one \"usually\" runs hotter."
+    },
+    {
+      "finding_id": "9149-02",
+      "disposition": "accepted_with_modification",
+      "rationale": "Confirmed AB 1482 (Civil Code Section 1947.12) applies statewide independent of local rent caps and can cover Richmond's partially-covered single-family/condo units, subject to ownership and exemption-notice conditions. The draft's 'doesn't get a rent cap' language incorrectly implied no cap of any kind could apply to those units.",
+      "change_applied": "Reworded the 'What's Actually Covered' section, FAQ 1, and the pre-notice checklist to say the unit is 'not subject to Richmond's local rent cap' and added an AB 1482 statewide-cap note with its ownership/exemption-notice conditions in all three locations."
+    },
+    {
+      "finding_id": "9149-03",
+      "disposition": "accepted_with_modification",
+      "rationale": "'Base Rent + AGA = Maximum Allowable Rent' treats a percentage as a flat dollar add-on and ignores accumulated lawful adjustments and banking -- a formula error, not a rounding simplification, as the review correctly identified.",
+      "change_applied": "Replaced the formula in the Key Facts table and the '2026-27 Rate' section with an explanation that MAR depends on Base Rent plus every lawful AGA applied since plus any banked AGA, and pointed to the city's own MAR calculator instead of restating a formula."
+    },
+    {
+      "finding_id": "9149-04",
+      "disposition": "accepted_with_modification",
+      "rationale": "Civil Code Section 827's 30/90-day test is based on the cumulative rent increase over the trailing 12 months, not the size of a single notice, and mailed notice requires additional time -- the draft's flat 30/90 statement omitted both.",
+      "change_applied": "Reworded the notice-period statement in the '2026-27 Rate' section and the pre-notice checklist to reference the cumulative 12-month test and mailed-notice timing, and noted that more notice than the minimum is always safe."
+    },
+    {
+      "finding_id": "9149-05",
+      "disposition": "accepted_with_modification",
+      "rationale": "The city's current Rent Increase instructions call for serving the tenant information brochure alongside an AGA notice and keeping the Residential Rental Housing Fee current; the pre-notice checklist omitted both.",
+      "change_applied": "Added two checklist items (brochure service, Rental Housing Fee currency) and a sentence in the Registration section noting Property Enrollment must be amended on ownership/contact/agent/status changes."
+    },
+    {
+      "finding_id": "9149-06",
+      "disposition": "accepted_with_modification",
+      "rationale": "Checked against the repo's own knowledge/laws/richmond-rent-program.md before accepting: that file documents the January 2025 amendment (Ordinance No. 02-25 N.S.) stating registration is annual for owners of 3+ units but every 3 years for owners of 1-2 units. The draft's flat '$106/owner annual' statement traces to an older, pre-amendment fee-summary line still sitting elsewhere in that same knowledge file, which conflicts with the file's own amendment section. This is a real internal inconsistency in our knowledge base, not an unresolvable conflict, so the more authoritative, dated amendment language was used rather than treating this as blocked. Filed as an operating_system_followup to reconcile the knowledge file itself.",
+      "change_applied": "Updated the Key Facts table and the Business License/RRIP section to state the registration fee is annual for owners of 3+ units and every 3 years for owners of 1-2 units, per the 2025 amendment."
+    },
+    {
+      "finding_id": "9149-07",
+      "disposition": "accepted_with_modification",
+      "rationale": "The 'checking the rate against the current cycle on every Richmond notice we prepare' claim (claim_provenance C4) had no confirming record. Per docs/07, replaced it with the already-documented, Brian-confirmed anecdote in knowledge/company/anecdote-log.md (2026-08-26, Richmond post-purchase business-license letter) rather than seeking new confirmation for an unverified operational habit. Also removed the unverified 'multi-city mistake we watched for' (C2) and 'became a safe assumption to work from' (C3) framing rather than keep them in softened form, since neither is a documented AEBP experience.",
+      "change_applied": "Rewrote the 'What We See at AEBP' section to use the documented business-license-letter anecdote in place of the unverified 'checking every notice' claim, and reframed the rate-history observation as general market mechanics rather than claimed AEBP experience."
+    },
+    {
+      "finding_id": "9149-08",
+      "disposition": "requires_human",
+      "rationale": "The missing 'ordered' block attribute on the just-cause numbered list was a concrete, fixable markup defect and has been corrected directly. The empty wp:social-link share icons, and whether Article/FAQ schema and the featured image actually render as valid JSON-LD in the live block editor, are not verifiable through the REST API -- meta fields being set doesn't prove the emitted schema is well-formed. The share-link markup also appears to be an unconfigured template block shared across other posts (it mirrors post 9050), so fixing it only here would make this post inconsistent with the rest of the site rather than resolve the underlying template issue. Flagging for Brian to check in the WP block editor and decide whether to fix the share-link template site-wide.",
+      "change_applied": "Added the missing {\"ordered\":true} attribute to the just-cause list block so it saves and renders as a numbered list."
+    },
+    {
+      "finding_id": "9149-09",
+      "disposition": "accepted_with_modification",
+      "rationale": "Could not find a citable, current source either confirming or ruling out an Oakland program directly comparable to Richmond's RRIP within the time available. Per the review's own suggested fix, narrowed the claim rather than assert an unconfirmed negative comparison.",
+      "change_applied": "Changed the comparison-table cell from 'No equivalent city-run rental inspection program' to 'No directly comparable citywide recurring inspection cycle identified.'"
+    },
+    {
+      "finding_id": "9149-10",
+      "disposition": "accepted_with_modification",
+      "rationale": "Same underlying defect as 9149-07 (GATE-ANECDOTE-INTEGRITY) viewed through CORNERSTONE-AEBP-VOICE: the section's operational claim lacked provenance. Resolved with the same rewrite, which restores a first-person AEBP-specific observation with real provenance (the documented anecdote-log.md entry) rather than removing the section -- house style requires one such observation per cornerstone post.",
+      "change_applied": "Same edit as 9149-07 -- rewrote the 'What We See at AEBP' section."
+    }
+  ],
+  "claim_provenance_updates": [
+    {
+      "claim_id": "9149-C2",
+      "old_provenance": "unverified",
+      "new_provenance": "unverified",
+      "action": "removed"
+    },
+    {
+      "claim_id": "9149-C3",
+      "old_provenance": "unverified",
+      "new_provenance": "unverified",
+      "action": "removed"
+    },
+    {
+      "claim_id": "9149-C4",
+      "old_provenance": "unverified",
+      "new_provenance": "documented",
+      "action": "replaced_with_sourced_fact"
+    },
+    {
+      "claim_id": "9149-C5",
+      "old_provenance": "unverified",
+      "new_provenance": "documented",
+      "action": "replaced_with_sourced_fact"
+    }
+  ],
+  "operating_system_followups": [
+    {
+      "description": "knowledge/laws/richmond-rent-program.md contains two conflicting RRIP registration-fee-frequency statements: an older fee-summary line states a flat '$106/owner, annual' fee, which conflicts with the file's own January 2025 amendment section stating annual for 3+ units and every 3 years for 1-2 units. Remove or clearly supersede the flat-annual statement so the file doesn't contradict itself.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "The 'Share this post' social-links block template (used across posts, e.g. 9050 and 9149) contains 7 empty wp:social-link blocks with no service/url configured. Decide whether to configure real profile links site-wide or remove the block from the template -- fixing it post-by-post creates inconsistency.",
+      "target_doc": null,
+      "type_c_followup": true
+    }
+  ],
+  "summary": "All 10 findings addressed in post 9149's draft. Independently verified 9149-01 against Oakland's and Richmond's own rate history before accepting -- the 'first time in years swapped places' claim was wrong, and comparisons are now scoped to the actual 2025-26 vs 2026-27 numbers. Reconciled 9149-06's RRIP fee-frequency conflict using the repo's own documented 2025 amendment rather than leaving it unresolved. Replaced the unverified 'checking every Richmond notice' and 'safe assumption' claims (9149-07/9149-10, C2-C4) with the already-documented Richmond business-license-letter anecdote, and softened the absolute 'nothing gets applied on the wrong city's clock' claim (C5). Fixed the AB 1482 statewide-cap gap (9149-02), the MAR formula (9149-03), the 30/90-day notice nuance (9149-04), the pre-notice checklist gaps (9149-05), narrowed the unsupported Oakland-inspection comparison (9149-09), and fixed the missing ordered-list attribute (9149-08). Two things still need Brian directly, not just a read-through: confirming the rewritten AEBP-voice paragraph sounds right, and checking the share-link icons and rendered schema in the live WP block editor, since neither is verifiable through the API.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "hold_for_brian_decision"
+}

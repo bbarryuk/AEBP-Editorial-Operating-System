@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9149,
+  "content_type": "cornerstone",
+  "responds_to": {
+    "review_file": "reviews/posts/9149/03-final-review.json",
+    "timestamp": "2026-09-08T07:01:41Z"
+  },
+  "repo": {
+    "commit": "3f947319d5734072553348a513650c79c0d7b928",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9149,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=9149"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "claude-sonnet-5"
+  },
+  "timestamp": "2026-09-08T07:35:00Z",
+  "dispositions": [
+    {
+      "finding_id": "9149-03",
+      "disposition": "accepted_with_modification",
+      "rationale": "The prior fix still read as an equation ('MAR = Base Rent + every lawful AGA applied since'), which the review correctly flagged as misleading shorthand, and the MAR-calculator mention had no link. Removed the equation framing entirely (Key Facts table cell now reads as prose, not a formula) and added a real link to the city's Rent Increase page (which hosts the MAR calculator) in both the table and the body paragraph.",
+      "change_applied": "Key Facts 'Rent formula' row rewritten to prose with a linked MAR calculator; body sentence 'Use the Rent Program's own MAR calculator...' now links to https://www.ci.richmond.ca.us/3376/Rent-Increase.",
+      "quote_before": "MAR = Base Rent + every lawful AGA applied since, via the city's MAR calculator",
+      "quote_after": "Depends on the Base Rent plus every lawful AGA (and any banked AGA) applied since — no simple formula; use the city's MAR calculator for a specific unit"
+    },
+    {
+      "finding_id": "9149-04",
+      "disposition": "accepted_with_modification",
+      "rationale": "'More notice than the minimum is always safe; less is not' overstates what Civil Code §827 actually establishes — longer notice doesn't cure an otherwise unlawful increase or a defective service. Removed the absolute assurance and replaced it with the correct, narrower point. Also linked the Civil Code §827 citation directly per the review's suggested fix.",
+      "change_applied": "Deleted 'More notice than the minimum is always safe; less is not.' Replaced with 'Serving more than the minimum notice period doesn't by itself cure an otherwise unlawful increase or defective service — the increase still has to be lawful and properly served regardless of notice length.' Civil Code §827 now links to leginfo.legislature.ca.gov.",
+      "quote_before": "More notice than the minimum is always safe; less is not.",
+      "quote_after": "Serving more than the minimum notice period doesn't by itself cure an otherwise unlawful increase or defective service — the increase still has to be lawful and properly served regardless of notice length."
+    },
+    {
+      "finding_id": "9149-11",
+      "disposition": "accepted_with_modification",
+      "rationale": "New finding this round: the unqualified 'applying Oakland's higher rate to a Richmond unit is an overcharge' ignores the article's own banking exception (a Richmond owner with banked AGAs can lawfully apply more than 1.5%, potentially up to 6.5%). Qualified the claim exactly as the review suggested.",
+      "change_applied": "'applying Oakland's higher rate to a Richmond unit is an overcharge that a tenant can challenge...' replaced with 'applying Oakland's 2.3% to a Richmond unit without a lawful banking basis or other authorized exception produces an increase above what Richmond's own cap allows, which a tenant can challenge through Richmond's own petition process.'",
+      "quote_before": "applying Oakland's higher rate to a Richmond unit is an overcharge that a tenant can challenge through Richmond's own petition process.",
+      "quote_after": "applying Oakland's 2.3% to a Richmond unit without a lawful banking basis or other authorized exception produces an increase above what Richmond's own cap allows, which a tenant can challenge through Richmond's own petition process."
+    },
+    {
+      "finding_id": "9149-06",
+      "disposition": "accepted_with_modification",
+      "rationale": "The review cited FY 2026–27 Master Fee Schedule p.14 (https://www.ci.richmond.ca.us/DocumentCenter/View/80176) giving current RRIP fees as $110 registration / $220 initial inspection / $94 re-inspection, versus the $106/$211/$90 figures pulled from the FY2025–26 schedule last round. I attempted to independently verify this against the primary PDF and the city's Billing and RRIP pages myself (WebFetch on ci.richmond.ca.us and richmondca.gov, both blocked by robots.txt; WebSearch found no independent secondary source quoting the new figures) and could not confirm it directly. Given the source is specifically a newer, dated fiscal-year document and the prior figures are already known to be one cycle stale, I've updated the post to the cited FY2026–27 amounts as the best available information, but this is flagged below as needing a human check since I couldn't verify it myself. On frequency: the review points out that the repo's own knowledge file doesn't actually resolve which registration-fee-frequency statement is authoritative (a July 2025 dated fee summary doesn't necessarily postdate the January 2025 amendment the way I assumed last round). Rather than assert either version, the post now omits the specific frequency claim and tells the reader to confirm with the Rent Program directly.",
+      "change_applied": "Key Facts RRIP row and the Business License/RRIP body item both updated to $110/$220/$94 (FY 2026–27 fee schedule), with the annual-vs-every-3-years frequency claim removed and replaced with a direct pointer to confirm with the Rent Program.",
+      "quote_before": "a $106/owner registration fee — charged annually for owners of 3 or more units, every three years for owners of 1–2 units — plus a $211/unit inspection fee at the start of each 3-year inspection cycle, with re-inspection at $90/unit if a unit fails.",
+      "quote_after": "a $110/owner registration fee plus a $220/unit inspection fee at the start of each inspection cycle, with re-inspection at $94/unit if a unit fails — per the city's FY 2026–27 fee schedule. How often the registration fee itself recurs ... isn't consistently stated across the city's own published materials, so confirm the current cycle directly with the Rent Program."
+    },
+    {
+      "finding_id": "9149-09",
+      "disposition": "accepted",
+      "rationale": "Independently searched for an Oakland proactive/recurring rental inspection program and found only reporting (Richmonder, Pulitzer Center, KTVU) describing Oakland's code enforcement as complaint-driven, not a citywide recurring inspection cycle like Richmond's RRIP — consistent with the review's point that the earlier 'no directly comparable program identified' wording still put an uncited research non-result into a factual comparison table. Rather than assert a claim about Oakland I can't source to an official city page (the standard this article otherwise holds itself to), removed the row entirely, which was the review's simpler suggested fix.",
+      "change_applied": "Deleted the 'Inspection program' row from the Richmond vs. Oakland comparison table.",
+      "quote_before": "RRIP — recurring per-unit inspection every 3 years | No directly comparable citywide recurring inspection cycle identified",
+      "quote_after": null
+    },
+    {
+      "finding_id": "9149-08",
+      "disposition": "requires_human",
+      "rationale": "The ordered-list attribute and share-link URLs are both confirmed present in the raw post_content (verified again this round) — the review's own strengths section corroborates this. What's still open is exactly what was open last round: rendered Article/FAQ schema (JSON-LD) and editor validity can't be checked through the REST API, and both my session and the review's session hit a 404 on an unauthenticated draft preview. On the review's note about 'production share URLs using the final public domain': the share links currently point at dev.alleastbayproperties.com, but per the site's known deploy process, Brian's push-to-live step strips the dev. subdomain automatically, so this isn't a defect to fix in the draft — flagging it here so it isn't mistaken for an open issue.",
+      "change_applied": null,
+      "quote_before": null,
+      "quote_after": null
+    }
+  ],
+  "claim_provenance_updates": [],
+  "operating_system_followups": [
+    {
+      "description": "knowledge/laws/richmond-rent-program.md still needs reconciling — not just the original annual-vs-3-year frequency conflict, but now also refreshing the RRIP dollar figures to the FY 2026–27 schedule ($110/$220/$94) if the figures cited in this review are confirmed against the primary PDF (I could not fetch it myself; ci.richmond.ca.us and richmondca.gov both block WebFetch via robots.txt).",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "The prior revision-response's operating-system follow-up recommending a site-wide decision on the empty share-link blocks is superseded — Brian configured real share URLs directly in post 9149 between review rounds, and the review's own strengths section confirms they're present. No site-wide template rebuild is needed on that basis; closing that follow-up as resolved for this post (post 9050 and any other posts sharing the same pattern-derived block would need the same fix applied separately, since it's not a synced reusable block).",
+      "target_doc": "docs/07-Editorial-Automation.md",
+      "type_c_followup": false
+    }
+  ],
+  "summary": "Second review round found 5 issues in the prior fixes (partial/incomplete corrections on 9149-03, 9149-04, 9149-06, 9149-09) plus one new finding (9149-11, an unqualified overcharge claim that ignored the article's own banking exception). All ten original findings from the first review are now closed per the review's own strengths list (9149-01, 02, 05, 07, 10 explicitly, plus 08 corroborated as fixed for ordered-list/share-links). Of this round's issues: four are fixed outright (9149-03 equation removed and calculator linked, 9149-04 absolute notice-timing assurance removed, 9149-09 unsupported Oakland comparison row removed, 9149-11 overcharge claim qualified for the banking exception). One (9149-06) is fixed using the review's cited FY2026–27 fee figures, but flagged as unverified by me directly since I could not reach the primary source PDF (robots.txt blocked on both ci.richmond.ca.us and richmondca.gov) — worth a human double-check before this goes live given it's a specific dollar figure. The frequency portion of 9149-06 was intentionally left unresolved in the text (omitted rather than asserted either way) since neither the review nor I could settle it against a clear primary source. The remaining item (9149-08) is unchanged from last round: rendered schema/JSON-LD and editor validity still can't be verified through the API or an unauthenticated preview, and that needs Brian directly. Two Civil Code citations (§827, §1947.12) were also hyperlinked and FAQ Q3 was scoped to fully-covered units, per the review's non-blocking article_fixes suggestions.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "hold_for_brian_decision"
+}

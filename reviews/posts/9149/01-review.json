@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9149,
+  "title": "Richmond Rent Control 2026: What Landlords Must Know About the Richmond Fair Rent Act",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.2",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "3f947319d5734072553348a513650c79c0d7b928",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9149,
+    "status": "draft",
+    "revision_id": null,
+    "modified_gmt": null,
+    "permalink": "https://dev.alleastbayproperties.com/?p=9149"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 / Codex"
+  },
+  "timestamp": "2026-09-08T05:38:01Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9149-02",
+          "quote": "A single-family rental in Richmond doesn't get a rent cap",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The draft generalizes a local exemption to all law; the checklist and FAQ repeat this. Civil Code 1947.12 can apply to locally exempt housing. Source: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1947.12.",
+          "fix": "Use 'not subject to Richmond's local rent cap'; add a separate AB 1482 eligibility check, including ownership and exemption-notice conditions for separately alienable homes and the rolling 15-year construction exemption.",
+          "future_prevention": "Record the local-versus-state distinction in Richmond coverage knowledge."
+        },
+        {
+          "finding_id": "9149-03",
+          "quote": "Base Rent + AGA = Maximum Allowable Rent",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "This treats a percentage as a dollar amount and omits accumulated lawful adjustments. The body also implies today's AGA alone applied to original Base Rent establishes MAR. Source: https://www.ci.richmond.ca.us/3376/Rent-Increase",
+          "fix": "Replace the formula with an explanation that MAR depends on lawful rent history and applicable adjustments; link the city's MAR calculator. Distinguish the ordinary current AGA from available banking.",
+          "future_prevention": "Require a worked, verified calculation before publishing rent formulas."
+        },
+        {
+          "finding_id": "9149-04",
+          "quote": "30 days for an increase of 10% or less, 90 days for anything larger",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The summary omits the cumulative prior-12-month test and additional mailing time, and reads as universal despite statutory exceptions. Source: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=827.",
+          "fix": "Say generally at least 30/90 days based on cumulative increases over the preceding 12 months, account for service by mail and applicable exceptions, and link section 827 directly. More notice does not authorize an otherwise unlawful increase.",
+          "future_prevention": "Add a notice-summary regression check for aggregation and service method."
+        },
+        {
+          "finding_id": "9149-05",
+          "quote": "Run through this before serving any AGA increase notice:",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The action checklist omits the Rent Program brochure and annual Rental Housing Fee compliance, although both appear in current city instructions. Source: https://www.ci.richmond.ca.us/3376/Rent-Increase",
+          "fix": "Add brochure service and paid Rental Housing Fee checks; clarify that enrollment must be amended when ownership/contact/agent/status changes, despite not being an annual renewal.",
+          "future_prevention": "Maintain a current source-linked AGA notice checklist."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9149-01",
+          "quote": "the first time in years the two have swapped places",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Historical comparison was inferred from the prior cycle. Richmond's 2024 AGA was 1.4%, below Oakland's 2.3%. Sources: https://www.ci.richmond.ca.us/3376/Rent-Increase and https://www.oaklandca.gov/Community/Housing-Programs-Support/For-Landlords/Allowable-Rent-Increases/Learn-More-About-Allowable-Rent-Increases",
+          "fix": "Replace all longstanding-higher/first-time claims with a comparison limited to 2025–26 versus 2026–27. Keep the practical warning to check each city's current rate.",
+          "future_prevention": "Verify both historical series before writing trend-based hooks."
+        },
+        {
+          "finding_id": "9149-06",
+          "quote": "a $106/owner annual registration fee",
+          "find_type": [
+            "B",
+            "C"
+          ],
+          "root_cause": "The city's Billing page distinguishes annual registration for 3+ units from every three years for 1–2; its RRIP update page says yearly for participants. The knowledge file also contains both versions. Sources: https://www.ci.richmond.ca.us/4832/Billing and https://www.ci.richmond.ca.us/2101/Rental-Inspection-Program",
+          "fix": "Resolve using the enacted amendment/current fee schedule or department confirmation. Until resolved, omit the universal frequency assertion or explicitly disclose the conflict. Re-verify FY 2025–26 tax/fee amounts for the 2026–27 publication; don't infer a new fee from a stale page.",
+          "future_prevention": "Reconcile the contradictory RRIP entries and track fee verification by fiscal year."
+        },
+        {
+          "finding_id": "9149-09",
+          "quote": "No equivalent city-run rental inspection program",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "A broad negative comparison has no supporting Oakland inspection-program source in the article or this review.",
+          "fix": "Narrow to the specific recurring RRIP model and verify against Oakland's inspection programs, or remove this row.",
+          "future_prevention": "Source negative comparative claims independently."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9149-08",
+          "quote": "<!-- wp:list -->\n<ol class=\"wp-block-list\">",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "The ordered list lacks its ordered attribute; several blocks have HTML classes/anchors not represented in their block attributes. Share links are empty self-closing social-link blocks. Raw markup alone cannot establish editor validity; rendered schema is unverified.",
+          "fix": "Re-save through valid Gutenberg blocks and inspect editor validation and preview. Configure or remove empty share links. Verify emitted Article/FAQ schema and featured image; meta keyword/about fields alone are not proof of JSON-LD. Preserve the two working internal links.",
+          "future_prevention": "Require editor validation and rendered schema evidence, not just wp comments."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9149-07",
+          "quote": "We're checking the rate against the current cycle on every Richmond notice we prepare",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "No confirming entry supports this operational claim or the earlier 'mistake we watched for' in knowledge/company/anecdote-log.md. Absence of a record is not proof of fabrication.",
+          "fix": "Provide Brian's confirmation in a durable record, or replace this observation with the already documented Richmond post-purchase business-license reminder letter (2026-08-26). Do not embellish that incident.",
+          "future_prevention": "Require claim-provenance references during drafting."
+        }
+      ]
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9149-10",
+          "quote": "What We See at AEBP",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "The section exists but its distinctive operational experience lacks provenance.",
+          "fix": "Use the documented Richmond letter anecdote or obtain a confirming record for the current claim.",
+          "future_prevention": "Review voice and provenance together."
+        }
+      ]
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 91,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear Richmond keyword, title, excerpt, metadata and live internal links.",
+      "whats_holding_back": "Repetitive framing; technical release gate remains separate."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 83,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first layout, tables and five labeled FAQs.",
+      "whats_holding_back": "Standalone FAQ answers overgeneralize coverage and the AGA ceiling; calculation language is unreliable."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 79,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Named author and official source list.",
+      "whats_holding_back": "Unverified operational claims and incorrect historical narrative."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 89,
+      "threshold": 90,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Scannable sections and practical checklist.",
+      "whats_holding_back": "Rate reversal repeated across intro, body, observation and conclusion; dense quick answer."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 88,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant closing CTA and live consultation destination.",
+      "whats_holding_back": "No clear advice on when to consult a housing attorney for contested exemptions or termination."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 84,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Useful city-specific cornerstone structure.",
+      "whats_holding_back": "Multiple blocking factual, provenance and technical findings. Holistic estimate, not an arithmetic rubric."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9149-C1",
+      "quote": "We manage properties in both Oakland and Richmond",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; knowledge/company/anecdote-log.md (Richmond client entry)",
+      "note": "Supports service footprint; does not verify the new notice-preparation narrative."
+    },
+    {
+      "claim_id": "9149-C2",
+      "quote": "the multi-city mistake we watched for was an owner defaulting to Oakland's lower number",
+      "provenance": "unverified"
+    },
+    {
+      "claim_id": "9149-C3",
+      "quote": "\"Richmond runs a bit hotter\" became a safe assumption to work from",
+      "provenance": "unverified"
+    },
+    {
+      "claim_id": "9149-C4",
+      "quote": "We're checking the rate against the current cycle on every Richmond notice we prepare",
+      "provenance": "unverified"
+    },
+    {
+      "claim_id": "9149-C5",
+      "quote": "We track Richmond's registration, inspection, and relocation requirements alongside Oakland's, Berkeley's, and Emeryville's for 600+ units across the East Bay, so nothing gets applied on the wrong city's clock.",
+      "provenance": "unverified",
+      "source": "knowledge/company/overview.md supports the 600+ portfolio size and compliance service, not the complete process/outcome assertion.",
+      "note": "Remove the absolute 'nothing' assurance under STD-HONEST; confirm the operational wording. Company overview review date is overdue."
+    }
+  ],
+  "strengths": [
+    "Required cornerstone sections are present, including five FAQ details blocks and closing CTA.",
+    "Current 1.5% Richmond AGA, Oakland 2.3%, distinct cycles and 6.5% Richmond banking ceiling are supported by current official pages.",
+    "Relocation amounts match the city's still-published 2025 table; the city explicitly confirms the 2026 publication delay. This is not an automatic stale-number failure. Source: https://www.ci.richmond.ca.us/4824/Richmond-Relocation-Ordinance",
+    "Eight just-cause grounds and two-business-day filing are supported by the city's Termination of Tenancy page.",
+    "Comparison-guide and consultation links resolve to the intended live pages."
+  ],
+  "article_fixes": [
+    "9149-01: Replace all longstanding-higher/first-time claims with a comparison limited to 2025–26 versus 2026–27. Keep the practical warning to check each city's current rate.",
+    "9149-02: Use 'not subject to Richmond's local rent cap'; add a separate AB 1482 eligibility check, including ownership and exemption-notice conditions for separately alienable homes and the rolling 15-year construction exemption.",
+    "9149-03: Replace the formula with an explanation that MAR depends on lawful rent history and applicable adjustments; link the city's MAR calculator. Distinguish the ordinary current AGA from available banking.",
+    "9149-04: Say generally at least 30/90 days based on cumulative increases over the preceding 12 months, account for service by mail and applicable exceptions, and link section 827 directly. More notice does not authorize an otherwise unlawful increase.",
+    "9149-05: Add brochure service and paid Rental Housing Fee checks; clarify that enrollment must be amended when ownership/contact/agent/status changes, despite not being an annual renewal.",
+    "9149-06: Resolve using the enacted amendment/current fee schedule or department confirmation. Until resolved, omit the universal frequency assertion or explicitly disclose the conflict. Re-verify FY 2025–26 tax/fee amounts for the 2026–27 publication; don't infer a new fee from a stale page.",
+    "9149-07: Provide Brian's confirmation in a durable record, or replace this observation with the already documented Richmond post-purchase business-license reminder letter (2026-08-26). Do not embellish that incident.",
+    "9149-08: Re-save through valid Gutenberg blocks and inspect editor validation and preview. Configure or remove empty share links. Verify emitted Article/FAQ schema and featured image; meta keyword/about fields alone are not proof of JSON-LD. Preserve the two working internal links.",
+    "9149-09: Narrow to the specific recurring RRIP model and verify against Oakland's inspection programs, or remove this row.",
+    "Qualify FAQ 2's 'maximum' as the standard AGA and acknowledge eligible banking; Oakland's cycle is not exactly the same period.",
+    "Replace 'so nothing gets applied on the wrong city's clock' with a nonabsolute service description; add when to seek a housing attorney for a proposed termination or disputed coverage.",
+    "Check the separate companion video and GBP copy before approving the entire cornerstone package. They were not supplied or identified in this post snapshot."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Reconcile conflicting RRIP frequency statements and refresh fiscal-year fee evidence.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add historical comparison and local-exemption-versus-state-cap regression cases.",
+      "target_doc": "tests/legal/",
+      "type_c_followup": true
+    },
+    {
+      "description": "Attach confirming records to every new AEBP observation; reuse the existing Richmond letter record without embellishment.",
+      "target_doc": "knowledge/company/anecdote-log.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Clarify schema handling of unperformed companion checks and technical checks; schema has only PASS/FAIL. Do not silently equate inaccessible with absent.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    },
+    {
+      "description": "Record current reproducible Richmond page evidence, preserving the older tooling-discrepancy history; update company-fact currency.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": false
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Review only; no WordPress changes. Source snapshot post_modified=2026-09-07 22:31:08; timezone not supplied, so not relabeled as GMT. REST get_posts failed response-schema validation; connectivity ping succeeded. No rendered draft/editor/schema inspection completed. Technical FAIL includes observed markup concerns plus unverified release requirements, not a claim that schema/featured image is absent. Video and GBP artifacts remain unaudited; no package clearance. Root causes are review inferences. Repo state recorded before adding these review artifacts; HEAD matched local origin/main, without fetching remote."
+}

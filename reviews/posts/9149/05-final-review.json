@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9149,
+  "title": "Richmond Rent Control 2026: What Landlords Must Know About the Richmond Fair Rent Act",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.2",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "3f947319d5734072553348a513650c79c0d7b928",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9149,
+    "status": "publish",
+    "revision_id": null,
+    "modified_gmt": "2026-09-08T16:49:21Z",
+    "permalink": "https://dev.alleastbayproperties.com/richmond-rent-control-2026-landlord-guide/"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 / Codex"
+  },
+  "timestamp": "2026-09-08T17:01:02Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 94,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant title, metadata, headings and internal links.",
+      "whats_holding_back": "Optional: replace the broad Billing link with the exact current fee PDF."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Five matching FAQ answers in emitted schema; answer-first structure and factual tables.",
+      "whats_holding_back": "Intro and observation repeat the rate comparison; optional tightening."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Documented anecdote, named author, primary-source-backed RRIP amounts and disclosed frequency uncertainty.",
+      "whats_holding_back": "Do not treat the broad fee-source label as proof all tax/fire figures were reverified for FY2026–27."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Scannable sections, numbered causes, checklist and FAQ.",
+      "whats_holding_back": "Some long paragraphs remain; no further rewrite required."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 92,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant contact path, grounded service description and attorney referral.",
+      "whats_holding_back": "No material blocker."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "All previously blocking findings resolved for this post; rendered article and FAQ schema now verified.",
+      "whats_holding_back": "Holistic editorial estimate, not an arithmetic average or guarantee of search performance."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9149-C1",
+      "quote": "We manage properties in both Oakland and Richmond",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md and knowledge/company/anecdote-log.md"
+    },
+    {
+      "claim_id": "9149-C4",
+      "quote": "a client who'd just purchased a Richmond rental got a letter directly from the city reminding him a business license was required to operate the property",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-08-26 Richmond letter entry",
+      "note": "Replaces former C4. Reuse of a documented anecdote does not require another owner confirmation."
+    },
+    {
+      "claim_id": "9149-C5",
+      "quote": "We track Richmond's registration, inspection, and relocation requirements alongside Oakland's, Berkeley's, and Emeryville's across 600+ units in the East Bay",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md: portfolio, service area, compliance service",
+      "note": "General service description supported; absolute outcome assurance removed. Internal fact review date remains overdue."
+    }
+  ],
+  "strengths": [
+    "9149-03 closed: equation framing removed and city calculator page linked in table and body.",
+    "9149-04 closed: absolute assurance removed; cumulative timing and service caveat retained.",
+    "9149-06 closed: $110/$220/$94 independently verified against current fee schedule p14; conflicting recurrence is disclosed rather than asserted. Claude's inability to fetch the PDF does not undo this review's verification.",
+    "9149-09 closed: unsupported Oakland inspection row removed.",
+    "9149-11 closed: overcharge example qualified for lawful banking/authorized exceptions.",
+    "9149-08 closed for the observed public-page checks: configured sharing links, correctly rendered ordered list, parseable BlogPosting and FAQPage JSON-LD, all five schema answers matching their on-page counterparts, metadata and image reference present.",
+    "Earlier historical, local/state coverage, checklist and anecdote fixes remain intact."
+  ],
+  "article_fixes": [
+    "No further blocking article rewrite identified.",
+    "Optional source cleanup: link the RRIP citation directly to https://www.ci.richmond.ca.us/DocumentCenter/View/80176 and keep the business-tax source separately identified as the FY2025–26 rental-property summary.",
+    "Optional clarity: label the remaining '(just cause only, no rent cap)' bullet as 'no Richmond rent cap'; the following explanation already supplies the state-law distinction."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "RRIP knowledge amounts have now been refreshed and recurrence uncertainty is explicitly preserved; retain that distinction in later articles.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Do not defer relocation re-verification until the new global next_review date: the file's per-use relocation currency requirement still controls.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Keep fee-schedule adoption/effective-date provenance separate from the Rent Program budget approval; the master-schedule landing page and index dates should not be conflated.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "publish_as_is",
+  "notes": "Round 05 responds to 04-revision-response.json; all six requested dispositions present and checked against current post, not just the response. All previous blocking findings closed within this post review. WordPress status is now publish on DEVELOPMENT site; no production deployment is asserted. This reviewer made no WordPress changes and did not publish. Public page, desktop screenshot and emitted DOM JSON-LD were inspected; BlogPosting and FAQPage parsed and five FAQ answers match (typographic quote differences only). Native Gutenberg editor round-trip validation was not performed; PASS reflects retrieved native-block markup and observed public output, not a claim of an editor test. Generic company image appears in article schema; no custom featured image requirement was invented. Companion video and GBP were not part of this post-only review and remain unaudited. Scores are editorial estimates. Business-license percentages remain supported by city FY2025–26 summary https://www.ci.richmond.ca.us/DocumentCenter/View/75550/Rental-Property-Fee-Summary-English-FY-2025-2026; not independently shown in the FY2026–27 master schedule. The source-label cleanup is recommended, not a reopened RRIP fee failure. RRIP primary evidence: https://www.ci.richmond.ca.us/DocumentCenter/View/80176 p14, current fee column. Relocation page re-opened this session still carries 2025 table and delayed-2026 announcement. Repository HEAD unchanged; knowledge edits and review artifacts present, state dirty."
+}

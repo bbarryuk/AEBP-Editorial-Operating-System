@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9149,
+  "content_type": "cornerstone",
+  "responds_to": {
+    "review_file": "reviews/posts/9149/05-final-review.json",
+    "timestamp": "2026-09-08T17:01:02Z"
+  },
+  "repo": {
+    "commit": "3f947319d5734072553348a513650c79c0d7b928",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9149,
+    "status": "publish",
+    "revision_id": null,
+    "modified_gmt": "2026-09-08T17:06:14Z",
+    "permalink": "https://dev.alleastbayproperties.com/richmond-rent-control-2026-landlord-guide/"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork session, responding to GPT-6/Codex round 05 final review)"
+  },
+  "timestamp": "2026-09-08T17:12:00Z",
+  "dispositions": [
+    {
+      "finding_id": "9149-R5-fix1",
+      "disposition": "accepted",
+      "rationale": "Round 05's article_fixes flagged that the combined Sources citation implied Business License Tax and Fire Prevention fee amounts were also reverified against the new FY2026-27 Master Fee Schedule, when only RRIP actually was -- a real citation-accuracy gap, not just a style note. Split the single citation into two: one for RRIP specifically, linking directly to the fee schedule PDF (p.14) as suggested, and a separate one for Business License Tax and Fire Prevention still correctly labeled FY2025-26.",
+      "change_applied": "Sources list: replaced the combined 'Business License Tax, RRIP, and Fire Prevention fee amounts (FY 2026-27)' entry with two entries -- 'RRIP fee amounts (FY 2026-27, effective July 1, 2026)' linking to https://www.ci.richmond.ca.us/DocumentCenter/View/80176, and 'Business License Tax and Fire Prevention fee amounts (FY 2025-26)' linking to the original Billing page. Applied to WordPress post 9149 via wp_alter_post; OneDrive markdown mirror has no Sources section so needed no change there.",
+      "quote_before": "Business License Tax, RRIP, and Fire Prevention fee amounts (FY 2026–27) — City-published fee schedule (Master Fee Schedule, approved June 23, 2026), supplied directly by Brian; RRIP figures independently confirmed against page 14 of that schedule. City of Richmond — Billing",
+      "quote_after": "RRIP fee amounts (FY 2026–27, effective July 1, 2026) — City-published Master Fee Schedule, approved June 23, 2026, supplied directly by Brian and independently confirmed against page 14 of that document. City of Richmond — FY 2026–27 Master Fee Schedule (PDF, p.14) / Business License Tax and Fire Prevention fee amounts (FY 2025–26) — City-published fee schedule, supplied directly by Brian. City of Richmond — Billing"
+    },
+    {
+      "finding_id": "9149-R5-fix2",
+      "disposition": "accepted",
+      "rationale": "Round 05 suggested labeling the 'Partially covered (just cause only, no rent cap)' bullet as 'no Richmond rent cap' for clarity, since the following sentence already supplies the state-law (AB 1482) distinction. Low-risk, trivial precision improvement.",
+      "change_applied": "In the 'What's Actually Covered' bulleted list, changed 'Partially covered (just cause only, no rent cap)' to 'Partially covered (just cause only, no Richmond rent cap)'. Applied to WordPress post 9149 via wp_alter_post and mirrored to the OneDrive markdown (the equivalent bullet only -- the Key Facts table's own 'just cause only, no rent cap' cell was not part of this specific suggestion and was left as-is).",
+      "quote_before": "Partially covered (just cause only, no rent cap): government-subsidized/Section 8 units...",
+      "quote_after": "Partially covered (just cause only, no Richmond rent cap): government-subsidized/Section 8 units..."
+    }
+  ],
+  "operating_system_followups": [
+    {
+      "description": "RRIP knowledge amounts have now been refreshed and recurrence uncertainty is explicitly preserved; retain that distinction in later articles.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Do not defer relocation re-verification until the new global next_review date: the file's per-use relocation currency requirement still controls.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Keep fee-schedule adoption/effective-date provenance separate from the Rent Program budget approval; the master-schedule landing page and index dates should not be conflated.",
+      "target_doc": "knowledge/laws/richmond-rent-program.md",
+      "type_c_followup": true
+    }
+  ],
+  "summary": "GPT's round 05 final review (Pre-Publish Audit) came back clean: all 7 gates PASS, all 6 scores PASS at or above threshold, all prior findings (9149-03, -04, -06, -08, -09, -11) confirmed closed against the live post -- including independently re-verifying the RRIP $110/$220/$94 figures and the FAQ/JSON-LD schema match this session already confirmed directly. Recommendation was publish_as_is. No blocking findings remained; applied the two optional cleanup suggestions (split the Sources citation so it no longer implies Business License Tax/Fire Prevention were reverified against the new fee schedule when only RRIP was, and a small labeling clarity tweak) directly to WordPress and the OneDrive mirror. The three operating_system_improvements are informational/already-reflected notes about the knowledge file, logged here for the audit trail -- none require further post edits.",
+  "requires_human_review": false,
+  "recommendation_to_brian": "hold_for_brian_decision"
+}

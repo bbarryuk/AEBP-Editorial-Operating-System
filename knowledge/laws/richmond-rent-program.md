@@ -2,8 +2,8 @@
 title: Richmond Rent Program — Coverage, Fees, Just Cause, Relocation
 doc_type: informative
 owner: Brian
-last_verified: 2026-08-12
-next_review: 2026-09-01
+last_verified: 2026-09-08
+next_review: 2027-06-30
 review_frequency: as-changed (see Currency note)
 authority: Local Ordinance / City Program
 confidence: Mixed — see per-fact confidence below
@@ -18,6 +18,7 @@ source:
   - https://www.ci.richmond.ca.us/4832/Billing
   - https://library.municode.com/ca/richmond/codes/code_of_ordinances?nodeId=ARTXIPUSAWE_CH11.100FAREJUCAEVHOPR
   - https://www.ci.richmond.ca.us/DocumentCenter/View/62636/082022-Rights-and-Responsibilities-PP-Presentation_English_FINAL (new-tenancy AGA eligibility rule, added 2026-08-12)
+  - City of Richmond "Master Fee Schedule – FY 2026-27" (approved by Rent Board 2026-05-13, dated 2026-06-23), supplied directly by Brian 2026-09-08 — p.14 (RRIP) and p.64 (Residential Rental Housing Fee)
   - knowledge/laws/rent-caps.md (AGA rate — this file defers to that one rather than restating)
 ---
 
@@ -46,16 +47,17 @@ The **Richmond Fair Rent, Just Cause for Eviction, and Homeowner Protection Ordi
 
 Both are prerequisites for a valid rent increase — a rent increase issued while either is out of date is null and void.
 
-## Fees — FY 2025-2026 figures confirmed directly from the City's own fee summary PDF
+## Fees — FY 2026-2027 figures confirmed directly from the City's approved Master Fee Schedule
 
-Brian supplied "Summary of FY 2025-2026 Fees Applicable to Residential Rental Properties" (City of Richmond, fees approved effective July 1, 2025, document updated July 3, 2025) on 2026-07-25. This single document is the primary source for every dollar figure below — **Confidence: Level 1, confirmed** for all of it, replacing the earlier Level 2 (search + Grok corroboration only) status for the Fire Prevention fee. This PDF has an explicit expiration risk of its own: it's fees "as of July 1, 2025... subject to change without notice," so it should be re-pulled for FY 2026-2027 once that cycle's summary is published (typically around July each year).
+Brian supplied "Master Fee Schedule – FY 2026-27" (City of Richmond, approved by the Rent Board May 13, 2026, document dated June 23, 2026) on 2026-09-08, superseding the FY 2025-2026 fee summary previously used here. This is the underlying master schedule itself (80 pages, all city departments), not a rental-specific summary — figures below are pulled from p.14 ("Building Regulations — Miscellaneous Fees") for RRIP and p.64 ("Rent Program Fees") for the Residential Rental Housing Fee. **Confidence: Level 1, confirmed** directly against the primary document (page-checked via `pdfplumber` table extraction, not OCR/skim). Effective date for these increases is 1-Jul-2026 per the schedule's own "Index Effective date for proposed increase" column. This PDF has an explicit expiration risk of its own — re-pull for FY 2027-2028 once that cycle's schedule is published (typically follows the same July 1 pattern).
 
 **Business License Tax** (RMC 7.04) — previous calendar year gross receipts × **1.081%** (if 1–4 units owned) or **2.880%** (5+ units), plus a flat **$4.00** fee per SB 1186. Due **March 1**. Contact Business Tax Division, (510) 620-5555, Business_License_Revenue@ci.richmond.ca.us, for possible exemptions/credits. (The page previously described this as "Measure U" — that framing isn't contradicted by this PDF, which cites RMC 7.04 directly rather than the ballot measure name; keep "Measure U" only if that's confirmed elsewhere as how RMC 7.04 is publicly branded.)
 
-**Residential Rental Inspection Program (RRIP) fees** (RMC 6.40, Community Development/Building Division, (510) 690-8260):
-- Registration/Processing Fee: **$106 per owner, annual**
-- Initial Inspection Fee: **$211 per unit, every 3 years**
-- Re-inspection Fee: **$90 per unit**
+**Residential Rental Inspection Program (RRIP) fees** (RMC 6.40, Community Development/Building Division, (510) 690-8260) — FY 2026-27, effective 1-Jul-2026, up from $106/$211/$90:
+- Registration/Processing Fee: **$110 per owner**
+- Initial Inspection Fee: **$220 per unit**
+- Re-inspection Fee: **$94 per unit**
+- The schedule itself only states dollar amounts, not frequency — the "annual for owners of 3+ units, every 3 years for 1-2 units" cadence below is still sourced to the FY2025-26 fee summary, not independently reconfirmed by this document. Don't cite that frequency as Level 1 without a clearer primary-source statement.
 - Exemptions (per this fee summary specifically, narrower framing than the full RMC 6.40.050 program-exemption list above): units occupied by Housing Choice Voucher (Section 8) tenants, **provided these units receive housing quality inspections by the administering agency**; and newly constructed residential rental units, **for a period of 5 years from the date of construction**. (These two caveats were in Grok's original review and were trimmed from this file's first version as unconfirmed against the RRIP webpage Brian sent — this fee-summary PDF now confirms them independently, for the fee-exemption context specifically. The RRIP *program* exemption list in RMC 6.40.050 is broader — see above — and applies to program participation, not just this specific fee line.)
 
 **Fire Prevention Services Fee** (Fire Department, (510) 307-8037) — annual, tiered by building size, due **within 30 days of billing**:
@@ -73,8 +75,8 @@ Brian supplied "Summary of FY 2025-2026 Fees Applicable to Residential Rental Pr
 Exempt: **single-family homes and duplexes** (confirmed verbatim). See the Fire Prevention Master Fee Schedule for the source table.
 
 **Residential Rental Housing Fee** (Rent Program, (510) 234-RENT / 7368) — funds Rent Program administration/enforcement, due within 30 days of billing, escalating late fees:
-- Fully Covered Rental Units: **$267 per unit**
-- Partially Covered & Governmentally Subsidized Rental Units: **$151 per unit** (rate through 06/30/2026)
+- Fully Covered Rental Units: **$261 per unit** (FY 2026-27, effective 1-Jul-2026, down from $267)
+- Partially Covered & Governmentally Subsidized Rental Units: **$149 per unit** (FY 2026-27, effective 1-Jul-2026, down from $151)
 - Late fees: 10% if 1–30 days late, 25% if 31–60 days late, 50% if more than 60 days late
 - Exempt: permitted small second dwelling unit where the owner lives in the primary home; landlord who lives with tenants and shares a kitchen/bathroom; non-profit senior housing (additional exemptions may apply — see RMC 11.100.030(d))
 
@@ -160,12 +162,12 @@ Landlords may petition for: Fair Return Standard (Attachment A), increased occup
 
 ## Known tooling gap
 
-Several official Richmond pages (`ci.richmond.ca.us/3376/Rent-Increase`, `/2101/Rental-Inspection-Program`, `/4832/Billing`, and PDF fee schedules under `/DocumentCenter/View/`) return empty or stale content on a static fetch from this tooling — they're almost certainly JavaScript-rendered or serving a cached shell to non-browser requests. This is the same gap already logged in `rent-caps.md`. **Resolved for RRIP specifically:** Brian supplied the actual RRIP page text directly 2026-07-25, which is now the Level 1 source for that section above — the tooling gap only blocked Claude's own fetch attempt, not the underlying facts. **Resolved for Fire Prevention/RRIP fee amounts too:** Brian supplied the FY 2025-2026 rental property fee summary PDF directly 2026-07-25, same session — all dollar figures in the Fees section above (Business License, RRIP, Fire Prevention, Residential Rental Housing Fee) are now Level 1, confirmed. The pattern holds across every fact in this file so far: this tooling's static fetch failing is not evidence the underlying fact is wrong — it just means the fact needs to come from a rendered fetch or a directly-supplied document instead. If any fact here needs re-confirming later, use a rendered fetch or contact the relevant Richmond department directly.
+Several official Richmond pages (`ci.richmond.ca.us/3376/Rent-Increase`, `/2101/Rental-Inspection-Program`, `/4832/Billing`, and PDF fee schedules under `/DocumentCenter/View/`) return empty or stale content on a static fetch from this tooling — they're almost certainly JavaScript-rendered or serving a cached shell to non-browser requests. This is the same gap already logged in `rent-caps.md`. **Resolved for RRIP specifically:** Brian supplied the actual RRIP page text directly 2026-07-25, which is now the Level 1 source for that section above — the tooling gap only blocked Claude's own fetch attempt, not the underlying facts. **Resolved for Fire Prevention/RRIP fee amounts too:** Brian supplied the FY 2025-2026 rental property fee summary PDF directly 2026-07-25, same session — all dollar figures in the Fees section above (Business License, RRIP, Fire Prevention, Residential Rental Housing Fee) are now Level 1, confirmed. **RRIP and Residential Rental Housing Fee figures refreshed 2026-09-08** against the city's approved FY 2026-27 Master Fee Schedule Brian supplied directly (a Claude session had separately been unable to independently verify a ChatGPT reviewer's citation of these same updated RRIP figures via WebFetch — both `ci.richmond.ca.us` and `richmondca.gov` block it via robots.txt — until Brian supplied the actual PDF). The pattern holds across every fact in this file so far: this tooling's static fetch failing is not evidence the underlying fact is wrong — it just means the fact needs to come from a rendered fetch or a directly-supplied document instead. If any fact here needs re-confirming later, use a rendered fetch or contact the relevant Richmond department directly.
 
 ## Currency note (EVD-CURRENCY-CHECK)
 
 - AGA rate: tracked in `rent-caps.md`, re-check ~Q2 2027 for the next announcement.
 - RRIP: amended January 2025 — no known pending change, but re-check if a post is drafted more than ~12 months after this file's `last_verified` date.
-- All FY 2025-2026 dollar figures (Business License %, RRIP fees, Fire Prevention tiers, Residential Rental Housing Fee): sourced from a document that is explicitly fees "as of July 1, 2025... subject to change without notice." Re-verify against the FY 2026-2027 summary once the city publishes it (that cycle typically follows the same July 1 pattern) — don't assume these dollar amounts hold past June 30, 2026.
+- RRIP and Residential Rental Housing Fee dollar figures are now FY 2026-2027 (confirmed 2026-09-08 against the city's approved Master Fee Schedule, effective 1-Jul-2026). Business License % and Fire Prevention tiers below are still the FY 2025-2026 figures from the earlier fee summary — that PDF's Business License/Fire Prevention pages weren't re-pulled this round, only RRIP (p.14) and the Residential Rental Housing Fee (p.64). Re-verify Business License and Fire Prevention against the FY2026-27 schedule before citing them as current. Re-verify all of it again for FY 2027-2028 once that cycle publishes.
 - Relocation amounts: **re-check before every use** until the city publishes 2026 figures (delayed by the BLS CPI shutdown gap above) — this is the one fact in this file on a genuinely unpredictable timeline right now.
 - New-tenancy AGA eligibility delay (added 2026-08-12): sourced from an August 2022 city presentation, not yet cross-checked against a second, more recent source. Re-verify against a live rendered fetch of the city's Rent Increase page (or a direct Rent Program document request) the next time this file is touched.
