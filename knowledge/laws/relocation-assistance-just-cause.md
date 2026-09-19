@@ -15,7 +15,7 @@ confidence: Mixed — see per-claim confidence below
 review_method: Manual, web-verified 2026-08-19 against primary and secondary sources during a Week 4 Monday cornerstone post revision (post 8883)
 source:
   - https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1946.2.&lawCode=CIV
-  - https://www.echofairhousing.org/uploads/2/1/8/2/21829448/emeryvillejcord.pdf
+  - https://ecode360.com/46994531 (Emeryville Ch. 5-40, current through 2026-06-02; replaces stale ECHO PDF, verified 2026-09-19)
   - https://rentboard.berkeleyca.gov/elected-rent-board/news/2026-adjustments-relocation-assistance-payments
   - https://bornstein.law/oakland-relocation-payments-2026/
   - https://www.oaklandca.gov/files/assets/city/v/1/housing-comm-dev/documents/landlords/info-sheet_uniform-residential-tenant-relocation_en_6.2.25_draft-1.pdf
