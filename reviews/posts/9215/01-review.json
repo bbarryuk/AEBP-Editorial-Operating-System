@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9215,
+  "title": "Emeryville Rental Laws 2026: What Landlords Need to Know (It's Not as Simple as No Rent Control)",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.2",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "f77a3a7628a6d28bc4ddf1008fe31ca142b34a96",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9215,
+    "status": "draft",
+    "revision_id": null,
+    "modified_gmt": null,
+    "permalink": "https://dev.alleastbayproperties.com/?p=9215"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 / Codex"
+  },
+  "timestamp": "2026-09-19T23:04:57Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9215-01",
+          "quote": "A unit that is exempt from AB 1482 has no rent-increase cap at all",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Exemption from one statute is treated as exemption from all rent restrictions, immediately after listing deed-restricted affordable housing.",
+          "fix": "Replace with 'An exempt unit is not subject to AB 1482’s cap; affordability restrictions, agreements, and other applicable limits still need checking.' Assess local termination coverage separately. Source: Civil Code §1947.12(d)(1), https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1947.12.",
+          "future_prevention": "Preserve the distinction between state-cap exemption, other rent restrictions, and local just-cause coverage in every summary."
+        },
+        {
+          "finding_id": "9215-06",
+          "quote": "generally 30 days if it totals 10% or less, 90 days if more",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The action checklist repeats base notice periods without allowing for service by mail.",
+          "fix": "Add that mailed notices require the applicable additional time under CCP §1013, and that longer governing notice requirements control. Update body and checklist. Source: Civil Code §827(b)–(c), https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=827.",
+          "future_prevention": "Review service method whenever publishing a notice-period checklist."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9215-02",
+          "quote": "Miss a precondition and the notice can be invalidated.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The five-step sequence and consequences omit the express City-service exception in §5-40.06(b). 'City-required form' also overstates §5-40.08.",
+          "fix": "Explain that City filing is mandatory, but failure of City service alone does not invalidate the termination notice under §5-40.06(b). Describe a notice substantially in the City's prescribed form with all required content. Correct intro, five steps, consequences, checklist and script. Source: https://ecode360.com/46994531",
+          "future_prevention": "Compare procedural instructions with the remedies section; retain exceptions when compressing into a script."
+        },
+        {
+          "finding_id": "9215-03",
+          "quote": "Small landlord — 4 or fewer covered units",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The tier definition drops the group-residential-facility exception; quick answer, facts, FAQ and script also lose the Emeryville-only unit count.",
+          "fix": "Count covered units in Emeryville; include group residential facilities of any size in the small-landlord definition. Apply consistently across table, FAQ, intro and script. Source: §5-40.02(e), https://ecode360.com/46994531",
+          "future_prevention": "Carry the full defined term into condensed tables and companion copy."
+        },
+        {
+          "finding_id": "9215-04",
+          "quote": "the tenant may be offered it",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "A conditional obligation reads as landlord discretion.",
+          "fix": "Use 'the landlord must offer it' when the stated right-to-return conditions are met; retain the two-year, current-address and written-acceptance qualifications. Source: §5-40.02(j), https://ecode360.com/46994531",
+          "future_prevention": "Check must/may wording against the controlling provision."
+        },
+        {
+          "finding_id": "9215-05",
+          "quote": "hotels and motels",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The local-exemptions paragraph and FAQ omit the occupancy limit, making the exemption categorical.",
+          "fix": "Qualify hotels, motels and short-term rentals by the maximum 30-consecutive-day occupancy condition and anti-evasion rule. Use 'covered tenancies' in broad day-one/any-termination statements. Source: §5-40.02(b)(1), https://ecode360.com/46994531",
+          "future_prevention": "Do not turn conditional coverage exemptions into property-type labels."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9215-07",
+          "quote": "Emeryville Rental Laws 2026: What Landlords Need to Know (It's Not as Simple as No Rent Control)",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "The saved draft is readable through WordPress, but the browser preview returns Page not found. Rendered content and emitted schema cannot be inspected from that response.",
+          "fix": "Provide an authenticated working preview or rendered-page evidence, then verify article/FAQ schema, on-page FAQ agreement, responsive tables, sharing links and reusable block output. This is an evidence gap, not proof that schema is missing. Do not publish merely to obtain a preview.",
+          "future_prevention": "Include usable preview evidence with a final-review handoff."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Specific title, SEO metadata, relevant internal links and live conversion destination.",
+      "whats_holding_back": "Rendered schema and page checks remain open."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 88,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first introduction, key facts, comparison tables and five FAQ answers.",
+      "whats_holding_back": "Compressed answers repeat incomplete legal definitions."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 88,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Primary sources and documented company observation; hypothetical arithmetic explicitly labeled.",
+      "whats_holding_back": "Legal exceptions omitted; replace rolling BLS link with dated release."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear sections, useful tables and an action checklist.",
+      "whats_holding_back": "Intro is dense and some points repeat through script and body."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant Emeryville CTA and general education with attorney referral.",
+      "whats_holding_back": "Linked service page has broader rent-flexibility language worth separately reviewing."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 88,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Strong cornerstone structure and correctly updated central rate.",
+      "whats_holding_back": "Open legal/local findings and incomplete rendered-page verification prevent clearance."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9215-C1",
+      "quote": "We've been headquartered in Emeryville since 2005",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/thursday-tip-emeryville-business-license/",
+      "note": "Published internal citation supports headquarters/history; no new owner_verified label inferred."
+    },
+    {
+      "claim_id": "9215-C2",
+      "quote": "license renewal sits on our own compliance calendar alongside the registration deadlines we track for Oakland, Berkeley, and Richmond",
+      "provenance": "documented",
+      "source": "https://alleastbayproperties.com/thursday-tip-emeryville-business-license/; knowledge/company/overview.md",
+      "note": "Existing internal published record supports the calendar practice; draft cites Brian confirmation. Script's shorter version is covered here."
+    },
+    {
+      "claim_id": "9215-C3",
+      "quote": "we also checked the City's own Tenant Protection Resources page",
+      "provenance": "documented",
+      "source": "https://www.emeryville.org/Services/Housing/Tenant-Resources/Tenant-Protection-Resources",
+      "note": "Reviewer independently checked on September 19, 2026: page still shows the 6.3% 2025–26 period. Same research observation repeated in body and script."
+    },
+    {
+      "claim_id": "9215-C4",
+      "quote": "We're headquartered in Emeryville and have managed East Bay rentals since 2005 — including the license, notice, and City Clerk filings that sit underneath every Emeryville termination.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/thursday-tip-emeryville-business-license/",
+      "note": "Read as general compliance-service description, supported by internal service record, not as an assertion of a particular eviction/client result. Legal coverage qualification is addressed in 9215-05."
+    },
+    {
+      "claim_id": "9215-C5",
+      "quote": "Illustration (hypothetical arithmetic, not a client case)",
+      "provenance": "hypothetical_example",
+      "note": "$3,000 rent illustration correctly shows arithmetic and requires checking current HUD FMR; no fabricated client event."
+    }
+  ],
+  "strengths": [
+    "8.8% for August 1, 2026–July 31, 2027 is verified: April 2026 regional CPI 3.8% plus 5%. Preserve it.",
+    "Oakland 2.3%, Berkeley 1.0%, Richmond 1.5% match current official city/Rent Board sources.",
+    "Required cornerstone sequence is present, including AEBP observation, action checklist, five FAQ questions, sources and closing CTA.",
+    "Company calendar practice has an identifiable internal published source; illustration is explicitly hypothetical.",
+    "Script is labeled Video Script, not a transcript of an unrecorded video.",
+    "Source notes distinguish City FAQ guidance from ordinance authority; contested individual cases are referred to counsel.",
+    "Native block attributes parse as JSON; social-link escaping is normal JSON escaping, not a demonstrated defect."
+  ],
+  "article_fixes": [
+    "9215-01: Replace with 'An exempt unit is not subject to AB 1482’s cap; affordability restrictions, agreements, and other applicable limits still need checking.' Assess local termination coverage separately. Source: Civil Code §1947.12(d)(1), https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1947.12.",
+    "9215-02: Explain that City filing is mandatory, but failure of City service alone does not invalidate the termination notice under §5-40.06(b). Describe a notice substantially in the City's prescribed form with all required content. Correct intro, five steps, consequences, checklist and script. Source: https://ecode360.com/46994531",
+    "9215-03: Count covered units in Emeryville; include group residential facilities of any size in the small-landlord definition. Apply consistently across table, FAQ, intro and script. Source: §5-40.02(e), https://ecode360.com/46994531",
+    "9215-04: Use 'the landlord must offer it' when the stated right-to-return conditions are met; retain the two-year, current-address and written-acceptance qualifications. Source: §5-40.02(j), https://ecode360.com/46994531",
+    "9215-05: Qualify hotels, motels and short-term rentals by the maximum 30-consecutive-day occupancy condition and anti-evasion rule. Use 'covered tenancies' in broad day-one/any-termination statements. Source: §5-40.02(b)(1), https://ecode360.com/46994531",
+    "9215-06: Add that mailed notices require the applicable additional time under CCP §1013, and that longer governing notice requirements control. Update body and checklist. Source: Civil Code §827(b)–(c), https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=827.",
+    "9215-07: Provide an authenticated working preview or rendered-page evidence, then verify article/FAQ schema, on-page FAQ agreement, responsive tables, sharing links and reusable block output. This is an evidence gap, not proof that schema is missing. Do not publish merely to obtain a preview.",
+    "Source durability: replace the rolling BLS URL with https://www.bls.gov/regions/west/news-release/2026/consumerpriceindex_sanfrancisco_20260512.htm, which verifies the April 2026 figure.",
+    "Keep tax attribution precise: the City FAQ describes the 0.10%/$25 schedule for 'most businesses'; retain confirmation language rather than call the FAQ an independently verified residential-specific rate schedule.",
+    "Before the full cornerstone package ships, review the separate video companion and GBP copy independently. They were not supplied/identified in this post-only review."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Retain the City-service exception and group-residential definition already present in the refreshed knowledge file when drafting shortened copy. This is application of existing reference material, not a missing-rule problem.",
+      "target_doc": "knowledge/laws/emeryville-landlord-tenant.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Record the already cited license-calendar experience in the anecdote log with its internal source, so later reviews need not reconstruct provenance from published copy.",
+      "target_doc": "knowledge/company/anecdote-log.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Review the linked Emeryville service page separately: its 'Adjust rents to market rates annually' language could undermine this guide's careful explanation. This is outside the post-9215 clearance scope.",
+      "target_doc": null,
+      "type_c_followup": false
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "First recorded protocol review for 9215: no earlier review/revision-response found in the repository, so numbered 01 despite the request for a final review. Reviewed latest WordPress snapshot on AEBP-Dev, not production. Snapshot reports post_modified 2026-09-19 15:50:50 without explicit GMT, so modified_gmt is null rather than guessed; revision ID not returned. Repo was clean and aligned with origin/main before writing these artifacts. No WordPress edits or publishing performed. Embedded script reviewed as part of the post; separate companion video and GBP are not cleared. Preview https://dev.alleastbayproperties.com/?p=9215&preview=true returned Page not found. Metadata and native block attributes inspected, but no editor round-trip or emitted schema verification claimed. BMR percentages corroborated by official City indexed program text; direct program/PDF retrieval was blocked, so this was not a full current PDF audit. Scores are editorial estimates, not measured search results or an arithmetic average. Claude should answer every finding in 02-revision-response.json; next review must inspect the actual updated post."
+}

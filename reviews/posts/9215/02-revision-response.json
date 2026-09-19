@@ -1,0 +1,96 @@
+{
+  "schema_version": "0.1.0",
+  "post_id": 9215,
+  "content_type": "cornerstone",
+  "responds_to": {
+    "review_file": "reviews/posts/9215/01-review.json",
+    "timestamp": "2026-09-19T23:04:57Z"
+  },
+  "repo": {
+    "commit": "f77a3a7628a6d28bc4ddf1008fe31ca142b34a96",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9215,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=9215"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-09-19T23:20:00Z",
+  "dispositions": [
+    {
+      "finding_id": "9215-01",
+      "disposition": "accepted",
+      "rationale": "Correct: exemption from the state cap is not exemption from every rent restriction, and local termination coverage is a separate question.",
+      "change_applied": "Replaced the 'no rent-increase cap at all' sentence with the reviewer's framing, added that affordability restrictions and recorded agreements still need checking, and separated Emeryville ordinance coverage (with the 30-day anti-evasion rule).",
+      "quote_before": "A unit that is exempt from AB 1482 has no rent-increase cap at all",
+      "quote_after": "An exempt unit is not subject to AB 1482's cap, but affordability restrictions, recorded agreements, and other applicable limits still need checking."
+    },
+    {
+      "finding_id": "9215-02",
+      "disposition": "accepted",
+      "rationale": "Confirmed against eCode360 §5-40.06(b): failure to demonstrate service to the City does not invalidate the notice; §5-40.08 requires a notice in substantially the same form. 'City-required form' overstated it.",
+      "change_applied": "Quick Answer, step 3, consequences paragraph, checklist item, and video script (post 9215 and video page 9217) now say 'substantially the City's prescribed form' and carry the City-service exception while keeping the City filing mandatory.",
+      "quote_before": "Miss a precondition and the notice can be invalidated.",
+      "quote_after": "Miss most preconditions and the notice can be invalidated; the City filing is still mandatory, but failing to show City service alone does not invalidate the notice."
+    },
+    {
+      "finding_id": "9215-03",
+      "disposition": "accepted",
+      "rationale": "Confirmed §5-40.02(e)(2): small landlord includes a landlord of a group residential facility of any size; unit count is covered units in Emeryville.",
+      "change_applied": "Updated Quick Answer, Key Facts row, relocation table, FAQ 5, and script (post and video page) to carry the full defined term.",
+      "quote_before": "Small landlord — 4 or fewer covered units",
+      "quote_after": "Small landlord — 4 or fewer covered units in Emeryville, or a group residential facility of any size"
+    },
+    {
+      "finding_id": "9215-04",
+      "disposition": "accepted",
+      "rationale": "Confirmed §5-40.02(j): the landlord must deliver an offer when conditions are met; written acceptance within 30 days; rent may not exceed the last month of the tenancy; survives change of ownership.",
+      "change_applied": "Replaced 'may be offered' with 'must offer' and kept the mailing-address, 30-day and written-acceptance conditions. Removed the Civil Code §827 parenthetical, which the ordinance text does not support.",
+      "quote_before": "the tenant may be offered it",
+      "quote_after": "the landlord must offer it back ... provided the tenant kept a current mailing address on file and delivers a written acceptance within 30 days of the offer"
+    },
+    {
+      "finding_id": "9215-05",
+      "disposition": "accepted",
+      "rationale": "Confirmed §5-40.02(b)(1): hotel/motel/short-term rental exemption applies only while occupancy does not exceed 30 consecutive days, with an anti-evasion rule.",
+      "change_applied": "Qualified the exemption in the coverage paragraph and FAQ 3; replaced broad statements with 'covered tenancy' in Key Facts, body, and script. Replaced the unverified 'two or fewer bedrooms' owner-occupied wording with 'certain owner-occupied residences'.",
+      "quote_before": "hotels and motels",
+      "quote_after": "hotels, motels and short-term rentals where the tenant does not reside more than 30 consecutive days"
+    },
+    {
+      "finding_id": "9215-06",
+      "disposition": "accepted",
+      "rationale": "Reviewer's point is right: mailed service adds time under CCP §1013 and a longer governing notice requirement controls.",
+      "change_applied": "Added the mailing and longer-notice caveat to the body paragraph and the checklist item. CCP §1013 and Civil Code §827(b)-(c) were taken from the review and not independently re-fetched this round.",
+      "quote_before": "generally 30 days if it totals 10% or less, 90 days if more (Civil Code §827(b)).",
+      "quote_after": "... (Civil Code §827(b)). If the notice is served by mail, additional time applies under Code of Civil Procedure §1013, and any longer notice requirement that governs your tenancy controls."
+    },
+    {
+      "finding_id": "9215-07",
+      "disposition": "requires_human",
+      "rationale": "Working preview or rendered-page evidence needs an authenticated dev-site session that this drafter does not have; the response cannot supply it and will not publish just to obtain a preview.",
+      "change_applied": null
+    }
+  ],
+  "operating_system_followups": [
+    {
+      "description": "Record the Emeryville license-calendar experience in the anecdote log with its internal source (Thursday Tip post and knowledge/company/overview.md).",
+      "target_doc": "knowledge/company/",
+      "type_c_followup": false
+    },
+    {
+      "description": "Review the Emeryville service page: 'Adjust rents to market rates annually' language could undermine this guide's AB 1482 explanation. Outside post 9215 scope.",
+      "target_doc": null,
+      "type_c_followup": false
+    }
+  ],
+  "summary": "All six Type A findings (9215-01 to 9215-06) accepted and applied to draft post 9215 and the matching script on video page 9217. 9215-07 (preview/schema evidence) needs Brian: dev preview returned Page not found. Also applied: dated BLS release URL for the 8.8% source. License attribution left as City-FAQ-with-confirmation language per Brian's decision. Video companion and GBP copy remain unreviewed. WordPress post modified 2026-09-19 16:09:52 (site time, no GMT returned).",
+  "requires_human_review": true,
+  "recommendation_to_brian": "hold_for_brian_decision"
+}
