@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9215,
+  "title": "Emeryville Rental Laws 2026: What Landlords Need to Know (It's Not as Simple as No Rent Control)",
+  "content_type": "cornerstone",
+  "review_mode": "Editorial Review",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.2",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "b44a0f84dce555a39e0615a74e879e0e71f8bba2",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9215,
+    "status": "draft",
+    "revision_id": null,
+    "modified_gmt": null,
+    "permalink": "https://dev.alleastbayproperties.com/?p=9215"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 / Codex"
+  },
+  "timestamp": "2026-09-19T23:27:25Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 94,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant title, metadata and internal links.",
+      "whats_holding_back": "Rendered SEO/schema checks deferred to Brian."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear factual summaries with coverage qualifications and labeled sources.",
+      "whats_holding_back": "No material editorial blocker identified."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Primary sources and documented company experience.",
+      "whats_holding_back": "No material editorial blocker identified."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Scannable sections and useful summaries.",
+      "whats_holding_back": "No material editorial blocker identified."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 92,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant property-management consultation path.",
+      "whats_holding_back": "No material editorial blocker identified."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "All blocking editorial findings resolved within this scoped review.",
+      "whats_holding_back": "Editorial estimate, not full publication clearance; launch checks deferred."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9215-C1",
+      "quote": "We've been headquartered in Emeryville since 2005",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/thursday-tip-emeryville-business-license/",
+      "note": "Published internal citation supports headquarters/history; no new owner_verified label inferred."
+    },
+    {
+      "claim_id": "9215-C2",
+      "quote": "license renewal sits on our own compliance calendar alongside the registration deadlines we track for Oakland, Berkeley, and Richmond",
+      "provenance": "documented",
+      "source": "https://alleastbayproperties.com/thursday-tip-emeryville-business-license/; knowledge/company/overview.md",
+      "note": "Existing internal published record supports the calendar practice; draft cites Brian confirmation. Script's shorter version is covered here."
+    },
+    {
+      "claim_id": "9215-C3",
+      "quote": "we also checked the City's own Tenant Protection Resources page",
+      "provenance": "documented",
+      "source": "https://www.emeryville.org/Services/Housing/Tenant-Resources/Tenant-Protection-Resources",
+      "note": "Reviewer independently checked on September 19, 2026: page still shows the 6.3% 2025–26 period. Same research observation repeated in body and script."
+    },
+    {
+      "claim_id": "9215-C4",
+      "quote": "We're headquartered in Emeryville and have managed East Bay rentals since 2005 — including the license, notice, and City Clerk filings that sit underneath every Emeryville termination.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/thursday-tip-emeryville-business-license/",
+      "note": "Read as general compliance-service description, supported by internal service record, not as an assertion of a particular eviction/client result. Legal coverage qualification is addressed in 9215-05."
+    },
+    {
+      "claim_id": "9215-C5",
+      "quote": "Illustration (hypothetical arithmetic, not a client case)",
+      "provenance": "hypothetical_example",
+      "note": "$3,000 rent illustration correctly shows arithmetic and requires checking current HUD FMR; no fabricated client event."
+    }
+  ],
+  "strengths": [
+    "9215-08 closed: §827 qualification restored while mandatory offer and return conditions remain.",
+    "Earlier exemption, filing, form, relocation and notice-service corrections retained.",
+    "Shared script is identical to 9217, including covered-tenancy, filing timing and disaster-exception updates.",
+    "Documented AEBP observation, hypothetical illustration, primary sources and cornerstone structure retained."
+  ],
+  "article_fixes": [
+    "No further blocking editorial changes identified.",
+    "Brian owns deferred structured-data and rendered-page checks before publication.",
+    "Complete recording/embed, compare final spoken content with script before labeling it Video Transcript, and confirm the parent-guide link resolves at launch."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Retain the whole-page VIDEO-CONSISTENCY check after future revisions; no new protocol change required.",
+      "target_doc": "reviews/video-review.md",
+      "type_c_followup": false
+    }
+  ],
+  "recommendation": "publish_as_is",
+  "notes": "Final scoped Editorial Review responding to 04-revision-response.json. Every requested disposition accounted for, both response files schema-validated, and actual latest WordPress content inspected. Post 9215 remains draft on AEBP-Dev; raw modified 2026-09-19 16:23:05 has no explicit GMT, so modified_gmt remains null. No new findings. recommendation=publish_as_is means no additional text revision requested within this Editorial Review, NOT authorization to publish or completed Pre-Publish Audit. Technical gate omitted per Brian's explicit deferral of rendered-page/structured-data checks. 9215-07 remains Brian's pre-publication responsibility; final recording, transcript fidelity and parent-link launch checks remain outstanding. VIDEO-TRANSCRIPT-LITERAL PASS, where present, covers the correct Script label only. Source verification from this same review session retained, controlling ordinance reopened for the return-rent qualification. Source: https://ecode360.com/46994531, §5-40.03(e)(2). Both shared scripts match exactly. No WordPress edits or publishing. Repo was clean before these review artifacts. Tool timestamp precedes the response's stated 23:45 timestamp; artifact sequence and observed snapshots establish review order. Scores are editorial estimates, not search measurements."
+}
