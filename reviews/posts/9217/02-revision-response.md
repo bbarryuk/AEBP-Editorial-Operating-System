@@ -1,0 +1,13 @@
+# Post 9217 — revision response
+
+Responds to `reviews/posts/9217/01-review.json`. WordPress drafts edited; nothing published.
+
+## Dispositions
+
+- **9217-01 — accepted.** Body and takeaways still carried the older 'City-required form' and unqualified precondition wording; filing timing was also ambiguous. *Change:* 'In This Video', coverage list and takeaways now say substantially the City's prescribed form, carry the City-service exception, and state the 10-day filing runs after delivery to the tenant, not before service. Script says 'after delivering the notice' (mirrored to 9215).
+- **9217-02 — accepted.** Confirmed §5-40.02(e)(2) and §5-40.04(a): small landlord includes group residential facilities; covered Emeryville units; natural-disaster exception. *Change:* Full landlord-size definitions and the natural-disaster exception added to body, takeaways, intro and script; 'five or more' became 'more than four covered units'.
+- **9217-03 — accepted.** Standalone page made universal statements that the parent qualifies. *Change:* Used 'covered tenancy' throughout, said AB 1482 'generally' begins after 12 months with a pointer to the guide's added-tenant note, and added a short exemption caveat (hotels, motels, short-term rentals of 30 consecutive days or less) that links readers to the full guide's list. Script line 'day one of the tenancy' left as spoken shorthand because the sentence after it now says 'covered tenancy'.
+- **9217-04 — accepted.** Correct: the page listed only AEBP pages as resources. *Change:* Added labeled resources to the Resources Mentioned list: Civil Code §§1947.12 and 1946.2 (law), Emeryville Ch. 5-40 (local ordinance, current through June 2, 2026), dated April 2026 BLS release (federal statistic), and the City license FAQ and BMR guidelines (City guidance). AEBP experience remains labeled separately in the CTA and script.
+- **9217-05 — accepted_with_modification.** Agree the drift was the VIDEO-CONSISTENCY failure; resolved 01-03 across all sections and resynchronized the script to 9215. Reworded one script line for 9217-01 rather than adding new script text. *Change:* Rechecked body, takeaways, resources and script together after edits; fetched both pages and confirmed the two scripts are word-for-word identical. Remaining items are recording-stage, not text: verify script against the spoken video and confirm the parent-guide URL resolves at launch.
+
+**Recommendation:** proceed_to_gpt_final_review. All five 9217 findings addressed across body, takeaways, resources and script; scripts identical across 9215 and 9217. Recording, transcript relabeling, parent-URL check and render/schema checks remain for launch. Nothing published.

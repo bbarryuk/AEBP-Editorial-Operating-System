@@ -1,0 +1,190 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9215,
+  "title": "Emeryville Rental Laws 2026: What Landlords Need to Know (It's Not as Simple as No Rent Control)",
+  "content_type": "cornerstone",
+  "review_mode": "Editorial Review",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.2",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "c26a5c854ea19b0fce6638ac06d8f348b027716e",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9215,
+    "status": "draft",
+    "revision_id": null,
+    "modified_gmt": null,
+    "permalink": "https://dev.alleastbayproperties.com/?p=9215"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 / Codex"
+  },
+  "timestamp": "2026-09-19T23:17:42Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9215-08",
+          "quote": "at a monthly rent no higher than the tenant's last month of the tenancy",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Claude removed the §827 qualification as unsupported, but §5-40.03(e)(2) expressly includes it. The definitions section alone does not state the complete rent rule.",
+          "fix": "Keep 'must offer' and restore 'subject to any notice provided in accordance with Civil Code §827.' Do not turn the return-rent provision into an unconditional ceiling. Source: https://ecode360.com/46994531, §5-40.03(e)(2).",
+          "future_prevention": "Check controlling provisions and every occurrence in body, summaries and companion script."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Specific title, SEO metadata, relevant internal links and live conversion destination.",
+      "whats_holding_back": "Rendered schema and page checks remain open."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 93,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first introduction, key facts, comparison tables and five FAQ answers.",
+      "whats_holding_back": "Restore the right-to-return qualification."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 93,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Primary sources and documented company observation; hypothetical arithmetic explicitly labeled.",
+      "whats_holding_back": "Restore the right-to-return qualification."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear sections, useful tables and an action checklist.",
+      "whats_holding_back": "Intro is dense and some points repeat through script and body."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant Emeryville CTA and general education with attorney referral.",
+      "whats_holding_back": "Linked service page has broader rent-flexibility language worth separately reviewing."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 93,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Strong cornerstone structure and correctly updated central rate.",
+      "whats_holding_back": "Restore the right-to-return qualification."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9215-C1",
+      "quote": "We've been headquartered in Emeryville since 2005",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/thursday-tip-emeryville-business-license/",
+      "note": "Published internal citation supports headquarters/history; no new owner_verified label inferred."
+    },
+    {
+      "claim_id": "9215-C2",
+      "quote": "license renewal sits on our own compliance calendar alongside the registration deadlines we track for Oakland, Berkeley, and Richmond",
+      "provenance": "documented",
+      "source": "https://alleastbayproperties.com/thursday-tip-emeryville-business-license/; knowledge/company/overview.md",
+      "note": "Existing internal published record supports the calendar practice; draft cites Brian confirmation. Script's shorter version is covered here."
+    },
+    {
+      "claim_id": "9215-C3",
+      "quote": "we also checked the City's own Tenant Protection Resources page",
+      "provenance": "documented",
+      "source": "https://www.emeryville.org/Services/Housing/Tenant-Resources/Tenant-Protection-Resources",
+      "note": "Reviewer independently checked on September 19, 2026: page still shows the 6.3% 2025–26 period. Same research observation repeated in body and script."
+    },
+    {
+      "claim_id": "9215-C4",
+      "quote": "We're headquartered in Emeryville and have managed East Bay rentals since 2005 — including the license, notice, and City Clerk filings that sit underneath every Emeryville termination.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/thursday-tip-emeryville-business-license/",
+      "note": "Read as general compliance-service description, supported by internal service record, not as an assertion of a particular eviction/client result. Legal coverage qualification is addressed in 9215-05."
+    },
+    {
+      "claim_id": "9215-C5",
+      "quote": "Illustration (hypothetical arithmetic, not a client case)",
+      "provenance": "hypothetical_example",
+      "note": "$3,000 rent illustration correctly shows arithmetic and requires checking current HUD FMR; no fabricated client event."
+    }
+  ],
+  "strengths": [
+    "9215-01, -02, -03, -05 and -06 resolved in actual updated post.",
+    "9215-04 mandatory-offer correction is present; unrelated removal of the rent qualification is tracked as 9215-08.",
+    "Dated BLS citation is present; 8.8% remains verified.",
+    "Structure, documented company observation and hypothetical arithmetic retained."
+  ],
+  "article_fixes": [
+    "9215-08: Keep 'must offer' and restore 'subject to any notice provided in accordance with Civil Code §827.' Do not turn the return-rent provision into an unconditional ceiling. Source: https://ecode360.com/46994531, §5-40.03(e)(2).",
+    "9215-07 is deferred to Brian's pre-publication structured-data/render check, per his instruction; not a blocker to continuing editorial work.",
+    "Synchronize shared script changes resulting from 9217 review."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Retain the City-service exception and group-residential definition already present in the refreshed knowledge file when drafting shortened copy. This is application of existing reference material, not a missing-rule problem.",
+      "target_doc": "knowledge/laws/emeryville-landlord-tenant.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Record the already cited license-calendar experience in the anecdote log with its internal source, so later reviews need not reconstruct provenance from published copy.",
+      "target_doc": "knowledge/company/anecdote-log.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "Review the linked Emeryville service page separately: its 'Adjust rents to market rates annually' language could undermine this guide's careful explanation. This is outside the post-9215 clearance scope.",
+      "target_doc": null,
+      "type_c_followup": false
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Responds to 02-revision-response.json. All seven dispositions present and response schema validated. Actual updated draft inspected: modified 2026-09-19 16:09:52 without explicit GMT. Five content findings fully closed; mandatory-offer correction in -04 verified, with a new regression recorded as -08. Brian explicitly deferred -07 to his pre-publication checks. Technical gate omitted from this scoped Editorial Review rather than falsely marked PASS. No rendered-page/schema clearance claimed. Shared scripts match exactly across 9215/9217. No WordPress changes. Repo was clean before these artifacts. Tool timestamp precedes response's stated timestamp; review order is established by numbered artifacts and actual snapshots, not inferred from that timestamp."
+}

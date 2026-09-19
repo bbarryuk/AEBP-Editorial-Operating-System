@@ -1,0 +1,45 @@
+{
+  "schema_version": "0.1.0",
+  "post_id": 9215,
+  "content_type": "cornerstone",
+  "responds_to": {
+    "review_file": "reviews/posts/9215/03-final-review.json",
+    "timestamp": "2026-09-19T23:17:42Z"
+  },
+  "repo": {
+    "commit": "c26a5c854ea19b0fce6638ac06d8f348b027716e",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9215,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=9215"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-09-19T23:45:00Z",
+  "dispositions": [
+    {
+      "finding_id": "9215-08",
+      "disposition": "accepted",
+      "rationale": "Correct. §5-40.03(e)(2) says return rent may not exceed the last month of the tenancy 'subject to any notice provided in accordance with California Civil Code Section 827'; I had wrongly treated the definitions section as complete and dropped the qualification.",
+      "change_applied": "Restored 'subject to any notice provided in accordance with Civil Code §827' in the right-to-return paragraph, keeping 'must offer' and the two-year, mailing-address and written-acceptance conditions. Also synchronized three shared-script changes from the 9217 review into 9215's script (covered tenancy, filing after delivery, more than four units and natural-disaster exception); scripts verified identical across both pages.",
+      "quote_before": "at a monthly rent no higher than the tenant's last month of the tenancy, provided",
+      "quote_after": "at a monthly rent no higher than the tenant's last month of the tenancy, subject to any notice provided in accordance with Civil Code §827, provided"
+    },
+    {
+      "finding_id": "9215-07",
+      "disposition": "requires_human",
+      "rationale": "Brian deferred structured-data and rendered-page verification to his pre-publication check.",
+      "change_applied": null
+    }
+  ],
+  "operating_system_followups": [],
+  "summary": "9215-08 accepted and fixed: the §827 qualification is restored in the right-to-return paragraph. 9215-07 stays with Brian's pre-publication render/schema check. Shared script changes from the 9217 review are now mirrored into 9215. Nothing published.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "proceed_to_gpt_final_review"
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": "0.1.0",
+  "post_id": 9217,
+  "content_type": "video",
+  "responds_to": {
+    "review_file": "reviews/posts/9217/01-review.json",
+    "timestamp": "2026-09-19T23:17:42Z"
+  },
+  "repo": {
+    "commit": "c26a5c854ea19b0fce6638ac06d8f348b027716e",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9217,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=9217"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-09-19T23:45:00Z",
+  "dispositions": [
+    {
+      "finding_id": "9217-01",
+      "disposition": "accepted",
+      "rationale": "Body and takeaways still carried the older 'City-required form' and unqualified precondition wording; filing timing was also ambiguous.",
+      "change_applied": "'In This Video', coverage list and takeaways now say substantially the City's prescribed form, carry the City-service exception, and state the 10-day filing runs after delivery to the tenant, not before service. Script says 'after delivering the notice' (mirrored to 9215).",
+      "quote_before": "use the City-required form, and file a copy with the City Clerk within 10 calendar days. A missed precondition can invalidate the notice.",
+      "quote_after": "serve a notice in substantially the City's prescribed form. A copy goes to the City Clerk within 10 calendar days after the notice is delivered to the tenant ... failing to show City service alone does not [invalidate the notice], though the filing remains mandatory."
+    },
+    {
+      "finding_id": "9217-02",
+      "disposition": "accepted",
+      "rationale": "Confirmed §5-40.02(e)(2) and §5-40.04(a): small landlord includes group residential facilities; covered Emeryville units; natural-disaster exception.",
+      "change_applied": "Full landlord-size definitions and the natural-disaster exception added to body, takeaways, intro and script; 'five or more' became 'more than four covered units'.",
+      "quote_before": "for four units or fewer, the greater of one month of HUD Fair Market Rent or one month's rent",
+      "quote_after": "for a small landlord (four or fewer covered Emeryville units, or a group residential facility of any size), the greater of one month of HUD Fair Market Rent or one month's rent"
+    },
+    {
+      "finding_id": "9217-03",
+      "disposition": "accepted",
+      "rationale": "Standalone page made universal statements that the parent qualifies.",
+      "change_applied": "Used 'covered tenancy' throughout, said AB 1482 'generally' begins after 12 months with a pointer to the guide's added-tenant note, and added a short exemption caveat (hotels, motels, short-term rentals of 30 consecutive days or less) that links readers to the full guide's list. Script line 'day one of the tenancy' left as spoken shorthand because the sentence after it now says 'covered tenancy'.",
+      "quote_before": "Just cause applies from day one of an Emeryville tenancy, not after 12 months",
+      "quote_after": "Just cause applies from day one of a covered Emeryville tenancy, while AB 1482's generally begins after 12 months"
+    },
+    {
+      "finding_id": "9217-04",
+      "disposition": "accepted",
+      "rationale": "Correct: the page listed only AEBP pages as resources.",
+      "change_applied": "Added labeled resources to the Resources Mentioned list: Civil Code §§1947.12 and 1946.2 (law), Emeryville Ch. 5-40 (local ordinance, current through June 2, 2026), dated April 2026 BLS release (federal statistic), and the City license FAQ and BMR guidelines (City guidance). AEBP experience remains labeled separately in the CTA and script."
+    },
+    {
+      "finding_id": "9217-05",
+      "disposition": "accepted_with_modification",
+      "rationale": "Agree the drift was the VIDEO-CONSISTENCY failure; resolved 01-03 across all sections and resynchronized the script to 9215. Reworded one script line for 9217-01 rather than adding new script text.",
+      "change_applied": "Rechecked body, takeaways, resources and script together after edits; fetched both pages and confirmed the two scripts are word-for-word identical. Remaining items are recording-stage, not text: verify script against the spoken video and confirm the parent-guide URL resolves at launch."
+    }
+  ],
+  "operating_system_followups": [
+    {
+      "description": "After any parent-article revision, re-sweep the companion video page body, takeaways and resources, not only the script (VIDEO-CONSISTENCY).",
+      "target_doc": "reviews/video-review.md",
+      "type_c_followup": false
+    }
+  ],
+  "summary": "All five 9217 findings addressed across body, takeaways, resources and script; scripts identical across 9215 and 9217. Recording, transcript relabeling, parent-URL check and render/schema checks remain for launch. Nothing published.",
+  "requires_human_review": false,
+  "recommendation_to_brian": "proceed_to_gpt_final_review"
+}
