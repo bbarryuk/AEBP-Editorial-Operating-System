@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9315,
+  "title": "What Overpricing a Rental Really Costs: The Vacancy Math",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.2",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "da1aaaf951cc97442e53fa631d34aff8298b5f64",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9315,
+    "status": "draft",
+    "revision_id": null,
+    "modified_gmt": null,
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=9315"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6"
+  },
+  "timestamp": "2026-09-25T05:37:12Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9315-F03",
+          "quote": "Video in production. It will be embedded here once it's live.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "The independent companion source review found 31 balanced block markers, metadata, image alt and conversion link, but no finished video. Public preview fetch failed; final template and applicable video schema cannot be inspected. The full-guide production URL is not yet accessible.",
+          "fix": "Keep this page draft until recording/embed and final rendered checks are completed. Verify guide link at release and compare spoken recording with transcript before relabeling Video Script. Lack of raw JSON-LD is not proof that generated schema is absent.",
+          "future_prevention": "Provide an authenticated preview and final video metadata in the companion handoff."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9315-F01",
+          "quote": "Nothing was wrong with the unit.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "Core case is documented, but this condition detail is not. The case note records make-ready work without establishing marketed condition. The package notes reserve reuse approval for Brian; see parent 9313-F04.",
+          "fix": "Remove or document the condition assertion in both script copies. Resolve the reserved reuse decision, or replace the story with documented portfolio facts.",
+          "future_prevention": "Store approved wording and reuse constraints in the anecdote log."
+        }
+      ]
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9315-F02",
+          "quote": "Here's a pricing mistake that costs East Bay landlords more than almost any repair: listing high to see what happens.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "Neither the hypothetical rent-loss calculation nor the case record supports a comparative claim about almost all repair costs. Both scripts repeat it. The companion also generalizes a loss exceeding a year's premium outside the example.",
+          "fix": "Use 'Here's how testing a high rental price can cost thousands in lost rent.' Explicitly tie $3,450 and the year's-premium comparison to an assumed six extra vacant weeks in the hypothetical; label the Oct–Jan pricing instruction as professional opinion. Apply changes to both scripts and the companion summary.",
+          "future_prevention": "Do not convert a worked example into a market-wide quantitative claim; check script, takeaways and article together."
+        }
+      ]
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 90,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Descriptive title, metadata, image alt and useful links.",
+      "whats_holding_back": "Final render/video output unverified."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 89,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Short summary, takeaways and resources.",
+      "whats_holding_back": "Example-to-general-claim drift and unsupported repair comparison."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 88,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Underlying real event has internal documentation.",
+      "whats_holding_back": "Added condition assertion lacks evidence and reuse remains pending."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 94,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Brief, clear script and simple numbers.",
+      "whats_holding_back": "Specify assumed six extra weeks and soften the opening."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Direct consultation CTA and guide link.",
+      "whats_holding_back": "Guide destination must resolve at release."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 89,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Accessible explanation matching the parent concept.",
+      "whats_holding_back": "Claim fixes, reuse disposition, video production and technical verification remain."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9315-C01",
+      "quote": "We've watched this happen. In one turnover we handled, the unit went through several price cuts over a period of months and leased close to where comparable units had been renting all along.",
+      "provenance": "documented",
+      "source": "C:/Users/brian/OneDrive - ALL EAST BAY PROPERTIES/Website-Assets/2026-Content-Strategy/10-October/pricing-case-study-HOLD-for-sept-oct.md; C:/Users/brian/OneDrive - ALL EAST BAY PROPERTIES/Website-Assets/2026-Content-Strategy/10-October/2026-09-28-week-package-notes.md",
+      "note": "Also supports the excerpt and 'What we've seen' takeaway. Core event documented; does not clear reuse or condition embellishment."
+    },
+    {
+      "claim_id": "9315-C02",
+      "quote": "Nothing was wrong with the unit.",
+      "provenance": "unverified",
+      "source": null,
+      "note": "See 9315-F01."
+    },
+    {
+      "claim_id": "9315-C03",
+      "quote": "Say a unit is worth $2,500 a month.",
+      "provenance": "hypothetical_example",
+      "source": null,
+      "note": "The page calls it illustrative; make six extra weeks explicit in the spoken calculation."
+    }
+  ],
+  "strengths": [
+    "Script is correctly labeled before recording.",
+    "The two script copies match at review time.",
+    "Core $575 weekly and $3,450 six-week arithmetic agrees with the article.",
+    "Resources and consultation CTA offer useful next steps."
+  ],
+  "article_fixes": [
+    "9315-F01: Remove or document the condition assertion in both script copies. Resolve the reserved reuse decision, or replace the story with documented portfolio facts.",
+    "9315-F02: Use 'Here's how testing a high rental price can cost thousands in lost rent.' Explicitly tie $3,450 and the year's-premium comparison to an assumed six extra vacant weeks in the hypothetical; label the Oct–Jan pricing instruction as professional opinion. Apply changes to both scripts and the companion summary.",
+    "9315-F03: Keep this page draft until recording/embed and final rendered checks are completed. Verify guide link at release and compare spoken recording with transcript before relabeling Video Script. Lack of raw JSON-LD is not proof that generated schema is absent."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Record the ShowMojo metric accurately and review earlier AEBP vacancy content that repeats average/median and vacancy/days-on-market conflations.",
+      "target_doc": "knowledge/company/industry-vacancy-benchmarks.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Record approved anonymized anecdote wording and any reuse constraints after Brian's decision.",
+      "target_doc": "knowledge/company/anecdote-log.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "The schema does not declare its own version constant. This review uses 1.0.0 consistently with existing review artifacts; add a canonical version declaration.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add a documented way to record blocked/not-applicable checks and general nonlegal evidence findings; binary gates currently require explanatory notes. No standards were modified in this review.",
+      "target_doc": "docs/07-Editorial-Automation.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Companion to 9313, independently reviewed as part of the cornerstone package. Full snapshot draft post_modified 2026-09-24 22:25:53; timezone not supplied, revision ID/GMT not returned. Same standards/commit and pre-write repository state as parent. Legal/local/compliance gates pass for the reviewed educational script: it contains no city-specific statutory figures or individualized legal instruction. Those passes do not clear the unsupported market-wide repair comparison, handled under VIDEO-CONSISTENCY and evidence rules. VIDEO-TRANSCRIPT-LITERAL passes only for correct pre-recording labeling; there was no recording to compare. Technical FAIL records uncompleted production/access checks, not proven missing generated schema. See 9313 review for shared sources and complete package context. Scores are estimates; schema_version 1.0.0 follows existing artifact convention because schema lacks a declared constant. Claude should respond separately to every numbered finding. No WordPress edits. Local artifacts only; not committed or pushed."
+}
