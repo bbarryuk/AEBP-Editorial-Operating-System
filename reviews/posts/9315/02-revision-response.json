@@ -1,0 +1,59 @@
+{
+  "schema_version": "0.1.0",
+  "post_id": 9315,
+  "content_type": "video",
+  "responds_to": {
+    "review_file": "reviews/posts/9315/01-review.json",
+    "timestamp": "2026-09-25T05:37:12Z"
+  },
+  "repo": {
+    "commit": "05df796ac4547d943aebfc64e7bd30819b5c70f4",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9315,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=9315"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-09-25T05:50:00Z",
+  "dispositions": [
+    {
+      "finding_id": "9315-F01",
+      "disposition": "accepted",
+      "rationale": "Same as 9313-F04: condition claim undocumented, removed. Reuse was directed by Brian in-session with the vagueness constraint; final wording sign-off and anecdote-log entry remain his. UPDATE 2026-09-25: Brian approved the final anonymized wording in-session; logged in knowledge/company/anecdote-log.md (2026-09-25 entry) with reuse limits.",
+      "change_applied": "Removed 'Nothing was wrong with the unit' from the 9315 script (and the 9313 copy). Anecdote-log entry added after Brian's approval.",
+      "quote_before": "Nothing was wrong with the unit. The price was just above the market.",
+      "quote_after": "The asking price was simply above what renters were paying."
+    },
+    {
+      "finding_id": "9315-F02",
+      "disposition": "accepted",
+      "rationale": "The repair-cost superlative was unsupported, and the $3,450 / year-of-premium claim read as general rather than tied to the hypothetical.",
+      "change_applied": "Opening line replaced with the reviewer's suggested wording in both scripts. Script now states 'In this example, say those steps add six extra vacant weeks and the unit leases at $2,500 anyway.' Summary ties $3,450 to 'our illustrative example, six extra vacant weeks'; 'Usually the listing sits' softened to 'Often'. Oct–Jan takeaway labeled 'Our professional opinion'; script labels the pricing goal 'In our view'. Excerpt and meta description changed from 'usually costs' to 'can cost'; meta no longer says 'a real AEBP turnover'.",
+      "quote_before": "By the time it leases, often at the price the market suggested from day one, the vacancy has cost about $3,450 more than pricing it right to begin with.",
+      "quote_after": "In this example, say those steps add six extra vacant weeks and the unit leases at $2,500 anyway. That's about $3,450 in lost rent, more than a full year of the $250 premium the owner was chasing."
+    },
+    {
+      "finding_id": "9315-F03",
+      "disposition": "requires_human",
+      "rationale": "Correct that the page must stay draft until the video is recorded, embedded, and rendered checks pass; the spoken recording must be compared with the script before relabeling. These are production steps, not text edits.",
+      "change_applied": null
+    }
+  ],
+  "operating_system_followups": [
+    {
+      "description": "Created knowledge/company/industry-vacancy-benchmarks.md recording the ShowMojo 5.1-week figure as 2025 median days on market (not average between-tenant vacancy, not Q1 2026). Older content repeating the conflation still needs a separate audit: fees page 7776 ('Vacancy cost' paragraph) and Thursday Tip 7928.",
+      "target_doc": "knowledge/company/industry-vacancy-benchmarks.md",
+      "type_c_followup": true
+    }
+  ],
+  "summary": "All three findings answered; F01 and F02 fixed in the draft and mirrored to the 9313 script (copies verified identical). F03 is production work (record, embed, render check). Anecdote wording approved by Brian and logged. Nothing published.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "hold_for_brian_decision"
+}

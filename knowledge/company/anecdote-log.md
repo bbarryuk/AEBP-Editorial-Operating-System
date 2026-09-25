@@ -67,3 +67,22 @@ Existed for one reason: `GATE-ANECDOTE-INTEGRITY` requires that any AEBP-specifi
 ## Reuse note
 
 Any future post, video script, or social copy reusing this same observation (rather than drafting a new one) should cite this entry rather than restating the anecdote from memory, consistent with the discipline `knowledge/company/portfolio-performance-2026-07.md` established for AEBP's quantitative data.
+
+### 2026-09-25 — Overpriced-listing turnover (posts 9313, 9315)
+
+**Claim as published:** "In one turnover we handled, the owner wanted to list well above what comparable units nearby were renting for. That's an understandable instinct for a well-kept property. The unit went through several price reductions over a period of months. It finally leased at about the level the comparables had suggested from the start. Nothing was unreasonable about wanting top dollar for it." The video script version says: "We've watched this happen. In one turnover we handled, the unit went through several price cuts over a period of months and leased close to where comparable units had been renting all along. The asking price was simply above what renters were paying."
+
+**Confirmed by:** Brian, directly, in the Cowork session of 2026-09-24/25.
+- On 2026-09-24 he approved reusing the held pricing case, on the condition that it be "vague or different enough that if that owner reads it, he won't feel humiliated."
+- On 2026-09-25 he approved the final wording above, after ChatGPT's review 01 (findings 9313-F04 and 9315-F01).
+- The underlying record is `10-October/pricing-case-study-HOLD-for-sept-oct.md` in Brian's OneDrive content folder.
+
+**Reuse limits (all mandatory):**
+- Never publish any of the case's distinctive details: the price ladder, the vacancy length in days, the turnover cost, the carpet line item, dates, city, unit type or owner details.
+- Don't claim the unit's condition was fine. That isn't documented, and the case note records make-ready work.
+- Keep any dollar math in a separate, clearly labeled hypothetical. In 9313 that is $2,500 market vs. a $2,750 list price.
+- Keep the tone non-judgmental toward the owner.
+
+**Used in:** Post 9313 ("What Overpricing a Rental Really Costs," "What We See at AEBP" section and embedded Video Script) and companion video page 9315 (Video Script).
+
+**Underlying point the anecdote supports:** pricing above comparables tends to extend vacancy through repeated price cuts, and the unit often ends up leasing near the market price anyway. This is AEBP practitioner experience from a single documented case. Do not present it as a portfolio-wide rate.
