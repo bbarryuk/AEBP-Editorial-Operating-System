@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9315,
+  "title": "What Overpricing a Rental Really Costs: The Vacancy Math",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.2",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "7507a7e8c83f400521672d6765c96cfccad27abb",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9315,
+    "status": "draft",
+    "revision_id": null,
+    "modified_gmt": null,
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=9315"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6"
+  },
+  "timestamp": "2026-09-25T06:17:55Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9315-F03",
+          "quote": "Video in production. It will be embedded here once it's live.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "Still open after revision: snapshot remains draft and says video in production. No final video or render evidence was supplied; anonymous preview fetch failed again. Source block markers balance (31), but this does not prove editor validity or generated schema. Claude retains requires_human.",
+          "fix": "Keep this page draft until recording/embed and final rendered checks are completed. Verify guide link at release and compare spoken recording with transcript before relabeling Video Script. Lack of raw JSON-LD is not proof that generated schema is absent.",
+          "future_prevention": "Provide an authenticated preview and final video metadata in the companion handoff."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 91,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Configured metadata, descriptive title, image alt and useful resources.",
+      "whats_holding_back": "Publication clearance still depends on the separate open technical/production gates; score evaluates reviewed content only."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Compact summary and takeaways; hypothetical now has explicit six-week assumption.",
+      "whats_holding_back": "No remaining below-threshold content issue identified; final rendered output remains outside verified scope."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Approved documented experience; unsupported condition and repair claims removed.",
+      "whats_holding_back": "No remaining below-threshold content issue identified; final rendered output remains outside verified scope."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 95,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Brief script with precise assumed delay, matching the article copy.",
+      "whats_holding_back": "Some repeated pricing advice remains; optional tightening would improve economy."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 91,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Specific consultation CTA plus full written-guide destination.",
+      "whats_holding_back": "No remaining below-threshold content issue identified; final rendered output remains outside verified scope."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "All requested script/content corrections verified; no new blocking regression found.",
+      "whats_holding_back": "Publication clearance still depends on the separate open technical/production gates; score evaluates reviewed content only."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9315-C01",
+      "quote": "We've watched this happen. In one turnover we handled, the unit went through several price cuts over a period of months and leased close to where comparable units had been renting all along.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-09-25 entry",
+      "note": "Approval and reuse constraints documented in the repository. Wording matches; distinctive private case figures absent. AI reviewer does not assign owner_verified."
+    },
+    {
+      "claim_id": "9315-C03",
+      "quote": "Say a unit is worth $2,500 a month.",
+      "provenance": "hypothetical_example",
+      "source": null,
+      "note": "The page calls it illustrative; make six extra weeks explicit in the spoken calculation."
+    }
+  ],
+  "strengths": [
+    "Script is correctly labeled before recording.",
+    "The two script copies match at review time.",
+    "Core $575 weekly and $3,450 six-week arithmetic agrees with the article.",
+    "Resources and consultation CTA offer useful next steps.",
+    "Revisions preserve the hypothetical/real-case distinction and remove the unsupported condition detail.",
+    "Both live script copies are identical; no blocking content regression identified."
+  ],
+  "article_fixes": [
+    "9315-F03: Keep this page draft until recording/embed and final rendered checks are completed. Verify guide link at release and compare spoken recording with transcript before relabeling Video Script. Lack of raw JSON-LD is not proof that generated schema is absent."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Industry benchmark reference now exists and the approved anecdote is logged. Older fees/vacancy-tip shorthand remains a separate audit, not a blocker for this corrected draft.",
+      "target_doc": "knowledge/company/industry-vacancy-benchmarks.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Review schema still lacks a canonical version constant: initial GPT review uses 1.0.0 and Claude response uses 0.1.0. Both validate structurally; this final review retains 1.0.0 for continuity without claiming it is declared by the schema.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    },
+    {
+      "description": "Clarify the revision-response summary: its sentence can be read as saying preview checks were approved, but F06 explicitly remains requires_human. The appended anecdote approval supersedes older pending-approval prose only for the anecdote.",
+      "target_doc": "reviews/posts/9313/02-revision-response.json",
+      "type_c_followup": false
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Final review round 03. Reviewed live WordPress snapshot modified 2026-09-24 22:44:57; timezone not supplied, no revision ID or GMT timestamp returned. Repository HEAD matches GitHub main; clean before these artifacts (global-ignore permission warning noted). Standards/manifests/schemas unchanged from initial review, confirmed by repository diff; new benchmark reference and anecdote entry read. Both revision-response JSON files validate and address every prior numbered finding; no rejected or unanswered findings. 9315-F01 — CLOSED: condition assertion removed; current script matches approved wording in the September 25 anecdote log. 9315-F02 — CLOSED: repair-cost superlative removed; six extra weeks explicit in hypothetical; summary scoped to example; professional opinion labeled; excerpt and metadata softened. Both script copies match exactly. 9315-F03 — OPEN / requires_human preserved: video still in production, no finished recording/embed to verify, and rendered preview unavailable. Content scores are estimates, not a calibrated computation; all meet thresholds. Overall recommendation remains hold_pending_fixes only because technical/production clearance remains open, not because another substantive rewrite is required. No new blocking content issue identified. Primary legal and industry sources rechecked this round; original math and documented portfolio figures remain unchanged. Article block markers 82; video 31; all balanced; scripts equal. GBP package draft unchanged and consistent with the hypothetical; live GBP/recording not reviewed. Internal link presence checked; initial round's destination checks retained, not represented as a fresh full live-link audit. Anonymous article/video previews failed again. No claim that generated schema is absent. No WordPress edits, publishing, commits or pushes. Next step is recorded preview/production evidence and Brian's final read; another Claude prose-revision cycle is not needed unless those checks uncover defects."
+}
