@@ -163,7 +163,7 @@
           "description": "Per docs/03 FIND-TYPE. A single finding can carry more than one type."
         },
         "root_cause": { "type": "string" },
-        "fix": { "type": "string" },
+        "fix": { "type": "string", "description": "The literal replacement wording (e.g. '100% compliant' -> 'designed to meet current requirements'), not a description of the change. Per docs/03 FIND-STRUCTURE (v0.3) and docs/07 AUTO-FIX-LITERALNESS." },
         "future_prevention": { "type": ["string", "null"] }
       }
     },

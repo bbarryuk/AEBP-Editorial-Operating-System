@@ -33,7 +33,15 @@ This file exists because AEBP content has paraphrased an industry figure into a 
 - AEBP 37.8 days = move-out to move-in, 79 turns, Aug 2025 to Jul 2026 (`portfolio-performance-2026-07.md`).
 - None of these three figures are interchangeable. When comparing them, state the start and end events.
 
-## Known content repeating the older shorthand (audit pending)
+## Content corrected on dev (2026-09-25), push live pending
 
-- Fees page 7776, "Vacancy cost" paragraph: "averaging 5.1 weeks nationally — 70% longer than the 3 weeks landlords typically estimate", dated Q1 2026.
-- Thursday Tip 7928, "The Vacancy Gap You're Not Tracking". Check its wording.
+- Fees page 7776: "Vacancy cost" paragraph and sources line.
+- Thursday Tip 7928: opening data paragraph.
+- Cornerstone 7865 ("Is a Property Manager Worth It?"):
+  - Vacancy Gap section.
+  - The "rent in days rather than weeks" line, now "our own listings lease in 25–30 days on average".
+  - Chart alt text and caption.
+  - Editor's note after the transcript paragraph.
+- Video page 7894: body paragraph, key takeaway and editor's note after the transcript paragraph.
+- Transcripts left verbatim per VIDEO-TRANSCRIPT-LITERAL. The published video (zRXbvm_ErIM) still says "actual average… 70% longer"; the editor's notes cover it.
+- **Still open:** chart image media 7891 (`vacancy-gap-self-managing-landlords.webp`) has "Actual average" and "+70%" baked in. A corrected replacement was delivered to Brian on 2026-09-25 for manual upload.

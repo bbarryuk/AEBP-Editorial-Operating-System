@@ -1,10 +1,10 @@
 ---
 title: Review Format
 doc_type: normative
-version: 0.2 (Working Draft)
-status: drafted, informed by two real reviews (post 7938, post 8006) and two rounds of ChatGPT critique
+version: 0.3 (Working Draft)
+status: drafted, informed by two real reviews (post 7938, post 8006), two rounds of ChatGPT critique, and a 2026-09-25 pass against an external editing-framework article
 owner: Brian
-last_updated: 2026-07-08
+last_updated: 2026-09-25
 purpose: Defines how an editorial review is classified, structured, and written up — so two different reviewers (Claude, ChatGPT, or a human) produce comparable output.
 used_by: [Claude, ChatGPT, human reviewer]
 depends_on: [docs/01-Editorial-Standards.md, docs/02-Evidence-and-Sourcing.md]
@@ -51,7 +51,7 @@ Instead of a one-line description, write each finding as:
 
 - **Finding** — what's actually in the draft (quote it).
 - **Root Cause** — why this happened. Was reference material missing (Type C)? Was the standard itself ambiguous? Did the writer skip a step the process assumes but doesn't enforce?
-- **Fix** — the specific, minimal change that resolves it for *this post*.
+- **Fix** — the specific, minimal change that resolves it for *this post*, written as the actual replacement wording, not a description of what should change. "Soften the 100% compliant claim" is not a Fix; "'100% compliant' -> 'designed to meet current requirements'" is (see the 2026-07-25 page-4480 audit in `CHANGELOG.md` for the real case this generalizes from). This is also what `automation/schemas/review.schema.json`'s `fix` field is for going forward — a prose description doesn't give a reader, or Claude reading a `revision-response.schema.json` follow-up, anything to apply directly.
 - **Future Prevention** — what changes about the process, the standards doc, or the knowledge base so the same gap doesn't recur on the next post. This is often where a Type C system gap gets logged even when the immediate Fix is small.
 
 ## FIND-STRENGTHS — Strengths Worth Preserving
@@ -87,6 +87,8 @@ Added 2026-07-08, proposed by ChatGPT after reviewing a Thursday Tip post outsid
 | **Pre-Publish Audit** | QA Review + Editorial Review run together, plus a final internal-linking/schema/technical pass | Nothing — this is the full check | The last gate before Brian publishes |
 
 **Default:** a review request that doesn't name a mode is treated as a **Pre-Publish Audit** — the highest bar — and the review's header states which mode actually ran, so the requester can see what was checked and ask for a lighter pass next time if that's what they wanted. This default exists because the reviews that have happened so far (post 7938, 7996, 8006) were all functionally pre-publish checks even when not labeled as such; defaulting to the narrower Editorial or QA mode would risk silently skipping gated categories on a request that meant "is this ready."
+
+**Floor:** a content type with no validated manifest in `/reviews` (most start as placeholders per `README.md`'s "grow from real cases" discipline), or a one-off piece outside the regular Monday/Thursday cadence, must not be run at anything lighter than a Pre-Publish Audit, regardless of what mode is requested — this is a floor under the Default above, not a new mode. This is prompted by a real case, not a hypothetical: `STD-CLEAR-ROLES` (`docs/01`) exists only because the mid-year insurance-crisis special edition — a one-off piece with no manifest of its own — got exactly the scrutiny an established, manifest-backed content type like the Monday cornerstone gets by default, and the ambiguous "broker" references were caught on that close a read. An unfamiliar or first-time piece is the case where a lighter mode is most likely to miss something, not the case where it's safe to save the time.
 
 A review conducted outside any of the three modes — general editorial instinct with no stated scope, the kind ChatGPT flagged about its own Thursday Tip review — isn't invalid, but it isn't a Content Operating System review either, and shouldn't be logged as one in `/tests` or cited as having passed a gate it never actually checked.
 
@@ -128,5 +130,7 @@ ChatGPT's review-of-the-review recommended: Type A/B/C classification (adopted, 
 After reviewing post 8006 outside this framework entirely, ChatGPT proposed: (1) a 10-gate universal PASS/FAIL rubric replacing the `docs/01` gate/score split, (2) a `/reviews` folder of per-content-type manifests, (3) a formal Claude-drafts → self-check → ChatGPT-review → fix → verify → publish workflow, (4) machine-readable review output. Claude's pushback and ChatGPT's revised position, after seeing it: keep the gate/score split (binary categories stay binary, gradient categories stay scored — collapsing `SCORE-GEO`/`SCORE-READABILITY` into pass/fail reintroduces the same false-precision-removal problem the severity scale did); extend `FIND-TYPE` rather than adding separate Accuracy/Evidence gates (see the note under `FIND-TYPE` above); adopt a `GATE-COMPLIANCE-RISK` gate (added to `docs/01` this round — the one genuinely missing check in the original proposal); build `/reviews` as manifests that *extend* `docs/01`'s categories per content type rather than replace them (see `/reviews`); delay machine-readable output, since it would violate the "prove the manual process before automating" principle all three parties already agreed to; and add `REVIEW-MODE` (above) to make explicit what kind of review is being requested — the one item from ChatGPT's proposal that's about how reviewers engage with the framework rather than changing the framework, and the reason the original ambiguity happened at all.
 
 ## Status
+
+v0.3 — 2026-09-25, prompted by a Semrush article on editorial-review triage (Christine Skopec, "My 5 Approaches to Article Editing") that Brian asked be checked against this repo. Most of what it described was already covered here, in several places more strictly (independent fact-checking vs. `EVD-CITATION-REQUIREMENT`; naming what worked vs. `FIND-STRENGTHS`; varying review depth vs. `REVIEW-MODE`). Two additions were genuinely new: the `REVIEW-MODE` **Floor** rule (content types without a validated manifest, or one-off pieces, can't be run lighter than Pre-Publish Audit, grounded in the `STD-CLEAR-ROLES` incident), and tightening `FIND-STRUCTURE`'s Fix bullet to require literal replacement wording rather than a description — confirmed as a real, not hypothetical, gap by checking an actual `review.json` from `reviews/posts/9313` while drafting this, where every `fix` field was still prose description. The article's numeric 0–8 triage score was deliberately not adopted, for the same reason the Critical/Major/Minor severity scale and the 10-gate rubric weren't (see "Round two" below) — it would layer graduated scoring on top of a system built to not have any; the Floor rule captures the same underlying judgment (type and stakes predict how much scrutiny is needed) without a score.
 
 v0.2 — informed by two real reviews (post 7938, post 8006) and two rounds of ChatGPT critique. Re-run `TEST-LEGAL-001` and `TEST-LEGAL-002` against this format the next time a review happens, to confirm `REVIEW-MODE` and the `FIND-TYPE` extension note hold up in practice rather than just resolving the disagreement on paper.

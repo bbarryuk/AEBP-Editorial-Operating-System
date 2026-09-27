@@ -2,9 +2,9 @@
 title: Editorial Automation Protocol — Phase 1 (Manual, Structured Artifacts)
 doc_type: normative
 version: 0.1 (Working Draft)
-status: drafted, not yet run against a real post
+status: drafted; run manually across 5 real posts (9149, 9215, 9217, 9313, 9315) since first drafted
 owner: Brian
-last_updated: 2026-09-08
+last_updated: 2026-09-25
 purpose: Defines the machine-readable handshake between Claude and ChatGPT during editorial review, executed manually by Brian, so the JSON contract is proven before any API/GitHub Action orchestration is built.
 used_by: [Claude, ChatGPT, human reviewer, Brian]
 depends_on: [docs/01-Editorial-Standards.md, docs/02-Evidence-and-Sourcing.md, docs/03-Review-Format.md]
@@ -94,6 +94,10 @@ Every finding in a `review.schema.json` artifact must receive a corresponding en
 
 This exists so a disagreement between Claude and ChatGPT is a recorded decision, not a silent one — "GPT flagged X, Claude rejected it because Y" is now something Brian (or a future reviewer) can read back six months later, instead of only being visible if Brian happened to be watching both conversations at the time. `requires_human` is not a failure state — it's the correct disposition whenever the finding turns on something only Brian can settle (most commonly, a `claim_provenance` question), and `requires_human_review: true` at the top of the artifact is what actually gates whether Brian needs to step in before the loop continues.
 
+## AUTO-FIX-LITERALNESS — a review's `fix` field must be the actual replacement text
+
+`docs/03-Review-Format.md` `FIND-STRUCTURE` (v0.3) now requires a finding's Fix to be written as the literal replacement wording, not a description of what should change. This applies exactly the same way inside `review.schema.json`'s `fix` field — a `finding` object's `fix` should read like `'100% compliant' -> 'designed to meet current requirements'`, not `'soften the compliance claim'`. This mirrors the discipline `revision-response.schema.json`'s `quote_before`/`quote_after` fields already enforce on the response side; the review side just carries it in `fix` as a single string rather than a separate field pair, since a review's Fix is a proposal, not yet an applied change.
+
 ## AUTO-VERSIONING — what every artifact records, and why
 
 An audit trail that says "GPT flagged three things, Claude fixed two" is much less useful six months from now than one that also says which version of the standards, which git commit of the repo, and which revision of the WordPress draft were actually in view when that happened — otherwise there's no way to tell whether a later re-review is checking the same rules or a since-changed one. Every artifact records:
@@ -118,4 +122,4 @@ If `/agents/*.md` files (a Claude drafter prompt, a GPT reviewer prompt, etc.) a
 
 ## Status
 
-v0.1 — drafted 2026-09-08, not yet run against a real post. Validate against the next real Monday cornerstone or Thursday Tip review cycle — specifically, confirm the `claim_provenance` field actually catches an anecdote the way `GATE-ANECDOTE-INTEGRITY` was designed to, and confirm `dispositions` holds up when ChatGPT and Claude genuinely disagree about a finding — before calling this v1.0. Phase 2 (API/GitHub Action orchestration) is not scoped by this document beyond the sketch in `AUTO-PHASING` and is not authorized to be built from this version.
+v0.1 — drafted 2026-09-08. As of 2026-09-25, run manually across 5 real posts (9149, 9215, 9217, 9313, 9315), including a 6-round loop on post 9149. What's held up so far, checked directly against the actual JSON artifacts rather than assumed: `repo.commit`/`repo.state` populated correctly on every review; `claim_provenance` entries carry real citations (e.g. `9313-C01`, sourced to `knowledge/company/overview.md` and a portfolio-performance file); `requires_human_review` correctly flips to `true` whenever any finding is disposed `requires_human`, and that disposition has fired for real, more than once. What hasn't been exercised yet: no `rejected` disposition has occurred in any of the 5 posts (Claude has accepted, modified, or escalated every GPT finding so far, never rejected one outright) — worth watching for, since a rejection is where a real Claude/ChatGPT disagreement would actually show up in the record. Also not yet true to form: `fix` fields across these 5 posts were written as prose descriptions, not literal replacement text — `AUTO-FIX-LITERALNESS` (added 2026-09-25, prompted by checking `reviews/posts/9313` directly) is meant to close that starting with the next review, not retroactively. CHANGELOG.md has not been updated to narrate these 5 posts' reviews — worth doing before treating this as validated in the way `docs/03`'s own Status sections narrate each real incident that shaped a rule. Given all of that, still v0.1, not v1.0. Phase 2 (API/GitHub Action orchestration) is not scoped by this document beyond the sketch in `AUTO-PHASING` and is not authorized to be built from this version.
