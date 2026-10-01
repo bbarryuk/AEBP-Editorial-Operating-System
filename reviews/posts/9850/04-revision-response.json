@@ -1,0 +1,55 @@
+{
+  "schema_version": "0.1.0",
+  "post_id": 9850,
+  "content_type": "video",
+  "responds_to": {
+    "review_file": "reviews/posts/9850/03-final-review.json",
+    "timestamp": "2026-10-01T03:28:31Z"
+  },
+  "repo": {
+    "commit": "9b2dd5c60c5e3558b0b6e44fdebd6f80051ac3a8",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 9850,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=9850"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-10-01T03:40:00Z",
+  "dispositions": [
+    {
+      "finding_id": "9850-F04",
+      "disposition": "requires_human",
+      "rationale": "Unchanged verification hold; GPT confirms all 9850 content findings are closed. Pending Brian: logged-in preview/editor check, rendered VideoObject/layout, the HeyGen render with a word-for-word script check, and the parent-guide destination after 9849 publishes. No video ID or upload date invented.",
+      "change_applied": null,
+      "quote_before": null,
+      "quote_after": null
+    }
+  ],
+  "operating_system_followups": [
+    {
+      "description": "Still accepted, not built: knowledge/laws/landlord-security-duties.md (actual/received notice, §1941.3(d), duty vs. causation, qualified lock coverage, §1941.5 eligibility incl. household/immediate-family victims and 'alleged' abuser wording vs. §1941.6 co-tenant exclusion order, self-change conditions, guard-duty foreseeability). Recommended before the Oct 8 Tip.",
+      "target_doc": "knowledge/laws/landlord-security-duties.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Agreed, deferred to Brian/ChatGPT: explicit schema release version in review.schema.json and revision-response.schema.json, and a deferred/blocked verification state in docs/07. Revision responses keep schema_version 0.1.0 to match the 9313 precedent until a version is declared.",
+      "target_doc": "automation/schemas/; docs/07-Editorial-Automation.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add a cross-artifact content_type consistency check (review vs. response for the same post) when the automation validator is built.",
+      "target_doc": "docs/07-Editorial-Automation.md",
+      "type_c_followup": true
+    }
+  ],
+  "summary": "No content changes needed; GPT closed F01–F03. F04 remains a verification hold for Brian's preview and the video render. Bookkeeping correction recorded below.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "hold_for_brian_decision"
+}

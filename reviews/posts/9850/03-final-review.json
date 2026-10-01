@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9850,
+  "title": "Landlord Security Responsibilities in California: What You're Liable For (and What You're Not)",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "9b2dd5c60c5e3558b0b6e44fdebd6f80051ac3a8",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9850,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=9850"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 (Codex)"
+  },
+  "timestamp": "2026-10-01T03:28:31Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS",
+      "findings": []
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9850-F04",
+          "quote": "🎥 Video in production. It will appear here once it's live.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "Still open; Claude correctly marked requires_human. Both current draft URLs were rechecked and return the theme’s Page not found page without an authenticated preview session. Stored block delimiters and JSON attributes pass basic checks, but this does not verify editor validity, rendered layout, canonical or applicable schema. Recording/player remains in production. This is a verification hold, not evidence of missing schema.",
+          "fix": "Retain the accurate production placeholder and 'Video Script' label while drafting. No text replacement clears this check: inspect an authenticated WordPress preview and editor, check applicable rendered schema and layout, and validate the actual video/player and parent-guide destination when ready. Do not invent a video URL or upload date. A post-publication check supplements rather than replaces pre-publication evidence.",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 88,
+      "threshold": 90,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Clear search intent, distinct title and description, contextual internal links.",
+      "whats_holding_back": "Rendered technical SEO, editor validity and launch destination remain unverified."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Scannable summary and takeaways plus link to the full guide.",
+      "whats_holding_back": "Content qualifications corrected; final emitted schema and video integration remain unverified."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 96,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Named author, documented AEBP process and identifiable legal authorities.",
+      "whats_holding_back": "No remaining content evidence blocker found; completed recording and technical inspection still pending."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 94,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Plain language, short sections and useful practical organization.",
+      "whats_holding_back": "Some legal vocabulary remains necessary; no readability blocker."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 91,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant CTA, verified consultation destination and documented maintenance service.",
+      "whats_holding_back": "Final recording/player is unfinished; existing consultation path was verified in the initial pass."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Strong structure and documented practitioner contribution.",
+      "whats_holding_back": "Content fixes clear; full pre-publication audit still held for technical/video evidence."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9850-C01",
+      "quote": "AEBP manages 600+ rental units across Oakland, Berkeley, Emeryville and the wider East Bay, with a 24/7 bilingual maintenance line.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/llms.txt",
+      "note": "Company facts supported by current web reference."
+    },
+    {
+      "claim_id": "9850-C02",
+      "quote": "At AEBP, we treat a broken entry or lobby lock as an emergency, with a vendor sent the same day.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive)",
+      "note": "Exact script policy documented; do not expand into a performance statistic."
+    },
+    {
+      "claim_id": "9850-C03",
+      "quote": "In our view, working locks, good lighting and secure mail can help reduce risk and support tenant retention.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive)",
+      "note": "Revised professional opinion matches the amended September 30 anecdote-log entry; no promise of immunity or measured retention benefit."
+    }
+  ],
+  "strengths": [
+    "Actual knowledge and received notice are now distinguished from automatic liability for a later crime.",
+    "Guard-duty summaries allow other serious warning signs, and camera wording stays within §1941.3.",
+    "AEBP same-day vendor dispatch and the revised risk/retention opinion are documented; provenance remains PASS.",
+    "All three prior content findings are closed; the script matches the parent post and correctly remains labeled Video Script."
+  ],
+  "article_fixes": [
+    "9850-F04: Retain the accurate production placeholder and 'Video Script' label while drafting. No text replacement clears this check: inspect an authenticated WordPress preview and editor, check applicable rendered schema and layout, and validate the actual video/player and parent-guide destination when ready. Do not invent a video URL or upload date. A post-publication check supplements rather than replaces pre-publication evidence."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Add a focused security-duty reference covering actual/received notice, duty versus causation, qualified lock coverage, co-tenant exclusion orders and the guard-duty foreseeability test. Independently checked sources support this review; absence of a local reference is not an extra publication blocker.",
+      "target_doc": "knowledge/laws/landlord-security-duties.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Declare the schema release version explicitly; 1.0.0 currently comes from established review artifacts rather than a version in the schema itself.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add an explicit deferred/blocked verification representation for pre-recording drafts so FAIL can distinguish confirmed defects from an inaccessible preview without relying only on notes.",
+      "target_doc": "docs/07-Editorial-Automation.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Revision-response 9850 has content_type 'cornerstone' although the post and initial review are 'video'. Correct that metadata to 'video' and add a cross-artifact content-type check. Both responses also use schema_version 0.1.0 while prior reviews use 1.0.0; neither schema declares its release version, so this is a protocol ambiguity rather than a proven JSON-schema violation. Do not rewrite historical artifacts silently.",
+      "target_doc": "reviews/posts/9850/02-revision-response.json",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Follow-up to 01-review and Claude’s 02-revision-response (2026-10-01T02:47:00Z). Every prior finding has exactly one response; no missing or extra dispositions. Each accepted edit was checked against a fresh full AEBP-Dev snapshot rather than assumed from Claude’s summary.\n\nSnapshot post_modified: 2026-09-30 19:45:22; connector did not identify its timezone or return revision_id/modified_gmt. Those fields remain null. Review date September 30 Pacific / October 1 UTC.\n\nDisposition verification:\n9850-F01 — CLOSED — Knowledge/notice and causation corrections verified, including metadata.\n9850-F02 — CLOSED — Qualified standalone summary and explicit exceptions in spoken script verified.\n9850-F03 — CLOSED — Hook, guard test, frequency claim, protected-tenant takeaway, citations and risk-reduction wording fixed.\n9850-F04 — OPEN / REQUIRES HUMAN — Preview/editor, recording, schema and parent-guide launch destination pending.\n\nCurrent docs/01 v0.5, docs/02 v0.2, docs/03 v0.3, docs/07 v0.1, both manifests v0.1 and schemas were read. Git comparison shows normative files unchanged from the initial audit; the anecdote log now records the revised risk wording. Repo was clean before review artifact creation and 0/0 against locally stored origin/main; no fresh fetch claimed. Global-ignore permission warning did not prevent status.\n\nFull body, excerpt, metadata, terms, author and thumbnail were examined. Basic checks: all block comment pairs balance and all attribute JSON parses (43 attribute objects in 9849; 8 in 9850). These checks do not establish Gutenberg editor validity. Both current public dev permalinks return the theme’s Page not found page. No logged-in preview, responsive-layout or emitted-schema clearance is claimed.\n\nScripts are identical across the two WordPress drafts; package notes carry the same revised script. GBP/social/SMS/YouTube draft copy was re-read for factual consistency after revisions; no live posting or full platform-specific publishing audit occurred. Existing production references and Oakland checklist were verified in the initial pass in this same task; the parent-guide launch URL and actual video remain pending.\n\nVIDEO-TRANSCRIPT-LITERAL PASS refers to correct pre-recording Script labeling. VIDEO-CONSISTENCY PASS confirms matching scripts and shared claims; blog-only FAQ/checklist findings do not create a video content defect.\n\nSources rechecked for revisions: California Legislative Information §§1941.3, 1941.5, 1941.6; Ann M. and Castaneda judicial opinions via Justia. Initial-source verification retained for unchanged claims. No comprehensive case subsequent-history research is claimed.\n\nTechnical findings remain requires_human and are not silently cleared. Under the current binary schema, recommendation remains hold_pending_fixes. No WordPress, response, standards or knowledge files were edited.\n\nNo further video prose rewrite is required by this review. Supply verification evidence for 9850-F04 in the next response; correct the response content-type bookkeeping separately. Brian still reads the finished draft and recording before publication."
+}
+
