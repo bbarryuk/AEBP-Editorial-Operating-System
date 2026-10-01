@@ -86,3 +86,19 @@ Any future post, video script, or social copy reusing this same observation (rat
 **Used in:** Post 9313 ("What Overpricing a Rental Really Costs," "What We See at AEBP" section and embedded Video Script) and companion video page 9315 (Video Script).
 
 **Underlying point the anecdote supports:** pricing above comparables tends to extend vacancy through repeated price cuts, and the unit often ends up leasing near the market price anyway. This is AEBP practitioner experience from a single documented case. Do not present it as a portfolio-wide rate.
+
+### 2026-09-30 — Broken entry/lobby lock triage + "liability features = retention features" view (posts 9849, 9850)
+
+**Claims as published:**
+1. *Company policy:* "When a tenant reports a broken entry door lock or a lobby door that won't lock, we treat it as an emergency on our 24/7 maintenance line, not a routine work order, and send a vendor the same day." Video Script: "At AEBP, we treat a broken entry or lobby lock as an emergency, with a vendor sent the same day."
+2. *Professional opinion (not an anecdote):* "The security features that do the most to reduce an owner's liability are the same ones that help keep good tenants. Working locks, good lighting and secure mail..."
+
+**Confirmed by:** Brian, directly, in the Cowork session of 2026-09-30 (October Week 1 cornerstone build). Asked to classify a broken exterior/entry or lobby lock report, he answered "Emergency, same day." Asked about the May-draft liability/vacancy observation, he answered that it is his real view but there is no specific building example behind it, so it is framed as professional opinion from managing 600+ units.
+
+**Reuse limits:**
+- Claim 1 is a process statement. Don't add response-time statistics, percentages or specific incidents unless Brian supplies them.
+- Claim 2 must stay labeled as professional opinion. Never rewrite it as "we've seen at building X" or attach a vacancy figure to it.
+
+**Used in:** Post 9849 ("Landlord Security Duties in California," "What We See at AEBP" + Video Script) and video page 9850 (Video Script). Expected reuse: Oct 8 Thursday Tip ("A broken exterior lock isn't just a complaint. It's notice.").
+
+**Underlying point:** under Civil Code §1941.3(b), liability for a broken lock turns on failing to fix it within a reasonable time after notice, so AEBP's same-day emergency classification is the operational answer to the statute.
