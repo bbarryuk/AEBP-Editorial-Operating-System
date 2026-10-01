@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9850,
+  "title": "Landlord Security Responsibilities in California: What You're Liable For (and What You're Not)",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "b26e98e1871d47f82ef0dc41f3c3841c8af031cd",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9850,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=9850"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 (Codex)"
+  },
+  "timestamp": "2026-10-01T02:29:26Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9850-F01",
+          "quote": "The liability window opens when a tenant reports a broken lock. Fix it fast and log it.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The summary, takeaway, coverage bullet, metadata and script frame notice as tenant-report-only and blur statutory violation with liability for crime. Section 1941.3(b) also covers actual knowledge. Source: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.3.",
+          "fix": "Replace the takeaway and script notice opening with: 'Once you know a required lock is defective—whether through a tenant report or your own observation—act promptly and document the repair. Notice alone does not establish liability for a later crime.' Replace the summary’s tenant-notice sentences with: 'Under Civil Code §1941.3(b), a landlord can be liable for a violation if a covered defect remains uncorrected beyond a reasonable time after the landlord or agent actually knows about it or receives notice. A tenant report is one way to establish notice. Liability for injuries from a crime also requires the other elements of the claim, including causation.' Replace the coverage bullet with: 'Why actual knowledge or a report of a defective required lock calls for prompt action.' Replace the meta-description with: 'California landlord security duties: required locks, responding to known defects, and how foreseeability affects potential liability for crime.'",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        },
+        {
+          "finding_id": "9850-F02",
+          "quote": "California law requires a working deadbolt on each main entry door, locks on windows that open, and locking exterior doors into common areas of multifamily buildings.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The standalone page and script omit the statute’s covered-door/window qualifications. Readers of this asset do not receive the blog’s later exception list.",
+          "fix": "Replace the summary’s first sentence and script lock list with: 'Subject to statutory exceptions, Civil Code §1941.3 requires deadbolts on main swinging unit-entry doors, security or locking devices on covered openable windows, and code-compliant locks on exterior common-area doors with access to units in multifamily buildings.' Add after the summary: 'The full guide explains the sliding-door, window, existing-hardware and other statutory exceptions.'",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        },
+        {
+          "finding_id": "9850-F03",
+          "quote": "Are you liable when a tenant is the victim of a crime at your rental? In California, usually not, but a few things change that answer fast.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "The hook generalizes the outcome of fact-specific negligence claims. 'General neighborhood crime usually doesn’t' also applies the guard-duty discussion too broadly to foreseeability overall. 'Low-cost fixes ... most often get caught' makes an unsupported frequency claim. The protected-tenant takeaway lacks the co-tenant distinction and direct statutory citations.",
+          "fix": "Replace the opening in the page, excerpt and script with: 'A crime alone does not make a California landlord liable. The questions include what risk was foreseeable, what reasonable precautions were required, and whether a failure contributed to the harm.' Replace the neighborhood/guard sentence with: 'A duty to hire guards generally requires heightened foreseeability, which can come from prior similar incidents or other sufficiently serious warning signs; less burdensome precautions require a separate assessment.' Replace 'Low-cost fixes to known problems are where landlords most often get caught' with 'Address known defects promptly; the burden of a precaution matters when courts assess duty.' Replace the protected-tenant takeaway with: 'A written request with the required documentation can trigger a 24-hour, landlord-paid lock change. Section 1941.6 co-tenant cases require a qualifying court order excluding that person.' Add resource links to https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.5. and https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.6. and the cited Ann M./Castaneda decisions. Replace 'protect you from liability and help keep good tenants' in the script with 'can help reduce risk and support tenant retention.'",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9850-F04",
+          "quote": "🎥 Video in production. It will appear here once it's live.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "The draft URL returned Page not found in the browser. Stored metadata and balanced block comments cannot establish rendered schema or layout. The recording/embed does not yet exist; the production guide URL could not be verified as accessible. This is a pre-publication verification hold, not proof of a broken future permalink or absent schema.",
+          "fix": "Keep the block labeled 'Video Script' until the final recording is checked word for word. Replace the production placeholder with the actual player when available, then verify the parent-guide destination, rendered page, Gutenberg validity and applicable VideoObject data. No invented video URL or upload date should be added to clear this check.",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 88,
+      "threshold": 90,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Clear search intent, distinct title and description, contextual internal links.",
+      "whats_holding_back": "Rendered technical checks and final destination verification remain open."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 85,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Scannable summary and takeaways plus link to the full guide.",
+      "whats_holding_back": "Extractable short answers overstate legal rules; schema output not verified."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 89,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Named author, documented AEBP process and identifiable legal authorities.",
+      "whats_holding_back": "Notice and liability scope need correction; video needs direct supporting resources."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Plain language, short sections and useful practical organization.",
+      "whats_holding_back": "Some repeated summaries and oversimplified legal phrasing; blog table responsiveness unverified."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant CTA, verified consultation destination and documented maintenance service.",
+      "whats_holding_back": "Video is unfinished; avoid implying protection from liability is assured."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 88,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Strong structure and documented practitioner contribution.",
+      "whats_holding_back": "Legal blockers and technical verification hold prevent clearance."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9850-C01",
+      "quote": "AEBP manages 600+ rental units across Oakland, Berkeley, Emeryville and the wider East Bay, with a 24/7 bilingual maintenance line.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/llms.txt",
+      "note": "Company facts supported by current web reference."
+    },
+    {
+      "claim_id": "9850-C02",
+      "quote": "At AEBP, we treat a broken entry or lobby lock as an emergency, with a vendor sent the same day.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive)",
+      "note": "Exact script policy documented; do not expand into a performance statistic."
+    },
+    {
+      "claim_id": "9850-C03",
+      "quote": "In our view, working locks, good lighting and secure mail protect you from liability and help keep good tenants.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive)",
+      "note": "The underlying opinion is documented. Provenance does not validate the legal breadth of 'protect you from liability'; replacement proposed in legal finding."
+    }
+  ],
+  "strengths": [
+    "Same-day emergency vendor dispatch is documented in the September 30 anecdote log; no invented building anecdote is needed.",
+    "Company policy and professional opinion are distinguished from law in the long-form article; preserve those distinctions in both scripts.",
+    "Video Script label honestly reflects pre-recording status, and the script matches the parent post.",
+    "Oakland’s actual CPTED checklist and relevant existing AEBP guides provide useful local context."
+  ],
+  "article_fixes": [
+    "9850-F01: Replace the takeaway and script notice opening with: 'Once you know a required lock is defective—whether through a tenant report or your own observation—act promptly and document the repair. Notice alone does not establish liability for a later crime.' Replace the summary’s tenant-notice sentences with: 'Under Civil Code §1941.3(b), a landlord can be liable for a violation if a covered defect remains uncorrected beyond a reasonable time after the landlord or agent actually knows about it or receives notice. A tenant report is one way to establish notice. Liability for injuries from a crime also requires the other elements of the claim, including causation.' Replace the coverage bullet with: 'Why actual knowledge or a report of a defective required lock calls for prompt action.' Replace the meta-description with: 'California landlord security duties: required locks, responding to known defects, and how foreseeability affects potential liability for crime.'",
+    "9850-F02: Replace the summary’s first sentence and script lock list with: 'Subject to statutory exceptions, Civil Code §1941.3 requires deadbolts on main swinging unit-entry doors, security or locking devices on covered openable windows, and code-compliant locks on exterior common-area doors with access to units in multifamily buildings.' Add after the summary: 'The full guide explains the sliding-door, window, existing-hardware and other statutory exceptions.'",
+    "9850-F03: Replace the opening in the page, excerpt and script with: 'A crime alone does not make a California landlord liable. The questions include what risk was foreseeable, what reasonable precautions were required, and whether a failure contributed to the harm.' Replace the neighborhood/guard sentence with: 'A duty to hire guards generally requires heightened foreseeability, which can come from prior similar incidents or other sufficiently serious warning signs; less burdensome precautions require a separate assessment.' Replace 'Low-cost fixes to known problems are where landlords most often get caught' with 'Address known defects promptly; the burden of a precaution matters when courts assess duty.' Replace the protected-tenant takeaway with: 'A written request with the required documentation can trigger a 24-hour, landlord-paid lock change. Section 1941.6 co-tenant cases require a qualifying court order excluding that person.' Add resource links to https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.5. and https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.6. and the cited Ann M./Castaneda decisions. Replace 'protect you from liability and help keep good tenants' in the script with 'can help reduce risk and support tenant retention.'",
+    "9850-F04: Keep the block labeled 'Video Script' until the final recording is checked word for word. Replace the production placeholder with the actual player when available, then verify the parent-guide destination, rendered page, Gutenberg validity and applicable VideoObject data. No invented video URL or upload date should be added to clear this check."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Add a focused security-duty reference covering actual/received notice, duty versus causation, qualified lock coverage, co-tenant exclusion orders and the guard-duty foreseeability test. Independently checked sources support this review; absence of a local reference is not an extra publication blocker.",
+      "target_doc": "knowledge/laws/landlord-security-duties.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Declare the schema release version explicitly; 1.0.0 currently comes from established review artifacts rather than a version in the schema itself.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add an explicit deferred/blocked verification representation for pre-recording drafts so FAIL can distinguish confirmed defects from an inaccessible preview without relying only on notes.",
+      "target_doc": "docs/07-Editorial-Automation.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Reviewed full AEBP-Dev snapshot; post_modified as returned: 2026-09-30 19:15:07 (timezone not supplied). No revision ID or modified_gmt was returned; both remain null. Reviewed September 30, 2026 Pacific / October 1 UTC.\n\nRepository was clean before these artifacts, HEAD b26e98e1871d47f82ef0dc41f3c3841c8af031cd; origin/main...HEAD was 0/0 against the locally stored remote ref (no fetch claimed). Git emitted a global-ignore permission warning, but status completed.\n\nPre-Publish Audit ran with rendered checks blocked: both draft permalinks returned the theme’s Page not found page in an unauthenticated browser. Full WordPress content/meta/terms/author/thumbnail read. Block comment nesting balanced and attribute JSON inspected; editor validation, responsive layout, canonical and emitted schema remain unverified. Schema metadata presence is not schema-output verification. Featured image alt exists; image visual suitability not verified.\n\nProduction repair-timelines, package-theft, repair-documentation and consultation links opened successfully. Parent-guide production URL was not verifiable; validate at launch. Oakland page was verified in browser after web fetch returned 403; its residential checklist PDF was read. This is not evidence of a broken Oakland link.\n\nGeneral education and conditional advice pass Compliance Risk; inaccurate legal generalizations are recorded under Legal Accuracy rather than duplicating them as personalized advice.\n\nVideo Script is correctly labeled before recording. Its text exactly matches the blog’s script at this snapshot; consistency does not cure shared inaccuracies. Recording and literal transcript audit remain future checks.\n\nSchema file has no explicit release-version declaration. schema_version 1.0.0 follows existing review artifacts, with the exact schema fixed by repository commit; this provenance gap is logged below.\n\nNonblocking editorial suggestions: replace relative 'later this month' and October 12 promises in the blog with evergreen links when available; tighten repetitive 'usually not' phrasing through the legal replacements. No standards, company records or WordPress content changed.\n\nNext: Claude supplies 02-revision-response.md/json with one disposition per finding and applies accepted revisions to both assets and package copy. Brian still reads the final drafts before publication."
+}
+

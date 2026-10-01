@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 9849,
+  "title": "Landlord Security Duties in California: What You're Liable For (and What You're Not)",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "b26e98e1871d47f82ef0dc41f3c3841c8af031cd",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 9849,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=9849"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 (Codex)"
+  },
+  "timestamp": "2026-10-01T02:29:26Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9849-F01",
+          "quote": "The tenant must tell you. You're liable if you don't fix it within a reasonable time after notice.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The Key Facts row, lock section, comparison table and script compress §1941.3(b) into tenant-report-only notice. The table also excludes 'A lock the tenant broke or never reported'; that conflates repair responsibility, cost allocation, actual knowledge and tort liability. See Civil Code §1941.3(b), (d): https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.3.",
+          "fix": "Under Civil Code §1941.3(b), a landlord can be liable for a violation if a covered defect remains uncorrected beyond a reasonable time after the landlord or agent actually knows about it or receives notice. A tenant report is one way to establish notice. Liability for injuries from a crime also requires the other elements of the claim, including causation.\nReplace 'A lock the tenant broke or never reported' with 'Tenant-caused damage may affect who pays; it does not by itself settle the landlord’s repair or safety duties.' Replace both scripts’ notice opening with: Once you know a required lock is defective—whether through a tenant report or your own observation—act promptly and document the repair. Notice alone does not establish liability for a later crime.",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        },
+        {
+          "finding_id": "9849-F02",
+          "quote": "Bigger measures like security guards generally aren't owed unless similar violent incidents have already happened on the premises.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The quick answer makes prior on-site incidents sound like a prerequisite. Castaneda also recognizes other sufficiently serious indications and immediately proximate incidents. The no-liability examples, camera table ('Nothing statewide') and FAQ ('No California statute requires it') similarly turn limited authorities into broad exclusions. A working lock, no incident history or an intra-unit dispute does not alone resolve duty, breach and causation. Sources: Castaneda and Ann M. in the source ledger.",
+          "fix": "Replace the quick-answer guard sentence with: 'A duty to hire guards generally requires heightened foreseeability, which can arise from prior similar incidents or other sufficiently serious warning signs.' Replace the opening paragraph under 'What Landlords Generally Aren’t Responsible For' with: 'A crime does not automatically make a landlord liable. Duty depends on foreseeable risk and the burden of the proposed precaution; liability also requires breach and a causal link to the injury. A working lock, no prior on-site incident, or an incident inside a unit does not alone decide the claim.' Replace the camera table’s 'Nothing statewide' and FAQ opening with: 'Civil Code §1941.3 does not itself require cameras. Other applicable requirements, promises and property-specific negligence duties need separate assessment.' Replace the guards table’s exclusion with: 'No automatic duty to provide patrols; assess heightened foreseeability and the burden of the precaution.' Replace the script opening 'In California, usually not' with 'A crime alone does not make a California landlord liable.' Replace 'protect you from liability and help keep good tenants' in the script with 'can help reduce risk and support tenant retention.'",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        },
+        {
+          "finding_id": "9849-F03",
+          "quote": "Every main unit entry door has a working deadbolt with at least a 13/16-inch throw.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The checklist and standalone quick answer/script drop qualifications correctly included in the body. Section 1941.3(a)(1) covers main swinging doors, contains existing-hardware and approved-device provisions, and does not apply to horizontal sliding doors; window coverage also has exceptions.",
+          "fix": "Replace the quick-answer lock sentence and the script lock list with: 'Subject to statutory exceptions, Civil Code §1941.3 requires deadbolts on main swinging unit-entry doors, security or locking devices on covered openable windows, and code-compliant locks on exterior common-area doors with access to units in multifamily buildings.' Replace the first checklist item with: 'Check each covered main swinging unit-entry door for a compliant deadbolt or statutory alternative; apply the existing-hardware rules before requiring replacement.' Label the self-closing-door and lighting checklist items 'Recommended safety checks' so they do not appear to be verbatim §1941.3 mandates.",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        },
+        {
+          "finding_id": "9849-F04",
+          "quote": "One big exception: a tenant protected from domestic violence or abuse can ask you to change the locks, and you have 24 hours after receiving qualifying documentation (Civil Code §1941.5 and §1941.6).",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The FAQ and Key Facts row merge distinct eligibility/documentation paths. Most importantly, excluding a co-tenant under §1941.6 requires a qualifying exclusion order; 'qualifying documentation' alone gives the owner no usable distinction. The reimbursement sentence omits its starting event. Sources: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.5. and https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.6.",
+          "fix": "Replace the FAQ’s exception and reimbursement sentences with: 'On a written request with qualifying documentation, the landlord must change covered locks at the landlord’s expense within 24 hours. Section 1941.5 applies when the alleged abuser is not a tenant of the same unit and allows several forms of documentation, including a qualifying tenant statement. Section 1941.6 applies to a co-tenant and requires a qualifying court order excluding that person from the dwelling. If the landlord misses the deadline, statutory self-change rights apply; for covered leases, reimbursement is due within 21 days after the tenant changes the locks. The tenant must use suitable replacement locks, notify the landlord within 24 hours of the change, and provide a key as the statute specifies.' Replace the Key Facts rule with: 'Written request plus the documentation required by the applicable section; 24 hours, at landlord expense. A co-tenant case under §1941.6 requires a qualifying exclusion order.'",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        },
+        {
+          "finding_id": "9849-F05",
+          "quote": "There were no prior similar violent incidents on the premises, only general neighborhood crime.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Ann M. records evidence of earlier crimes on the premises but no evidence the owner knew of those alleged acts; 'only general neighborhood crime' misstates the record. The case also treated the earlier offenses as insufficiently similar. Source: Ann M., 6 Cal.4th 670–671, 679–680.",
+          "fix": "Replace the Ann M. 'What happened' cell with: 'An employee was assaulted at a shopping center. The record included earlier on-site crimes, but no evidence the owner knew of those alleged acts; the earlier crimes also did not establish foreseeability of this assault sufficient to require guards.'",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "9849-F06",
+          "quote": "🎥 Video in production. It will appear here once it's live.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "The connector exposes draft markup and metadata, but the public draft permalink returned Page not found in the browser. Therefore rendered H1/canonical/schema, responsive tables, image rendering and Gutenberg editor validation remain unverified. Balanced block comments are not proof of editor validity. Video production is explicitly unfinished, not concealed. No evidence that schema is absent.",
+          "fix": "Retain 'Video in production. It will appear here once it’s live.' while drafting. No text replacement can clear the access check: review an authenticated preview or the final rendered page, validate the blocks in WordPress, then inspect applicable Article/FAQ schema and the completed video integration before full technical clearance.",
+          "future_prevention": "Check the short answer, tables, FAQs, metadata and both copies of the video script against the same qualified rule before recording or publishing."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-COMPANION-VIDEO",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-GBP-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 88,
+      "threshold": 90,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Clear search intent, distinct title and description, contextual internal links.",
+      "whats_holding_back": "Rendered technical checks and final destination verification remain open."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 87,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first structure, comparison tables and five concise FAQs.",
+      "whats_holding_back": "Extractable short answers overstate legal rules; schema output not verified."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 89,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Named author, documented AEBP process and identifiable legal authorities.",
+      "whats_holding_back": "Notice and liability scope need correction; video needs direct supporting resources."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Plain language, short sections and useful practical organization.",
+      "whats_holding_back": "Some repeated summaries and oversimplified legal phrasing; blog table responsiveness unverified."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant CTA, verified consultation destination and documented maintenance service.",
+      "whats_holding_back": "Video is unfinished; avoid implying protection from liability is assured."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 88,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Strong structure and documented practitioner contribution.",
+      "whats_holding_back": "Legal blockers and technical verification hold prevent clearance."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "9849-C01",
+      "quote": "when a tenant reports a broken entry door lock or a lobby door that won't lock, we treat it as an emergency on our 24/7 maintenance line, not a routine work order, and send a vendor the same day.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive)",
+      "note": "Documented company process. Same-day dispatch is not a promise of same-day completed repair."
+    },
+    {
+      "claim_id": "9849-C02",
+      "quote": "How fast is \"reasonable\" for an entry lock (we treat it as same-day)",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive)",
+      "note": "Same policy repeated in table; retain distinction between dispatch and completed repair."
+    },
+    {
+      "claim_id": "9849-C03",
+      "quote": "Professional opinion, from managing 600+ East Bay units:",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive); knowledge/company/overview.md; https://alleastbayproperties.com/llms.txt",
+      "note": "Documented professional view and portfolio basis, not an observed building case or measured retention result."
+    },
+    {
+      "claim_id": "9849-C04",
+      "quote": "We manage 600+ East Bay rental units with a 24/7 bilingual maintenance line.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/llms.txt",
+      "note": "Live reference checked for portfolio count, service area and maintenance line; unrelated stale financial metrics were not used."
+    },
+    {
+      "claim_id": "9849-C05",
+      "quote": "At AEBP, we treat a broken entry or lobby lock as an emergency, with a vendor sent the same day.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive)",
+      "note": "Exact script policy documented; do not expand into a performance statistic."
+    },
+    {
+      "claim_id": "9849-C06",
+      "quote": "In our view, working locks, good lighting and secure mail protect you from liability and help keep good tenants.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-09-30 entry; October/2026-10-05-week1-package-notes.md (OneDrive)",
+      "note": "The underlying opinion is documented. Provenance does not validate the legal breadth of 'protect you from liability'; replacement proposed in legal finding."
+    }
+  ],
+  "strengths": [
+    "Same-day emergency vendor dispatch is documented in the September 30 anecdote log; no invented building anecdote is needed.",
+    "Company policy and professional opinion are distinguished from law in the long-form article; preserve those distinctions in both scripts.",
+    "Answer-first summary, practical responsibility table, five FAQs, sources and a relevant closing CTA form a useful owner guide.",
+    "Oakland’s actual CPTED checklist and relevant existing AEBP guides provide useful local context."
+  ],
+  "article_fixes": [
+    "9849-F01: Under Civil Code §1941.3(b), a landlord can be liable for a violation if a covered defect remains uncorrected beyond a reasonable time after the landlord or agent actually knows about it or receives notice. A tenant report is one way to establish notice. Liability for injuries from a crime also requires the other elements of the claim, including causation.\nReplace 'A lock the tenant broke or never reported' with 'Tenant-caused damage may affect who pays; it does not by itself settle the landlord’s repair or safety duties.' Replace both scripts’ notice opening with: Once you know a required lock is defective—whether through a tenant report or your own observation—act promptly and document the repair. Notice alone does not establish liability for a later crime.",
+    "9849-F02: Replace the quick-answer guard sentence with: 'A duty to hire guards generally requires heightened foreseeability, which can arise from prior similar incidents or other sufficiently serious warning signs.' Replace the opening paragraph under 'What Landlords Generally Aren’t Responsible For' with: 'A crime does not automatically make a landlord liable. Duty depends on foreseeable risk and the burden of the proposed precaution; liability also requires breach and a causal link to the injury. A working lock, no prior on-site incident, or an incident inside a unit does not alone decide the claim.' Replace the camera table’s 'Nothing statewide' and FAQ opening with: 'Civil Code §1941.3 does not itself require cameras. Other applicable requirements, promises and property-specific negligence duties need separate assessment.' Replace the guards table’s exclusion with: 'No automatic duty to provide patrols; assess heightened foreseeability and the burden of the precaution.' Replace the script opening 'In California, usually not' with 'A crime alone does not make a California landlord liable.' Replace 'protect you from liability and help keep good tenants' in the script with 'can help reduce risk and support tenant retention.'",
+    "9849-F03: Replace the quick-answer lock sentence and the script lock list with: 'Subject to statutory exceptions, Civil Code §1941.3 requires deadbolts on main swinging unit-entry doors, security or locking devices on covered openable windows, and code-compliant locks on exterior common-area doors with access to units in multifamily buildings.' Replace the first checklist item with: 'Check each covered main swinging unit-entry door for a compliant deadbolt or statutory alternative; apply the existing-hardware rules before requiring replacement.' Label the self-closing-door and lighting checklist items 'Recommended safety checks' so they do not appear to be verbatim §1941.3 mandates.",
+    "9849-F04: Replace the FAQ’s exception and reimbursement sentences with: 'On a written request with qualifying documentation, the landlord must change covered locks at the landlord’s expense within 24 hours. Section 1941.5 applies when the alleged abuser is not a tenant of the same unit and allows several forms of documentation, including a qualifying tenant statement. Section 1941.6 applies to a co-tenant and requires a qualifying court order excluding that person from the dwelling. If the landlord misses the deadline, statutory self-change rights apply; for covered leases, reimbursement is due within 21 days after the tenant changes the locks. The tenant must use suitable replacement locks, notify the landlord within 24 hours of the change, and provide a key as the statute specifies.' Replace the Key Facts rule with: 'Written request plus the documentation required by the applicable section; 24 hours, at landlord expense. A co-tenant case under §1941.6 requires a qualifying exclusion order.'",
+    "9849-F05: Replace the Ann M. 'What happened' cell with: 'An employee was assaulted at a shopping center. The record included earlier on-site crimes, but no evidence the owner knew of those alleged acts; the earlier crimes also did not establish foreseeability of this assault sufficient to require guards.'",
+    "9849-F06: Retain 'Video in production. It will appear here once it’s live.' while drafting. No text replacement can clear the access check: review an authenticated preview or the final rendered page, validate the blocks in WordPress, then inspect applicable Article/FAQ schema and the completed video integration before full technical clearance."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Add a focused security-duty reference covering actual/received notice, duty versus causation, qualified lock coverage, co-tenant exclusion orders and the guard-duty foreseeability test. Independently checked sources support this review; absence of a local reference is not an extra publication blocker.",
+      "target_doc": "knowledge/laws/landlord-security-duties.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Declare the schema release version explicitly; 1.0.0 currently comes from established review artifacts rather than a version in the schema itself.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add an explicit deferred/blocked verification representation for pre-recording drafts so FAIL can distinguish confirmed defects from an inaccessible preview without relying only on notes.",
+      "target_doc": "docs/07-Editorial-Automation.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Reviewed full AEBP-Dev snapshot; post_modified as returned: 2026-09-30 19:15:19 (timezone not supplied). No revision ID or modified_gmt was returned; both remain null. Reviewed September 30, 2026 Pacific / October 1 UTC.\n\nRepository was clean before these artifacts, HEAD b26e98e1871d47f82ef0dc41f3c3841c8af031cd; origin/main...HEAD was 0/0 against the locally stored remote ref (no fetch claimed). Git emitted a global-ignore permission warning, but status completed.\n\nPre-Publish Audit ran with rendered checks blocked: both draft permalinks returned the theme’s Page not found page in an unauthenticated browser. Full WordPress content/meta/terms/author/thumbnail read. Block comment nesting balanced and attribute JSON inspected; editor validation, responsive layout, canonical and emitted schema remain unverified. Schema metadata presence is not schema-output verification. Featured image alt exists; image visual suitability not verified.\n\nProduction repair-timelines, package-theft, repair-documentation and consultation links opened successfully. Parent-guide production URL was not verifiable; validate at launch. Oakland page was verified in browser after web fetch returned 403; its residential checklist PDF was read. This is not evidence of a broken Oakland link.\n\nGeneral education and conditional advice pass Compliance Risk; inaccurate legal generalizations are recorded under Legal Accuracy rather than duplicating them as personalized advice.\n\nCornerstone sequence is present, including five FAQs and a functionally equivalent self-audit checklist. Same-day dispatch policy supplies the documented practitioner observation. Companion check PASS means independently reviewed in 9850/01-review, not approved for publication. GBP-consistency PASS applies only to the saved draft in 2026-10-05-week1-package-notes.md, not a live GBP post. Its positive 'a reported broken lock puts you on notice' claim does not say that only tenant reports count. Recheck all package copy after revisions.\n\nSchema file has no explicit release-version declaration. schema_version 1.0.0 follows existing review artifacts, with the exact schema fixed by repository commit; this provenance gap is logged below.\n\nNonblocking editorial suggestions: replace relative 'later this month' and October 12 promises in the blog with evergreen links when available; tighten repetitive 'usually not' phrasing through the legal replacements. No standards, company records or WordPress content changed.\n\nNext: Claude supplies 02-revision-response.md/json with one disposition per finding and applies accepted revisions to both assets and package copy. Brian still reads the final drafts before publication."
+}
+

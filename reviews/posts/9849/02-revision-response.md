@@ -1,0 +1,83 @@
+# Revision Response — Post 9849
+
+Responds to: `reviews/posts/9849/01-review.json` (2026-10-01T02:29:26Z)  
+Responder: Claude (Cowork) · 2026-10-01T02:47:00Z  
+Repo: `b26e98e1871d47f82ef0dc41f3c3841c8af031cd` (dirty: new review/response files; `skills/weekly-post-review.md` shows a pre-existing diff not made by Claude)  
+WordPress: draft, [https://dev.alleastbayproperties.com/?p=9849](https://dev.alleastbayproperties.com/?p=9849)
+
+**Recommendation to Brian:** hold_for_brian_decision
+
+## Dispositions
+
+### 9849-F01 — accepted
+
+**Rationale:** Verified against §1941.3(b) text: liability follows failure to correct within a reasonable time after the landlord 'either has actual notice of a deficiency or receives notice of a deficiency.' The draft wrongly implied tenant reports were the only trigger, and the comparison table conflated who pays with whether the duty exists. Also added §1941.3(d) (violation doesn't broaden or limit the general duty of care) to separate statutory violation from crime liability.
+
+**Change applied:** Key Facts notice row rewritten (actual notice or received notice; tenant report is one way). §1941.3 body paragraph now covers actual notice, a walk-through example, and §1941.3(d)/causation. Comparison-table lock row: 'Generally not' cell now addresses tenant-caused damage as a who-pays question; 'Your responsibility' now says 'after you know or are told.' Script paragraph 3 (both posts and package notes) rewritten to the knowledge framing. GBP, FB, IG, X, LinkedIn, Nextdoor, SMS and YouTube copy updated to remove tenant-report-only 'on notice' framing.
+
+> Before: The tenant must tell you. You're liable if you don't fix it within a reasonable time after notice.
+
+> After: You can be liable for a violation if you don't correct it within a reasonable time after you either have actual notice of it or receive notice. A tenant report is one way you get notice; seeing it yourself is another.
+
+### 9849-F02 — accepted_with_modification
+
+**Rationale:** Agreed the quick answer, 'not responsible' section, camera/guard rows, FAQ 1-2 and script overstated limited authorities as broad exclusions. Castaneda confirms foreseeability can rest on other sufficiently serious indications. Modification: kept GPT's substance but shortened phrasing for readability (e.g., 'other serious warning signs'), and kept a plain-language sentence that a working lock or no prior incident 'makes a claim harder' alongside GPT's 'does not alone decide the claim.'
+
+**Change applied:** Quick Answer opens 'A crime alone doesn't make a California landlord liable' and adds causation; guard sentence now says heightened foreseeability 'can come from prior similar incidents or other serious warning signs.' 'What Landlords Generally Aren't Responsible For' rewritten (duty = foreseeability + burden; breach and causation; no single fact decides it) plus a separate paragraph on what courts declined to require. Camera row/FAQ 2 now say §1941.3 doesn't require cameras and other promises/rules/risks need separate assessment. Guard row: 'No automatic duty.' FAQ 1 adds causation and drops 'usually isn't the landlord's fault.' Script opening and AEBP line ('can help reduce risk and support tenant retention') changed in both posts and notes. 'Practical lesson' paragraph reframed from a frequency claim to the burden/foreseeability balance. AEBP opinion now says 'reduce an owner's risk' instead of 'liability.'
+
+> Before: Bigger measures like security guards generally aren't owed unless similar violent incidents have already happened on the premises.
+
+> After: A duty to hire security guards generally requires heightened foreseeability, which can come from prior similar incidents or other serious warning signs.
+
+### 9849-F03 — accepted
+
+**Rationale:** Correct: standalone summaries and the checklist dropped the §1941.3 qualifications (main swinging doors only, existing-hardware rule, approved-device alternative, covered windows, common areas 'with access to dwelling units'). Lighting and self-closing doors are best practice, not §1941.3 mandates.
+
+**Change applied:** Quick Answer and script now say 'Subject to statutory exceptions' / 'With some exceptions' and use the main swinging door / covered window / code-compliant common-area lock wording. Key Facts deadbolt row adds existing locks and government-approved alternatives; common-area row now reads 'common areas with access to units.' Body list item 1 adds approved-device alternative; item 3 uses the statute's 'with access to units' scope. Self-Audit split into 'Required by §1941.3 (subject to its exceptions),' 'Required by §1941.5/§1941.6,' and 'Recommended safety checks (best practice, not statutory mandates).'
+
+> Before: Every main unit entry door has a working deadbolt with at least a 13/16-inch throw.
+
+> After: Check each main swinging unit-entry door for a compliant deadbolt (13/16-inch throw) or an approved alternative. Apply the existing-hardware rule before requiring replacement.
+
+### 9849-F04 — accepted
+
+**Rationale:** Verified: §1941.5 requires a written request with one of the listed documentation forms, which include 'a signed statement from the eligible tenant'; the self-change subdivision applies to leases executed on or after Jan. 1, 2011; tenant must notify within 24 hours and provide a key. §1941.6 (co-tenant) requires a qualifying court order. The draft merged the two paths and omitted the reimbursement trigger.
+
+**Change applied:** FAQ 4 rewritten with written request, landlord expense, 24 hours, §1941.5 vs. §1941.6 paths, tenant notice/key duties, and 21-day reimbursement 'after the change' for covered leases. Key Facts row rewritten to require the applicable documentation and flag the §1941.6 exclusion-order requirement.
+
+> Before: If you don't, the tenant can change the locks and you must reimburse them within 21 days.
+
+> After: If you miss the deadline, the tenant can change the locks, must notify you within 24 hours and give you a key, and (for leases covered by the statute) you must reimburse them within 21 days after the change.
+
+### 9849-F05 — accepted
+
+**Rationale:** Verified in the opinion: the record included bank robberies, purse snatchings and a man pulling down women's pants, but 'no evidence that Pacific Plaza had knowledge of these alleged criminal acts,' and Ann M. conceded they were not similar. 'Only general neighborhood crime' misstated the record.
+
+**Change applied:** Ann M. 'What happened' cell replaced; 'What it means' cell now says the court found heightened foreseeability rarely exists without prior similar incidents the owner knew about (dropped 'General area crime isn't enough').
+
+> Before: A shopping center employee was assaulted. There were no prior similar violent incidents on the premises, only general neighborhood crime.
+
+> After: An employee was assaulted at a shopping center. The record included some earlier crimes on the premises, but no evidence the owner knew about them, and they weren't similar to the assault.
+
+### 9849-F06 — requires_human
+
+**Rationale:** Not fixable by text: the draft permalink 404s for an unauthenticated browser, so rendered H1/canonical/schema, table responsiveness and Gutenberg validity can only be checked from a logged-in preview or after publish. Placeholder kept intentionally until the HeyGen render exists. Brian to open the post in the block editor (confirm no 'unexpected content' block warnings) and preview; schema check after publish.
+
+### Nonblocking suggestions
+
+Nonblocking suggestions also applied: removed 'later this month' and the October 12 promise from East Bay Specifics; tightened repeated 'usually not' phrasing.
+
+## Operating System follow-ups
+
+- **knowledge/laws/landlord-security-duties.md:** Accepted, not built this pass: add knowledge/laws/landlord-security-duties.md covering actual/received notice under §1941.3(b), §1941.3(d) duty-of-care carve-out, duty vs. causation, qualified lock coverage (sliding-door, window, existing-hardware, approved-device exceptions), §1941.5 vs. §1941.6 documentation paths, and the Ann M./Castaneda guard-duty foreseeability test. Recommend building it before the Oct 8 Thursday Tip and Week 4 drafts, which reuse these rules.
+- **automation/schemas/review.schema.json; docs/07-Editorial-Automation.md:** Agreed, deferred to Brian/ChatGPT: explicit schema release version in review.schema.json, and a deferred/blocked verification state in docs/07 so an inaccessible draft preview is distinguishable from a confirmed defect.
+
+## Summary
+
+All six findings answered. F01–F05 fixed in the draft, the shared script and all package copy; F06 is a rendered-preview/schema verification hold that needs Brian's logged-in preview and a post-publish check. Nothing published.
+
+## Verification of edits
+
+- Full content replaced via `wp_update_post`; returned content length matched the locally built file byte-for-byte.
+- Script text is identical in 9849, 9850 and the package notes (`VIDEO-CONSISTENCY`).
+- Package copy (GBP, social, SMS, YouTube, homepage lead-in) rechecked against the revised rules; tenant-report-only 'on notice' and 'usually not' framing removed.

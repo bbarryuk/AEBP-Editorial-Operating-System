@@ -91,7 +91,7 @@ Any future post, video script, or social copy reusing this same observation (rat
 
 **Claims as published:**
 1. *Company policy:* "When a tenant reports a broken entry door lock or a lobby door that won't lock, we treat it as an emergency on our 24/7 maintenance line, not a routine work order, and send a vendor the same day." Video Script: "At AEBP, we treat a broken entry or lobby lock as an emergency, with a vendor sent the same day."
-2. *Professional opinion (not an anecdote):* "The security features that do the most to reduce an owner's liability are the same ones that help keep good tenants. Working locks, good lighting and secure mail..."
+2. *Professional opinion (not an anecdote):* "The security features that do the most to reduce an owner's risk are the same ones that help keep good tenants. Working locks, good lighting and secure mail..." Video Script: "In our view, working locks, good lighting and secure mail can help reduce risk and support tenant retention." (Both reworded 2026-09-30 per GPT review 9849-F02 / 9850-F03, which flagged "liability" / "protect you from liability" as overstating the legal effect.)
 
 **Confirmed by:** Brian, directly, in the Cowork session of 2026-09-30 (October Week 1 cornerstone build). Asked to classify a broken exterior/entry or lobby lock report, he answered "Emergency, same day." Asked about the May-draft liability/vacancy observation, he answered that it is his real view but there is no specific building example behind it, so it is framed as professional opinion from managing 600+ units.
 
