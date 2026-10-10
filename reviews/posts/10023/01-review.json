@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10023,
+  "title": "How to Stop Package Theft in an Apartment Building: What Actually Works in Older East Bay Buildings",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "e035aa64a04a568d7a166172b7fcc87afee5c1e0",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10023,
+    "status": "draft",
+    "revision_id": null,
+    "modified_gmt": null,
+    "permalink": "https://dev.alleastbayproperties.com/?p=10023"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex / GPT-6"
+  },
+  "timestamp": "2026-10-09T18:12:23-07:00",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10023-F01",
+          "quote": "Cameras record theft; a controlled drop point prevents it.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "STD-HONEST / EVD-CITATION-REQUIREMENT: the hook converts a reasonable risk-reduction recommendation into an assured outcome and contrasts it with categorical claims that cameras do not prevent theft. The table itself acknowledges deterrence and shared-code risk. Security.org supports layered precautions, not zero theft or the unsourced claim that footage rarely recovers packages. The conclusion/FAQ also overstate low cost without property quotes. No AEBP comparative performance example is documented.",
+          "fix": "Replace the Quick Answer opening with: \"To reduce package theft in an apartment building, start with where deliveries are left and who can reach them. Cameras can document incidents and may deter theft; controlled access can reduce opportunities to take packages. No option eliminates the risk.\"\nReplace the shared script opening with: \"How can you reduce package theft in an apartment building? Start with where deliveries are left and who can reach them. Cameras can document incidents and may deter theft, but they work best alongside a controlled delivery area.\"\nReplace \"Doesn't stop the theft, and footage rarely gets a package back\" with \"Does not physically secure packages; deterrence and recovery are not guaranteed.\"\nReplace the More cameras paragraph with: \"Camera footage can help document an incident. Strongly recommended best practice: use cameras alongside controlled access and prompt pickup, rather than relying on footage alone.\"\nReplace \"you can make your building a much harder target for very little money\" with \"you can start by checking existing doors and delivery arrangements before pricing improvements.\"\nReplace FAQ 1's final sentence with: \"A written policy and repairs to existing hardware may be lower-cost starting points; a new package room needs a property-specific quote.\"\nApply the same prevention wording to the excerpt, script on both pages, and GBP/social/SMS lead-ins before distribution.",
+          "future_prevention": "Review titles, excerpts, FAQs and distribution copy for absolute outcome claims; retain the anecdote log's explicit lack of a proven keypad-versus-camera case."
+        },
+        {
+          "finding_id": "10023-F02",
+          "quote": "Confirm every common-area entry door closes, latches and locks on its own (Civil Code §1941.3)",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "GATE-LEGAL-ACCURACY / STD-TRUST-SIGNALS: the citation makes automatic closing/latching a universal statutory duty. Section 1941.3(a)(3) addresses code-compliant locking mechanisms on specified exterior common-area doors; it does not itself impose that blanket closer requirement. The section has scope limits/exceptions, including designated historic buildings, material for an older-building article. The Step One compliance-fix sentence repeats the conflation. Statutory text inspected at https://law.justia.com/codes/california/code-civ/division-3/part-4/title-5/chapter-2/section-1941-3/; the official Legislature endpoint returned 403.",
+          "fix": "Replace the checklist item with: \"Check required common-area entry locks. Strongly recommended best practice: test any existing door closer and confirm the door latches reliably.\"\nReplace the Step One closing paragraph with: \"Required by law: for covered multifamily buildings, Civil Code §1941.3(a)(3) addresses locking mechanisms on exterior doors serving common areas with access to dwelling units, subject to the section's scope and exceptions. Strongly recommended best practice: keep existing closers working so doors latch reliably. Before changing doors or converting a closet into package storage, have a qualified professional check applicable fire, egress and accessibility requirements. See our landlord security duties guide for the broader rules.\"\nRetain the statute and security-guide links.",
+          "future_prevention": "Separate the statutory hardware duty from operational closer recommendations, and review retrofit advice against scope and fire/egress requirements."
+        },
+        {
+          "finding_id": "10023-F03",
+          "quote": "No California statute requires a package room or lockers",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "EVD-CITATION-REQUIREMENT: absence of package storage from §1941.3's list supports a statement about that section, not a conclusion about every California statute or every property's requirements. This is an unsupported breadth issue, not evidence that a general locker mandate exists. The same assertion occurs in Quick Answer, Key Facts, conclusion and FAQ 2. Source: https://law.justia.com/codes/california/code-civ/division-3/part-4/title-5/chapter-2/section-1941-3/.",
+          "fix": "Replace the Quick Answer sentence with: \"Civil Code §1941.3 does not itself require a package room or lockers; separate property-specific requirements and commitments may still matter.\"\nReplace the Key Facts answer with: \"Not under Civil Code §1941.3 itself. That section addresses specified locks, not package storage.\"\nReplace FAQ 2's first two sentences with: \"Civil Code §1941.3 does not itself require either. That does not settle every building's obligations: check applicable local requirements, approvals and lease commitments.\"\nReplace the conclusion's opening with: \"No setup eliminates every theft, and Civil Code §1941.3 does not itself require a package room.\"",
+          "future_prevention": "Narrow negative legal claims to the authority actually checked; do not infer all-law absence from one statutory list."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10023-F04",
+          "quote": "thieves have used a carrier key to enter a Berkeley apartment building and open its mailboxes.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "GATE-LOCAL-ACCURACY: the body correctly attributes the master-key theory to the building manager, but the Key Facts row turns it into a confirmed identification. NBC's October 2022 report describes apparent postal-key use and the manager's belief. Verified by direct retrieval after the browser search tool returned 403. https://www.nbcbayarea.com/news/local/east-bay/berkeley-mail-thieves/3027839/",
+          "fix": "Replace the Postal keys fact cell with: \"An Oakland carrier's postal keys were stolen in May 2024. In a separate Berkeley incident reported in October 2022, thieves entered with a key that the building manager believed was a carrier master key.\" Keep both NBC citations.",
+          "future_prevention": "Preserve attribution and uncertainty when compressing reporting into tables and answer boxes."
+        },
+        {
+          "finding_id": "10023-F05",
+          "quote": "Low (Amazon's install partners describe it as no cost to the property; confirm current terms)",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "GATE-LOCAL-ACCURACY / EVD-CURRENCY-CHECK: ASK4's cited June 26, 2026 article explicitly discusses the UK market. Its no-cost offer does not establish East Bay eligibility or pricing. Attribution and 'confirm current terms' help, but the table still assigns a local cost tier from a different market. This is an evidence gap, not proof Amazon charges US properties. Direct source read: https://www.ask4.com/resources/blog/amazon-key-for-business-smarter-amazon-deliveries-for-your-building . Amazon's own technical explanation supports verified temporary access, not the current local price: https://aws.amazon.com/blogs/iot/building-a-virtual-fob-with-amazon-key-for-business-and-aws-iot/",
+          "fix": "Replace the carrier-access cost cell with: \"Confirm current U.S. property eligibility, installation costs and ongoing fees directly with the provider.\"\nReplace the source-list entry with: \"Amazon Key delivery-access mechanism: Amazon's explanation of verified, time-limited building access. Confirm current local availability and terms directly with Amazon.\" Link to Amazon's own explanation. Keep the cost unquantified unless a current U.S. offer is verified.",
+          "future_prevention": "Check source country, product variant, date and eligibility before importing vendor prices into local comparisons."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10023-F06",
+          "quote": "Watch the video version, with chapter links and a full transcript.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "GATE-TECHNICAL-SEO: the copy promises a finished asset, but both pages have an in-production placeholder and a Video Script, with no embed or chapter links. Draft-stage incompleteness is expected, but cannot receive publication clearance. Unauthenticated preview retrieval returned HTTP 404; the browser automation runtime also failed, so emitted schema, canonical, editor validation and responsive layout remain unverified, not proven missing. Metadata presence alone does not verify schema.",
+          "fix": "For the current draft replace the lead-in with: \"Video companion in production. The planned script appears below.\"\nFor launch, replace it with: \"Prefer video? Watch the companion video below or visit the video page.\" Restore \"chapter links\" only if actual chapters are supplied.\nReplace the production placeholder with the actual finished video's native wp:shortcode block after its real ID exists; do not invent an ID. Cross-check the recording/SRT before changing \"Video Script\" to \"Video Transcript\". Verify the rendered pages, canonical, emitted schema, image and mobile tables before clearing the technical gate.",
+          "future_prevention": "Use separate draft-content and launch checks; never treat unavailable previews or unrecorded scripts as verified rendered output."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-COMPANION-VIDEO",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-GBP-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear owner-improvement intent, descriptive slug/meta and separation from liability guide.",
+      "whats_holding_back": "Some promise wording needs qualification; rendered canonical remains unverified."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 89,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first box, facts table, five explicit FAQs and named sources.",
+      "whats_holding_back": "Absolute prevention and legal claims could be extracted without the later caveats."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 92,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Documented practitioner observations, candid no-locker disclosure, dated reporting.",
+      "whats_holding_back": "Scope overreach in lock/storage law, uncertain key identity and UK pricing evidence."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Practical route audit, comparison table and owner checklist.",
+      "whats_holding_back": "Repeated cameras-versus-prevention slogan; six-column table needs mobile check."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant package-complaint CTA and live consultation path.",
+      "whats_holding_back": "Current text promises a video/transcript that is not yet available."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 90,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Well-targeted Monday cornerstone with useful original context.",
+      "whats_holding_back": "Content findings and launch verification remain unresolved; overall is an editorial estimate, not an arithmetic rubric."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10023-C01",
+      "quote": "At AEBP, package theft is one of the most common complaints we hear from tenants.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-09 entry",
+      "note": "Documented complaint-frequency wording, not a #1 ranking."
+    },
+    {
+      "claim_id": "10023-C02",
+      "quote": "When we asked our local post office what owners can do, the best advice they had was a PO box.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-09 entry",
+      "note": "Reported conversation, not national USPS policy. Blog section/FAQ and script variants covered."
+    },
+    {
+      "claim_id": "10023-C03",
+      "quote": "We manage 600+ rental units across Oakland, Berkeley, Emeryville and the wider East Bay.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/llms.txt",
+      "note": "Live company source rechecked after cached overview's review date."
+    },
+    {
+      "claim_id": "10023-C04",
+      "quote": "None of the buildings we currently manage use smart package lockers",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-09 entry",
+      "note": "Confirmed company fact; no locker-performance experience is implied."
+    },
+    {
+      "claim_id": "10023-C05",
+      "quote": "We took two lessons from that conversation.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-09 entry",
+      "note": "Professional interpretation following a documented conversation; does not establish a successful AEBP intervention."
+    }
+  ],
+  "strengths": [
+    "Matches the October plan's owner-side prevention intent and avoids duplicating the liability guide.",
+    "Required structure present: answer-first, facts, body, documented AEBP observation, before-holiday checklist, five aebp-faq questions, sources, closing cta-primary.",
+    "All three new AEBP observations are documented in the Oct 9 anecdote log; no invented keypad-performance example.",
+    "Comparison table acknowledges shared codes, oversize parcels, outages and carrier limitations; relative costs avoid recycled unsupported 2014 prices.",
+    "Useful links to live liability/security guides and consultation path; native Gutenberg source structure and descriptive image alt present."
+  ],
+  "article_fixes": [
+    "10023-F01: Replace the Quick Answer opening with: \"To reduce package theft in an apartment building, start with where deliveries are left and who can reach them. Cameras can document incidents and may deter theft; controlled access can reduce opportunities to take packages. No option eliminates the risk.\"\nReplace the shared script opening with: \"How can you reduce package theft in an apartment building? Start with where deliveries are left and who can reach them. Cameras can document incidents and may deter theft, but they work best alongside a controlled delivery area.\"\nReplace \"Doesn't stop the theft, and footage rarely gets a package back\" with \"Does not physically secure packages; deterrence and recovery are not guaranteed.\"\nReplace the More cameras paragraph with: \"Camera footage can help document an incident. Strongly recommended best practice: use cameras alongside controlled access and prompt pickup, rather than relying on footage alone.\"\nReplace \"you can make your building a much harder target for very little money\" with \"you can start by checking existing doors and delivery arrangements before pricing improvements.\"\nReplace FAQ 1's final sentence with: \"A written policy and repairs to existing hardware may be lower-cost starting points; a new package room needs a property-specific quote.\"\nApply the same prevention wording to the excerpt, script on both pages, and GBP/social/SMS lead-ins before distribution.",
+    "10023-F02: Replace the checklist item with: \"Check required common-area entry locks. Strongly recommended best practice: test any existing door closer and confirm the door latches reliably.\"\nReplace the Step One closing paragraph with: \"Required by law: for covered multifamily buildings, Civil Code §1941.3(a)(3) addresses locking mechanisms on exterior doors serving common areas with access to dwelling units, subject to the section's scope and exceptions. Strongly recommended best practice: keep existing closers working so doors latch reliably. Before changing doors or converting a closet into package storage, have a qualified professional check applicable fire, egress and accessibility requirements. See our landlord security duties guide for the broader rules.\"\nRetain the statute and security-guide links.",
+    "10023-F03: Replace the Quick Answer sentence with: \"Civil Code §1941.3 does not itself require a package room or lockers; separate property-specific requirements and commitments may still matter.\"\nReplace the Key Facts answer with: \"Not under Civil Code §1941.3 itself. That section addresses specified locks, not package storage.\"\nReplace FAQ 2's first two sentences with: \"Civil Code §1941.3 does not itself require either. That does not settle every building's obligations: check applicable local requirements, approvals and lease commitments.\"\nReplace the conclusion's opening with: \"No setup eliminates every theft, and Civil Code §1941.3 does not itself require a package room.\"",
+    "10023-F04: Replace the Postal keys fact cell with: \"An Oakland carrier's postal keys were stolen in May 2024. In a separate Berkeley incident reported in October 2022, thieves entered with a key that the building manager believed was a carrier master key.\" Keep both NBC citations.",
+    "10023-F05: Replace the carrier-access cost cell with: \"Confirm current U.S. property eligibility, installation costs and ongoing fees directly with the provider.\"\nReplace the source-list entry with: \"Amazon Key delivery-access mechanism: Amazon's explanation of verified, time-limited building access. Confirm current local availability and terms directly with Amazon.\" Link to Amazon's own explanation. Keep the cost unquantified unless a current U.S. offer is verified.",
+    "10023-F06: For the current draft replace the lead-in with: \"Video companion in production. The planned script appears below.\"\nFor launch, replace it with: \"Prefer video? Watch the companion video below or visit the video page.\" Restore \"chapter links\" only if actual chapters are supplied.\nReplace the production placeholder with the actual finished video's native wp:shortcode block after its real ID exists; do not invent an ID. Cross-check the recording/SRT before changing \"Video Script\" to \"Video Transcript\". Verify the rendered pages, canonical, emitted schema, image and mobile tables before clearing the technical gate."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Add a narrowly sourced package-theft/security knowledge note separating lock duties, closer best practice, deposit acceptance duties and property-specific storage requirements. Do not infer statutory absence from one section.",
+      "target_doc": "knowledge/laws/package-theft-and-building-access.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add a regression case preserving 'believed/apparent' when a reported incident is summarized in a Key Facts table.",
+      "target_doc": "tests/editorial/",
+      "type_c_followup": true
+    },
+    {
+      "description": "Define draft-stage versus launch-stage technical checks for unrecorded companion videos while retaining the final publication gate.",
+      "target_doc": "reviews/video-review.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Declare the JSON schema release version explicitly; 1.0.0 currently follows existing artifacts rather than an explicit schema-version constant.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "WordPress post_modified as returned: 2026-10-09 18:01:16; timezone not supplied.\n\nReviewed October 9, 2026 Pacific (October 10 UTC), for Monday October 12. Pre-Publish Audit with rendered-page and recording checks blocked. Full AEBP-Dev snapshots read; no revision ID or GMT-modified timestamp returned. Local repository access initially failed in sandbox; read-only escalated checks succeeded. Local HEAD and GitHub main both e035aa64a04a568d7a166172b7fcc87afee5c1e0; pre-write working tree clean, HEAD...origin/main 0/0 against the locally stored ref, and GitHub main independently matched. No AGENTS.md found in repo or checked repo ancestors. Neither review directory existed.\n\nStandards: docs/01 v0.5, docs/02 v0.2, docs/03 v0.3, docs/07 v0.1; Monday and video manifests v0.1. Weekly-review workflow and both schemas read. schema_version 1.0.0 follows existing review artifacts; exact schema fixed by repo commit.\n\nNative block comment nesting and attribute JSON inspected: no detected imbalance/JSON parse errors. This is not a Gutenberg editor round-trip validation. Both scripts are identical, 217 words by whitespace count; package notes say approximately 205, a nonblocking planning discrepancy. Both correctly say Video Script. No video embed is present. Both unauthenticated draft permalinks returned HTTP 404, and browser UI runtime failed. Emitted schema, canonical, mobile layout and editor validation remain unverified rather than absent. Meta fields, terms, image ID/alt, author and video template read. Local 1200x675 hero crop visually inspected: suitable older-lobby illustration with open keypad door; WordPress uses media 10024, reported in package notes as 1536x1024, so the local crop is not proof of the site's rendered crop. Optional alt improvement: 'Older East Bay apartment lobby with wall mailboxes and an open package-room door fitted with a keypad.'\n\nLive production consultation, liability-guide and landlord-security-guide links opened successfully. Future parent/companion production routes need launch verification. No full review of post 2804 performed. Both posts remain drafts with Oct 9 stored dates, not scheduled for Oct 12. Scheduling is a future publishing action, not an editorial error.\n\nSecurity.org figures (one in four lifetime experience, $222, 3.5x recent-period comparison, n=3,307 October 2025) match the cited survey; do not present 'most recent three months' as an October 2026 observation. Prefer 'the three-month period covered by the October 2025 survey.' USPS FY2022/lock-replacement figures, OIG May 19, 2026 report and PO-box street-addressing explanation verified. NBC pages verified by direct retrieval after web-tool 403 failures; Berkeley key identity remains attributed. ASK4 direct retrieval shows UK context. Official Legislature endpoints returned 403; legal comparison uses accessible statutory mirrors, not a claim that current official-site verification succeeded. Sections 1846/1852 state the care distinctions cited; §1814 supports consensual deposit creation. As a nonblocking clarity improvement, say package acceptance 'can create a duty of care' and label a written acceptance policy as best practice, not a statute. Do not imply no separate fee alone settles the legal classification; retain attorney qualification.\n\nGBP draft in Week 2 package notes repeats the blog's prevention claim, so substantive correction in 10023-F01 must propagate. Other social/SMS copy was spot-checked for that shared claim only, not cleared through separate channel audits. No WordPress content, standards, knowledge files, schedules or social posts changed. Claude should supply 02-revision-response.md/json for each reviewed post with one disposition per finding; production-dependent items can remain requires_human until completed. Brian still reads the final drafts before publication.\n\nSources inspected:\nEditorial standards: https://github.com/bbarryuk/AEBP-Editorial-Operating-System/blob/e035aa64a04a568d7a166172b7fcc87afee5c1e0/docs/01-Editorial-Standards.md\nConfirmed Oct 9 anecdotes: https://github.com/bbarryuk/AEBP-Editorial-Operating-System/blob/e035aa64a04a568d7a166172b7fcc87afee5c1e0/knowledge/company/anecdote-log.md\nCivil Code 1941.3 (statutory mirror; official endpoint blocked): https://law.justia.com/codes/california/code-civ/division-3/part-4/title-5/chapter-2/section-1941-3/\nCivil Code 1846 (statutory mirror): https://law.justia.com/codes/california/code-civ/division-3/part-4/title-3/chapter-2/article-2/section-1846/\nCivil Code 1852 (statutory mirror): https://california.public.law/codes/ca_civ_code_section_1852\nSecurity.org survey: https://www.security.org/package-theft/annual-report/\nNBC Berkeley incident: https://www.nbcbayarea.com/news/local/east-bay/berkeley-mail-thieves/3027839/\nNBC Oakland incident: https://www.nbcbayarea.com/news/local/usps-150k-reward-postal-worker-robbed-oakland/3528206/\nUSPS crime-prevention release: https://about.usps.com/newsroom/national-releases/2023/0512-usps-postal-inspection-service-roll-out-expanded-measures-to-crack-down-on-mail-theft.htm\nUSPS OIG 25-137-R26: https://www.oversight.gov/reports/audit/follow-us-postal-services-and-us-postal-inspection-services-response-mail-theft\nUSPS street addressing: https://postalpro.usps.com/mailing/competitivepoboxes\nASK4 UK-oriented offer: https://www.ask4.com/resources/blog/amazon-key-for-business-smarter-amazon-deliveries-for-your-building\nAmazon delivery access explanation: https://aws.amazon.com/blogs/iot/building-a-virtual-fob-with-amazon-key-for-business-and-aws-iot/\nCurrent company facts: https://alleastbayproperties.com/llms.txt\n\nGate interpretation: CORNERSTONE-COMPANION-VIDEO passes because the companion was independently reviewed, not because it is publish-ready. GBP consistency passes only the drift check: it matches the parent; its shared overclaim is already included in 10023-F01. GATE-LEGAL-ACCURACY applies docs/02 evidence rules to material procedural claims as well as statutory claims. Compliance Risk passes the general-education test and is not used as a duplicate gate for inaccurate law. CORNERSTONE-STRUCTURE passes functional section order; a social-share bar preceding the answer does not defeat answer-first prose."
+}
+
