@@ -99,6 +99,22 @@ Any future post, video script, or social copy reusing this same observation (rat
 - Claim 1 is a process statement. Don't add response-time statistics, percentages or specific incidents unless Brian supplies them.
 - Claim 2 must stay labeled as professional opinion. Never rewrite it as "we've seen at building X" or attach a vacancy figure to it.
 
-**Used in:** Post 9849 ("Landlord Security Duties in California," "What We See at AEBP" + Video Script) and video page 9850 (Video Script). Expected reuse: Oct 8 Thursday Tip ("A broken exterior lock isn't just a complaint. It's notice.").
+**Used in:** Post 9849 ("Landlord Security Duties in California," "What We See at AEBP" + Video Script) and video page 9850 (Video Script). Reused (claim 1 only) in Oct 8 Thursday Tip, post 9900 ("A Broken Lock Report Isn't Just a Complaint. It's Notice."), its email and video script. No stats or incidents added.
 
 **Underlying point:** under Civil Code §1941.3(b), liability for a broken lock turns on failing to fix it within a reasonable time after notice, so AEBP's same-day emergency classification is the operational answer to the statute.
+
+### 2026-10-09 — Package theft complaint frequency + post office "get a PO box" conversation (posts 10023, 10025, 2804)
+
+**Claims as published:**
+1. *AEBP experience:* "Package theft is one of the most common complaints we hear from tenants across the 600+ East Bay units we manage." Video Script: "At AEBP, package theft is one of the most common complaints we hear from tenants."
+2. *AEBP experience (a conversation, reported):* "When we asked our local post office what building owners can do about it, the answer was blunt: the best advice they had was to get a PO box. They didn't have a better solution to offer for package theft. They also told us mail carriers are being robbed for their master keys." Video Script: "When we asked our local post office what owners can do, the best advice they had was a PO box. Mail carriers here have been robbed for the keys that open apartment mailboxes and building key boxes."
+3. *Company fact:* "None of the buildings we currently manage use smart package lockers."
+
+**Confirmed by:** Brian, directly, in the Cowork session of 2026-10-09 (October Week 2 cornerstone build). Asked whether package theft is the #1 complaint, he chose "one of the most common." Asked about lockers, he answered "No lockers." He volunteered the post office conversation: "our post office told us that the best advice is to get a PO box at the post office. They don't have any better solutions to package theft. Mail carriers are being robbed for their master keys." Asked whether a keypad package room has beaten cameras at a real AEBP building, he said leave it out.
+
+**Reuse limits:**
+- Claim 1: never upgrade to "#1" or attach a percentage or count.
+- Claim 2: don't name the branch or a postal employee unless Brian supplies it. The carrier-robbery part is corroborated by NBC Bay Area (May 2024 Oakland; Oct 2022 Berkeley), USPS (May 2023) and USPS OIG 25-137-R26 (May 2026). Cite those for any specifics, not the conversation.
+- There is NO confirmed AEBP example of a keypad room or other fix reducing package theft. Don't imply one (relevant for the Oct 15 Thursday Tip).
+
+**Used in:** Post 10023 ("How to Stop Package Theft in an Apartment Building": What We See at AEBP, FAQ 4, Video Script); video page 10025 (Video Script, What This Video Covers); refreshed post 2804 (What We See at AEBP).
