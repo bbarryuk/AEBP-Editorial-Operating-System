@@ -117,4 +117,19 @@ Any future post, video script, or social copy reusing this same observation (rat
 - Claim 2: don't name the branch or a postal employee unless Brian supplies it. The carrier-robbery part is corroborated by NBC Bay Area (May 2024 Oakland; Oct 2022 Berkeley), USPS (May 2023) and USPS OIG 25-137-R26 (May 2026). Cite those for any specifics, not the conversation.
 - There is NO confirmed AEBP example of a keypad room or other fix reducing package theft. Don't imply one (relevant for the Oct 15 Thursday Tip).
 
-**Used in:** Post 10023 ("How to Stop Package Theft in an Apartment Building": What We See at AEBP, FAQ 4, Video Script); video page 10025 (Video Script, What This Video Covers); refreshed post 2804 (What We See at AEBP). Claim 1 softened to "a common complaint" in all three on 2026-10-09.
+**Used in:** Post 10023 ("How to Stop Package Theft in an Apartment Building": What We See at AEBP, FAQ 4, Video Script); video page 10025 (Video Script, What This Video Covers); refreshed post 2804 (What We See at AEBP). Claim 1 softened to "a common complaint" in all three on 2026-10-09. Reused (claims 1 and 2 only) in the Oct 15 Thursday Tip, post 10094, its email and video script; no stats, incidents or keypad-room outcome added.
+
+### 2026-10-16 — No routine after-dark walk-throughs; tenants report lighting and door problems
+
+**Source:** Brian, in session (Week 3 Monday cornerstone build), answering "Does AEBP do after-dark walk-throughs?": **No night walks.** Chose to use the tenant-reporting practice instead.
+
+**Confirmed claims:**
+1. AEBP does not run routine after-dark walk-throughs or night inspections of managed buildings.
+2. AEBP asks tenants to report exterior lights that are out, flickering or on a wrong timer, and doors/gates that don't latch ("we can only fix what we know about"). Wording comes from the October 2026 tenant newsletter "Longer Nights" section; Brian confirmed 2026-10-16 the newsletter went to all residents.
+3. Reused, not new: broken entry/lobby locks are emergencies with a same-day vendor (company policy, 2026-09-30 entry).
+
+**Published wording (Brian, 2026-10-16):** use "Our tenants see the property after dark every night; we mostly see it in daylight." Don't state "we don't do night walk-throughs" outright in public copy.
+
+**Do not:** imply AEBP inspects at night, or that any specific lighting fix reduced incidents at an AEBP building. No such example exists.
+
+**Used in:** Post 10112 (What We See at AEBP, Video Script) and video page 10113 (Video Script). Oct 22 Thursday Tip must frame the after-dark walk as owner advice, not AEBP practice.
