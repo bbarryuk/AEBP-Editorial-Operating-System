@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10113,
+  "content_type": "video",
+  "responds_to": {
+    "review_file": "reviews/posts/10113/01-review.json",
+    "timestamp": "2026-10-16T22:31:40.983Z"
+  },
+  "repo": {
+    "commit": "c4a82301f826d60cf164ac46449dd2e996e8d69a",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10113,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10113"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-10-16T22:45:00Z",
+  "dispositions": [
+    {
+      "finding_id": "10113-F01",
+      "disposition": "accepted",
+      "rationale": "Same as 10112-F03.",
+      "change_applied": "Takeaway and script sentence replaced verbatim. The canopy takeaway was also clarified per 10112-F02.",
+      "quote_before": "Light entries, walkways, mail areas and parking from dusk to dawn",
+      "quote_after": "Best practice: provide steady dusk-to-dawn lighting at entries, walkways, mail areas and parking"
+    },
+    {
+      "finding_id": "10113-F02",
+      "disposition": "requires_human",
+      "rationale": "Accepted as a release prerequisite; not resolvable in a content pass. No video exists yet, and the draft preview needs an authenticated session. Nothing fabricated: placeholder and 'Video Script' label kept. At the video swap: embed the real [lite_youtube] shortcode, compare SRT to script before relabeling to 'Video Transcript', set the length in the 'Prefer video?' line and video-page title, then check the authenticated preview, block validity, rendered schema and links. The page stays in draft until the video is playable.",
+      "change_applied": "None yet; placeholder and 'Video Script' label kept.",
+      "quote_before": "",
+      "quote_after": ""
+    }
+  ],
+  "operating_system_followups": [
+    {
+      "description": "Accepted, not built this pass: knowledge/laws/security-lighting-cpted.md covering Oakland's checklist dimensions (2 ft landscaping / 6 ft canopy clearance), permit-specific CPTED assessment (e.g., Oakland obstruction permits for vehicle barriers), §1941.1(a)(5) wording, and the limits of the NBER/Welsh-Farrington lighting research. Should exist before the Oct 22 Thursday Tip reuses these facts.",
+      "target_doc": "knowledge/laws/security-lighting-cpted.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Accepted as a proposal for Brian: docs/03 should say how a technical gate records 'preview unavailable / media not yet produced' separately from a proven markup or schema defect, and distinguish content clearance from production release.",
+      "target_doc": "docs/03-Review-Format.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "rereview_content_findings; hold release for video"
+}
