@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10113,
+  "title": "Rental Property Lighting and CPTED for East Bay Landlords (Video, 2 min)",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "5a07e8689a77605de017093c8b52652113bd3b89",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10113,
+    "status": "future",
+    "revision_id": null,
+    "modified_gmt": null,
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10113"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "GPT-6 (Codex)"
+  },
+  "timestamp": "2026-10-17T00:35:08.374Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10113-F02",
+          "quote": "[lite_youtube videoid=\"eywhT2_YUsk\" title=\"Rental Property Lighting: The Low-Cost Security Check East Bay Landlords Overlook\"]",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "PARTIALLY RESOLVED / still open. Live snapshots now contain the video embed and Video Transcript, superseding the response's statement that no video exists. Both transcripts match the local SRT word for word after punctuation normalization. Package notes record the YouTube video as private until October 19, 2026 at 07:00 UTC. Public playback, authenticated rendered preview, editor validation, generated schema and mobile presentation have not been verified. Draft/future URLs remain inaccessible to the web reader. No proof of a markup or schema defect is claimed.",
+          "fix": "Keep the actual embed and checked transcript. Before scheduled release, verify authenticated desktop/mobile previews, WordPress block validation, generated Article/FAQ output for 10112 and applicable VideoObject output for 10113, internal-link destinations, and public video playback at the scheduled launch. Record results against this finding. If release checks cannot be completed, Brian should decide whether to defer the scheduled publication; this review did not change its schedule.",
+          "future_prevention": "Update production evidence when the video is added; do not reuse the earlier no-video status or infer rendered output from metadata."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 94,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear watch-page title and populated metadata.",
+      "whats_holding_back": "Rendered output and public video playback remain unverified."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 96,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Scannable takeaways and resources.",
+      "whats_holding_back": "No remaining scored-content blocker identified; technical release checks are separate."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 96,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Tenant-reporting statements match the October 16 internal record.",
+      "whats_holding_back": "No remaining scored-content blocker identified; technical release checks are separate."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 95,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Short, conversational script; consistently uses we.",
+      "whats_holding_back": "No remaining scored-content blocker identified; technical release checks are separate."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 95,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Read-the-guide link and relevant consultation CTA.",
+      "whats_holding_back": "No remaining scored-content blocker identified; technical release checks are separate."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Coherent companion page and script matching the article.",
+      "whats_holding_back": "Content scores meet thresholds; technical release gate still fails independently."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10113-C01",
+      "quote": "We manage 600+ rental units across Oakland, Berkeley, Emeryville and the wider East Bay. Let's talk about how your building handles lighting, doors and repair reports.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/llms.txt (retrieved October 16, generated October 8, 2026)",
+      "note": "Internal documented record, not AI-assigned owner verification. The tenant-reporting line is company practice, not a claim of routine night inspections."
+    },
+    {
+      "claim_id": "10113-C02",
+      "quote": "At AEBP, our tenants see the property after dark every night. We mostly see it in daylight. So we ask them to report any light that's out or a door that won't latch. We can only fix what we know about. And once someone reports it, we do know about it.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md — 2026-10-16 entry; same-day broken-lock policy additionally documented 2026-09-30",
+      "note": "Internal documented record, not AI-assigned owner verification. The tenant-reporting line is company practice, not a claim of routine night inspections."
+    }
+  ],
+  "strengths": [
+    "Correct Video Script label before recording.",
+    "Script matches the parent and preserves documented AEBP practice.",
+    "Takeaways, resources, read-the-guide link and CTA give the watch page independent value.",
+    "All original wording findings are fixed in live WordPress; both transcripts match each other and the supplied SRT.",
+    "Actual video embeds and production metadata replace the earlier placeholders."
+  ],
+  "article_fixes": [
+    "10113-F02: Keep the actual embed and checked transcript. Before scheduled release, verify authenticated desktop/mobile previews, WordPress block validation, generated Article/FAQ output for 10112 and applicable VideoObject output for 10113, internal-link destinations, and public video playback at the scheduled launch. Record results against this finding. If release checks cannot be completed, Brian should decide whether to defer the scheduled publication; this review did not change its schedule."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Add a sourced CPTED/security-lighting reference covering guideline dimensions, permit-specific assessment requirements and the limits of the lighting research; existing law knowledge files do not cover this topic.",
+      "target_doc": "knowledge/laws/security-lighting-cpted.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Define how technical gates distinguish unavailable draft previews from proven markup/schema defects, and how content-only clearance differs from production release.",
+      "target_doc": "docs/03-Review-Format.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Both 02-revision-response.json files fail the current response schema: unexpected top-level recommendation; missing summary, requires_human_review and recommendation_to_brian. Every original finding does have a disposition and the response timestamps match review 01. Because requires_human dispositions remain, requires_human_review must be true. Correct the machine-readable handoff without silently clearing those items. Proposed replacement fields: \"summary\": \"Content fixes applied; video and transcript now added. Rendered preview, schema, mobile and public playback checks remain unresolved.\", \"requires_human_review\": true, \"recommendation_to_brian\": \"hold_for_brian_decision\"; remove the unsupported recommendation key. Preserve historical responses; record the correction in a new response/addendum rather than silently rewriting prior history.",
+      "target_doc": "reviews/posts/10113/02-revision-response.json",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Follow-up Pre-Publish Audit. Live WordPress snapshot modified 2026-10-16 17:28:07; status future, scheduled post_date 2026-10-19 00:00:00 (site-local; connector supplies no timezone/GMT). No revision ID returned. Current repo HEAD 5a07e8689a77605de017093c8b52652113bd3b89; clean before this review, zero commits ahead of locally recorded origin/main; no remote fetch. Standards and schemas unchanged from review 01 (git diff checked). Sources and legal verification from review 01 in this same conversation retained for unchanged claims; no new legal claims introduced. CLOSED: 10113-F01. 10113-F02: partially resolved, remains open pending release verification. No new substantive content findings. Response files predate the video swap and incorrectly describe the current posts as drafts without videos. Current package notes supersede that production detail. Local SRT Safer Rentals After Dark-caption.en_US.srt matches both transcript blocks after punctuation/whitespace normalization; chapter starts agree with SRT (0:00, 0:06, 0:28, 0:51, 1:12, 1:30). Local video exists; audio and complete visual playback not independently reviewed. Runtime 1:45 comes from package notes; 2 min is reasonable rounding, not independently measured. Both block-comment stacks balance, which does not establish editor validation. Browser inventory has no existing authenticated preview tabs; web-reader access to both future-post URLs and YouTube failed. Video private-until-launch status is documented in package notes, not independently confirmed through YouTube. Neither publication schedules nor WordPress content changed. Both 02-revision-response.json files fail the current response schema: unexpected top-level recommendation; missing summary, requires_human_review and recommendation_to_brian. Every original finding does have a disposition and the response timestamps match review 01. Because requires_human dispositions remain, requires_human_review must be true. Correct the machine-readable handoff without silently clearing those items. Proposed replacement fields: \"summary\": \"Content fixes applied; video and transcript now added. Rendered preview, schema, mobile and public playback checks remain unresolved.\", \"requires_human_review\": true, \"recommendation_to_brian\": \"hold_for_brian_decision\"; remove the unsupported recommendation key. Preserve historical responses; record the correction in a new response/addendum rather than silently rewriting prior history."
+}
