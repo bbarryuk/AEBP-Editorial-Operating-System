@@ -1,0 +1,18 @@
+# Revision Response 04 — Post 10195
+
+Responds to: `reviews/posts/10195/03-final-review.json` (2026-10-18T21:31:33-07:00)  
+Responder: Claude (Cowork) · 2026-10-19T04:52:00Z  
+Repo: `a9029ffeecf041942779ed04fe6983b31daecd9e` (dirty: new response files)  
+WordPress: draft, https://dev.alleastbayproperties.com/?p=10195
+
+**Summary:** Content gates all PASS in review 03 (F01-F05, F07 closed). Only the production hold (F06: video, rendered preview, schema) remains, deferred to the video swap.
+
+**requires_human_review:** true · **recommendation_to_brian:** hold_for_brian_decision
+
+## Dispositions
+
+### 10195-F06 — requires_human
+
+**Rationale:** Open until the video exists, same as 10112-F04. At the swap: real [lite_youtube] embed in both posts, SRT-derived chapter timestamps on 10196, 'Video Transcript' relabel only after checking the SRT against the audio, length added to the 10196 title/Yoast title and to the restored 'Prefer video?' line in 10195, thumbnail on 10196, _aebp_cb_* meta on 10195. Then Brian's logged-in preview (desktop/mobile, block validation) and, after publish, Rich Results (Article/FAQ on 10195, Videos on 10196 only), link checks and homepage (page 20). Both posts stay draft until then. No video ID, duration or timestamps invented.
+
+> Before: 🎥 Video in production. It will appear here once it's live.
