@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10196,
+  "title": "How to Talk With Tenants About Safety Without Overpromising (Video)",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "325556c529d5a521f985e46c2bacaa5eeef7fc55",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10196,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10196",
+    "revision_id": null,
+    "modified_gmt": null
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex (GPT-6)"
+  },
+  "timestamp": "2026-10-18T21:31:33-07:00",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10196-F04",
+          "quote": "Watch: why \"secure building\" and \"safe neighborhood\" are promises a landlord can't keep, what to put in writing for every tenant, why a lease can't discourage calls to the police, and how to treat a security report as notice.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The excerpt still carries the two unqualified claims corrected in the body and script under 10196-F01/F02. Excerpts are separate WordPress fields and can surface on archive cards, search or feeds. This is a missed synchronization, not a new objection to the accepted script.",
+          "fix": "Replace post_excerpt with: “Watch: how East Bay landlords can describe security features without overpromising, explain protected calls for help, and respond to reports about locks, lighting and doors.”",
+          "future_prevention": "Include post_excerpt alongside body, takeaways, script, SEO metadata and distribution copy in paired-post revision checks."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10196-F03",
+          "quote": "🎥 Video in production. It will appear here once it's live.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "10196-F03 remains requires_human in response 02. The video is still unrecorded/unembedded, so playback, recording-checked transcript, duration, thumbnail, chapters and rendered schema are not verified.",
+          "fix": "Retain draft status until the final video is available. Replace the production placeholder with the actual playable embed, add recording-derived chapters and a recording-checked transcript, and verify authenticated preview, generated schema and final destination links. Use “Video Transcript” only after checking it against the audio. Do not invent video IDs, duration or timestamps.",
+          "future_prevention": "Require a production-completion check after the script review; maintain VIDEO-TRANSCRIPT-LITERAL."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 89,
+      "threshold": 90,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Focused query, populated Yoast fields and relevant internal links.",
+      "whats_holding_back": "Video is not yet playable; stale excerpt needs replacement."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 93,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first structure and extractable facts/takeaways.",
+      "whats_holding_back": "Body and script corrected, but excerpt still contains old broad claims."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Documented practitioner process and identifiable primary legal texts.",
+      "whats_holding_back": "Excerpt conflicts with corrected legal scope."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 96,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Plain language with scannable sections and short script.",
+      "whats_holding_back": "No blocking script readability issue found."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 91,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant property-management CTA with live consultation destination.",
+      "whats_holding_back": "Watch-page delivery remains incomplete."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 93,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Clear educational purpose and documented AEBP examples.",
+      "whats_holding_back": "Excerpt fix and production/technical checks remain open."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10196-C01",
+      "quote": "At AEBP, every new tenant gets a welcome sheet with our 24/7 maintenance line, and a broken entry lock is an emergency, with a vendor sent the same day.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md (2026-09-30, 2026-10-16 and 2026-10-18 entries; committed at reviewed HEAD)",
+      "note": "Documented internal record; not AI owner verification."
+    },
+    {
+      "claim_id": "10196-C02",
+      "quote": "Our lease asks tenants to research the neighborhood themselves. We describe the building, and how to reach us.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md (2026-09-30, 2026-10-16 and 2026-10-18 entries; committed at reviewed HEAD)",
+      "note": "Documented lease practice; final sentence is professional framing, not an independently verified universal listing-language policy."
+    },
+    {
+      "claim_id": "10196-C03",
+      "quote": "We manage 600+ rental units across Oakland, Berkeley, Emeryville and the wider East Bay.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/llms.txt",
+      "note": "Documented internal record; not AI owner verification."
+    }
+  ],
+  "strengths": [
+    "The features-versus-outcomes framing gives readers usable replacement language.",
+    "AEBP welcome-sheet, lock-triage and lease practices are documented; no invented incident is needed.",
+    "O’Hara is presented as claims allowed to proceed, not a final damages verdict.",
+    "The script is correctly labeled as a script while recording is pending."
+  ],
+  "article_fixes": [
+    "10196-F04: replace stale post_excerpt with the supplied wording.",
+    "10196-F03 (open; requires_human): finish video and authenticated technical checks."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Add a maintained security-duty reference separating lock-statute notice, guard foreseeability, general reasonable-care duties, protected police calls and incident warnings. Sources are available, so this system gap does not independently block these posts.",
+      "target_doc": "knowledge/laws/landlord-security-duties.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add an explicit blocked/not-verified representation for rendered-page checks; the current PASS/FAIL schema forces incomplete checks into FAIL with explanatory evidence-gap text.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    },
+    {
+      "description": "Include WordPress excerpts in companion-revision synchronization checks; the body/script fixes did not update the video excerpt.",
+      "target_doc": "reviews/video-review.md",
+      "type_c_followup": false
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Follow-up Pre-Publish Audit against response 02 and full current AEBP-Dev snapshots. WordPress post_modified 2026-10-18 21:17:39 (as returned; timezone unspecified); no revision ID or GMT supplied. Repository clean before artifacts, HEAD 325556c529d5a521f985e46c2bacaa5eeef7fc55, zero commits ahead of locally recorded origin/main; no fetch. Standards and schemas unchanged from review 01 (git diff checked): docs/01 0.5, docs/02 0.2, docs/03 0.3, docs/07 0.1, applicable manifest 0.1. Schema version 1.0.0 follows established artifacts. 10196-F01 — CLOSED in body/script: scoped protection is present in script, key takeaway and chapter list. Excerpt carryover is recorded separately as 10196-F04. 10196-F02 — CLOSED in body/script: best-practice response and covered-lock notice are separated; chapter item updated. Excerpt carryover is recorded separately as 10196-F04. 10196-F03 — OPEN / requires_human: production placeholder remains. The human-required disposition is preserved, not silently cleared. 10196-F04 — NEW: excerpt was missed by the otherwise successful legal-text synchronization. Every prior finding has a response disposition. Both scripts match exactly; both full post block-comment stacks balance, which is not editor validation. Full body, excerpt, metadata, terms, author and thumbnail reviewed. No new first-person claims; documented provenance from review 01 retained. The welcome-sheet entry is now committed, and company overview was refreshed October 18 (600+ units and bilingual maintenance line corroborated). Earlier stale-overview follow-up is closed. Statutory 1941.3 and 1946.8 text re-read through Justia mirrors this turn; other unchanged source findings carry forward from review 01 in this same session. Official-source access and case-treatment limitations from review 01 remain. No fresh authenticated preview was available or attempted this round; prior 404 result and response's explicit production deferral remain unresolved. No claim that missing raw JSON-LD proves schema absent. No video/audio exists for transcript verification. GBP precision verified in current week4 package notes; other social claims not comprehensively audited. Companion gate PASS means independent review occurred, not publication approval. VIDEO-CONSISTENCY PASS refers to matched scripts and corrected body claims; stale excerpt independently fails the legal gate on 10196. No WordPress changes. All scores are estimates."
+}
