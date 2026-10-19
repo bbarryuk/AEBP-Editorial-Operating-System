@@ -133,3 +133,16 @@ Any future post, video script, or social copy reusing this same observation (rat
 **Do not:** imply AEBP inspects at night, or that any specific lighting fix reduced incidents at an AEBP building. No such example exists.
 
 **Used in:** Post 10112 (What We See at AEBP, Video Script) and video page 10113 (Video Script). Oct 22 Thursday Tip must frame the after-dark walk as owner advice, not AEBP practice.
+
+### 2026-10-18 — AEBP move-in welcome sheet + C.A.R. lease neighborhood clause (posts 10195, 10196)
+
+**Source:** Brian supplied a real Sept 2026 AEBP lease package (Week 4 Monday cornerstone build) and approved its use. No tenant, owner, agent, address or rent details are published.
+
+**Confirmed claims (positives only, per Brian 2026-10-18):**
+1. *AEBP practice:* every new tenant gets a welcome sheet on top of the lease documents. It says routine repairs go through the tenant portal as a work order, and urgent problems go to the 24/7 line at (510) 450-3815 ("Please save this phone number").
+2. *Company fact:* AEBP's lease is the C.A.R. Residential Lease or Month-to-Month Rental Agreement (RLMM rev. 6/26). Its ¶13 "Neighborhood Conditions" advises tenants to satisfy themselves about area conditions, including crime statistics, proximity/adequacy of law enforcement and proximity of registered offenders. ¶39C contains the Megan's Law notice. The package includes C.A.R.'s Fair Housing and Discrimination Advisory (FHDA rev. 12/24).
+3. Reused: same-day emergency lock policy (2026-09-30 entry) and the October 2026 tenant newsletter (2026-10-16 entry).
+
+**Do not:** say or imply the welcome sheet lacks a safety section or police numbers, or that its only "urgent" example is a water leak (Brian chose positives only). Don't say AEBP is adding a safety sheet unless Brian confirms. Don't describe AEBP's listing language as a deliberate "no 'secure'/'safe'" policy (Brian gave no preference; framed as best practice).
+
+**Used in:** Post 10195 (What We See at AEBP, Video Script) and video page 10196 (Video Script).

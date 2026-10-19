@@ -4,6 +4,14 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 
 ## [Unreleased]
 
+### Updated — company overview refreshed from live llms.txt, 2026-10-18
+
+`knowledge/company/overview.md` was last verified 2026-07-06 (review was due 2026-08-06). Flagged during the Oct 26 Week 4 cornerstone build. Brian asked for a refresh from the live llms.txt.
+
+- **Re-fetched** `https://alleastbayproperties.com/llms.txt` (generated 2026-10-18 13:40:30 UTC) and replaced the `knowledge/llms.txt` snapshot (was 2026-08-09). The company facts sections are unchanged since August. The only change is a new California Rental Law Library section plus the `llms-laws.json` dataset.
+- **`overview.md` rebuilt.** It now includes lines that were live but missing from the July version: "no extra fees (inspections, vacancy management, permits)," the real estate sales commission line, languages, named portfolio communities, service ZIPs, geographic identifiers, property types, AppFolio ILS syndication and the law library. The nonresident withholding section (Brian-confirmed, not from llms.txt) is kept. `next_review` is now 2026-11-18.
+- **Resolved with Brian the same day:** the 600+ figure is doors, so "units" is correct and "properties" is wrong. AEBP does not charge a lease renewal fee. Both are recorded in `overview.md`. Text for the llms static file went to Brian to apply; the local `aebp-llms` repo copy is older than what's live, so it wasn't edited directly.
+
 ### Added — Review-triage floor and fix-literalness rule, prompted by an external editing-framework article, 2026-09-25
 
 Brian shared a Semrush article (Christine Skopec, "My 5 Approaches to Article Editing") and asked whether anything in it was worth adopting. Most of its ideas were already covered here, several more strictly (independent fact-checking vs. `EVD-CITATION-REQUIREMENT`; naming what worked vs. `FIND-STRENGTHS`; varying review depth by piece vs. `REVIEW-MODE`). Its numeric 0-8 triage score was deliberately not adopted, for the same reason the Critical/Major/Minor severity scale and ChatGPT's 10-gate rubric weren't (`docs/03` "Round two" notes) — grading on top of a pass/fail gate system reintroduces the partial credit it was built to not have.

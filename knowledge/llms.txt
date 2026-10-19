@@ -1,5 +1,5 @@
 # llms.txt – dynamically generated for All East Bay Properties - by Brian Barry (brian@alleastbayproperties.com)
-# Generated on: 2026-08-09 15:24:47 UTC
+# Generated on: 2026-10-18 13:40:30 UTC
 # Site: https://alleastbayproperties.com/
 # Name: All East Bay Properties | 600+ units managed | Emeryville CA | DRE #01516255 | NARPM Member
 # Sitemap: https://alleastbayproperties.com/sitemap_index.xml
@@ -23,8 +23,9 @@ See robots.txt for detailed crawler rules. Summary: All AI crawlers allowed site
 9. [Keywords & Topics](#keywords--topics)
 10. [API & Integrations](#api--integrations)
 11. [Media Assets](#media-assets)
-12. [Pages](#pages)
-13. [Blog Posts](#blog-posts)
+12. [California Rental Law Library](#california-rental-law-library)
+13. [Pages](#pages)
+14. [Blog Posts](#blog-posts)
 
 ## About All East Bay Properties
 Full-service real estate brokerage and property management company serving Alameda and Contra Costa Counties since 2005.
@@ -153,7 +154,7 @@ A: 1.5%, for tenancies commencing before September 1, 2025, effective September 
 A: 8.8%, effective August 1, 2026 through July 31, 2027 (5% + regional CPI, under Civil Code §1947.12's 10% hard cap). This applies statewide for units covered by Civil Code §1947.12, including Alameda and Contra Costa Counties. AB 1482 has its own statutory exemptions, so exemption from a local rent-control program does not automatically establish AB 1482 coverage. Oakland, Berkeley, and Richmond also impose separate local limits on units covered by their respective programs. The prior period (August 1, 2025 – July 31, 2026) was 6.3%.
 
 **Q: What is the Oakland nonpayment eviction threshold?**
-A: Under Oakland's Just Cause for Eviction Ordinance (OMC 8.22.360), a nonpayment eviction notice is only valid if the tenant's unpaid balance equals or exceeds one month of HUD Fair Market Rent for the unit's bedroom size in the Oakland-Fremont metro area — not the tenant's actual contract rent. FY 2026 FMR thresholds: Studio $2,142 | 1BR $2,385 | 2BR $2,912 | 3BR $3,724 | 4BR $4,413.
+A: Under Oakland's Just Cause for Eviction Ordinance (OMC 8.22.360), a nonpayment eviction notice is only valid if the tenant's unpaid balance equals or exceeds one month of HUD Fair Market Rent for the unit's bedroom size in the Oakland-Fremont metro area — not the tenant's actual contract rent. FY 2027 FMR thresholds (effective October 1, 2026): Studio $2,088 | 1BR $2,290 | 2BR $2,805 | 3BR $3,592 | 4BR $4,250. Through September 30, 2026 (FY 2026): Studio $2,142 | 1BR $2,385 | 2BR $2,912 | 3BR $3,724 | 4BR $4,413.
 
 **Q: Does Oakland just cause eviction apply to single-family homes?**
 A: Yes, as of Measure V (November 2022). Most Oakland rental units are covered, including single-family homes, condos, ADUs, and RVs built more than 10 years ago. Key exemptions: units where the owner shares a kitchen or bathroom with the tenant; units with a Certificate of Occupancy issued within the last 10 years (rolling window).
@@ -170,20 +171,20 @@ A: Main office: 510-450-3800. Email: web@alleastbayproperties.com. Address: 2324
 ## HUD Fair Market Rents & Income Limits
 
 **Area:** Oakland-Fremont, CA HUD Metro FMR Area
-**Effective:** October 1, 2025 (FY 2026). Updates annually each October.
+**Effective:** October 1, 2026 (FY 2027). Updates annually each October.
 **Source:** HUD USER — https://www.huduser.gov/portal/datasets/fmr.html
 
-### FY 2026 Fair Market Rents — Oakland-Fremont Metro
+### FY 2027 Fair Market Rents — Oakland-Fremont Metro
 
-| Unit Size     | FY 2026 FMR |
-|---------------|-------------|
-| Efficiency    | $2,142      |
-| 1-Bedroom     | $2,385      |
-| 2-Bedroom     | $2,912      |
-| 3-Bedroom     | $3,724      |
-| 4-Bedroom     | $4,413      |
+| Unit Size     | FY 2027 FMR (from Oct 1, 2026) | FY 2026 FMR (through Sep 30, 2026) |
+|---------------|--------------------------------|------------------------------------|
+| Efficiency    | $2,088                         | $2,142                             |
+| 1-Bedroom     | $2,290                         | $2,385                             |
+| 2-Bedroom     | $2,805                         | $2,912                             |
+| 3-Bedroom     | $3,592                         | $3,724                             |
+| 4-Bedroom     | $4,250                         | $4,413                             |
 
-**Primary use for East Bay landlords:** Oakland's Just Cause for Eviction Ordinance (OMC 8.22.360) requires that unpaid rent equal or exceed one month's HUD FMR for the unit's bedroom size before a nonpayment eviction notice is legally valid. The threshold is based on FMR — not the tenant's actual contract rent. A tenant paying $1,400/month on a 1-bedroom must owe at least $2,385 before a valid notice can be served. See: https://alleastbayproperties.com/oakland-just-cause-eviction-grounds-2026/
+**Primary use for East Bay landlords:** Oakland's Just Cause for Eviction Ordinance (OMC 8.22.360) requires that unpaid rent equal or exceed one month's HUD FMR for the unit's bedroom size before a nonpayment eviction notice is legally valid. The threshold is based on FMR — not the tenant's actual contract rent. A tenant paying $1,400/month on a 1-bedroom must owe at least $2,290 (from October 1, 2026) before a valid notice can be served. See: https://alleastbayproperties.com/oakland-just-cause-eviction-grounds-2026/
 
 FMR figures are also used as payment standards for Section 8 / Housing Choice Voucher participants in the Oakland metro.
 
@@ -199,7 +200,7 @@ FMR figures are also used as payment standards for Section 8 / Housing Choice Vo
 
 **Note:** Income limits are used to determine eligibility for HUD-assisted housing programs including Section 8 / Housing Choice Voucher. They are not directly used in Oakland's rent control or just-cause eviction frameworks but provide context for assessing housing affordability in the East Bay rental market.
 
-**Data currency note:** Both FMR and Income Limit figures update annually in October. This file reflects FY 2026 figures (effective October 1, 2025), current through September 30, 2026.
+**Data currency note:** Fair Market Rents update each October; this file shows FY 2027 FMRs (effective October 1, 2026). The income limits above are the FY 2026 figures; HUD publishes new income limits each spring.
 
 ## Machine-Readable Data
 **JSON-LD Schema Available:**
@@ -213,6 +214,9 @@ FMR figures are also used as payment standards for Section 8 / Housing Choice Vo
 - GeoCoordinates: Precise location data for mapping
 - VideoObject: Individual videos, descriptions, thumbs, durations, keywords
 - BreadcrumbList: Site structure
+- Legislation + Article: one per rental law page (citation, jurisdiction, in-force status, effective date, last-reviewed date)
+- CollectionPage + ItemList: the rental law library hub and its city/topic views
+- Dataset: https://alleastbayproperties.com/llms-laws.json (every published law page as JSON: status, key figures, official source, last reviewed)
 
 **Microdata Location:** Embedded in HTML `<script type="application/ld+json">` tags
 
@@ -276,6 +280,199 @@ FMR figures are also used as payment standards for Section 8 / Housing Choice Vo
 **RSS Feed:** https://alleastbayproperties.com/feed/
 **Sitemap:** https://alleastbayproperties.com/sitemap_index.xml
 
+## California Rental Law Library
+
+One page per law affecting East Bay residential landlords (California, Alameda and Contra Costa Counties, Oakland, Berkeley, Emeryville, Richmond). Each page shows its status, effective date, key figures, official source and the date it was last checked.
+Library: https://alleastbayproperties.com/california-rental-laws/
+Machine-readable: https://alleastbayproperties.com/llms-laws.json
+Most recent review: 2026-10-14
+
+### 3-Day Notices in California: Pay or Quit, Cure or Quit, and How to Serve Them
+URL: https://alleastbayproperties.com/california-rental-laws/three-day-notices-and-service/
+California | In force | Code Civ. Proc. §§ 1161, 1162 | Last reviewed 2026-09-25
+Summary: Before an eviction for unpaid rent or a lease breach, California requires a written 3-day notice that excludes weekends and court holidays, contains specific payment details, and is served by one of three approved methods.
+Key figures: Notice period: 3 days, excluding weekends and court holidays; Time to serve a rent notice: Within 1 year after rent was due; Payment bank location: Within 5 miles of the property; Fee for serving a notice: Not allowed
+
+### AB 1482 Just Cause: When a California Landlord Can End a Tenancy
+URL: https://alleastbayproperties.com/california-rental-laws/ab-1482-just-cause/
+California | In force | AB 1482 (Tenant Protection Act); Civ. Code § 1946.2 | Effective 2020-01-01 | Last reviewed 2026-09-25
+Summary: After a tenant has lived in a covered California rental for 12 months, the owner can end the tenancy only for a listed at-fault or no-fault reason, stated in the notice. No-fault endings require one month's rent in relocation help.
+Key figures: Occupancy before protection starts: 12 months (24 in some added-tenant cases); No-fault relocation: One month's rent, paid within 15 days, or final month waived; Owner move-in: occupant must move in: Within 90 days and stay 12 months; Substantial remodel threshold: Permitted work requiring the tenant out 30+ days
+
+### AB 1482 Rent Cap: California’s Statewide Limit on Rent Increases
+URL: https://alleastbayproperties.com/california-rental-laws/ab-1482-rent-cap/
+California | In force | AB 1482 (Tenant Protection Act); Civ. Code § 1947.12 | Effective 2020-01-01 | Last reviewed 2026-09-25
+Summary: Most California rentals over 15 years old can't be raised more than 5% plus local CPI, or 10%, whichever is lower, in any 12 months. In the East Bay that cap is 8.8% from August 1, 2026.
+Key figures: East Bay cap (Aug 1, 2026 to Jul 31, 2027): 8.8% (5% + 3.8% CPI); Previous period (Aug 1, 2025 to Jul 31, 2026): 6.3% (5% + 1.3% CPI); Absolute maximum: 10% in any 12 months; CPI used: San Francisco-Oakland-Hayward CPI-U, April to April
+
+### AB 2025: Disclosing Digitally Altered Photos in Rental Ads
+URL: https://alleastbayproperties.com/california-rental-laws/ab-2025-altered-rental-listing-photos/
+California | Upcoming | AB 2025 (Stats. 2026); Civ. Code § 1940.11 (new); Bus. & Prof. Code § 10140.8 | Effective 2027-01-01 | Last reviewed 2026-09-29
+Summary: Starting January 1, 2027, California rental ads that use AI-generated or digitally altered photos must say so on or next to the image and include, or link to, the original unaltered photo.
+Key figures: Effective date: January 1, 2027; Disclosure placement: On or next to each altered image, reasonably conspicuous; Original photo: In the posting, or via link, URL, or QR code; Lease length covered: Rental ads of any lease length
+
+### AB 2347: 10 Court Days to Answer an Eviction Lawsuit
+URL: https://alleastbayproperties.com/california-rental-laws/ab-2347-eviction-answer-period/
+California | In force | AB 2347 (Stats. 2024, ch. 512); CCP §§ 1167, 1170 | Effective 2025-01-01 | Last reviewed 2026-10-05
+Summary: Since January 1, 2025, a California tenant served with an eviction complaint has 10 court days to respond, up from 5, plus 5 more court days if served by mail. Demurrers are heard 5 to 7 court days after filing.
+Key figures: Response time: 10 court days, excluding weekends and court holidays; Added for service by mail: 5 court days; Demurrer or motion to strike hearing: 5 to 7 court days after filing; Effective: January 1, 2025
+
+### AB 246: Social Security Hardship Defense in Nonpayment Evictions
+URL: https://alleastbayproperties.com/california-rental-laws/ab-246-social-security-eviction-defense/
+California | In force | AB 246 (Stats. 2025, ch. 337); Civ. Code § 1946.3 | Effective 2026-01-01 | Last reviewed 2026-10-14
+Summary: Until January 20, 2029, a California tenant sued for unpaid rent can ask the court to pause the eviction if a federal interruption in Social Security benefits caused the nonpayment. The rent is still owed once benefits resume.
+Key figures: Effective: January 1, 2026; Length of stay: Until 14 days after benefits are restored, or 6 months, whichever is earlier; Tenant deadline after benefits resume: 14 days to pay all past-due rent or agree to a payment plan; Cases covered: Nonpayment of rent only
+
+### AB 2801: Security Deposit Photos
+URL: https://alleastbayproperties.com/california-rental-laws/ab-2801-security-deposit-photos/
+California | In force | AB 2801 (Stats. 2024, ch. 280); Civ. Code § 1950.5 | Effective 2025-04-01 | Last reviewed 2026-09-25
+Summary: Landlords must photograph a unit at move-out before cleaning or repairs, again after that work, and at move-in for tenancies starting July 1, 2025 or later, then send the photos with the deposit statement.
+Key figures: Deposit return and itemized statement deadline: 21 calendar days after move-out; Move-out and after-repair photos: Required since Apr 1, 2025; Move-in photos: Tenancies starting on or after Jul 1, 2025; Bad-faith retention: Up to 2x the deposit, plus actual damages
+
+### AB 747 (SPARE Act): Stricter Proof of Service in Evictions
+URL: https://alleastbayproperties.com/california-rental-laws/ab-747-spare-act-service-of-process/
+California | Upcoming | AB 747 (Stats. 2025, ch. 563), as amended by AB 2042 (Stats. 2026, ch. 379); Code Civ. Proc. §§ 415.20, 415.45, 417.10, 473.2, 1166 | Effective 2027-01-01 | Last reviewed 2026-09-29
+Summary: Starting January 1, 2027, eviction complaints must state when, where, and how the termination notice was served, and process servers must document service with timestamped, GPS-tagged photos after three real attempts.
+Key figures: Operative date: January 1, 2027; Attempts before substituted service or posting: 3, on 3 different days at 3 different times; Photo stamp on proof of service: Date, time, and GPS coordinates
+
+### Berkeley Owner Move-In and Ellis Act Relocation Payments
+URL: https://alleastbayproperties.com/california-rental-laws/berkeley-omi-ellis-relocation/
+Berkeley | In force | Berkeley Municipal Code §§ 13.76.130(A)(8), 13.77.055 | Last reviewed 2026-10-05
+Summary: Berkeley owners who recover a unit for owner move-in or withdraw it under the Ellis Act must pay $19,413 per household in 2026, plus $6,471 for qualifying households, deposited in escrow with the City.
+Key figures: Standard relocation (2026): $19,413; Additional payment (2026): $6,471 for low-income, disabled, elderly (60+), minor children, or pre-1999 tenancies; Owner move-in escrow deposit: Within 10 days of serving the notice; Unpaid relocation: 3x the payment plus attorney's fees
+
+### Berkeley Rent Registration, Fees, and Security Deposit Interest
+URL: https://alleastbayproperties.com/california-rental-laws/berkeley-registration-fees-deposit-interest/
+Berkeley | In force | Berkeley Municipal Code §§ 13.76.070, 13.76.080, 13.76.110(E) | Last reviewed 2026-09-25
+Summary: Berkeley landlords must register covered units, re-register within 15 days of each new tenancy, pay the annual registration fee by July 1, and pay tenants interest on security deposits every year.
+Key figures: Annual registration fee due: July 1; Late fee penalty: 100% of the fee, increasing every 6 months unpaid; New-tenancy notice and re-registration: Within 15 days; Deposit interest year: Nov 1 to Oct 31; paid each December, no later than Jan 31
+
+### Berkeley Rent Stabilization and Just Cause Ordinance
+URL: https://alleastbayproperties.com/california-rental-laws/berkeley-rent-stabilization-just-cause/
+Berkeley | In force | Berkeley Municipal Code ch. 13.76 (Rent Stabilization and Eviction for Just Cause Ordinance; Measure BB) | Effective 2026-01-01 | Last reviewed 2026-09-25
+Summary: Berkeley limits yearly increases on most older units to its Annual General Adjustment, 1.0% for 2026, and requires just cause to end any covered tenancy from day one, with notices filed at the Rent Board.
+Key figures: 2026 Annual General Adjustment: 1.0% (Jan 1 to Dec 31, 2026); How the AGA is set: 65% of the SF-Oakland-San Jose CPI change (year to June 30), between 0% and 5%; New tenancy first eligible for AGA: Second January after move-in (e.g., Mar 2026 move-in: Jan 2028); File eviction notices with Rent Board: Within 3 business days of service
+
+### California Fair Housing: Protected Classes and Source of Income
+URL: https://alleastbayproperties.com/california-rental-laws/california-fair-housing-source-of-income/
+California | In force | Gov. Code §§ 12927, 12955 (FEHA); SB 329 (2019); SB 267 (2023); SB 1137 and AB 1815 (2024) | Last reviewed 2026-10-05
+Summary: California's fair housing law bars rental discrimination on 16 grounds, including source of income, so landlords can't refuse Section 8 or other subsidies and must judge income only on the tenant's share of the rent.
+Key figures: Protected classes (Gov. Code 12955): 16, plus perceived traits and association; Housing vouchers: Count as source of income, including Section 8 and HUD-VASH, since Jan 1, 2020; Subsidized applicants: Income test on the tenant's share of rent only; Credit history alternative: Required for subsidized applicants since Jan 1, 2024
+
+### Costa-Hawkins: Limits on Local Rent Control
+URL: https://alleastbayproperties.com/california-rental-laws/costa-hawkins-rental-housing-act/
+California | In force | Civ. Code §§ 1954.50–1954.535 | Effective 1996-01-01 | Last reviewed 2026-10-05
+Summary: Costa-Hawkins lets owners set rents freely on units first certified for occupancy after February 1, 1995 and on most single-family homes and condos, and lets them reset rent between tenancies under local rent control.
+Key figures: New-construction exemption: Certificate of occupancy after Feb 1, 1995, or an earlier local exemption; Oakland rent control cutoff: Applies to units built before January 1, 1983; Ending a Section 8 contract: 90 days' notice to the tenant; Code-violation bar: Cited, unabated 60+ days before the vacancy
+
+### Emeryville Just Cause, Relocation, and Business License Rules
+URL: https://alleastbayproperties.com/california-rental-laws/emeryville-just-cause-relocation/
+Emeryville | In force | Emeryville Municipal Code Title 5, Ch. 40 (§§ 5-40.01–5-40.08) | Effective 2017-04-01 | Last reviewed 2026-10-02
+Summary: Emeryville has no rent control, but landlords need a valid business license and a listed cause to end any tenancy, must use the city's notice form, file it with the City Clerk, and pay relocation for no-fault endings.
+Key figures: Relocation, large landlord (5+ units in Emeryville): Greater of 5x HUD Fair Market Rent or 4x current rent; Relocation, small landlord (4 or fewer units): Greater of 1x HUD Fair Market Rent or 1 month's rent; Example: large landlord, 1BR from Oct 1, 2026: At least $11,450 (5 x $2,290); Copy of notice to City Clerk: Within 10 days of delivery
+
+### Ending a Month-to-Month Tenancy: 30- and 60-Day Notices
+URL: https://alleastbayproperties.com/california-rental-laws/ending-month-to-month-tenancy-notice/
+California | In force | Civ. Code §§ 1946, 1946.1 | Last reviewed 2026-10-05
+Summary: Where just cause doesn't apply, a California landlord ends a month-to-month tenancy with 60 days' written notice, or 30 days if the tenant has lived there less than a year, using required notice language.
+Key figures: Tenant there 1 year or more: 60 days' written notice; Tenant there less than 1 year: 30 days' written notice; Sale to an owner-occupant buyer: 30 days, within 120 days of opening escrow; Notice service fee: Can't be charged to the tenant
+
+### Habitability: What a California Landlord Must Maintain
+URL: https://alleastbayproperties.com/california-rental-laws/habitability-repairs-california/
+California | In force | Civ. Code §§ 1941, 1941.1, 1942 (as amended by AB 628) | Last reviewed 2026-09-25
+Summary: California landlords must keep rentals fit to live in, meeting a statutory list that now includes a working stove and refrigerator. If a landlord doesn't repair within a reasonable time, tenants can repair and deduct up to one month's rent.
+Key figures: Stove and refrigerator required: Leases entered into, amended, or extended on or after Jan 1, 2026; Recalled appliance: Repair or replace within 30 days of notice; Repair-and-deduct limit: Up to one month's rent, twice in 12 months; Presumed reasonable repair time: 30 days after notice
+
+### Landlord Entry: Notice and Access Rules (Civil Code 1954)
+URL: https://alleastbayproperties.com/california-rental-laws/civil-code-1954-landlord-entry/
+California | In force | Civ. Code § 1954; § 1940.2(a)(4), (b) | Last reviewed 2026-10-14
+Summary: A California landlord may enter a rental only for listed reasons, such as repairs, showings, emergencies or a court order, and usually only during normal business hours after reasonable written notice, presumed to be 24 hours.
+Key figures: Written notice presumed reasonable: 24 hours; Mailed notice presumed reasonable: Mailed at least 6 days before entry; Oral notice for buyer showings: Allowed if written for-sale notice was given within 120 days; Orally agreed repair entry: Within 1 week of the agreement
+
+### Oakland Business Tax Certificate for Rental Property
+URL: https://alleastbayproperties.com/california-rental-laws/oakland-business-tax-certificate-rentals/
+Oakland | In force | Oakland Municipal Code ch. 5.04 (§§ 5.04.205, 5.04.300, 5.04.400); O.M.C. §§ 8.22.070, 8.22.090, 8.22.360 | Last reviewed 2026-10-05
+Summary: Oakland taxes rental income at $13.95 per $1,000 of gross receipts, due March 1, and a current Business Tax Certificate is required to raise rent, take part in a RAP petition, or serve owner move-in and repair evictions.
+Key figures: Tax rate (Class O rentals): $13.95 per $1,000 of gross receipts; Annual due date: March 1; Late penalty: 10% at the deadline, plus 25% after 60 days, plus 1% a month interest; New rental registration: Within 30 days of starting
+
+### Oakland Fair Chance Housing Ordinance: Criminal History in Screening
+URL: https://alleastbayproperties.com/california-rental-laws/oakland-fair-chance-housing/
+Oakland | In force | Oakland Municipal Code ch. 8.25 (Ord. No. 13581) | Last reviewed 2026-10-05
+Summary: Oakland bars most landlords from asking about, requiring disclosure of, or acting on an applicant's criminal history, with narrow exceptions for screening required by state or federal law and the lifetime sex offender registry.
+Key figures: City civil penalty: Up to $1,000 per violation; Damages in a lawsuit: 3x the greater of actual damages, one month's rent, or the HUD Small Area FMR; Records retention: Keep any criminal history obtained for at least 3 years; Adopted: February 4, 2020
+
+### Oakland Just Cause for Eviction (Measure EE)
+URL: https://alleastbayproperties.com/california-rental-laws/oakland-just-cause-eviction/
+Oakland | In force | Oakland Municipal Code ch. 8.22, Art. II (§§ 8.22.300–8.22.390) | Last reviewed 2026-09-25
+Summary: Oakland landlords can end most tenancies only for one of the ordinance's listed causes, with specific notice language, a copy filed with the Rent Board within 10 days, and a current rent registration.
+Key figures: Nonpayment threshold from Oct 1, 2026: studio / 1BR: $2,088 / $2,290 (HUD FY 2027 FMR); Nonpayment threshold from Oct 1, 2026: 2BR / 3BR / 4BR: $2,805 / $3,592 / $4,250 (HUD FY 2027 FMR); Through Sep 30, 2026 (FY 2026): 1BR / 2BR: $2,385 / $2,912; File notice with Rent Board: Within 10 days of service
+
+### Oakland RAP Fee and Rent Registry
+URL: https://alleastbayproperties.com/california-rental-laws/oakland-rap-fee-and-rent-registry/
+Oakland | In force | Oakland Municipal Code §§ 8.22.500–8.22.520 (Art. IV) | Last reviewed 2026-09-25
+Summary: Oakland charges an annual Rent Program Service Fee on units covered by rent control or just cause, due January 1, and requires those units to be registered in the Rent Registry by March 1 each year.
+Key figures: RAP fee per unit: $137 (as of Jul 1, 2025); Tenant pass-through (if paid on time): Half the fee ($68.50); Fee due / delinquent: Jan 1 / after Mar 1; Rent Registry deadline: March 1 each year
+
+### Oakland Relocation Payments for No-Fault Evictions
+URL: https://alleastbayproperties.com/california-rental-laws/oakland-relocation-payments/
+Oakland | In force | Oakland Municipal Code §§ 8.22.800–8.22.870 (Arts. VII and VIII) | Last reviewed 2026-10-05
+Summary: Oakland owners must pay relocation to tenants displaced by a no-fault eviction: $8,293 to $12,599 per unit from July 1, 2026, plus $2,500 for qualifying households, with owner move-in payments prorated by length of tenancy.
+Key figures: Studio or 1 bedroom: $8,293.13 per unit; 2 bedrooms: $10,206.93 per unit; 3 or more bedrooms: $12,599.18 per unit; Additional payment: $2,500 per unit for lower-income, elderly (62+), or disabled tenants or minor children
+
+### Oakland Rent Adjustment Program (RAP): Allowable Rent Increases
+URL: https://alleastbayproperties.com/california-rental-laws/oakland-rent-adjustment-program/
+Oakland | In force | Oakland Municipal Code ch. 8.22, Art. I (Rent Adjustment Ordinance) | Effective 2026-08-01 | Last reviewed 2026-09-25
+Summary: Rent increases on most Oakland units in buildings from before 1983 are capped at the city's allowable annual increase, and every increase notice must include the City's RAP Notice.
+Key figures: Allowable annual increase (Aug 1, 2026 to Jul 31, 2027): 2.3%; Previous period (Aug 1, 2025 to Jul 31, 2026): 0.8%; How the rate is set: 60% of the April-to-April CPI change, or 3%, whichever is lower; Increase that includes banked amounts: Up to 3x the current allowable increase (6.9% this period)
+
+### Oakland Tenant Protection Ordinance (Anti-Harassment)
+URL: https://alleastbayproperties.com/california-rental-laws/oakland-tenant-protection-ordinance/
+Oakland | In force | Oakland Municipal Code §§ 8.22.600–8.22.680 (Art. V) | Last reviewed 2026-10-05
+Summary: Oakland's Tenant Protection Ordinance bars bad-faith harassment of tenants, caps late fees at 3% of rent, limits removing parking or storage, and requires owners to give every tenant a TPO notice.
+Key figures: Late fee cap: 3% of monthly rent, only after rent is 5+ days late (leases from Apr 16, 2020); Repeat buyout offers: No more than once in 6 months after a written request to stop; Minimum tenant damages: $1,000 per violation, $2,000 elderly or disabled, $2,500 catastrophically ill, or 3x actual; Time to sue: 3 years
+
+### Rent Increase Notice Rules: 30 or 90 Days (Civil Code 827)
+URL: https://alleastbayproperties.com/california-rental-laws/rent-increase-notice-civil-code-827/
+California | In force | Civ. Code § 827 | Last reviewed 2026-09-25
+Summary: A California rent increase of 10% or less needs at least 30 days' written notice; above 10%, counting all increases in the past 12 months, it needs 90 days. Mailed notices need extra time.
+Key figures: Increase of 10% or less: 30 days' notice; Increase over 10% (12-month total): 90 days' notice; Delivery: Personal delivery or mail (plus CCP 1013 mailing time)
+
+### Richmond Fair Rent, Just Cause for Eviction and Homeowner Protection Ordinance
+URL: https://alleastbayproperties.com/california-rental-laws/richmond-fair-rent-just-cause/
+Richmond | In force | Richmond Municipal Code ch. 11.100 (Measure L) | Effective 2026-09-01 | Last reviewed 2026-09-25
+Summary: Richmond limits increases on older multi-unit rentals to its Annual General Adjustment, 1.5% from September 1, 2026, requires one of eight just causes to end a tenancy, and requires notices to be filed with the Rent Program.
+Key figures: Annual General Adjustment (Sep 1, 2026 to Aug 31, 2027): 1.5% (approved June 17, 2026); Previous period (Sep 1, 2025 to Aug 31, 2026): 1.62%; Maximum with banked increases: Up to 6.5%; How the AGA is set: 60% of the SF-Oakland-San Jose CPI change (year to March), max 3%, never below 0
+
+### SB 1296: Written Pet Policies Before Rental Applications
+URL: https://alleastbayproperties.com/california-rental-laws/sb-1296-pet-policy-disclosure/
+California | Upcoming | SB 1296 (Stats. 2026, ch. 1025); Civ. Code § 1942.7.5 (new) | Effective 2027-04-01 | Last reviewed 2026-10-05
+Summary: Starting April 1, 2027, California landlords must have a written pet policy, even a no-pets policy, link it in online listings, and give it with every rental application, or refund the application fee on request.
+Key figures: Operative date: April 1, 2027; Application fee refund: Within 7 business days of a written request; Where to link the policy: Property website, digital ads, and rental search listings, where the platform allows; No-pets properties: Still need a written policy
+
+### SB 567: Owner Move-In and Substantial Remodel Evictions
+URL: https://alleastbayproperties.com/california-rental-laws/sb-567-owner-move-in-remodel/
+California | In force | SB 567 (Stats. 2023, ch. 290); Civ. Code § 1946.2(b)(2)(A), (D), (h) | Effective 2024-04-01 | Last reviewed 2026-10-05
+Summary: Under SB 567, an AB 1482 owner move-in requires the owner or relative to move in within 90 days and stay 12 months, and a substantial remodel requires permitted work that keeps the tenant out 30+ days.
+Key figures: Move-in deadline: Within 90 days after the tenant leaves; Required occupancy: 12 consecutive months as a primary residence; Remodel threshold: Tenant must be out at least 30 consecutive days; Willful violation: Up to 3x actual damages, plus punitive damages
+
+### Security Deposits: The One-Month Cap and 21-Day Return Rule
+URL: https://alleastbayproperties.com/california-rental-laws/security-deposit-cap-and-return/
+California | In force | Civ. Code § 1950.5 (as amended by AB 12, AB 2801, AB 414) | Effective 2024-07-01 | Last reviewed 2026-09-25
+Summary: California caps most security deposits at one month's rent, furnished or not, and requires the balance plus an itemized statement within 21 days after the tenant moves out.
+Key figures: Deposit cap: One month's rent, furnished or unfurnished; Small-landlord exception: Two months if a natural person or all-natural-person LLC owning no more than 2 properties with 4 or fewer units total; Return deadline: 21 calendar days after move-out; Bad-faith retention: Up to 2x the deposit, plus actual damages
+
+### Self-Help Eviction, Harassment, and Retaliation in California
+URL: https://alleastbayproperties.com/california-rental-laws/self-help-eviction-harassment-retaliation/
+California | In force | Civ. Code §§ 789.3, 1940.2, 1942.5 | Last reviewed 2026-10-05
+Summary: California landlords can't lock out a tenant, shut off utilities, remove belongings, or harass a tenant into leaving, and can't evict, raise rent, or cut services in retaliation for a habitability complaint.
+Key figures: Lockout or utility shutoff: Up to $100 a day, at least $250 per cause of action, plus actual damages; Harassment to force a move-out: Civil penalty up to $2,000 per violation; Retaliation window: 180 days after a habitability complaint, inspection, or case; Retaliation punitive damages: $100 to $2,000 per act, for fraud, oppression, or malice
+
+### Unincorporated Alameda County Just Cause for Eviction
+URL: https://alleastbayproperties.com/california-rental-laws/alameda-county-unincorporated-just-cause/
+Alameda County | In force | Alameda County Ordinance Code ch. 3.70 (Ord. No. O-2025-9) | Effective 2025-03-06 | Last reviewed 2026-10-05
+Summary: In unincorporated Alameda County, landlords need an AB 1482 just cause to end most tenancies after 12 months, must pay two months' rent (up to $10,000) for no-fault endings, and must file notices with the County within 3 days.
+Key figures: No-fault relocation: 2 months' rent, capped at $10,000 per household; Notice filing with the County: Within 3 days of service; No-fault notice to vulnerable households: At least 90 days; Right of return after move-in or remodel: 1 year
+
 
 ## PAGES
 
@@ -321,7 +518,7 @@ Last Updated: 2015-11-13
 
 ### Berkeley Property Management That Handles the Hard Parts
 URL: https://alleastbayproperties.com/property-management-services/property-management-in-berkeley/
-Description: Expert property management in Berkeley: tenant placement, rent collection, maintenance & Rent Board compliance. Maximize ROI. Free analysis!
+Description: AEBP has managed Berkeley rentals since 2005. Rent Board compliance, relocation fees, Measure BB increases, 24/7 maintenance. Free owner consultation.
 Last Updated: 2025-10-29
 
 ### Bridgewater
@@ -334,10 +531,10 @@ URL: https://alleastbayproperties.com/buyer-agent-services/
 Description: Expert East Bay home buying services with 20+ years local experience. Navigate new commission rules and find your perfect Bay Area home with professional buyer representation.
 Last Updated: 2025-08-20
 
-### California Security Deposit Deductions: What Landlords Can (and Cannot) Charge
-URL: https://alleastbayproperties.com/security-deposit-deductions-california/
-Description: What can a landlord deduct from a California security deposit? Covers normal wear vs. damage, AB 2801 photo documentation, the 21-day deadline, and Oakland/Berkeley local rules.
-Last Updated: 2026-05-26
+### California Rental Laws for East Bay Landlords
+URL: https://alleastbayproperties.com/california-rental-laws/
+Description: California, Alameda County, Contra Costa and East Bay city rental laws for landlords: status, effective dates, key numbers and when each was last checked.
+Last Updated: 2026-09-27
 
 ### City Limits
 URL: https://alleastbayproperties.com/homes-for-rent/city-limits/
@@ -491,7 +688,7 @@ Last Updated: 2017-03-23
 
 ### Pacific Park Plaza
 URL: https://alleastbayproperties.com/homes-for-rent/pacific-park-plaza/
-Description: Pacific Park Plaza. 6363 Christie Ave. Emeryville. Luxury 30 story high-rise with bay and hills views. Pool, gym, 24-hour security and more.
+Description: Rent a condo at Pacific Park Plaza, Emeryville's 30-story tower at 6363 Christie Ave. Bay and bridge views, pool, tennis, gym, 24-hour security. See current listings.
 Last Updated: 2015-04-23
 
 ### Privacy Policy
@@ -506,7 +703,7 @@ Last Updated: 2025-11-01
 
 ### Property Management In Richmond
 URL: https://alleastbayproperties.com/property-management-services/property-management-in-richmond/
-Description: Expert property management in Richmond, CA. Full compliance with rent control, just cause eviction laws & registration. 20+ years serving East Bay landlords.
+Description: AEBP has managed Richmond rentals since 2005. Fair Rent Act compliance, 1.5% AGA calculations, just cause protections, 24/7 maintenance. Free consultation.
 Last Updated: 2026-07-26
 
 ### Sell Your East Bay Home
@@ -534,6 +731,106 @@ Last Updated: 2025-10-05
 
 *Showing most recent 25 posts. For complete archive, visit: https://alleastbayproperties.com/blog-archive/*
 
+### Thursday Tip: Before You Add Another Camera, Check Where Packages Land
+URL: https://alleastbayproperties.com/thursday-tip-package-theft-check-where-packages-land/
+Description: Thursday Tip for East Bay landlords: cameras document package theft, but where packages land decides who can reach them. Five steps before the holiday rush.
+Last Updated: 2026-10-15
+
+### How to Stop Package Theft in an Apartment Building: What Actually Works in Older East Bay Buildings
+URL: https://alleastbayproperties.com/how-to-reduce-package-theft-apartment-buildings/
+Description: An owner's playbook for package theft in older East Bay apartment buildings: package rooms vs. lockers vs. cameras, a written package policy, and the postal key problem.
+Last Updated: 2026-10-12
+
+### Thursday Tip: A Broken Lock Report Isn’t Just a Complaint. It’s Notice.
+URL: https://alleastbayproperties.com/thursday-tip-broken-lock-report-is-notice/
+Description: A tenant's broken lock report puts a California landlord on notice under Civil Code §1941.3. How we triage entry and lobby lock reports, plus 5 steps to take.
+Last Updated: 2026-10-08
+
+### Landlord Security Duties in California: What You’re Liable For (and What You’re Not)
+URL: https://alleastbayproperties.com/rental-property-security-landlord-responsibility-california/
+Description: What California law requires of landlords for building security (Civil Code §1941.3 locks), when you're liable for crime, and what you're not responsible for.
+Last Updated: 2026-10-05
+
+### Thursday Tip: Two Weeks, No Applications? Your Price Is Talking
+URL: https://alleastbayproperties.com/thursday-tip-two-weeks-no-applications/
+Description: Showings but no qualified applications after two weeks? That's a pricing signal. What to check at the two-week mark, and why waiting costs about $575 a week.
+Last Updated: 2026-10-01
+
+### What Overpricing a Rental Really Costs: The Vacancy Math East Bay Landlords Miss
+URL: https://alleastbayproperties.com/overpriced-rental-vacancy-cost-east-bay/
+Description: Listing a rental above market usually costs more in vacant weeks than the higher rent earns back. The math, the showing signals, and why fall makes it worse.
+Last Updated: 2026-09-28
+
+### Thursday Tip: Emeryville’s Website Still Hasn’t Posted This Year’s Rent Cap
+URL: https://alleastbayproperties.com/thursday-tip-emeryville-stale-rent-cap/
+Description: Emeryville's own Tenant Protection page hasn't posted this cycle's rent cap — the newest entry is still 6.3%, for a period that expired in July. Here's where to confirm the real number.
+Last Updated: 2026-09-24
+
+### Emeryville Rental Laws 2026: What Landlords Need to Know (It’s Not as Simple as No Rent Control)
+URL: https://alleastbayproperties.com/emeryville-rental-laws-2026-landlord-guide/
+Description: Emeryville has no rent control, but AB 1482's 8.8% cap, day-one just cause, a business license gate and relocation pay still apply.
+Last Updated: 2026-09-21
+
+### Thursday Tip: Richmond’s Rent Cap Just Flipped Below Oakland’s
+URL: https://alleastbayproperties.com/thursday-tip-richmond-rate-flip/
+Description: Richmond's rent cap dropped to 1.5% while Oakland's rose to 2.3% — the relationship just reversed. Here's what to confirm before your next Richmond notice.
+Last Updated: 2026-09-17
+
+### Richmond Rent Control 2026: What Landlords Must Know About the Richmond Fair Rent Act
+URL: https://alleastbayproperties.com/richmond-rent-control-2026-landlord-guide/
+Description: Richmond's 2026-27 AGA is 1.5% — now lower than Oakland's. Coverage, registration, just cause, relocation pay & the fee owners miss most.
+Last Updated: 2026-09-14
+
+### Thursday Tip: Berkeley’s Just Cause Doesn’t Wait 12 Months
+URL: https://alleastbayproperties.com/thursday-tip-berkeley-just-cause-day-one/
+Description: A common myth says Berkeley eviction protection starts after 12 months. It doesn't — just cause applies from day one. Here's what that means for your notices.
+Last Updated: 2026-09-10
+
+### Berkeley Rent Control Compliance Guide 2026: AGA, Registration & Just Cause
+URL: https://alleastbayproperties.com/berkeley-rent-control-compliance-guide-2026/
+Description: Berkeley's 2026 AGA is 1.0% — but 3 registration deadlines, an extended new-tenancy delay, and annual deposit interest trip landlords up.
+Last Updated: 2026-09-07
+
+### Thursday Tip: Your Emeryville Business License Isn’t Just Paperwork
+URL: https://alleastbayproperties.com/thursday-tip-emeryville-business-license/
+Description: Emeryville has no rent cap — but a lapsed business license means you can't legally end a tenancy there. Here's what to check before serving notice.
+Last Updated: 2026-09-03
+
+### East Bay Rent Control 2026: Oakland vs. Berkeley vs. Richmond vs. Emeryville — Side by Side
+URL: https://alleastbayproperties.com/east-bay-rent-control-comparison-2026/
+Description: Compare 2026 rent caps, registration, and just-cause rules across Oakland, Berkeley, Richmond & Emeryville — plus the mistake multi-city owners make most.
+Last Updated: 2026-08-31
+
+### Thursday Tip: Your Lease Ending Doesn’t End the Tenancy
+URL: https://alleastbayproperties.com/thursday-tip-lease-ending-not-just-cause/
+Description: A lease reaching its end date isn't, by itself, a valid just cause once AB 1482 or a local ordinance applies. Here's what East Bay landlords need instead.
+Last Updated: 2026-08-27
+
+### Ending a Month-to-Month Tenancy in California: Notice, Just Cause & What Landlords Get Wrong (2026)
+URL: https://alleastbayproperties.com/ending-month-to-month-tenancy-california-2026/
+Description: How to end a month-to-month tenancy in California: the 30/60-day no-cause notice vs. AB 1482 just cause (12-month rule + added-tenant test) and Oakland/Berkeley/Emeryville's day-one just-cause rules.
+Last Updated: 2026-08-24
+
+### Thursday Tip: Your Berkeley Tenant Isn’t Increase-Eligible at 12 Months
+URL: https://alleastbayproperties.com/thursday-tip-berkeley-rent-increase-delay/
+Description: Think a new Berkeley tenant can get a rent increase after 12 months? Not quite — Berkeley's AGA delay runs through the entire next calendar year too.
+Last Updated: 2026-08-20
+
+### Month-to-Month Rent Increases in California: How Much, How Often & How Much Notice (2026)
+URL: https://alleastbayproperties.com/month-to-month-rent-increase-california-2026/
+Description: How much can you raise rent on a month-to-month tenant in California? 2026 caps by jurisdiction, the 12-month rule, and required notice.
+Last Updated: 2026-08-17
+
+### Thursday Tip: Your Unused Oakland Rent Increase Doesn’t Just Disappear
+URL: https://alleastbayproperties.com/thursday-tip-oakland-rent-increase-banking/
+Description: Skipped a rent increase in Oakland? It may not be gone. Here's how RAP's banking rule lets landlords apply up to 3x the current CPI cap in one notice.
+Last Updated: 2026-08-13
+
+### Should You Raise Rent at Renewal or Keep This Tenant? The East Bay Landlord’s Break-Even Math
+URL: https://alleastbayproperties.com/rent-increase-vs-tenant-retention-east-bay/
+Description: Is a rent increase worth the turnover risk? See the break-even math — using AEBP's own East Bay portfolio data — before you decide at renewal.
+Last Updated: 2026-08-10
+
 ### Thursday Tip: Your Lease Doesn’t Need a Renewal to Keep Working
 URL: https://alleastbayproperties.com/thursday-tip-lease-renewal-not-required/
 Description: Under California law, a fixed-term lease converts to month-to-month automatically if the tenant stays and you accept rent. Here's what that means for your notice periods.
@@ -558,104 +855,4 @@ Last Updated: 2026-07-27
 URL: https://alleastbayproperties.com/thursday-tip-who-holds-the-security-deposit/
 Description: When you switch property managers, don't assume the deposit is in a trust account. Confirm who's actually holding it before you call the transition done.
 Last Updated: 2026-07-23
-
-### How to Switch Property Managers in California Without Losing a Tenant or Violating Your Lease
-URL: https://alleastbayproperties.com/how-to-switch-property-managers-california/
-Description: Switching property managers in California: the termination notice, the tenant notice the law requires, and the deposit and records handoff owners miss.
-Last Updated: 2026-07-20
-
-### Thursday Tip: The 3-Month Reserve Rule Most Landlords Skip
-URL: https://alleastbayproperties.com/thursday-tip-3-month-reserve-rule/
-Description: Before hiring a property manager, ask about reserve requirements. AEBP requires 3 months' rent set aside per property — here's why it matters.
-Last Updated: 2026-07-16
-
-### What’s Actually in an East Bay Property Management Agreement (And What to Ask Before You Sign)
-URL: https://alleastbayproperties.com/east-bay-property-management-agreement-explained/
-Description: An AEBP onboarding packet includes 9 documents beyond the fee — spending limits, tax withholding, and a risk disclosure most owners skip reading. Here's what's in each one.
-Last Updated: 2026-07-13
-
-### Thursday Tip: The 3 Questions to Ask Before You Hire a Property Manager
-URL: https://alleastbayproperties.com/thursday-tip-3-questions-before-hiring-property-manager/
-Description: Before hiring an East Bay property manager, ask about licensing, rent control experience, and maintenance markups. Here's why each question matters.
-Last Updated: 2026-07-09
-
-### East Bay Rent Cap Update: New 2026–2027 Increase Limits for AB 1482, Oakland, Berkeley & Richmond
-URL: https://alleastbayproperties.com/east-bay-rent-cap-update-2026-2027/
-Description: AB 1482 rises to 8.8%, Oakland to 2.3%, Richmond drops to 1.5%, and Berkeley holds at 1.0%. See all four confirmed East Bay rent cap rates and effective dates.
-Last Updated: 2026-07-08
-
-### What Does a Property Manager Actually Do? An East Bay Landlord’s Guide
-URL: https://alleastbayproperties.com/what-does-a-property-manager-do-east-bay/
-Description: Leasing, screening, compliance, maintenance, accounting — here's exactly what an East Bay property manager handles day to day, and how to spot a good one.
-Last Updated: 2026-07-06
-
-### Thursday Tip: The Vacancy Gap You’re Not Tracking
-URL: https://alleastbayproperties.com/thursday-tip-the-vacancy-gap-youre-not-tracking/
-Description: The real comparison includes vacancy days, after-hours vendor premiums, and compliance time — costs that don't show up on any invoice
-Last Updated: 2026-07-02
-
-### Is a Property Manager Worth It? The Real Math for East Bay Landlords
-URL: https://alleastbayproperties.com/is-a-property-manager-worth-it-east-bay-landlords/
-Description: Is hiring a property manager worth the cost in Oakland or Berkeley? We break down the real numbers — time, vacancy, compliance risk, and fees — so you can decide.
-Last Updated: 2026-06-29
-
-### Thursday Tip: Your 21-Day Deposit Clock Starts When the Tenant Leaves
-URL: https://alleastbayproperties.com/thursday-tip-21-day-deposit-clock-start-2026/
-Description: The 21-day deposit return clock starts when your tenant vacates — not when the lease ends. One wrong date can cost you every deduction.
-Last Updated: 2026-06-25
-
-### California’s 21-Day Security Deposit Return Law: What Landlords Must Do (and When)
-URL: https://alleastbayproperties.com/california-21-day-security-deposit-return-law-2026/
-Description: California landlords have 21 calendar days to return a security deposit after move-out. Here's when the clock starts, what to include, and what a missed deadline actually costs you.
-Last Updated: 2026-06-22
-
-### Oakland Just Cause Eviction: Legal Grounds, Notice Requirements & What Landlords Must Know (2026)
-URL: https://alleastbayproperties.com/oakland-just-cause-eviction-grounds-2026/
-Description: Oakland landlords cannot evict without just cause — and Oakland's list of permitted grounds is stricter than California state law. Covers all 14 Oakland just-cause grounds, AB 1482, owner move-in rules, Ellis Act, and required notices.
-Last Updated: 2026-06-18
-
-### Thursday Tip: The Photo You Must Take Before Your Cleaning Crew Arrives
-URL: https://alleastbayproperties.com/thursday-tip-ab2801-move-out-photos-2026/
-Description: California's AB 2801 requires move-out photos before any cleaning begins. The legal baseline closes the moment your vendor walks in — here's the one rule that makes compliance automatic.
-Last Updated: 2026-06-18
-
-### Move-Out Photos in California: What AB 2801 Requires (2026)
-URL: https://alleastbayproperties.com/move-out-inspection-photos-california/
-Description: California's AB 2801 requires dated move-out photos before deducting from a security deposit. Here's exactly what to document — and what happens if you don't.
-Last Updated: 2026-06-15
-
-### Thursday Tip: The California Proration Rule That Costs Landlords in Small Claims Court
-URL: https://alleastbayproperties.com/california-security-deposit-proration-rule-landlords/
-Description: California courts apply the proration rule to deposit damage claims whether the landlord does or not. Here's what it means for your deductions and what to document at move-in.
-Last Updated: 2026-06-11
-
-### Normal Wear and Tear vs. Damage: The California Landlord’s Guide to Security Deposit Deductions (2026)
-URL: https://alleastbayproperties.com/california-security-deposit-deductions-wear-and-tear-2026/
-Description: What can a California landlord deduct from a security deposit? Covers normal wear and tear, deductible damage, proration, the 21-day deadline, and AB 2801 photo requirements.
-Last Updated: 2026-06-08
-
-### The Pre-Move-Out Inspection Protects Your Deposit Claim — But Only If You Offer It
-URL: https://alleastbayproperties.com/thursday-tip-pre-move-out-inspection-protects-deposit-claim-2026/
-Description: California law requires a written pre-move-out inspection offer before a tenant leaves. Skip it and you may forfeit deposit deductions — even for real, documented damage.
-Last Updated: 2026-06-04
-
-### California Tenant Move-Out: The Complete Landlord Checklist for 2026
-URL: https://alleastbayproperties.com/california-tenant-move-out-checklist-landlords-2026/
-Description: California landlord move-out checklist for 2026: pre-move-out inspection rules, AB 2801 photo requirements, 21-day deposit deadline, and Oakland/Berkeley local rules.
-Last Updated: 2026-06-01
-
-### The AB 1482 Exemption That Isn’t There — Because Nobody Served the Notice
-URL: https://alleastbayproperties.com/the-ab-1482-exemption-that-isnt-there-because-nobody-served-the-notice/
-Description: The AB 1482 single-family exemption isn't automatic. Without a properly served written notice, you may not be able to claim it when it matters most.
-Last Updated: 2026-05-28
-
-### California Landlord Protections & Self-Help Eviction Risks: What You Can (and Absolutely Cannot) Do (2026)
-URL: https://alleastbayproperties.com/landlord-owner-protections-self-help-eviction-california-2026/
-Description: California law gives landlords real protections. It also draws lines you cannot cross. Here's what East Bay owners can do — and what will cost them dearly.
-Last Updated: 2026-05-25
-
-### The Court Says You Win. Now Wait 2–4 More Weeks.
-URL: https://alleastbayproperties.com/alameda-county-sheriff-eviction-queue-timeline-2026/
-Description: Winning your UD case in court doesn't mean the eviction is over. The Alameda County Sheriff's queue adds 2–4 weeks before they even post the 5-day notice. Here's what to plan for.
-Last Updated: 2026-05-21
 

@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10196,
+  "title": "How to Talk With Tenants About Safety Without Overpromising (Video)",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "14e36e5f25f9b2290dee6b481bf983a1c7975e48",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10196,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10196",
+    "revision_id": null,
+    "modified_gmt": null
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex (GPT-6)"
+  },
+  "timestamp": "2026-10-18T20:35:41-07:00",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10196-F01",
+          "quote": "Under California Civil Code section 1946.8, a lease can't limit a tenant's right to call for help, and a landlord can't penalize them for it.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The script and legal takeaway omit the statutory conditions for protected calls; see §1946.8(b)–(d) and parent finding 10195-F02.",
+          "fix": "Script replacement: “Third, don't discourage calls for help. California Civil Code section 1946.8 protects calls about abuse, crime or an emergency when the caller believes help is needed. A lease can't restrict those calls, and a landlord can't penalize a tenant or resident for them.” Key takeaway replacement: “Civil Code §1946.8 protects calls about abuse, crime or an emergency when the caller believes assistance is necessary; lease restrictions and landlord penalties for protected calls are prohibited.”",
+          "future_prevention": "Apply 10195-F02 to both scripts and the video key takeaways."
+        },
+        {
+          "finding_id": "10196-F02",
+          "quote": "A security report is notice: reply the same day, fix it, log it and watch for patterns",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The legal-resource context makes an unlimited notice statement and a same-day response instruction sound statutory. Same-day handling is documented AEBP policy for broken entry/lobby locks, not a universal legal repair deadline. Distinguish it from general best practice and §1941.3.",
+          "fix": "Key takeaway replacement: “Best practice: acknowledge security reports promptly, assess urgency, arrange needed repairs and document follow-up. Reports of covered lock deficiencies can provide notice under Civil Code §1941.3.” Fourth script paragraph: “Fourth, as a best practice, acknowledge security reports promptly, assess the urgency, arrange needed repairs and keep a record. A report about a required lock can give notice under California's lock statute; other reports may raise different duties.”",
+          "future_prevention": "Preserve the documented AEBP same-day policy in its own paragraph; label the general workflow as best practice."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10196-F03",
+          "quote": "🎥 Video in production. It will appear here once it's live.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "A draft placeholder is appropriate while producing the video but does not satisfy publication readiness for a watch page. No recording is available to verify, and the browser preview returned a site 404. Generated VideoObject/schema and final rendering are unverified, not proved absent.",
+          "fix": "Keep this page in draft until the actual recording is embedded. Replace the placeholder with that playable embed; add chapter timestamps from the recording and use “Video Transcript” only after checking the text against the final audio. Verify authenticated rendering, schema, thumbnail, duration and the published parent link. Real video-dependent values cannot be invented in this review.",
+          "future_prevention": "Require a production-completion check after the script review; maintain VIDEO-TRANSCRIPT-LITERAL."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 88,
+      "threshold": 90,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Focused query, populated Yoast fields and relevant internal links.",
+      "whats_holding_back": "Final rendering/schema and video production unverified."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 89,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first structure and extractable facts/takeaways.",
+      "whats_holding_back": "Compressed legal statements omit conditions; blog checklist absent or video not produced."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 92,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Documented practitioner process and identifiable primary legal texts.",
+      "whats_holding_back": "Overbroad legal phrasing limits reliability despite strong provenance."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 96,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Plain language with scannable sections and short script.",
+      "whats_holding_back": "Some legal shortcuts need precise wording without adding unnecessary complexity."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 89,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant property-management CTA with live consultation destination.",
+      "whats_holding_back": "Video promise cannot yet be fulfilled; final cross-links need checking."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 90,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Clear educational purpose and documented AEBP examples.",
+      "whats_holding_back": "Blocking legal and production findings remain."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10196-C01",
+      "quote": "At AEBP, every new tenant gets a welcome sheet with our 24/7 maintenance line, and a broken entry lock is an emergency, with a vendor sent the same day.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md (2026-09-30, 2026-10-16 and 2026-10-18 entries; local working copy)",
+      "note": "Documented internal record; not AI owner verification."
+    },
+    {
+      "claim_id": "10196-C02",
+      "quote": "Our lease asks tenants to research the neighborhood themselves. We describe the building, and how to reach us.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md (2026-09-30, 2026-10-16 and 2026-10-18 entries; local working copy)",
+      "note": "Documented lease practice; final sentence is professional framing, not an independently verified universal listing-language policy."
+    },
+    {
+      "claim_id": "10196-C03",
+      "quote": "We manage 600+ rental units across Oakland, Berkeley, Emeryville and the wider East Bay.",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md; https://alleastbayproperties.com/llms.txt",
+      "note": "Documented internal record; not AI owner verification."
+    }
+  ],
+  "strengths": [
+    "The features-versus-outcomes framing gives readers usable replacement language.",
+    "AEBP welcome-sheet, lock-triage and lease practices are documented; no invented incident is needed.",
+    "O’Hara is presented as claims allowed to proceed, not a final damages verdict.",
+    "The script is correctly labeled as a script while recording is pending."
+  ],
+  "article_fixes": [
+    "10196-F01: The script and legal takeaway omit the statutory conditions for protected calls; see §1946.8(b)–(d) and parent finding 10195-F02.",
+    "10196-F02: The legal-resource context makes an unlimited notice statement and a same-day response instruction sound statutory",
+    "10196-F03: A draft placeholder is appropriate while producing the video but does not satisfy publication readiness for a watch page"
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Add a maintained security-duty reference separating lock-statute notice, guard foreseeability, general reasonable-care duties, protected police calls and incident warnings. Sources are available, so this system gap does not independently block these posts.",
+      "target_doc": "knowledge/laws/landlord-security-duties.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Add an explicit blocked/not-verified representation for rendered-page checks; the current PASS/FAIL schema forces incomplete checks into FAIL with explanatory evidence-gap text.",
+      "target_doc": "automation/schemas/review.schema.json",
+      "type_c_followup": true
+    },
+    {
+      "description": "Refresh the overdue company overview separately. Relevant 600+ units and maintenance facts were cross-checked this session; do not change the existing anecdote-log work during this review.",
+      "target_doc": "knowledge/company/overview.md",
+      "type_c_followup": false
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Reviewed 2026-10-18 America/Los_Angeles. Full AEBP-Dev snapshots read, including content, metadata, terms, thumbnail and author. Post-modified values below are exactly as returned, with no timezone supplied; no revision ID or modified_gmt was returned. Repo HEAD 14e36e5f25f9b2290dee6b481bf983a1c7975e48; initially dirty because knowledge/company/anecdote-log.md has an existing uncommitted change (the current welcome-sheet entry was used); zero commits ahead of locally recorded origin/main, no remote fetch. Schema version 1.0.0 follows existing review artifacts; schema itself has no version constant. No WordPress edits. Native block comments balanced on both posts; this is not Gutenberg editor validation. Authenticated preview was unavailable: both attempted browser previews returned site 404 pages; layout, mobile appearance, rendered FAQ/VideoObject schema and canonical/indexing are not cleared. Featured media 10194 and descriptive alt present, image appearance not inspected. Main security guide and conversion destination loaded; package-theft destination fetch failed, not proof of a broken link; future parent/companion production links need final verification. Statutory text was read from Justia/Public.Law mirrors after official LegInfo endpoints returned 403; mirrors are not an independently certified current-law check. Case opinions read in full opinion reproductions; no exhaustive subsequent-case-treatment audit. O’Hara pleading-stage qualification is appropriately preserved. 1941.5/1941.6 24-hour duty is supportable for qualifying documented requests; this post does not enumerate all eligibility conditions. Megan's Law summary preserves other-law duties in FAQ 3. Local numbers verified from municipal pages/indexed municipal text; press-5 routing not independently verified. Fair Housing Institute list corroborates ‘safe neighborhood’ avoidance as industry guidance, not a statutory word ban. Live llms.txt corroborates 600+ units and maintenance service. Local October newsletter and week4 package notes inspected; no private lease details copied. Scores are editorial estimates, not a measured rubric. WordPress post_modified: 2026-10-18 20:26:14. VIDEO-TRANSCRIPT-LITERAL passes draft labeling only: the block correctly says Video Script. No audio was available. VIDEO-CONSISTENCY passes because the scripts match; their shared errors remain legal failures. Apply parent revisions to this page's body, takeaways and script before recording."
+}
