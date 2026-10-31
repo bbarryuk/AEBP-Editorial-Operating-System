@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10269,
+  "title": "Berkeley and Oakland Rent Increases for 2027 Explained (Video)",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "adaad453c4c8f1057d3a49a6f8a12d54c24ff194",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10269,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10269",
+    "revision_id": null,
+    "modified_gmt": null
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex (GPT-6)"
+  },
+  "timestamp": "2026-10-31T04:10:44.820Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10269-F05",
+          "quote": "🎥 Video in production. The embed will appear here once it's published.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "The response correctly leaves this requires_human. There is still no completed embed or spoken recording/transcript to audit, and authenticated rendered-page/schema checks remain unavailable. The script text now matches the parent's exactly.",
+          "fix": "Keep the video page in draft. Insert the final recording, check the transcript against the audio, then change 'Video Script' to 'Video Transcript' for the verified transcript. Verify rendered VideoObject metadata and final parent/companion destinations before clearing the technical gate.",
+          "future_prevention": "Preserve the requires_human production item until completed-media evidence and preview checks are supplied."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-COMPANION-VIDEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10269-F05",
+          "quote": "🎥 Video in production. The embed will appear here once it's published.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "The response correctly leaves this requires_human. There is still no completed embed or spoken recording/transcript to audit, and authenticated rendered-page/schema checks remain unavailable. The script text now matches the parent's exactly.",
+          "fix": "Keep the video page in draft. Insert the final recording, check the transcript against the audio, then change 'Video Script' to 'Video Transcript' for the verified transcript. Verify rendered VideoObject metadata and final parent/companion destinations before clearing the technical gate.",
+          "future_prevention": "Preserve the requires_human production item until completed-media evidence and preview checks are supplied."
+        }
+      ]
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Standalone eligibility and notice qualifications verified; both scripts identical; practices now documented.",
+      "whats_holding_back": "No remaining script-content blocker; production and rendered-page checks prevent whole-page clearance."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Standalone eligibility and notice qualifications verified; both scripts identical; practices now documented.",
+      "whats_holding_back": "No remaining script-content blocker; production and rendered-page checks prevent whole-page clearance."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 95,
+      "threshold": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Standalone eligibility and notice qualifications verified; both scripts identical; practices now documented.",
+      "whats_holding_back": "No remaining script-content blocker; production and rendered-page checks prevent whole-page clearance."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 95,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Standalone eligibility and notice qualifications verified; both scripts identical; practices now documented.",
+      "whats_holding_back": "No remaining script-content blocker; production and rendered-page checks prevent whole-page clearance."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 92,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Standalone eligibility and notice qualifications verified; both scripts identical; practices now documented.",
+      "whats_holding_back": "No remaining script-content blocker; production and rendered-page checks prevent whole-page clearance."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Standalone eligibility and notice qualifications verified; both scripts identical; practices now documented.",
+      "whats_holding_back": "No remaining script-content blocker; production and rendered-page checks prevent whole-page clearance."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10269-C01",
+      "quote": "We manage 600+ rental units across Oakland, Berkeley, Emeryville and the wider East Bay, and track every unit's rent increase eligibility date.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 rent-increase timing entry; knowledge/company/overview.md (600+ unit count and service area)",
+      "note": "Documented internal record of Brian's confirmation; this AI review does not assign owner_verified."
+    },
+    {
+      "claim_id": "10269-C02",
+      "quote": "That's why, at AEBP, Berkeley is the one city where we raise rent on January 1.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 rent-increase timing entry; knowledge/company/overview.md (600+ unit count and service area)",
+      "note": "Documented internal record of Brian's confirmation; this AI review does not assign owner_verified."
+    },
+    {
+      "claim_id": "10269-C03",
+      "quote": "Outside Berkeley, we time increases to each unit's lease anniversary.",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 rent-increase timing entry; knowledge/company/overview.md (600+ unit count and service area)",
+      "note": "Documented internal record of Brian's confirmation; this AI review does not assign owner_verified."
+    }
+  ],
+  "strengths": [
+    "The two current Video Script blocks match exactly.",
+    "Internal anecdote log now documents scheduling practices; unconfirmed operational promises were removed.",
+    "The 6.9% combined limit, AB 1482 ownership test and cumulative notice qualifications are corrected.",
+    "Both drafts retain balanced Gutenberg comment nesting, populated SEO metadata and useful consultation paths."
+  ],
+  "article_fixes": [
+    "10269-F05: Keep the video page in draft. Insert the final recording, check the transcript against the audio, then change 'Video Script' to 'Video Transcript' for the verified transcript. Verify rendered VideoObject metadata and final parent/companion destinations before clearing the technical gate."
+  ],
+  "operating_system_improvements": [],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Final review round 03 follows 02-revision-response.json and checks every prior disposition against the live full AEBP-Dev snapshot, site-local post_modified 2026-10-30 20:45:10. Revision ID and modified_gmt not returned. Repo clean and zero commits ahead of configured upstream at start; no remote fetch. Docs/02 v0.2 now includes EVD-SOURCE-SNAPSHOTS (updated October 30); reviewed matching statute/ordinance snapshots and attempted live URLs. Leginfo §§827,1947.12,1013, Oakland Municode and the May 28 info sheet were inaccessible; official Berkeley/Oakland agency pages and DRE 2026 guide corroborate available checks. Failure to retrieve is not proof of absence. Draft previews inaccessible; generated schema and editor block validity not cleared. No WordPress edits/publishing. F01-F04 closed; F05 remains requires_human. Script content clear in reviewed context; video-page production remains held. Next response: 04-revision-response.md/json, then 05-final-review."
+}
+
