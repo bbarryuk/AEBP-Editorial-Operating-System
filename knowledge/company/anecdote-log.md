@@ -146,3 +146,18 @@ Any future post, video script, or social copy reusing this same observation (rat
 **Do not:** say or imply the welcome sheet lacks a safety section or police numbers, or that its only "urgent" example is a water leak (Brian chose positives only). Don't say AEBP is adding a safety sheet unless Brian confirms. Don't describe AEBP's listing language as a deliberate "no 'secure'/'safe'" policy (Brian gave no preference; framed as best practice).
 
 **Used in:** Post 10195 (What We See at AEBP, Video Script) and video page 10196 (Video Script).
+
+### 2026-10-30 — Rent increase timing: AppFolio eligibility dates, lease anniversaries, Berkeley on January 1 (posts 10268, 10269)
+
+**Source:** Brian, directly, in the Cowork session building the November 2026 content plan and the Nov 2 cornerstone (2026-10-29/30), answering whether AEBP batches January 1 rent increases. Logged here because ChatGPT's 01-review of posts 10268/10269 (findings 10268-F06, 10269-F04) correctly found no internal record of these practices.
+
+**Confirmed claims:**
+1. AEBP tracks each managed unit's rent-increase eligibility date in AppFolio and does increases when units become eligible across the portfolio, not as a January 1 batch.
+2. Outside Berkeley, the eligibility date is normally the anniversary of the lease term's end. Brian's example: a lease of 05/01/2024–04/30/2025 goes month-to-month 05/01/2025, is eligible that day, and every 05/01 after.
+3. In Berkeley, AEBP adjusts the initial eligibility date in AppFolio to account for the new-tenancy rule (no AGA in the start year or following calendar year), and Berkeley is the one place AEBP issues increases on January 1. Reason (Brian): waiting for the first eligible anniversary would mean a 24-month wait for every tenancy; January 1 is 14 months for a November start. A January start waits 24 months either way. Brian corrected his own first estimate (22 months) to 24 in session.
+4. Increases are once a year, so Berkeley units stay on a January 1 cycle after the first increase.
+5. An eligibility date is not an automatic increase: owners sometimes decide not to raise rent, and keeping a good tenant is a common reason.
+
+**Do not:** claim AEBP serves every notice with proof of service, attaches RAP notices/tax certificates to every Oakland increase, or "applies the right rate per jurisdiction" as an AEBP service claim. Brian didn't confirm those; they were removed from 10268's comparison table in 02-revision-response. Don't attach specific unit counts (how many Berkeley units are held back each January); none was given.
+
+**Used in:** Post 10268 ("How We Time Rent Increases at AEBP" section, comparison table, FAQ 2, CTA, Video Script) and video page 10269 (intro, CTA, Video Script). Planned reuse: Nov 5 Thursday Tip (why Berkeley increases go on January 1).

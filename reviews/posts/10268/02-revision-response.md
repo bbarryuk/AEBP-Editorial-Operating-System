@@ -1,0 +1,108 @@
+# Revision Response 02 — Post 10268
+
+Responds to: `reviews/posts/10268/01-review.json` (2026-10-31T03:37:26.101Z)  
+Responder: Claude (Cowork) · 2026-10-31T03:50:00Z  
+Repo: `f1f172246ed206f7ca78e339928b37d596b5bbd9` (dirty: new response files, anecdote-log.md, rent-caps.md)  
+WordPress: draft, https://dev.alleastbayproperties.com/?p=10268
+
+**Summary:** All eight findings addressed. F01–F05 legal/local fixes applied with the reviewer's replacement wording (F03 independently verified against Oakland's 5/28/26 info sheet and registration FAQs, plus the now-verified five-year banking expiration). F06 resolved by Brian's in-session confirmation, now logged in the anecdote log; three unconfirmed comparison-table claims removed. F07 wording applied; rendered-page checks move to the video swap. F08 GBP copy supplied for comparison. Video and authenticated preview remain open, so requires_human_review stays true.
+
+**requires_human_review:** true · **recommendation_to_brian:** proceed_to_gpt_final_review
+
+## Dispositions
+
+### 10268-F01 — accepted
+
+**Rationale:** Correct: coverage and eligibility qualifiers were missing from standalone answers, and 'on or after' extended a 2027 figure past its verified year.
+
+**Change applied:** Quick Answer replaced with the reviewer's wording (plus 'during calendar year 2027' and 'over a rolling 12 months'); FAQ 1 now 'during calendar year 2027'; FAQ 3, Key Facts Berkeley row, rate-by-date table, move-in table footnote ('Assumes a fully covered unit and a tenancy that starts on the first of the month'), What Changed, Bottom Line, Video Script (both pages) and companion page all carry the fully-covered and eligibility qualifiers.
+
+> Before: In Berkeley it's January 1: tenancies that began in 2025 or earlier can take 2.5% on January 1, 2027, and tenancies that began in 2026 wait until January 1, 2028.
+
+> After: In Berkeley, it's January 1: for fully rent-controlled Berkeley units, 2025 move-ins first become AGA-eligible on January 1, 2027, and 2026 move-ins first become eligible on January 1, 2028, subject to the lease, proper notice and Rent Board compliance. Eligible banked AGAs can make the actual increase different from 2.5%.
+
+### 10268-F02 — accepted
+
+**Rationale:** Correct: 3x is a total CPI-plus-banking limit, not an add-on.
+
+**Change applied:** Oakland section, Key Facts banking row and FAQ 4 use the total-limit wording.
+
+> Before: A banked increase can add more, up to three times the current rate (6.9%).
+
+> After: Eligible banked CPI amounts can be added, but the combined current CPI plus banking increase cannot exceed 6.9% this cycle.
+
+### 10268-F03 — accepted_with_modification
+
+**Rationale:** Independently verified before applying: six-month RAP Notice rule and 12-month rules in Oakland's 'Rent Levels and Rent Regulation' info sheet (rev. 5.28.26); registration-at-service rule in Oakland's Rent Registration FAQs. Modifications: (1) removed the separate 'Include the City's RAP notice with the increase notice' bullet, since it wasn't verified this round and the six-month RAP Notice rule now covers notice; (2) added the five-year banking expiration (amounts accruing on/after Jan 1, 2026), which the same info sheet confirms and which was previously held out of the draft as unverified; (3) linked the Oakland rent control guide as requested.
+
+**Change applied:** Oakland checklist rewritten to two bullets (registration + 12-month + six-month RAP Notice; business tax certificate/payment plan wording); five-year expiration added to body and Key Facts; Oakland info sheet and Rent Registration FAQs added to Sources; link to /oakland-rent-control-2026/ added.
+
+> Before: Confirm the unit's last increase took effect at least 12 months earlier.
+
+> After: Confirm the unit is registered with the Rent Adjustment Program when the increase is served, the first increase is at least 12 months after move-in, any prior increase was at least 12 months ago, and at least six months have passed since the tenant first received the RAP Notice.
+
+### 10268-F04 — accepted
+
+**Rationale:** Correct: the exemption is a conjunction of ownership and notice.
+
+**Change applied:** AB 1482 section now states the ownership test and cites Civil Code §1947.12(d)(5); DRE 2026 guide added to Sources.
+
+> Before: Single-family homes and condos are exempt from AB 1482 only if the tenant received the required written exemption notice.
+
+> After: The single-family-home/condo exemption also requires qualifying ownership: no REIT, corporation, or LLC with a corporate member, plus the required written exemption notice. Notice alone does not establish eligibility (Civil Code §1947.12(d)(5)).
+
+### 10268-F05 — accepted
+
+**Rationale:** Correct: the blanket 30/35-day rule omitted the 90-day branch and mailing origin. Kept Nov 25/Dec 1 as labeled planning targets, per the reviewer's note.
+
+**Change applied:** Deadlines section: intro line 'For a January 1, 2027 increase that qualifies for 30-day notice', column renamed 'Planning target', mailing row says 'first-class within California', closing paragraph replaced with reviewer wording. Key Facts notice rows reworded to 'cumulative increase ... over 12 months'. FAQ 5 and Video Script updated. DRE guide added to Sources.
+
+> Before: The same math works for any date: count back 30 days for personal service, or 35 if you mail the notice.
+
+> After: For an otherwise lawful increase, use at least 30 days when the cumulative increase is 10% or less over the preceding 12 months; use 90 days above 10%, measured from the lowest rent in that period. First-class mailing within California adds five days; mailing from elsewhere can require longer. November 25 and December 1 are conservative planning targets for a January 1 increase that qualifies for 30-day notice.
+
+### 10268-F06 — accepted_with_modification
+
+**Rationale:** Brian confirmed these practices directly in the drafting session (2026-10-29/30); the reviewer had no record because none had been logged yet. Now logged in knowledge/company/anecdote-log.md (2026-10-30 entry), which is the internal record EVD-ANECDOTE-INTEGRITY requires. Kept the confirmed practice wording rather than the reviewer's fallback, which would have removed the post's only first-person observation. Removed the three comparison-table rows whose AEBP-column claims Brian did not confirm (notice service/proof of service, Oakland RAP notice and tax certificate, rate applied per jurisdiction). Narrowed the CTA to eligibility-date tracking. 'In Berkeley, we raise rent on January 1' changed to 'on eligible units on January 1'.
+
+**Change applied:** Anecdote log entry added. Comparison table cut to three confirmed rows. CTA: 'track every unit's rent increase eligibility date'. Sources line for company practice now cites the anecdote log.
+
+> Before: In Berkeley, we raise rent on January 1.
+
+> After: In Berkeley, we raise rent on eligible units on January 1.
+
+### 10268-F07 — accepted_with_modification
+
+**Rationale:** Wording fix applied. Rendered-page checks (BlogPosting/FAQPage output, block validity, paired URLs) need an authenticated preview, which Claude doesn't have; they move to the video-swap step along with restoring the 'Prefer video?' link.
+
+**Change applied:** 'Prefer video?' paragraph and the separate in-production line merged into one line. Video Script label kept.
+
+> Before: Prefer video? Watch the short video version, with chapter links and a full transcript.
+
+> After: 🎥 Companion video in production; the video and transcript will be added when ready.
+
+### 10268-F08 — accepted_with_modification
+
+**Rationale:** GBP copy now supplied for comparison (below and in the .md). Based on the reviewer's scoped draft, with 'fully covered units' added for consistency with F01. Not published; GBP posting waits for the live URL and Brian's approval.
+
+**Change applied:** GBP draft supplied in this response: "Planning a 2027 rent increase in Oakland or Berkeley? Berkeley's 2027 AGA is 2.5% for fully covered units, up from 1.0%, and Oakland's allowable CPI increase is 2.3% for increases effective through July 31, 2027. Eligibility, banking and notice requirements vary by city and by unit. In Berkeley, the year a tenancy started decides when its first increase is allowed. Our new guide explains which rate applies, and when." CTA: Learn more → https://alleastbayproperties.com/oakland-berkeley-rent-increase-2027/?utm_source=gbp&utm_medium=organic&utm_campaign=nov2026-week1&utm_content=gbp-post
+
+## Claim provenance updates
+
+- **10268-C01**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C02**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C03**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C04**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C05**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C08**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C09**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C10**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C11**: unverified → owner_verified (confirmed_by_brian)
+- **10268-C06**: unverified → unverified (removed)
+- **10268-C07**: unverified → unverified (removed)
+
+## Operating System follow-ups
+
+- Berkeley 2027 AGA (2.5%) and pending Measure X added; Oakland five-year banking expiration, six-month RAP Notice and registration-at-service rules promoted to Level 1. Target: `knowledge/laws/rent-caps.md`.
+- Rent-increase timing practices logged with scope and do-not-use limits. Target: `knowledge/company/anecdote-log.md`.
+- After the Nov 3 vote is certified: update 10268's Measure X paragraph and Law Library entry 9403, and recheck rent-caps.md. Target: `None`.
