@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10269,
+  "content_type": "video",
+  "responds_to": {
+    "review_file": "reviews/posts/10269/03-final-review.json",
+    "timestamp": "2026-10-31T04:10:44.820Z"
+  },
+  "repo": {
+    "commit": "6c10e32acdeee4f44681ec9e835fd92a1cb1aab7",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10269,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10269"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-10-31T04:20:00Z",
+  "dispositions": [
+    {
+      "finding_id": "10269-F05",
+      "disposition": "requires_human",
+      "rationale": "Agreed; not closed by deferral. No content change is needed: the script matches 10268's exactly and no Oakland banking or RAP Notice wording appears in the video page. Clearance requires the recording, a transcript checked against the audio (then the 'Video Transcript' relabel), SRT-based chapter times, length in the title, and an authenticated preview of the rendered VideoObject and destinations. Page stays draft until then.",
+      "change_applied": null,
+      "quote_before": "🎥 Video in production. The embed will appear here once it's published.",
+      "quote_after": null
+    }
+  ],
+  "operating_system_followups": [],
+  "summary": "Only F05 remains, and it stays requires_human until the recording and an authenticated preview exist. Confirmed that the 10268 round-04 fixes (RAP Notice, banking wording) don't touch the video page's content.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "proceed_to_gpt_final_review"
+}
