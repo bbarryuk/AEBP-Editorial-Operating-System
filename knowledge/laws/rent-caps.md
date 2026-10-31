@@ -21,6 +21,13 @@ source:
   - https://rentboard.berkeleyca.gov/elected-rent-board/news/2026-aga-published-and-2025-security-deposit-interest-payment-due-soon
   - https://caanet.org/where-are-the-new-cpi-figures-for-rent-increases-under-ab-1482-5/
   - https://www.ci.richmond.ca.us/3376/Rent-Increase
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/state/statutes/civ-1947.12.txt
+  - knowledge/sources/state/bills/sb-567-2023-ch290.txt
+  - knowledge/sources/local/oakland/omc-8.22-art1-rent-adjustment.txt
+  - knowledge/sources/local/berkeley/bmc-13.76-rent-stabilization-just-cause.txt
+  - knowledge/sources/local/richmond/rmc-11.100-fair-rent-just-cause.txt
+  - knowledge/sources/local/richmond/guidance/rent-increase-aga-2026.txt
 ---
 
 # Rent Cap Figures — AB 1482, Oakland RAP, Berkeley AGA, Richmond AGA

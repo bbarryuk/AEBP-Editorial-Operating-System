@@ -43,6 +43,7 @@ AEBP-Editorial-Operating-System/
 │   ├── company/
 │   │   └── overview.md     — company facts, fees, service areas, credentials
 │   ├── laws/                — rent caps, notice timing, and other verified legal reference
+│   ├── sources/             — verbatim statute/bill/ordinance text (snapshots; see EVD-SOURCE-SNAPSHOTS)
 │   └── llms.txt             — verbatim mirror of alleastbayproperties.com/llms.txt
 │
 ├── reviews/                 — content-type-specific review manifests that EXTEND docs/01,

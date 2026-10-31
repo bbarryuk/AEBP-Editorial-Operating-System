@@ -12,6 +12,8 @@ source:
   - https://berkeley.municipal.codes/BMC/13.76.130
   - https://rentboard.berkeleyca.gov/rights-responsibilities/evictions/just-cause-other-local-requirements
   - https://bornstein.law/berkeley-measure-mm-approved-by-voters/
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/local/berkeley/bmc-13.76-rent-stabilization-just-cause.txt
 ---
 
 # Berkeley Just Cause for Eviction — Waiting Period Correction

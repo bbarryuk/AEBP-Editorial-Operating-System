@@ -1,0 +1,464 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: SB 1137 (2024) — Discrimination: intersectionality
+Jurisdiction: California
+Source type: Chaptered bill (EVD-SOURCE-HIERARCHY level 1)
+Official URL: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB1137  [standard leginfo pattern]
+Version: Chaptered, Stats. 2024 ch. 779
+Saved to OneDrive: 2026-10-06   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/SB1137.txt
+Notes: Session-law text: shows what the bill changed, not the current code. Cite the code section for current law.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+ Senate Bill No. 1137
+CHAPTER 779
+
+An act to amend Section 51 of the Civil Code, to amend Sections 200 and 210.2 of the Education Code, and to amend Sections 12920 and 12926 of the Government Code, relating to discrimination.
+
+[ Approved by Governor  September 27, 2024. Filed with Secretary of State  September 27, 2024. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+SB 1137, Smallwood-Cuevas. Discrimination claims: combination of characteristics.
+(1) Existing law, the Unruh Civil Rights Act, provides that all persons within the jurisdiction of this state are entitled to full and equal accommodations in all business establishments regardless of their sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, marital status, sexual orientation, citizenship, primary language, or immigration status. Existing law defines “sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, marital status, sexual orientation, citizenship, primary language, or immigration status” for these purposes as including a perception that the person has any particular characteristic or characteristics within the listed categories or that the person is associated with a person who has, or is perceived to have, any particular characteristic or characteristics within the listed categories.
+This bill would revise that definition to include any combination of those characteristics, as specified.
+(2) Existing law declares that it is the policy of the state to afford all persons in public schools, regardless of specified characteristics, equal rights and opportunities in the educational institutions of the state, and states that the purpose of related existing law is to prohibit acts that are contrary to that policy and to provide remedies.
+This bill would revise that policy statement to include remedies that will eliminate those discriminatory acts, including discrimination not just because of one protected trait, but also because of the combination of 2 or more protected bases.
+For purposes of certain related educational equity provisions, existing law defines “disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes” to include a perception that the person has any of those characteristics or that the person is associated with a person who has, or is perceived to have, any of those characteristics.
+This bill would revise that definition to include any combination of those characteristics, as specified.
+(3) Existing law, the California Fair Employment and Housing Act (FEHA), establishes the Civil Rights Department to enforce civil rights laws with respect to housing and employment, as prescribed. The FEHA recognizes and declares to be a civil right the opportunity to seek, obtain, and hold employment and housing without discrimination because of a specified characteristic. The FEHA makes certain discriminatory practices based on those characteristics unlawful. The FEHA also declares that its purpose is to provide effective remedies that will eliminate these discriminatory practices.
+This bill would revise the above-described declaration on providing effective remedies to specify that it includes discrimination not just because of one protected trait, but also because of the combination of 2 or more protected bases.
+The FEHA defines terms used in connection with unlawful practices. These include “race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status,” which includes a perception that the person has any of those characteristics or is associated with a person who has, or is perceived to have, any of those characteristics.
+This bill would revise that definition to include any combination of those characteristics, as specified.
+This bill would also state that the above provisions are declaratory of existing law.
+This bill would incorporate additional changes to Section 51 of the Civil Code proposed by AB 1815 to be operative only if this bill and AB 1815 are enacted and this bill is enacted last.
+This bill would incorporate additional changes to Section 12926 of the Government Code proposed by AB 1815 and SB 1022 to be operative only if this bill and either or both of those bills are enacted and this bill is enacted last.
+Digest Key
+Vote: MAJORITY   Appropriation: NO   Fiscal Committee: YES   Local Program: NO  
+Bill Text
+The people of the State of California do enact as follows:
+
+SECTION 1. The Legislature finds and declares all of the following:
+(a) It is the intent of the Legislature to hereby recognize the concept of intersectionality in California’s civil rights laws. Intersectionality is an analytical framework that sets forth that different forms of inequality operate together, exacerbate each other, and can result in amplified forms of prejudice and harm. The framework and term “intersectionality,” coined and popularized by legal scholar Professor Kimberlé Williams Crenshaw, captures the unique, interlocking forms of discrimination and harassment experienced by individuals in the workplace and throughout society, particularly Black women, as compared to Black men and White women.
+(b) The Legislature hereby declares that the Unruh Civil Rights Act, the California Fair Employment and Housing Act, and the Educational Equity Chapter (Chapter 2 (commencing with Section 200) of Part 1 of Division 1 of Title 1) of the Education Code prohibit discrimination not just because of one protected basis, but also because of the combination of two or more protected bases.
+(c) The Legislature recognizes that federal law affords similar protection, as articulated by the United States Equal Employment Opportunity Commission in its interpretative guidance of Title VII of the Civil Rights Act of 1964 (Public Law 88-352, as amended) pertaining to discrimination and harassment.
+(d) The Legislature recognizes that where two or more bases for discrimination or harassment exist, they cannot be neatly reduced to distinct components. The attempt to bisect a person’s identity at the combination of multiple protected characteristics often distorts or ignores the particular nature of their experiences. When a person claims multiple bases for discrimination or harassment, it may be necessary to determine whether the discrimination or harassment occurred on the basis of a combination of those factors, not just based on any one protected characteristic by itself. In this regard, the Legislature affirms the decision of the Ninth Circuit Court of Appeals in Lam v. University of Hawai’i (9th Cir. 1994) 40 F.3d 1551.
+(e) The amendments to Section 51 of the Civil Code, Sections 200 and 210.2 of the Education Code, and Sections 12920 and 12926 of the Government Code do not constitute a change in, or diminishment of, existing protections and obligations, but are declaratory of existing law.
+SEC. 2. Section 51 of the Civil Code is amended to read:
+
+51. (a) This section shall be known, and may be cited, as the Unruh Civil Rights Act.
+(b) All persons within the jurisdiction of this state are free and equal, and no matter what their sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, marital status, sexual orientation, citizenship, primary language, or immigration status are entitled to the full and equal accommodations, advantages, facilities, privileges, or services in all business establishments of every kind whatsoever.
+(c) This section shall not be construed to confer any right or privilege on a person that is conditioned or limited by law or that is applicable alike to persons of every sex, color, race, religion, ancestry, national origin, disability, medical condition, marital status, sexual orientation, citizenship, primary language, or immigration status, or to persons regardless of their genetic information.
+(d) Nothing in this section shall be construed to require any construction, alteration, repair, structural or otherwise, or modification of any sort whatsoever, beyond that construction, alteration, repair, or modification that is otherwise required by other provisions of law, to any new or existing establishment, facility, building, improvement, or any other structure, nor shall anything in this section be construed to augment, restrict, or alter in any way the authority of the State Architect to require construction, alteration, repair, or modifications that the State Architect otherwise possesses pursuant to other laws.
+(e) For purposes of this section:
+(1) “Disability” means any mental or physical disability as defined in Sections 12926 and 12926.1 of the Government Code.
+(2) (A) “Genetic information” means, with respect to any individual, information about any of the following:
+(i) The individual’s genetic tests.
+(ii) The genetic tests of family members of the individual.
+(iii) The manifestation of a disease or disorder in family members of the individual.
+(B) “Genetic information” includes any request for, or receipt of, genetic services, or participation in clinical research that includes genetic services, by an individual or any family member of the individual.
+(C) “Genetic information” does not include information about the sex or age of any individual.
+(3) “Medical condition” has the same meaning as defined in subdivision (i) of Section 12926 of the Government Code.
+(4) “Religion” includes all aspects of religious belief, observance, and practice.
+(5) “Sex” includes, but is not limited to, pregnancy, childbirth, or medical conditions related to pregnancy or childbirth. “Sex” also includes, but is not limited to, a person’s gender. “Gender” means sex, and includes a person’s gender identity and gender expression. “Gender expression” means a person’s gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.
+(6) “Sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, marital status, sexual orientation, citizenship, primary language, or immigration status” includes any of the following:
+(A) Any combination of those characteristics.
+(B) A perception that the person has any particular characteristic or characteristics within the listed categories or any combination of those characteristics.
+(C) A perception that the person is associated with a person who has, or is perceived to have, any particular characteristic or characteristics, or any combination of characteristics, within the listed categories.
+(7) “Sexual orientation” has the same meaning as defined in subdivision (s) of Section 12926 of the Government Code.
+(f) A violation of the right of any individual under the federal Americans with Disabilities Act of 1990 (Public Law 101-336) shall also constitute a violation of this section.
+(g) Verification of immigration status and any discrimination based upon verified immigration status, where required by federal law, shall not constitute a violation of this section.
+(h) Nothing in this section shall be construed to require the provision of services or documents in a language other than English, beyond that which is otherwise required by other provisions of federal, state, or local law, including Section 1632.
+
+SEC. 2.5. Section 51 of the Civil Code is amended to read:
+
+51. (a) This section shall be known, and may be cited, as the Unruh Civil Rights Act.
+(b) All persons within the jurisdiction of this state are free and equal, and no matter what their sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, marital status, sexual orientation, citizenship, primary language, or immigration status are entitled to the full and equal accommodations, advantages, facilities, privileges, or services in all business establishments of every kind whatsoever.
+(c) This section shall not be construed to confer any right or privilege on a person that is conditioned or limited by law or that is applicable alike to persons of every sex, color, race, religion, ancestry, national origin, disability, medical condition, marital status, sexual orientation, citizenship, primary language, or immigration status, or to persons regardless of their genetic information.
+(d) Nothing in this section shall be construed to require any construction, alteration, repair, structural or otherwise, or modification of any sort whatsoever, beyond that construction, alteration, repair, or modification that is otherwise required by other provisions of law, to any new or existing establishment, facility, building, improvement, or any other structure, nor shall anything in this section be construed to augment, restrict, or alter in any way the authority of the State Architect to require construction, alteration, repair, or modifications that the State Architect otherwise possesses pursuant to other laws.
+(e) For purposes of this section:
+(1) “Disability” means any mental or physical disability as defined in Sections 12926 and 12926.1 of the Government Code.
+(2) (A) “Genetic information” means, with respect to any individual, information about any of the following:
+(i) The individual’s genetic tests.
+(ii) The genetic tests of family members of the individual.
+(iii) The manifestation of a disease or disorder in family members of the individual.
+(B) “Genetic information” includes any request for, or receipt of, genetic services, or participation in clinical research that includes genetic services, by an individual or any family member of the individual.
+(C) “Genetic information” does not include information about the sex or age of any individual.
+(3) “Medical condition” has the same meaning as defined in subdivision (i) of Section 12926 of the Government Code.
+(4) “Race” is inclusive of traits associated with race, including, but not limited to, hair texture and protective hairstyles. “Protective hairstyles” includes, but is not limited to, such hairstyles as braids, locs, and twists.
+(5) “Religion” includes all aspects of religious belief, observance, and practice.
+(6) “Sex” includes, but is not limited to, pregnancy, childbirth, or medical conditions related to pregnancy or childbirth. “Sex” also includes, but is not limited to, a person’s gender. “Gender” means sex, and includes a person’s gender identity and gender expression. “Gender expression” means a person’s gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.
+(7) “Sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic information, marital status, sexual orientation, citizenship, primary language, or immigration status” includes any of the following:
+(A) Any combination of those characteristics.
+(B) A perception that the person has any particular characteristic or characteristics within the listed categories or any combination of those characteristics.
+(C) A perception that the person is associated with a person who has, or is perceived to have, any particular characteristic or characteristics, or any combination of characteristics, within the listed categories.
+(8) “Sexual orientation” has the same meaning as defined in subdivision (s) of Section 12926 of the Government Code.
+(f) A violation of the right of any individual under the federal Americans with Disabilities Act of 1990 (Public Law 101-336) shall also constitute a violation of this section.
+(g) Verification of immigration status and any discrimination based upon verified immigration status, where required by federal law, shall not constitute a violation of this section.
+(h) Nothing in this section shall be construed to require the provision of services or documents in a language other than English, beyond that which is otherwise required by other provisions of federal, state, or local law, including Section 1632.
+
+SEC. 3. Section 200 of the Education Code is amended to read:
+
+200. It is the policy of the State of California to afford all persons in public schools, regardless of their disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes set forth in Section 422.55 of the Penal Code, including immigration status, equal rights, and opportunities in the educational institutions of the state. The purpose of this chapter is to prohibit acts that are contrary to that policy and to provide remedies that will eliminate these discriminatory acts, including discrimination not just because of one protected trait, but also because of the combination of two or more protected bases.
+
+SEC. 4. Section 210.2 of the Education Code is amended to read:
+
+210.2. “Disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes set forth in Section 422.55 of the Penal Code” includes any of the following:
+(a) Any combination of those characteristics.
+(b) A perception that the person has any of those characteristics or any combination of those characteristics.
+(c) A perception that the person is associated with a person who has, or is perceived to have, any of those characteristics or any combination of those characteristics.
+
+SEC. 5. Section 12920 of the Government Code is amended to read:
+
+12920. It is hereby declared as the public policy of this state that it is necessary to protect and safeguard the right and opportunity of all persons to seek, obtain, and hold employment without discrimination or abridgment on account of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, reproductive health decisionmaking, or military and veteran status.
+It is recognized that the practice of denying employment opportunity and discriminating in the terms of employment for these reasons foments domestic strife and unrest, deprives the state of the fullest utilization of its capacities for development and advancement, and substantially and adversely affects the interests of employees, employers, and the public in general.
+Further, the practice of discrimination because of race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, marital status, national origin, ancestry, familial status, source of income, disability, veteran or military status, or genetic information in housing accommodations is declared to be against public policy.
+It is the purpose of this part to provide effective remedies that will eliminate these discriminatory practices, including discrimination not just because of one protected trait, but also because of the combination of two or more protected bases.
+This part shall be deemed an exercise of the police power of the state for the protection of the welfare, health, and peace of the people of this state.
+
+SEC. 6. Section 12926 of the Government Code is amended to read:
+
+12926. As used in this part in connection with unlawful practices, unless a different meaning clearly appears from the context:
+(a) “Affirmative relief” or “prospective relief” includes the authority to order reinstatement of an employee, awards of backpay, reimbursement of out-of-pocket expenses, hiring, transfers, reassignments, grants of tenure, promotions, cease and desist orders, posting of notices, training of personnel, testing, expunging of records, reporting of records, and any other similar relief that is intended to correct unlawful practices under this part.
+(b) “Age” refers to the chronological age of any individual who has reached a 40th birthday.
+(c) Except as provided by Section 12926.05, “employee” does not include any individual employed by that person’s parent, spouse, or child or any individual employed under a special license in a nonprofit sheltered workshop or rehabilitation facility.
+(d) “Employer” includes any person regularly employing five or more persons, or any person acting as an agent of an employer, directly or indirectly, the state or any political or civil subdivision of the state, and cities, except as follows:
+“Employer” does not include a religious association or corporation not organized for private profit.
+(e) “Employment agency” includes any person undertaking for compensation to procure employees or opportunities to work.
+(f) “Essential functions” means the fundamental job duties of the employment position the individual with a disability holds or desires. “Essential functions” does not include the marginal functions of the position.
+(1) A job function may be considered essential for any of several reasons, including, but not limited to, any one or more of the following:
+(A) The function may be essential because the reason the position exists is to perform that function.
+(B) The function may be essential because of the limited number of employees available among whom the performance of that job function can be distributed.
+(C) The function may be highly specialized, so that the incumbent in the position is hired based on expertise or the ability to perform a particular function.
+(2) Evidence of whether a particular function is essential includes, but is not limited to, the following:
+(A) The employer’s judgment as to which functions are essential.
+(B) Written job descriptions prepared before advertising or interviewing applicants for the job.
+(C) The amount of time spent on the job performing the function.
+(D) The consequences of not requiring the incumbent to perform the function.
+(E) The terms of a collective bargaining agreement.
+(F) The work experiences of past incumbents in the job.
+(G) The current work experience of incumbents in similar jobs.
+(g) (1) “Genetic information” means, with respect to any individual, information about any of the following:
+(A) The individual’s genetic tests.
+(B) The genetic tests of family members of the individual.
+(C) The manifestation of a disease or disorder in family members of the individual.
+(2) “Genetic information” includes any request for, or receipt of, genetic services, or participation in clinical research that includes genetic services, by an individual or any family member of the individual.
+(3) “Genetic information” does not include information about the sex or age of any individual.
+(h) “Labor organization” includes any organization that exists and is constituted for the purpose, in whole or in part, of collective bargaining or of dealing with employers concerning grievances, terms or conditions of employment, or of other mutual aid or protection.
+(i) “Medical condition” means either of the following:
+(1) Any health impairment related to or associated with a diagnosis of cancer or a record or history of cancer.
+(2) Genetic characteristics. For purposes of this section, “genetic characteristics” means either of the following:
+(A) Any scientifically or medically identifiable gene or chromosome, or combination or alteration thereof, that is known to be a cause of a disease or disorder in a person or that person’s offspring, or that is determined to be associated with a statistically increased risk of development of a disease or disorder, and that is presently not associated with any symptoms of any disease or disorder.
+(B) Inherited characteristics that may derive from the individual or family member, that are known to be a cause of a disease or disorder in a person or that person’s offspring, or that are determined to be associated with a statistically increased risk of development of a disease or disorder, and that are presently not associated with any symptoms of any disease or disorder.
+(j) “Mental disability” includes, but is not limited to, all of the following:
+(1) Having any mental or psychological disorder or condition, such as intellectual disability, organic brain syndrome, emotional or mental illness, or specific learning disabilities, that limits a major life activity. For purposes of this section:
+(A) “Limits” shall be determined without regard to mitigating measures, such as medications, assistive devices, or reasonable accommodations, unless the mitigating measure itself limits a major life activity.
+(B) A mental or psychological disorder or condition limits a major life activity if it makes the achievement of the major life activity difficult.
+(C) “Major life activities” shall be broadly construed and shall include physical, mental, and social activities and working.
+(2) Any other mental or psychological disorder or condition not described in paragraph (1) that requires special education or related services.
+(3) Having a record or history of a mental or psychological disorder or condition described in paragraph (1) or (2), which is known to the employer or other entity covered by this part.
+(4) Being regarded or treated by the employer or other entity covered by this part as having, or having had, any mental condition that makes achievement of a major life activity difficult.
+(5) Being regarded or treated by the employer or other entity covered by this part as having, or having had, a mental or psychological disorder or condition that has no present disabling effect, but that may become a mental disability as described in paragraph (1) or (2).
+“Mental disability” does not include sexual behavior disorders, compulsive gambling, kleptomania, pyromania, or psychoactive substance use disorders resulting from the current unlawful use of controlled substances or other drugs.
+(k) “Veteran or military status” means a member or veteran of the United States Armed Forces, United States Armed Forces Reserve, the United States National Guard, and the California National Guard.
+(l) “On the bases enumerated in this part” means or refers to discrimination on the basis of one or more of the following: race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status.
+(m) “Physical disability” includes, but is not limited to, all of the following:
+(1) Having any physiological disease, disorder, condition, cosmetic disfigurement, or anatomical loss that does both of the following:
+(A) Affects one or more of the following body systems: neurological, immunological, musculoskeletal, special sense organs, respiratory, including speech organs, cardiovascular, reproductive, digestive, genitourinary, hemic and lymphatic, skin, and endocrine.
+(B) Limits a major life activity. For purposes of this section:
+(i) “Limits” shall be determined without regard to mitigating measures such as medications, assistive devices, prosthetics, or reasonable accommodations, unless the mitigating measure itself limits a major life activity.
+(ii) A physiological disease, disorder, condition, cosmetic disfigurement, or anatomical loss limits a major life activity if it makes the achievement of the major life activity difficult.
+(iii) “Major life activities” shall be broadly construed and includes physical, mental, and social activities and working.
+(2) Any other health impairment not described in paragraph (1) that requires special education or related services.
+(3) Having a record or history of a disease, disorder, condition, cosmetic disfigurement, anatomical loss, or health impairment described in paragraph (1) or (2), which is known to the employer or other entity covered by this part.
+(4) Being regarded or treated by the employer or other entity covered by this part as having, or having had, any physical condition that makes achievement of a major life activity difficult.
+(5) Being regarded or treated by the employer or other entity covered by this part as having, or having had, a disease, disorder, condition, cosmetic disfigurement, anatomical loss, or health impairment that has no present disabling effect but may become a physical disability as described in paragraph (1) or (2).
+(6) “Physical disability” does not include sexual behavior disorders, compulsive gambling, kleptomania, pyromania, or psychoactive substance use disorders resulting from the current unlawful use of controlled substances or other drugs.
+(n) Notwithstanding subdivisions (j) and (m), if the definition of “disability” used in the federal Americans with Disabilities Act of 1990 (Public Law 101-336) would result in broader protection of the civil rights of individuals with a mental disability or physical disability, as defined in subdivision (j) or (m), or would include any medical condition not included within those definitions, then that broader protection or coverage shall be deemed incorporated by reference into, and shall prevail over conflicting provisions of, the definitions in subdivisions (j) and (m).
+(o) “Race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status” includes any of the following:
+(1) Any combination of those characteristics.
+(2) A perception that the person has any of those characteristics or any combination of those characteristics.
+(3) A perception that the person is associated with a person who has, or is perceived to have, any of those characteristics or any combination of those characteristics.
+(p) “Reasonable accommodation” may include either of the following:
+(1) Making existing facilities used by employees readily accessible to, and usable by, individuals with disabilities.
+(2) Job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+(q) “Religious creed,” “religion,” “religious observance,” “religious belief,” and “creed” include all aspects of religious belief, observance, and practice, including religious dress and grooming practices. “Religious dress practice” shall be construed broadly to include the wearing or carrying of religious clothing, head or face coverings, jewelry, artifacts, and any other item that is part of an individual observing a religious creed. “Religious grooming practice” shall be construed broadly to include all forms of head, facial, and body hair that are part of an individual observing a religious creed.
+(r) (1) “Sex” includes, but is not limited to, the following:
+(A) Pregnancy or medical conditions related to pregnancy.
+(B) Childbirth or medical conditions related to childbirth.
+(C) Breastfeeding or medical conditions related to breastfeeding.
+(2) “Sex” also includes, but is not limited to, a person’s gender. “Gender” means sex, and includes a person’s gender identity and gender expression. “Gender expression” means a person’s gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.
+(s) “Sexual orientation” means heterosexuality, homosexuality, and bisexuality.
+(t) “Supervisor” means any individual having the authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or the responsibility to direct them, or to adjust their grievances, or effectively to recommend that action, if, in connection with the foregoing, the exercise of that authority is not of a merely routine or clerical nature, but requires the use of independent judgment.
+(u) “Undue hardship” means an action requiring significant difficulty or expense, when considered in light of the following factors:
+(1) The nature and cost of the accommodation needed.
+(2) The overall financial resources of the facilities involved in the provision of the reasonable accommodations, the number of persons employed at the facility, and the effect on expenses and resources or the impact otherwise of these accommodations upon the operation of the facility.
+(3) The overall financial resources of the covered entity, the overall size of the business of a covered entity with respect to the number of employees, and the number, type, and location of its facilities.
+(4) The type of operations, including the composition, structure, and functions of the workforce of the entity.
+(5) The geographic separateness or administrative or fiscal relationship of the facility or facilities.
+(v) “National origin” discrimination includes, but is not limited to, discrimination on the basis of possessing a driver’s license or identification card granted under Section 12801.9 of the Vehicle Code.
+(w) “Race” is inclusive of traits historically associated with race, including, but not limited to, hair texture and protective hairstyles.
+(x) “Protective hairstyles” includes, but is not limited to, such hairstyles as braids, locks, and twists.
+(y) “Reproductive health decisionmaking” includes, but is not limited to, a decision to use or access a particular drug, device, product, or medical service for reproductive health. This subdivision and other provisions in this part relating to “reproductive health decisionmaking” shall not be construed to mean that subdivision (r) of this section and other provisions in this part related to “sex” do not include reproductive health decisionmaking.
+
+SEC. 6.1. Section 12926 of the Government Code is amended to read:
+
+12926. As used in this part in connection with unlawful practices, unless a different meaning clearly appears from the context:
+(a) “Affirmative relief” or “prospective relief” includes the authority to order reinstatement of an employee, awards of backpay, reimbursement of out-of-pocket expenses, hiring, transfers, reassignments, grants of tenure, promotions, cease and desist orders, posting of notices, training of personnel, testing, expunging of records, reporting of records, and any other similar relief that is intended to correct unlawful practices under this part.
+(b) “Age” refers to the chronological age of any individual who has reached a 40th birthday.
+(c) Except as provided by Section 12926.05, “employee” does not include any individual employed by that person’s parent, spouse, or child or any individual employed under a special license in a nonprofit sheltered workshop or rehabilitation facility.
+(d) “Employer” includes any person regularly employing five or more persons, or any person acting as an agent of an employer, directly or indirectly, the state or any political or civil subdivision of the state, and cities, except as follows:
+“Employer” does not include a religious association or corporation not organized for private profit.
+(e) “Employment agency” includes any person undertaking for compensation to procure employees or opportunities to work.
+(f) “Essential functions” means the fundamental job duties of the employment position the individual with a disability holds or desires. “Essential functions” does not include the marginal functions of the position.
+(1) A job function may be considered essential for any of several reasons, including, but not limited to, any one or more of the following:
+(A) The function may be essential because the reason the position exists is to perform that function.
+(B) The function may be essential because of the limited number of employees available among whom the performance of that job function can be distributed.
+(C) The function may be highly specialized, so that the incumbent in the position is hired based on expertise or the ability to perform a particular function.
+(2) Evidence of whether a particular function is essential includes, but is not limited to, the following:
+(A) The employer’s judgment as to which functions are essential.
+(B) Written job descriptions prepared before advertising or interviewing applicants for the job.
+(C) The amount of time spent on the job performing the function.
+(D) The consequences of not requiring the incumbent to perform the function.
+(E) The terms of a collective bargaining agreement.
+(F) The work experiences of past incumbents in the job.
+(G) The current work experience of incumbents in similar jobs.
+(g) (1) “Genetic information” means, with respect to any individual, information about any of the following:
+(A) The individual’s genetic tests.
+(B) The genetic tests of family members of the individual.
+(C) The manifestation of a disease or disorder in family members of the individual.
+(2) “Genetic information” includes any request for, or receipt of, genetic services, or participation in clinical research that includes genetic services, by an individual or any family member of the individual.
+(3) “Genetic information” does not include information about the sex or age of any individual.
+(h) “Labor organization” includes any organization that exists and is constituted for the purpose, in whole or in part, of collective bargaining or of dealing with employers concerning grievances, terms or conditions of employment, or of other mutual aid or protection.
+(i) “Medical condition” means either of the following:
+(1) Any health impairment related to or associated with a diagnosis of cancer or a record or history of cancer.
+(2) Genetic characteristics. For purposes of this section, “genetic characteristics” means either of the following:
+(A) Any scientifically or medically identifiable gene or chromosome, or combination or alteration thereof, that is known to be a cause of a disease or disorder in a person or that person’s offspring, or that is determined to be associated with a statistically increased risk of development of a disease or disorder, and that is presently not associated with any symptoms of any disease or disorder.
+(B) Inherited characteristics that may derive from the individual or family member, that are known to be a cause of a disease or disorder in a person or that person’s offspring, or that are determined to be associated with a statistically increased risk of development of a disease or disorder, and that are presently not associated with any symptoms of any disease or disorder.
+(j) “Mental disability” includes, but is not limited to, all of the following:
+(1) Having any mental or psychological disorder or condition, such as intellectual disability, organic brain syndrome, emotional or mental illness, or specific learning disabilities, that limits a major life activity. For purposes of this section:
+(A) “Limits” shall be determined without regard to mitigating measures, such as medications, assistive devices, or reasonable accommodations, unless the mitigating measure itself limits a major life activity.
+(B) A mental or psychological disorder or condition limits a major life activity if it makes the achievement of the major life activity difficult.
+(C) “Major life activities” shall be broadly construed and shall include physical, mental, and social activities and working.
+(2) Any other mental or psychological disorder or condition not described in paragraph (1) that requires special education or related services.
+(3) Having a record or history of a mental or psychological disorder or condition described in paragraph (1) or (2), which is known to the employer or other entity covered by this part.
+(4) Being regarded or treated by the employer or other entity covered by this part as having, or having had, any mental condition that makes achievement of a major life activity difficult.
+(5) Being regarded or treated by the employer or other entity covered by this part as having, or having had, a mental or psychological disorder or condition that has no present disabling effect, but that may become a mental disability as described in paragraph (1) or (2).
+“Mental disability” does not include sexual behavior disorders, compulsive gambling, kleptomania, pyromania, or psychoactive substance use disorders resulting from the current unlawful use of controlled substances or other drugs.
+(k) “Veteran or military status” means a member or veteran of the United States Armed Forces, United States Armed Forces Reserve, the United States National Guard, and the California National Guard.
+(l) “On the bases enumerated in this part” means or refers to discrimination on the basis of one or more of the following: race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status.
+(m) “Physical disability” includes, but is not limited to, all of the following:
+(1) Having any physiological disease, disorder, condition, cosmetic disfigurement, or anatomical loss that does both of the following:
+(A) Affects one or more of the following body systems: neurological, immunological, musculoskeletal, special sense organs, respiratory, including speech organs, cardiovascular, reproductive, digestive, genitourinary, hemic and lymphatic, skin, and endocrine.
+(B) Limits a major life activity. For purposes of this section:
+(i) “Limits” shall be determined without regard to mitigating measures such as medications, assistive devices, prosthetics, or reasonable accommodations, unless the mitigating measure itself limits a major life activity.
+(ii) A physiological disease, disorder, condition, cosmetic disfigurement, or anatomical loss limits a major life activity if it makes the achievement of the major life activity difficult.
+(iii) “Major life activities” shall be broadly construed and includes physical, mental, and social activities and working.
+(2) Any other health impairment not described in paragraph (1) that requires special education or related services.
+(3) Having a record or history of a disease, disorder, condition, cosmetic disfigurement, anatomical loss, or health impairment described in paragraph (1) or (2), which is known to the employer or other entity covered by this part.
+(4) Being regarded or treated by the employer or other entity covered by this part as having, or having had, any physical condition that makes achievement of a major life activity difficult.
+(5) Being regarded or treated by the employer or other entity covered by this part as having, or having had, a disease, disorder, condition, cosmetic disfigurement, anatomical loss, or health impairment that has no present disabling effect but may become a physical disability as described in paragraph (1) or (2).
+(6) “Physical disability” does not include sexual behavior disorders, compulsive gambling, kleptomania, pyromania, or psychoactive substance use disorders resulting from the current unlawful use of controlled substances or other drugs.
+(n) Notwithstanding subdivisions (j) and (m), if the definition of “disability” used in the federal Americans with Disabilities Act of 1990 (Public Law 101-336) would result in broader protection of the civil rights of individuals with a mental disability or physical disability, as defined in subdivision (j) or (m), or would include any medical condition not included within those definitions, then that broader protection or coverage shall be deemed incorporated by reference into, and shall prevail over conflicting provisions of, the definitions in subdivisions (j) and (m).
+(o) “Race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status” includes any of the following:
+(1) Any combination of those characteristics.
+(2) A perception that the person has any of those characteristics or any combination of those characteristics.
+(3) A perception that the person is associated with a person who has, or is perceived to have, any of those characteristics or any combination of those characteristics.
+(p) “Reasonable accommodation” may include either of the following:
+(1) Making existing facilities used by employees readily accessible to, and usable by, individuals with disabilities.
+(2) Job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+(q) “Religious creed,” “religion,” “religious observance,” “religious belief,” and “creed” include all aspects of religious belief, observance, and practice, including religious dress and grooming practices. “Religious dress practice” shall be construed broadly to include the wearing or carrying of religious clothing, head or face coverings, jewelry, artifacts, and any other item that is part of an individual observing a religious creed. “Religious grooming practice” shall be construed broadly to include all forms of head, facial, and body hair that are part of an individual observing a religious creed.
+(r) (1) “Sex” includes, but is not limited to, the following:
+(A) Pregnancy or medical conditions related to pregnancy.
+(B) Childbirth or medical conditions related to childbirth.
+(C) Breastfeeding or medical conditions related to breastfeeding.
+(2) “Sex” also includes, but is not limited to, a person’s gender. “Gender” means sex, and includes a person’s gender identity and gender expression. “Gender expression” means a person’s gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.
+(s) “Sexual orientation” means heterosexuality, homosexuality, and bisexuality.
+(t) “Supervisor” means any individual having the authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or the responsibility to direct them, or to adjust their grievances, or effectively to recommend that action, if, in connection with the foregoing, the exercise of that authority is not of a merely routine or clerical nature, but requires the use of independent judgment.
+(u) “Undue hardship” means an action requiring significant difficulty or expense, when considered in light of the following factors:
+(1) The nature and cost of the accommodation needed.
+(2) The overall financial resources of the facilities involved in the provision of the reasonable accommodations, the number of persons employed at the facility, and the effect on expenses and resources or the impact otherwise of these accommodations upon the operation of the facility.
+(3) The overall financial resources of the covered entity, the overall size of the business of a covered entity with respect to the number of employees, and the number, type, and location of its facilities.
+(4) The type of operations, including the composition, structure, and functions of the workforce of the entity.
+(5) The geographic separateness or administrative or fiscal relationship of the facility or facilities.
+(v) “National origin” discrimination includes, but is not limited to, discrimination on the basis of possessing a driver’s license or identification card granted under Section 12801.9 of the Vehicle Code.
+(w) “Race” is inclusive of traits associated with race, including, but not limited to, hair texture and protective hairstyles.
+(x) “Protective hairstyles” includes, but is not limited to, such hairstyles as braids, locs, and twists.
+(y) “Reproductive health decisionmaking” includes, but is not limited to, a decision to use or access a particular drug, device, product, or medical service for reproductive health. This subdivision and other provisions in this part relating to “reproductive health decisionmaking” shall not be construed to mean that subdivision (r) of this section and other provisions in this part related to “sex” do not include reproductive health decisionmaking.
+
+SEC. 6.2. Section 12926 of the Government Code is amended to read:
+
+12926. As used in this part in connection with unlawful practices, unless a different meaning clearly appears from the context:
+(a) “Affirmative relief” or “prospective relief” includes the authority to order reinstatement of an employee, awards of backpay, reimbursement of out-of-pocket expenses, hiring, transfers, reassignments, grants of tenure, promotions, cease and desist orders, posting of notices, training of personnel, testing, expunging of records, reporting of records, and any other similar relief that is intended to correct unlawful practices under this part.
+(b) “Age” refers to the chronological age of any individual who has reached a 40th birthday.
+(c) Except as provided by Section 12926.05, “employee” does not include any individual employed by that person’s parent, spouse, or child or any individual employed under a special license in a nonprofit sheltered workshop or rehabilitation facility.
+(d) “Employer” includes any person regularly employing five or more persons, or any person acting as an agent of an employer, directly or indirectly, the state or any political or civil subdivision of the state, and cities, except as follows:
+“Employer” does not include a religious association or corporation not organized for private profit.
+(e) “Employment agency” includes any person undertaking for compensation to procure employees or opportunities to work.
+(f) “Essential functions” means the fundamental job duties of the employment position the individual with a disability holds or desires. “Essential functions” does not include the marginal functions of the position.
+(1) A job function may be considered essential for any of several reasons, including, but not limited to, any one or more of the following:
+(A) The function may be essential because the reason the position exists is to perform that function.
+(B) The function may be essential because of the limited number of employees available among whom the performance of that job function can be distributed.
+(C) The function may be highly specialized, so that the incumbent in the position is hired based on expertise or the ability to perform a particular function.
+(2) Evidence of whether a particular function is essential includes, but is not limited to, the following:
+(A) The employer’s judgment as to which functions are essential.
+(B) Written job descriptions prepared before advertising or interviewing applicants for the job.
+(C) The amount of time spent on the job performing the function.
+(D) The consequences of not requiring the incumbent to perform the function.
+(E) The terms of a collective bargaining agreement.
+(F) The work experiences of past incumbents in the job.
+(G) The current work experience of incumbents in similar jobs.
+(g) (1) “Genetic information” means, with respect to any individual, information about any of the following:
+(A) The individual’s genetic tests.
+(B) The genetic tests of family members of the individual.
+(C) The manifestation of a disease or disorder in family members of the individual.
+(2) “Genetic information” includes any request for, or receipt of, genetic services, or participation in clinical research that includes genetic services, by an individual or any family member of the individual.
+(3) “Genetic information” does not include information about the sex or age of any individual.
+(h) “Labor organization” includes any organization that exists and is constituted for the purpose, in whole or in part, of collective bargaining or of dealing with employers concerning grievances, terms or conditions of employment, or of other mutual aid or protection.
+(i) “Medical condition” means either of the following:
+(1) Any health impairment related to or associated with a diagnosis of cancer or a record or history of cancer.
+(2) Genetic characteristics. For purposes of this section, “genetic characteristics” means either of the following:
+(A) Any scientifically or medically identifiable gene or chromosome, or combination or alteration thereof, that is known to be a cause of a disease or disorder in a person or that person’s offspring, or that is determined to be associated with a statistically increased risk of development of a disease or disorder, and that is presently not associated with any symptoms of any disease or disorder.
+(B) Inherited characteristics that may derive from the individual or family member, that are known to be a cause of a disease or disorder in a person or that person’s offspring, or that are determined to be associated with a statistically increased risk of development of a disease or disorder, and that are presently not associated with any symptoms of any disease or disorder.
+(j) “Mental disability” includes, but is not limited to, all of the following:
+(1) Having any mental or psychological disorder or condition, such as intellectual disability, organic brain syndrome, emotional or mental illness, or specific learning disabilities, that limits a major life activity. For purposes of this section:
+(A) “Limits” shall be determined without regard to mitigating measures, such as medications, assistive devices, or reasonable accommodations, unless the mitigating measure itself limits a major life activity.
+(B) A mental or psychological disorder or condition limits a major life activity if it makes the achievement of the major life activity difficult.
+(C) “Major life activities” shall be broadly construed and shall include physical, mental, and social activities and working.
+(2) Any other mental or psychological disorder or condition not described in paragraph (1) that requires special education or related services.
+(3) Having a record or history of a mental or psychological disorder or condition described in paragraph (1) or (2), which is known to the employer or other entity covered by this part.
+(4) Being regarded or treated by the employer or other entity covered by this part as having, or having had, any mental condition that makes achievement of a major life activity difficult.
+(5) Being regarded or treated by the employer or other entity covered by this part as having, or having had, a mental or psychological disorder or condition that has no present disabling effect, but that may become a mental disability as described in paragraph (1) or (2).
+“Mental disability” does not include sexual behavior disorders, compulsive gambling, kleptomania, pyromania, or psychoactive substance use disorders resulting from the current unlawful use of controlled substances or other drugs.
+(k) “Veteran or military status” means a member or veteran of the United States Armed Forces, United States Armed Forces Reserve, the United States National Guard, and the California National Guard.
+(l) “On the bases enumerated in this part” means or refers to discrimination on the basis of one or more of the following: race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status.
+(m) “Physical disability” includes, but is not limited to, all of the following:
+(1) Having any physiological disease, disorder, condition, cosmetic disfigurement, or anatomical loss that does both of the following:
+(A) Affects one or more of the following body systems: neurological, immunological, musculoskeletal, special sense organs, respiratory, including speech organs, cardiovascular, reproductive, digestive, genitourinary, hemic and lymphatic, skin, and endocrine.
+(B) Limits a major life activity. For purposes of this section:
+(i) “Limits” shall be determined without regard to mitigating measures such as medications, assistive devices, prosthetics, or reasonable accommodations, unless the mitigating measure itself limits a major life activity.
+(ii) A physiological disease, disorder, condition, cosmetic disfigurement, or anatomical loss limits a major life activity if it makes the achievement of the major life activity difficult.
+(iii) “Major life activities” shall be broadly construed and includes physical, mental, and social activities and working.
+(2) Any other health impairment not described in paragraph (1) that requires special education or related services.
+(3) Having a record or history of a disease, disorder, condition, cosmetic disfigurement, anatomical loss, or health impairment described in paragraph (1) or (2), which is known to the employer or other entity covered by this part.
+(4) Being regarded or treated by the employer or other entity covered by this part as having, or having had, any physical condition that makes achievement of a major life activity difficult.
+(5) Being regarded or treated by the employer or other entity covered by this part as having, or having had, a disease, disorder, condition, cosmetic disfigurement, anatomical loss, or health impairment that has no present disabling effect but may become a physical disability as described in paragraph (1) or (2).
+(6) “Physical disability” does not include sexual behavior disorders, compulsive gambling, kleptomania, pyromania, or psychoactive substance use disorders resulting from the current unlawful use of controlled substances or other drugs.
+(n) Notwithstanding subdivisions (j) and (m), if the definition of “disability” used in the federal Americans with Disabilities Act of 1990 (Public Law 101-336) would result in broader protection of the civil rights of individuals with a mental disability or physical disability, as defined in subdivision (j) or (m), or would include any medical condition not included within those definitions, then that broader protection or coverage shall be deemed incorporated by reference into, and shall prevail over conflicting provisions of, the definitions in subdivisions (j) and (m).
+(o) “Race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status” includes any of the following:
+(1) Any combination of those characteristics.
+(2) A perception that the person has any of those characteristics or any combination of those characteristics.
+(3) A perception that the person is associated with a person who has, or is perceived to have, any of those characteristics or any combination of those characteristics.
+(p) “Reasonable accommodation” may include either of the following:
+(1) Making existing facilities used by employees readily accessible to, and usable by, individuals with disabilities.
+(2) Job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+(q) “Religious creed,” “religion,” “religious observance,” “religious belief,” and “creed” include all aspects of religious belief, observance, and practice, including religious dress and grooming practices. “Religious dress practice” shall be construed broadly to include the wearing or carrying of religious clothing, head or face coverings, jewelry, artifacts, and any other item that is part of an individual observing a religious creed. “Religious grooming practice” shall be construed broadly to include all forms of head, facial, and body hair that are part of an individual observing a religious creed.
+(r) (1) “Sex” includes, but is not limited to, the following:
+(A) Pregnancy or medical conditions related to pregnancy.
+(B) Childbirth or medical conditions related to childbirth.
+(C) Breastfeeding or medical conditions related to breastfeeding.
+(2) “Sex” also includes, but is not limited to, a person’s gender. “Gender” means sex, and includes a person’s gender identity and gender expression. “Gender expression” means a person’s gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.
+(s) “Sexual orientation” means heterosexuality, homosexuality, and bisexuality.
+(t) “Supervisor” means any individual having the authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or the responsibility to direct them, or to adjust their grievances, or effectively to recommend that action, if, in connection with the foregoing, the exercise of that authority is not of a merely routine or clerical nature, but requires the use of independent judgment.
+(u) “Undue hardship” means an action requiring significant difficulty or expense, when considered in light of the following factors:
+(1) The nature and cost of the accommodation needed.
+(2) The overall financial resources of the facilities involved in the provision of the reasonable accommodations, the number of persons employed at the facility, and the effect on expenses and resources or the impact otherwise of these accommodations upon the operation of the facility.
+(3) The overall financial resources of the covered entity, the overall size of the business of a covered entity with respect to the number of employees, and the number, type, and location of its facilities.
+(4) The type of operations, including the composition, structure, and functions of the workforce of the entity.
+(5) The geographic separateness or administrative or fiscal relationship of the facility or facilities.
+(v) “National origin” discrimination includes, but is not limited to, discrimination on the basis of possessing a driver’s license or identification card granted under Section 12801.9 of the Vehicle Code.
+(w) “Race” is inclusive of traits historically associated with race, including, but not limited to, hair texture and protective hairstyles.
+(x) “Protective hairstyles” includes, but is not limited to, such hairstyles as braids, locks, and twists.
+(y) “Reproductive health decisionmaking” includes, but is not limited to, a decision to use or access a particular drug, device, product, or medical service for reproductive health. This subdivision and other provisions in this part relating to “reproductive health decisionmaking” shall not be construed to mean that subdivision (r) of this section and other provisions in this part related to “sex” do not include reproductive health decisionmaking.
+(z) “Group or class complaint” includes any complaint alleging a pattern or practice. This subdivision is declarative of, and clarifies, existing law.
+
+SEC. 6.3. Section 12926 of the Government Code is amended to read:
+
+12926. As used in this part in connection with unlawful practices, unless a different meaning clearly appears from the context:
+(a) “Affirmative relief” or “prospective relief” includes the authority to order reinstatement of an employee, awards of backpay, reimbursement of out-of-pocket expenses, hiring, transfers, reassignments, grants of tenure, promotions, cease and desist orders, posting of notices, training of personnel, testing, expunging of records, reporting of records, and any other similar relief that is intended to correct unlawful practices under this part.
+(b) “Age” refers to the chronological age of any individual who has reached a 40th birthday.
+(c) Except as provided by Section 12926.05, “employee” does not include any individual employed by that person’s parent, spouse, or child or any individual employed under a special license in a nonprofit sheltered workshop or rehabilitation facility.
+(d) “Employer” includes any person regularly employing five or more persons, or any person acting as an agent of an employer, directly or indirectly, the state or any political or civil subdivision of the state, and cities, except as follows:
+“Employer” does not include a religious association or corporation not organized for private profit.
+(e) “Employment agency” includes any person undertaking for compensation to procure employees or opportunities to work.
+(f) “Essential functions” means the fundamental job duties of the employment position the individual with a disability holds or desires. “Essential functions” does not include the marginal functions of the position.
+(1) A job function may be considered essential for any of several reasons, including, but not limited to, any one or more of the following:
+(A) The function may be essential because the reason the position exists is to perform that function.
+(B) The function may be essential because of the limited number of employees available among whom the performance of that job function can be distributed.
+(C) The function may be highly specialized, so that the incumbent in the position is hired based on expertise or the ability to perform a particular function.
+(2) Evidence of whether a particular function is essential includes, but is not limited to, the following:
+(A) The employer’s judgment as to which functions are essential.
+(B) Written job descriptions prepared before advertising or interviewing applicants for the job.
+(C) The amount of time spent on the job performing the function.
+(D) The consequences of not requiring the incumbent to perform the function.
+(E) The terms of a collective bargaining agreement.
+(F) The work experiences of past incumbents in the job.
+(G) The current work experience of incumbents in similar jobs.
+(g) (1) “Genetic information” means, with respect to any individual, information about any of the following:
+(A) The individual’s genetic tests.
+(B) The genetic tests of family members of the individual.
+(C) The manifestation of a disease or disorder in family members of the individual.
+(2) “Genetic information” includes any request for, or receipt of, genetic services, or participation in clinical research that includes genetic services, by an individual or any family member of the individual.
+(3) “Genetic information” does not include information about the sex or age of any individual.
+(h) “Labor organization” includes any organization that exists and is constituted for the purpose, in whole or in part, of collective bargaining or of dealing with employers concerning grievances, terms or conditions of employment, or of other mutual aid or protection.
+(i) “Medical condition” means either of the following:
+(1) Any health impairment related to or associated with a diagnosis of cancer or a record or history of cancer.
+(2) Genetic characteristics. For purposes of this section, “genetic characteristics” means either of the following:
+(A) Any scientifically or medically identifiable gene or chromosome, or combination or alteration thereof, that is known to be a cause of a disease or disorder in a person or that person’s offspring, or that is determined to be associated with a statistically increased risk of development of a disease or disorder, and that is presently not associated with any symptoms of any disease or disorder.
+(B) Inherited characteristics that may derive from the individual or family member, that are known to be a cause of a disease or disorder in a person or that person’s offspring, or that are determined to be associated with a statistically increased risk of development of a disease or disorder, and that are presently not associated with any symptoms of any disease or disorder.
+(j) “Mental disability” includes, but is not limited to, all of the following:
+(1) Having any mental or psychological disorder or condition, such as intellectual disability, organic brain syndrome, emotional or mental illness, or specific learning disabilities, that limits a major life activity. For purposes of this section:
+(A) “Limits” shall be determined without regard to mitigating measures, such as medications, assistive devices, or reasonable accommodations, unless the mitigating measure itself limits a major life activity.
+(B) A mental or psychological disorder or condition limits a major life activity if it makes the achievement of the major life activity difficult.
+(C) “Major life activities” shall be broadly construed and shall include physical, mental, and social activities and working.
+(2) Any other mental or psychological disorder or condition not described in paragraph (1) that requires special education or related services.
+(3) Having a record or history of a mental or psychological disorder or condition described in paragraph (1) or (2), which is known to the employer or other entity covered by this part.
+(4) Being regarded or treated by the employer or other entity covered by this part as having, or having had, any mental condition that makes achievement of a major life activity difficult.
+(5) Being regarded or treated by the employer or other entity covered by this part as having, or having had, a mental or psychological disorder or condition that has no present disabling effect, but that may become a mental disability as described in paragraph (1) or (2).
+“Mental disability” does not include sexual behavior disorders, compulsive gambling, kleptomania, pyromania, or psychoactive substance use disorders resulting from the current unlawful use of controlled substances or other drugs.
+(k) “Veteran or military status” means a member or veteran of the United States Armed Forces, United States Armed Forces Reserve, the United States National Guard, and the California National Guard.
+(l) “On the bases enumerated in this part” means or refers to discrimination on the basis of one or more of the following: race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status.
+(m) “Physical disability” includes, but is not limited to, all of the following:
+(1) Having any physiological disease, disorder, condition, cosmetic disfigurement, or anatomical loss that does both of the following:
+(A) Affects one or more of the following body systems: neurological, immunological, musculoskeletal, special sense organs, respiratory, including speech organs, cardiovascular, reproductive, digestive, genitourinary, hemic and lymphatic, skin, and endocrine.
+(B) Limits a major life activity. For purposes of this section:
+(i) “Limits” shall be determined without regard to mitigating measures such as medications, assistive devices, prosthetics, or reasonable accommodations, unless the mitigating measure itself limits a major life activity.
+(ii) A physiological disease, disorder, condition, cosmetic disfigurement, or anatomical loss limits a major life activity if it makes the achievement of the major life activity difficult.
+(iii) “Major life activities” shall be broadly construed and includes physical, mental, and social activities and working.
+(2) Any other health impairment not described in paragraph (1) that requires special education or related services.
+(3) Having a record or history of a disease, disorder, condition, cosmetic disfigurement, anatomical loss, or health impairment described in paragraph (1) or (2), which is known to the employer or other entity covered by this part.
+(4) Being regarded or treated by the employer or other entity covered by this part as having, or having had, any physical condition that makes achievement of a major life activity difficult.
+(5) Being regarded or treated by the employer or other entity covered by this part as having, or having had, a disease, disorder, condition, cosmetic disfigurement, anatomical loss, or health impairment that has no present disabling effect but may become a physical disability as described in paragraph (1) or (2).
+(6) “Physical disability” does not include sexual behavior disorders, compulsive gambling, kleptomania, pyromania, or psychoactive substance use disorders resulting from the current unlawful use of controlled substances or other drugs.
+(n) Notwithstanding subdivisions (j) and (m), if the definition of “disability” used in the federal Americans with Disabilities Act of 1990 (Public Law 101-336) would result in broader protection of the civil rights of individuals with a mental disability or physical disability, as defined in subdivision (j) or (m), or would include any medical condition not included within those definitions, then that broader protection or coverage shall be deemed incorporated by reference into, and shall prevail over conflicting provisions of, the definitions in subdivisions (j) and (m).
+(o) “Race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, age, sexual orientation, reproductive health decisionmaking, or veteran or military status” includes any of the following:
+(1) Any combination of those characteristics.
+(2) A perception that the person has any of those characteristics or any combination of those characteristics.
+(3) A perception that the person is associated with a person who has, or is perceived to have, any of those characteristics or any combination of those characteristics.
+(p) “Reasonable accommodation” may include either of the following:
+(1) Making existing facilities used by employees readily accessible to, and usable by, individuals with disabilities.
+(2) Job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+(q) “Religious creed,” “religion,” “religious observance,” “religious belief,” and “creed” include all aspects of religious belief, observance, and practice, including religious dress and grooming practices. “Religious dress practice” shall be construed broadly to include the wearing or carrying of religious clothing, head or face coverings, jewelry, artifacts, and any other item that is part of an individual observing a religious creed. “Religious grooming practice” shall be construed broadly to include all forms of head, facial, and body hair that are part of an individual observing a religious creed.
+(r) (1) “Sex” includes, but is not limited to, the following:
+(A) Pregnancy or medical conditions related to pregnancy.
+(B) Childbirth or medical conditions related to childbirth.
+(C) Breastfeeding or medical conditions related to breastfeeding.
+(2) “Sex” also includes, but is not limited to, a person’s gender. “Gender” means sex, and includes a person’s gender identity and gender expression. “Gender expression” means a person’s gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.
+(s) “Sexual orientation” means heterosexuality, homosexuality, and bisexuality.
+(t) “Supervisor” means any individual having the authority, in the interest of the employer, to hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees, or the responsibility to direct them, or to adjust their grievances, or effectively to recommend that action, if, in connection with the foregoing, the exercise of that authority is not of a merely routine or clerical nature, but requires the use of independent judgment.
+(u) “Undue hardship” means an action requiring significant difficulty or expense, when considered in light of the following factors:
+(1) The nature and cost of the accommodation needed.
+(2) The overall financial resources of the facilities involved in the provision of the reasonable accommodations, the number of persons employed at the facility, and the effect on expenses and resources or the impact otherwise of these accommodations upon the operation of the facility.
+(3) The overall financial resources of the covered entity, the overall size of the business of a covered entity with respect to the number of employees, and the number, type, and location of its facilities.
+(4) The type of operations, including the composition, structure, and functions of the workforce of the entity.
+(5) The geographic separateness or administrative or fiscal relationship of the facility or facilities.
+(v) “National origin” discrimination includes, but is not limited to, discrimination on the basis of possessing a driver’s license or identification card granted under Section 12801.9 of the Vehicle Code.
+(w) “Race” is inclusive of traits associated with race, including, but not limited to, hair texture and protective hairstyles.
+(x) “Protective hairstyles” includes, but is not limited to, such hairstyles as braids, locs, and twists.
+(y) “Reproductive health decisionmaking” includes, but is not limited to, a decision to use or access a particular drug, device, product, or medical service for reproductive health. This subdivision and other provisions in this part relating to “reproductive health decisionmaking” shall not be construed to mean that subdivision (r) of this section and other provisions in this part related to “sex” do not include reproductive health decisionmaking.
+(z) (1) “Group or class complaint” includes any complaint alleging a pattern or practice. This paragraph is declarative of, and clarifies, existing law.
+(2) Changes made to subdivisions (w) and (x) by the measure that added this paragraph do not constitute changes in, but are declaratory of, existing law.
+
+SEC. 7. Section 2.5 of this bill incorporates amendments to Section 51 of the Civil Code proposed by both this bill and Assembly Bill 1815. That section of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2025, (2) each bill amends Section 51 of the Civil Code, and (3) this bill is enacted after Assembly Bill 1815, in which case Section 2 of this bill shall not become operative.
+SEC. 8. (a) Section 6.1 of this bill incorporates amendments to Section 12926 of the Government Code proposed by both this bill and Assembly Bill 1815. That section of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2025, (2) each bill amends Section 12926 of the Government Code, (3) Senate Bill 1022 is not enacted or as enacted does not amend that section, and (4) this bill is enacted after Assembly Bill 1815, in which case Sections 6, 6.2, and 6.3 of this bill shall not become operative.
+(b) Section 6.2 of this bill incorporates amendments to Section 12926 of the Government Code proposed by both this bill and Senate Bill 1022. That section of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2025, (2) each bill amends Section 12926 of the Government Code, (3) Assembly Bill 1815 is not enacted or as enacted does not amend that section, and (4) this bill is enacted after Senate Bill 1022, in which case Sections 6, 6.1, and 6.3 of this bill shall not become operative.
+(c) Section 6.3 of this bill incorporates amendments to Section 12926 of the Government Code proposed by this bill, Assembly Bill 1815, and Senate Bill 1022. That section of this bill shall only become operative if (1) all three bills are enacted and become effective on or before January 1, 2025, (2) all three bills amend Section 12926 of the Government Code, and (3) this bill is enacted after Assembly Bill 1815 and Senate Bill 1022, in which case Sections 6, 6.1, and 6.2 of this bill shall not become operative.

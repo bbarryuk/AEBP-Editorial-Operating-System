@@ -11,6 +11,9 @@ review_method: Direct fetch of rentboard.berkeleyca.gov registration-fee and par
 source:
   - https://rentboard.berkeleyca.gov/elected-rent-board/news/registration-fees-fiscal-year-fy-2026-2027
   - https://rentboard.berkeleyca.gov/rights-responsibilities/registration/partially-covered-unit-registration
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/local/berkeley/bmc-13.76-rent-stabilization-just-cause.txt
+  - knowledge/sources/local/berkeley/regs-ch05-applicability.txt
 ---
 
 # Berkeley Rent Board Registration — Fees, Deadlines, New-Tenancy Window

@@ -1,0 +1,59 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: OMC 8.22 Art. VII — Uniform Residential Tenant Relocation
+Jurisdiction: Oakland
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://library.municode.com/ca/oakland/codes/code_of_ordinances  [to confirm (add chapter/article deep link)]
+Version: Municode version dated 2026-07-13 (per original filename)
+Saved to OneDrive: 2026-09-28   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Oakland-MunCode-Ch8-Art7-07_13_2026.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+ARTICLE VII. - UNIFORM RESIDENTIAL TENANT RELOCATION ORDINANCE
+
+8.22.800 - Purpose.
+
+The purpose of this Section is to establish an uniform amount for relocation payments for tenants displaced by no-fault evictions.
+
+(Ord. No. 13468, § 1, 1-16-2018)
+8.22.810 - Definitions.
+
+"Disabled" means a person with a disability, as defined in Section 12955.3 of the Government Code.
+
+"Elderly" means a person sixty-two (62) years old or older.
+
+"Lower-Income Tenant Household" means Tenant Households whose income is not more than that permitted for lower income households, as defined by California Health and Safety Code Section 50079.5.
+
+"Minor Child(ren)" means a person(s) who is eighteen (18) years or younger at the time the notice is served.
+
+"Owner" or "Property Owner" means a person, persons, corporation, partnership, limited liability company, or any other entity holding fee title to the subject real property. In the case of multiple ownership of the subject real property, "Owner" or "Property Owner" refers to each entity holding any portion of the fee interest in the property, and the property owner's obligations in this Chapter shall be joint and several as to each property owner.
+
+"Qualifying Relocation Event" means any event or vacancy that triggers a Tenant's right to relocation payments under the Oakland Municipal Code.
+
+"Rental Unit" means a dwelling space in the City containing a separate bathroom, kitchen, and living area, including a single-family dwelling or unit in a multifamily or multipurpose dwelling, or a unit in a condominium or cooperative housing project, or a unit in a structure that is being used for residential uses whether or not the residential use is a conforming use permitted under the Oakland Municipal Code or Oakland Planning Code, which is hired, rented, or leased to a household within the meaning of California Civil Code Section 1940. This definition applies to any dwelling space that is actually used for residential purposes, including live-work spaces, whether or not the residential use is legally permitted.
+
+"Room" means an unsubdivided portion of the interior of a residential building in the City which is used for the purpose of sleeping, and is occupied by a Tenant Household for at least thirty (30) consecutive days. This includes, but is not limited to, a rooming unit or efficiency unit located in a residential hotel, as that term is defined in accordance with California Health and Safety Code Section 50519. This definition applies to any space that is actually used for residential purposes whether or not the residential use is legally permitted. For purposes of determining the amount of relocation payments, a room is the equivalent of a studio apartment.
+
+"Tenant" means a Tenant as that term is defined in O.M.C. 8.22.340.
+
+"Tenant Household" means one (1) or more individual Tenants who rent or lease a Rental Unit or Room as their primary residence and who share living accommodations. In the case where an individual Room is rented to multiple Tenants under separate agreements, each individual Tenant of such Room shall constitute a "Tenant Household" for purposes of this article.
+
+(Ord. No. 13608, § 6(Att. E), 7-21-2020; Ord. No. 13468, § 1, 1-16-2018)
+8.22.820 - Amount of relocation payments.
+
+A.
+
+Unless otherwise specified in a Section of the Oakland Municipal Code requiring relocation payments, Tenant Households who are required to move as a result of a Qualifying Relocation Event shall be entitled to a relocation payment from the Owner in the sum of six thousand five hundred dollars ($6,500.00) per unit for studios and one-bedroom apartments; eight thousand dollars ($8,000.00) per unit for two-bedroom apartments; and nine thousand eight hundred seventy-five dollars ($9,875.00) per unit for units with three or more bedrooms. The payment shall be divided equally among all Tenants occupying the Rental Unit at the time of service on the Tenants of the notice of termination of tenancy.
+
+B.
+
+Unless otherwise specified in a Section of the Oakland Municipal Code requiring relocation payments, Tenant Households in Rental Units that include lower income, elderly or disabled Tenants, and/or minor children shall be entitled to a single additional relocation payment of two thousand five hundred dollars ($2,500.00) per unit from the Owner. If a household qualifies for this additional payment, the payment shall be divided equally among eligible (lower-income, elderly, disabled, parents/guardians of minor children) Tenants.
+
+C.
+
+In the case of temporary relocations under O.M.C. 15.60.110 B., the amounts in paragraphs A-B shall be a cap on relocation payments.
+
+D.
+
+The relocation payments specified in subsection 8.22.820 A. shall increase annually on July 1 in accordance with the CPI Adjustment as calculated in O.M.C. subsection 8.22.070 B.3, and the increase shall apply to all eviction notices served on or after July 1. The first increase shall take place on July 1, 2017.
+
+(Ord. No. 13608, § 6(Att. E), 7-21-2020; Ord. No. 13468, § 1, 1-16-2018)

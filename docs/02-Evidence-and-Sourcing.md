@@ -4,11 +4,11 @@ doc_type: normative
 version: 0.2 (Working Draft)
 status: drafted, validated against one real fabrication incident (post 8006, 2026-07-08)
 owner: Brian
-last_updated: 2026-07-08
+last_updated: 2026-10-30
 purpose: Defines what counts as sufficient evidence for a legal or procedural claim, in what priority, and when a claim must be blocked pending verification rather than published with a caveat.
 used_by: [Claude, ChatGPT, human reviewer]
 depends_on: []
-referenced_by: [docs/01-Editorial-Standards.md, docs/03-Review-Format.md, skills/monday-cornerstone.md, skills/thursday-tip.md, skills/wwyd-social.md, reviews/thursday-tip-review.md]
+referenced_by: [knowledge/sources/README.md, docs/01-Editorial-Standards.md, docs/03-Review-Format.md, skills/monday-cornerstone.md, skills/thursday-tip.md, skills/wwyd-social.md, reviews/thursday-tip-review.md]
 ---
 
 # Document 02 — Evidence and Sourcing
@@ -35,6 +35,19 @@ Not all sources carry equal weight. When multiple sources touch the same claim, 
 8. Professional opinion (a judgment call, explicitly labeled as such)
 
 A claim sourced at level 6–8 must carry its Confidence Level label (below) so the reader and any downstream AI system can tell it apart from settled law.
+
+## EVD-SOURCE-SNAPSHOTS — Repo copies of the law are for drafting, not final verification
+
+Added 2026-10-30. `knowledge/sources/` holds verbatim snapshots of the statutes, bills, ordinances and regulations AEBP content relies on, so drafters and reviewers can quote the actual text without leaving the repo.
+
+**Rule:**
+
+1. **Draft and review from the snapshot.** When a claim rests on a statute or ordinance, quote or cite the section from the matching file in `knowledge/sources/`. A review finding about a legal claim should name the file and section it was checked against.
+2. **Verify against the live source before publishing.** A snapshot is accurate to the version saved, not guaranteed current. Before a post goes live, check each cited section against the Official URL in the file header. If the live text differs, update the snapshot (header, `manifest.json`, `knowledge/sources/README.md`) in the same round and treat the post's claim as unverified until reconciled.
+3. **Cite current code, not session law.** Files under `knowledge/sources/state/bills/` show what a bill changed. For what the law says now, cite the code section under `state/statutes/`.
+4. **Check the effective date.** Some files hold more than one version, or a version with a sunset or future operative date (for example CCP 415.20). Cite the version that matches the post's publish date.
+5. **OCR text is not quotable as-is.** A file marked OCR must be checked against the original PDF before any number, date or section reference from it is published.
+6. **No snapshot is not a blocker.** If a source isn't in `knowledge/sources/` yet, verify against the official source as before, and add the snapshot if the law will be cited again.
 
 ## EVD-ANECDOTE-INTEGRITY — Level 6 claims must be real, not invented
 

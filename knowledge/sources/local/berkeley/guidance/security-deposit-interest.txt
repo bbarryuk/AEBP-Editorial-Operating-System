@@ -1,0 +1,92 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: Berkeley Rent Board — Security deposit interest and calculator page
+Jurisdiction: Berkeley
+Source type: Agency guidance (EVD-SOURCE-HIERARCHY level 3)
+Official URL: https://rentboard.berkeleyca.gov/  [to confirm (add exact page link)]
+Version: not recorded
+Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Berkeley-Security-Deposit-Interest+Calculator.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Security Deposit Interest & Calculator
+
+The Berkeley Rent Ordinance requires landlords to pay interest on security deposits to tenants who live in units that are fully or partially covered by Berkeley’s Rent Ordinance.
+
+While every effort is made to ensure the accuracy of the Information provided, the Board is not responsible for any errors or omissions. Therefore, any information provided herein is for reference purposes only. Please contact our staff if you have any questions about a specific tenancy or the rights/responsibilities established by the Berkeley Rent Ordinance.
+Security deposit definition
+
+A security deposit is any payment, fee, deposit, or charge imposed at the start of a tenancy as an advance payment of rent, or to be used for any purpose, including recovering rent defaults, repairing damages caused by the tenant, or cleaning. This does not include application or screening fees. Money paid as the first month's rent isn't considered a security deposit, but money paid in excess of the first month's rent (including last month's rent) is part of the deposit.
+Types of security deposit interest payments and current rates
+Annual payment
+
+Landlords make payments annually each December during the tenancy, either as a cash payment or rent rebate. The annual payment must be made no later than January 31.
+
+The interest rate for a December 2025 annual return of security deposit interest: 0.9%.
+Move-out payment
+
+If a tenant moves out before the annual payment is due, the balance (normally the amount owed since the last annual payment) is paid when the tenant leaves.
+
+The interest rate for all September 2026 move-outs is 0.6%.
+
+As of 2013, security deposit interest rates are calculated exclusively using the Berkeley Bank Rate. Please contact a housing counselor in situations involving multiple years of unpaid security deposit interest for help with calculating the amount owed.
+Penalty for failure to pay annual security deposit interest by January 31
+
+If the landlord does not make the annual December interest payment by January 31, the tenant may recover interest at the rate of 10%. This penalty only applies to security deposit interest for the immediately preceding calendar year. For all other years different rules apply, and you should contact a housing counselor to help you calculate the amount owed.
+Security Deposit Interest Calculator
+
+Best used for simple calculations, like the current annual or move-out payment. The calculator fields are described below. If multiple years of interest payments are owed, if the tenant moved out of the unit more than a year ago, or if you’re not sure what numbers to use in the calculator, please contact a housing counselor, who can calculate the amount owed for you.
+
+Months: Entering the correct number of months can be tricky because the security deposit interest year runs from November 1 - October 31.  
+
+    Annual payment: For a tenant’s first annual payment, enter the number of months since the tenancy start date through October 31. Otherwise enter 12.
+    Move-out payment: Enter the number of months from November 1 through the tenant’s move-out date. If the tenancy started after the prior November, enter the number of months since the tenancy start date through the move-out date.
+
+Interest Rate: The current annual and move-out rates are above. Move-out rates for the last 12 months are in the table below. Some older annual rates are provided in the last table, but we recommend contacting a housing counselor if past years’ interest is owed.
+
+Security Deposit Amount: The dollar amount of the security deposit held.
+
+Do NOT use the ENTER key to calculate. Use the Calculate button!
+
+ 
+Months:	
+Interest Rate:	%
+Security Deposit Amount:	$
+ 	
+Interest to be paid:	
+ 
+Move-out security deposit interest payment rates (last 12 months)
+Move-out Month	Berkeley Bank Interest Rate	
+
+Interest rate to be paid upon move-out
+
+(12-month average rate)
+9/1/2026	0.5%	0.6%=Rate to be paid for September 2026 move-out
+8/1/2026	0.5%	0.6%=Rate to be paid for August 2026 move-out
+7/1/2026	0.5%	0.7%=Rate to be paid for July 2026 move-out
+6/1/2026	0.5%	0.7%=Rate to be paid for June 2026 move-out
+5/1/2026	0.8%	0.7%=Rate to be paid for May 2026 move-out
+4/1/2026	0.4%	0.7%=Rate to be paid for April 2026 move-out
+3/1/2026	0.5%	0.8%=Rate to be paid for March 2026 move-out
+2/1/2026	0.5%	0.8%=Rate to be paid for February 2026 move-out
+1/1/2026	0.8%	0.8%=Rate to be paid for January 2026 move-out
+12/1/2025	0.8%	0.9%=Rate to be paid for December 2025 move-out
+11/1/2025	0.8%	0.9%=Rate to be paid for November 2025 move-out
+10/1/2025	0.5%	0.9%=Rate to be paid for October 2025 move-out
+Annual security deposit payment interest rates: 2009-present
+Berkeley Bank Interest Rates for Annual Security Deposit Interest Payments2009	0.9%
+2010	0.4%
+2011	0.3%
+2012	0.2%
+2013	0.1%
+2014	0.1%
+2015	0.1%
+2016	0.1%
+2017	0.1%
+2018	0.1%
+2019	0.2%
+2020	0.2%
+2021	0.0%
+2022	0.1%
+2023	0.7%
+2024	1.2%
+2025	0.9%

@@ -1,0 +1,719 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: RMC Ch. 11.100 — Fair Rent, Just Cause for Eviction and Homeowner Protection
+Jurisdiction: Richmond
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://library.municode.com/ca/richmond/codes/code_of_ordinances?nodeId=ARTXIPUSAWE_CH11.100FAREJUCAEVHOPR  [already cited in knowledge/laws]
+Version: Municode version dated 2026-06-04 (per original filename)
+Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Richmond-Code-Art11-Chap11_100-06_04_2026.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Chapter 11.100 - FAIR RENT, JUST CAUSE FOR EVICTION AND HOMEOWNER PROTECTION
+
+11.100.010 - Title and purpose.
+
+This Article shall be known as The Richmond Fair Rent, Just Cause for Eviction and Homeowner Protection Ordinance. The purpose of this Ordinance is to promote neighborhood and community stability, healthy housing, and affordability for renters in the City of Richmond by controlling excessive rent increases and arbitrary evictions to the greatest extent allowable under California law, while ensuring Landlords a fair and reasonable return on their investment and protecting homeowners.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.020 - Findings.
+
+The People of Richmond find and declare as follows:
+
+(a)
+
+There is a shortage of decent, safe, affordable, and sanitary housing in the City of Richmond ("the City").
+
+(b)
+
+Tenants who play by the rules should not have to worry constantly about losing their home for no reason. Common-sense protections against unfair evictions are needed in the City to protect long-time and low-income residents from landlords that try to game the system to take advantage of all-time high rents.
+
+(c)
+
+The Haas Institute for a Fair and Inclusive Society at the University of California, Berkeley recently published a research brief entitled "Belonging and Community Health in Richmond: An Analysis of Changing Demographics and Housing." It found that displacement is a danger in the City; that median household income in the City has decreased by 15% from 2000 to 2013, twice the rate of Oakland and far more severe than El Cerrito and Berkeley; and that the decrease in homeownership in the City is only exceeded by two other local cities, Vallejo and Antioch.
+
+(d)
+
+Given the increased housing cost burden and poverty faced by many Richmond residents, excessive rent increases threaten the public health, safety, and welfare of Richmond residents, including seniors, those on fixed incomes, those with very low, low, and moderate income levels, and those with other special needs, to the extent that such persons may be forced to choose between paying rent and providing food, clothing, and medical care for themselves and their families.
+
+(e)
+
+According to RealFacts (March 20, 2015), the monthly rent and occupancy rates of market-rate units in apartment buildings of fifty or more units in the City have increased every year since 2010; the average asking rent of market-rate rental units has increased by 24.3% between 2010 and 2014.
+
+(f)
+
+According to the U.S. Census Bureau, 2009-2013 American Community Survey, 15.6% of families in the City live below the poverty level, and the number of persons living below the poverty level in the City has increased since 2000. According to the same survey, 54.9% of Richmond tenant households are "overpaying households," meaning the household pays 30% or more of its income on housing costs. Nearly half of Richmond's residents are Tenants.
+
+(g)
+
+The Haas Institute for a Fair and Inclusive Society memorandum entitled "Data on Richmond Rental Housing Issues," citing the American Community Survey, U.S. Census, found that during the 2011-2013 period, large portions of the City were made up of low-income tenants; approximately 6,740 tenant households (37% of the total tenants) are low-income, earn less than thirty-five thousand dollars ($35,000.00) annually, and spend more than 30% of their income on housing; and certain central and southern Richmond areas have more than 80% rental households.
+
+(h)
+
+The problem of rent increases has reached a crisis level, with examples of rents rising at rates more than ten (10) times that of inflation or average wage growth.
+
+(i)
+
+The City of Richmond currently does not restrict rental increases or grounds for eviction. Residents have been unfairly evicted so that landlords can take advantage of the current Bay Area housing shortage and raise rents. Tenants are provided little information regarding their rights in the case of eviction and how to get help if they believe their rights have been violated.
+
+(j)
+
+In light of the numerous concerns noted herein, including, but not limited to, the current and immediate threat to the health, safety, and welfare of the City's residents and the adverse impacts that would result from a substantial decrease of affordable housing within the City, the People of Richmond determine that it is in the interest of immediately preserving the public health, safety and general welfare to adopt this Ordinance in order to put into place, among other things, regulations to protect homeownership, just cause for eviction, rent stabilization, and a simple process to ensure that landlords continue to receive a reasonable return on their investment.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.030 - Definitions.
+
+The following words or phrases as used in this Article shall have the following meanings:
+
+(a)
+
+"Annual allowable rental adjustment": Annual allowable rental adjustment refers to the limit on the maximum allowable rent increase, which a landlord may charge on any controlled rental unit each year without order from a hearing officer.
+
+(b)
+
+"Board": The term "Board" refers to the Richmond Rent Board established by this Chapter.
+
+(c)
+
+"Disabled": The term "disabled" shall have the same meaning as in Section 12955.3 of the Government Code.
+
+(d)
+
+"Controlled Rental Units": All Residential Rental Units in the City of Richmond, except those Rental Units exempt under one or more of the following provisions:
+
+(1)
+
+Rental Units in hotels, motels, inns, tourist homes and rooming and boarding houses which are rented primarily to transient guests for a period of fewer than fourteen (14) days.
+
+(2)
+
+Rental Units in any hospital, convent, monastery, extended medical care facility, asylum, non-profit home for the aged, or dormitory owned and operated by an accredited institution of higher education.
+
+(3)
+
+Rental Units which a government unit, agency or authority owns, operates, manages, or in which governmentally subsidized Tenants reside only if applicable federal or state law or administrative regulation specifically exempt such units from municipal rent control.
+
+(4)
+
+Rental units exempt from rent control pursuant to the Costa-Hawkins Rental Housing Act (California Civil Code § 1954.52).
+
+(5)
+
+Any permitted small, second housing unit built in compliance with the Small, Second Unit Ordinance of the City of Richmond (Richmond Municipal Code § 15.04.810).
+
+(6)
+
+Any units exempted by the Homeowner Protections in Section 11.100.040.
+
+(e)
+
+"Housing services": Housing services include, but are not limited to, repairs, maintenance, painting, providing light, hot and cold water, elevator service, window shades and screens, storage, kitchen, bath and laundry facilities and privileges, janitor services, utilities that are paid by landlord, refuse removal, furnishings, telephone, parking, the right to have a specified number of occupants, and any other benefit, privilege or facility connected with the use or occupancy of any rental unit. Housing services to a rental unit shall include a proportionate part of services provided to common facilities of the building in which the rental unit is contained.
+
+(f)
+
+"Landlord": An owner, lessor, sublessor or any other person entitled to receive rent for the use and occupancy of any rental unit, or an agent, representative or successor of any of the foregoing.
+
+(g)
+
+"Maximum allowable rent": The maximum allowable rent which may be charged on any Controlled Rental Unit covered by this chapter.
+
+(h)
+
+"Primary residence": Occupancy of a primary residence does not require that the individual be physically present in the unit at all times or continuously, but the unit must be the individual's usual place of return. Indicia of primary residence include:
+
+(1)
+
+The individual carries on basic living activities at the subject premises for extended periods;
+
+(2)
+
+The subject premises are listed with other public agencies, including Federal, State and local taxing authorities as their primary residence;
+
+(3)
+
+Utilities are billed to and paid by the individual at the subject premises;
+
+(4)
+
+Homeowner's tax exemption for the individual has not been filed for a different property;
+
+(5)
+
+The occupant is not registered to vote at any other location;
+
+(6)
+
+Ownership must be held in the name of the individual claiming primary residence and not held by a limited liability corporation or other corporate structure;
+
+(7)
+
+Other relevant factors illustrating primary residence.
+
+(i)
+
+"Property": All rental units on a parcel or lot or contiguous parcels or contiguous lots under common ownership.
+
+(j)
+
+"Rent": All periodic payments and all nonmonetary consideration including, but not limited to, the fair market value of goods, labor performed or services rendered to or for the benefit of the Landlord under a rental housing agreement, as defined in this section, concerning the use or occupancy of a rental unit and premises, including all payment and consideration demanded or paid for parking, utilities, pets, furniture, subletting and security deposits for damages and cleaning.
+
+(k)
+
+"Rental housing agreement": An agreement, oral, written or implied, between a landlord and tenant for use or occupancy of a rental unit and for housing services.
+
+(l)
+
+"Rental housing fee": The fee described in Section 11.100.060(l)(1).
+
+(m)
+
+"Rental unit": Any building, structure, or part thereof, or land appurtenant thereto, or any other rental property rented or offered for rent for residential purposes, together with all Housing Services connected with use or occupancy of such property such as common areas and recreational facilities held out for use by the Tenant.
+
+(n)
+
+"Recognized tenant organization": Any group of tenants residing in rental units in the same building or in different buildings operated by the same management company, agent or landlord, who choose to be so designated.
+
+(o)
+
+"Rounding": Numbers will be rounded using the "half away from zero" method.
+
+(p)
+
+"Single-family home": A detached building containing a single residential dwelling unit separately alienable from any other dwelling unit.
+
+(q)
+
+"Temporary tenancy": The tenancy in a Single-Family Home, which is the primary residence of the Homeowner and does not last any longer than 12 consecutive months. A written contract must be provided to Tenant at the inception of the tenancy, which includes a notice that the tenancy shall terminate in no more than 12 months when the owner shall return to the single family home to reoccupy.
+
+(r)
+
+"Tenant": A tenant, subtenant, lessee, sublessee or any other person entitled under the terms of a rental housing agreement to the use or occupancy of any rental unit.
+
+(s)
+
+"Utility charges": Any charges for gas, electricity, water, gas, cable or internet.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.040 - Homeowner protections.
+
+(a)
+
+Homeownership is of great importance to the residents of the City of Richmond. The following protections for homeowners shall be part of this ordinance:
+
+(1)
+
+Temporary Rentals Allowed. A homeowner who is the primary resident of a single-family home may create a temporary tenancy. The temporary Tenant must be provided, in writing at the inception of the tenancy, the length of the tenancy and a statement that the tenancy maybe terminated at the end of the temporary tenancy (pursuant to Section 11.100.050(8) below) and relocation shall not be required.
+
+(2)
+
+Small, Second Units Unregulated. A unit that is lawful and in compliance with the Small Second Unit Ordinance of the City of Richmond (Richmond Municipal Code § 15.04.810.) will be exempt from this chapter if the owner is the Primary Resident of the first, larger single-family home.
+
+(3)
+
+Renting of a Room Unregulated. The tenancy where the tenant shares a bathroom or kitchen with the homeowner shall be exempt from this chapter if the home is the primary residence of the homeowner.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.050 - Just cause for eviction protections; family protections.
+
+(a)
+
+No landlord shall take action to terminate any tenancy, including but not limited to making a demand for possession of a rental unit, threatening to terminate a tenancy verbally or in writing, serving any notice to quit or other eviction notice, or bringing any action to recover possession or be granted recovery of possession of a rental unit unless:
+
+(1)
+
+Failure to Pay Rent. The tenant has failed to pay the rent to which the landlord is legally entitled under the rental housing agreement, this Chapter, state and any other local law.
+
+(2)
+
+Breach of Lease. The tenant has continued, after written notice to cease, to substantially violate any of the material terms of the rental agreement, except the obligation to surrender possession on proper notice as required by law, and provided that such terms are reasonable and legal and have been accepted in writing by the tenant or made part of the rental agreement; and provided further that, where such terms have been accepted by the tenant or made part of the rental agreement subsequent to the initial creation of the tenancy, the landlord shall have first notified the tenant in writing that he or she need not accept such terms or agree to their being made part of the rental agreement.
+
+(A)
+
+Notwithstanding any contrary provision in this section, a landlord shall not take any action to terminate a tenancy based on a tenant's sublease of the unit if the following requirements are met:
+
+(i)
+
+The tenant continues to reside in the rental unit as his, her or their primary residence.
+
+(ii)
+
+The sublease replaces one or more departed tenants under the rental housing agreement on a one-for-one basis.
+
+(iii)
+
+The landlord has unreasonably withheld the right to sublease following written request by the tenant. If the landlord fails to respond to the tenant in writing within fourteen (14) days of receipt of the tenant's written request, the tenant's request shall be deemed approved by the landlord. A landlord's reasonable refusal of the tenant's written request may not be based on the proposed additional occupant's lack of creditworthiness, if that person will not be legally obligated to pay some or all of the rent to the landlord. A landlord's reasonable refusal of the tenant's written request may be based on, but is not limited to, the ground that the total number of occupants in a rental unit exceed the maximum number of occupants as determined under Section 503(b) of the Uniform Housing Code as incorporated by California Health & Safety Code Section 17922.
+
+(B)
+
+Protections for Families. Notwithstanding any contrary provision in this section, a landlord shall not endeavor to recover possession of a rental unit as a result of the addition to the rental unit of a tenant's child, parent, grandchild, grandparent, brother or sister, or the spouse or domestic partner (as defined in California Family Code Section 297) of such relatives, or as a result of the addition of the spouse or domestic partner of a Tenant, so long as the number of occupants does not exceed the maximum number of occupants as determined under Section 503(b) of the Uniform Housing Code as incorporated by California Health & Safety Code 17922. The Rent Board shall promulgate regulations that will further protect families and promote stability for school-aged children.
+
+(3)
+
+Nuisance. The Tenant has continued, after the Landlord has served the tenant with a written notice to cease, to commit or expressly permit a nuisance in, or cause substantial damage to the Rental Unit.
+
+(4)
+
+Failure to Give Access. The tenant has continued to refuse without good cause, after the landlord has served the tenant with a written notice, to grant the landlord reasonable access to the rental unit for the purposes of showing the unit to prospective purchasers or mortgagees or making necessary repairs or improvements required by the laws of the United States, the State of California or any subdivision thereof. This shall include inspections by the Richmond Residential Rental Inspection Program and any other inspections needed so that the landlord may comply with such laws. The Board shall promulgate regulations for the repair and improvement of rental units to ensure the least amount of disruption for the tenant. Unless due to a documented emergency affecting a tenant's health and/ or safety, all repair or improvement work will be scheduled in compliance with applicable Board regulations. To terminate a tenancy under this Subsection (a)(4), a Landlord must show that written notice was provided to the tenant and all necessary repair or improvement work was scheduled in compliance with this section and all applicable Board regulations. Landlords may not use lock boxes on occupied units.
+
+(5)
+
+Temporarily Vacate in Order to Undertake Substantial Repairs.
+
+(A)
+
+The landlord, after having obtained all necessary permits from the City of Richmond, seeks in good faith to undertake substantial repairs which are necessary to bring the property into compliance with applicable codes and laws affecting the health and safety of Tenants of the building or where necessary under an outstanding notice of code violations affecting the health and safety of Tenants of the building, and where such repairs cannot be completed while the tenant resides on the premises.
+
+(B)
+
+Where such repairs can be completed in a period of 60 or fewer days, and the tenant, within 30 days after the service of a notice of termination of his or her tenancy, agrees in writing to vacate the premises during the period required to complete the repairs at no charge to the landlord, other than abatement of the obligation to pay rent for the premises during the period required to complete the repairs, the landlord may not recover possession pursuant to this subsection 5 unless the tenant shall fail or refuse to vacate the premises in accordance with such agreement.
+
+(C)
+
+Where the landlord owns any other residential rental units in the City of Richmond, and any such unit is vacant and available at the time of service of the written notice terminating the tenancy, or at any time thereafter until the earlier of the tenant's vacating the premises or the entry of a judgment by a court of competent jurisdiction awarding possession of the premises to the landlord, the landlord shall, as a condition of obtaining possession pursuant to this subsection 11.100.050 (a) (5) notify tenant in writing of the existence and address of each such vacant rental unit and offer tenant the right, at the tenant's option:
+
+(1)
+
+To enter into a rental agreement (to be designated as a "temporary rental agreement") on any available rental unit which the tenant may choose, at a rent not to exceed the lesser of the lawful rent which may be charged for such available rental unit or the lawful rent in effect, at the time of the notice of termination of tenancy, on the unit being vacated, said rental agreement to be for a term of the lesser of ninety days or until completion of repairs on the rental unit being vacated by tenant; or
+
+(2)
+
+To enter into a new rental agreement or lease for such available rental unit at a rent not to exceed the lawful rent which may he charged for such available rental unit.
+
+(D)
+
+Where the Landlord recovers possession under this subsection 11.100.050 (a) (5) the tenant must be given the right of first refusal to re-occupy the unit upon completion of the required work. In the event the landlord files an application for an individual rent adjustment within six months following the completion of the work, the tenant shall be a party to such proceeding the same as if he or she were still in possession, unless the landlord shall submit, with such application, a written waiver by the tenant of his or her right to re-occupy the premises pursuant to this subsection.
+
+(6)
+
+Owner Move-In. The landlord seeks to recover possession in good faith for use and occupancy as a primary residence by the landlord, or the landlord's spouse children, parents or grandparents.
+
+(A)
+
+Landlord, as used in this Subsection (a)(6), shall only include a Landlord that is a natural person who has at least a fifty (50) percent recorded ownership interest in the property.
+
+(B)
+
+No eviction may take place for an "owner move-in" if the same landlord or enumerated relative already occupies a unit on the property, or if a vacancy already exists on the property. At all times a landlord may request a reasonable accommodation if the landlord or enumerated relative is disabled and another unit in Richmond is necessary to accommodate the person's disability.
+
+(C)
+
+The notice terminating tenancy shall contain the name, address and relationship to the landlord of the person intended to occupy the rental unit.
+
+(D)
+
+The landlord or enumerated relative must intend in good faith to move into the rental unit within ninety (90) days after the tenant vacates and to occupy the rental unit as a primary residence for at least Thirty-Six (36) consecutive months. The Board may adopt regulations governing the determination of good faith.
+
+(E)
+
+If the landlord or relative specified on the notice terminating tenancy fails to occupy the unit within ninety (90) days after the tenant vacates, the landlord shall:
+
+(i)
+
+Offer the unit to the tenant who vacated it; and
+
+(ii)
+
+Pay to said Tenant all reasonable expenses incurred in moving to and from the unit.
+
+(F)
+
+Eviction Protection for Elderly or Disabled Tenant. A landlord may not evict a tenant pursuant to this subsection if the tenant (1) has resided in the rental unit for at least five (5) years and is either at least 62 years old or disabled; or (2) is certified as being terminally ill by the tenant's treating physician. For the purposes of this Subsection, Notwithstanding the above, a landlord may evict a tenant who qualifies for the exemption if the landlord or enumerated relative who will occupy the unit also meets the criteria for this exemption and no other units are available.
+
+(7)
+
+Withdrawal from Rental Market. The landlord seeks in good faith to recover possession to withdraw all rental units of an entire property located in the City of Richmond. The landlord has filed the documents with the Board initiating the procedure for withdrawing units from rent or lease under Government Code Section 7060 et. seq. and all regulations passed by the Board, with the intention of completing the withdrawal process and going out of the rental business or demolition of the property. If demolition is the purpose of the withdrawal then the landlord must have received all needed permits from the City of Richmond before serving any notices Terminating a tenancy based on 11.100.50 (a) (7). Tenants shall be entitled to a 120-day notice or one (1) year in the case tenants are defined as senior or Disabled under Govt. Code Section 7060.4 (6). Tenants will also have a right of return if the unit is placed back on the market.
+
+(8)
+
+Temporary Tenancy. A landlord or lessor seeks in good faith to recover possession of the single-family home for his/her/their occupancy as a primary residence, where the landlord has previously occupied the rental unit as his/her/their principal residence and has the right to recover possession of the unit for his/her occupancy as a principal residence under an existing rental agreement with the current tenants for no more than twelve (12) consecutive months. No relocation is required. To be used only in reference to tenancies as listed in 11.100.040(a)(1).
+
+(b)
+
+Relocation. A landlord seeking to recover possession under Sections 11.100.050(a)(5), (6) or (7) above shall make relocation payments to each tenant. These amounts shall be determined by the City Council through a Relocation Ordinance.
+
+(c)
+
+Right of Return and First Right of Refusal. All tenants that are displaced based on Sections 11.100.050(a)(5), (6) or (7) shall have the first right of refusal to return to the unit if it should ever be returned to the market by the landlord or successor landlord. Rent shall be the Rent lawfully paid by the tenant at the time the landlord gave notice of basis listed in Sections 11.100.050(a)(5), (6) or (7).
+
+(d)
+
+Written Warning Notice Requirements. Any written notice as described in Subsections 11.100.050(a)(2), (3) or (4) shall be served by the landlord within a reasonable period prior to serving a notice to terminate tenancy and shall inform the tenant that a failure to cure may result in the initiation of eviction proceedings, of the right to request a reasonable accommodation and the contact number for the Board. The notice shall also include sufficient details allowing a reasonable person to comply. The notice shall also include any information necessary to determine the date, time, place, witnesses present and other circumstances concerning the reason for the notice.
+
+(e)
+
+Retaliation is Barred. Notwithstanding the above provisions, possession shall not be granted if it is determined that the eviction is knowingly in retaliation for the tenant reporting violations of this Chapter, for exercising rights granted under this Chapter, including the right to withhold rent under common, state or local law or for forming a Recognized Tenant Organization with other tenants.
+
+(f)
+
+In any notice purporting to terminate a tenancy the landlord shall state the cause for the termination, and in any action brought to recover possession of a rental unit, the Landlord shall allege and prove compliance with this section. All notices described in Subsection 11.100.050(d) shall be attached to any notices that purport to terminate a tenancy for which they correspond.
+
+(g)
+
+Failure to comply with any requirement of this chapter may be asserted as an affirmative defense in an action brought by the Landlord to recover possession of the unit. Additionally, any attempt to recover possession of a unit in violation of this chapter shall render the landlord liable to the tenant for actual damages, including damages for emotional distress, in a civil action for wrongful eviction. The tenant or the Rent Board may seek injunctive relief and money damages for wrongful eviction. A Tenant prevailing in an action for wrongful eviction shall recover costs and reasonable attorney's fees.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.060 - Richmond Rent Board.
+
+(a)
+
+Composition. There shall be in the City of Richmond a Rent Board. The Board shall be made up of Richmond residents. The Board shall consist of five Board Members appointed by the City Council. The Board shall elect annually as chairperson one of its members to serve in that capacity.
+
+(b)
+
+Eligibility. Duly qualified residents of the City of Richmond are eligible to serve as Members of the Board. There shall be no more than two members that own or manage any rental property or are realtors. Anyone nominated to this board must be in compliance with this chapter and all other local, state and federal laws regulating the provision of housing.
+
+(c)
+
+Full Disclosure of Holdings. Nominees for the position of Board Member shall submit a verified statement listing all of their interests and dealings in real property, including but not limited to its ownership, sale or management, during the previous three (3) years. The Board may promulgate additional regulations.
+
+(d)
+
+Term of Office. Board Members shall serve terms of two (2) years and maybe reappointed for a total of four (4) full terms for a total of fewer than ten (10) years.
+
+(e)
+
+Powers and Duties. The Board shall have the following powers and duties:
+
+(1)
+
+Establish a base rent under Section 11.100.070 (a).
+
+(2)
+
+Make adjustments in the rent increase and decreases in accordance with Section 11.100.070.
+
+(3)
+
+Set rents at fair and equitable levels in order to achieve the intent of this Chapter.
+
+(4)
+
+Issue orders, rules and regulations, conduct hearings and charge fees as set forth below.
+
+(5)
+
+Make such studies, surveys and investigations, conduct such hearings, and obtain such information as is necessary to carry out its powers and duties.
+
+(6)
+
+Report annually to the City Council of the City of Richmond on the status of rental housing covered by this chapter. Reports shall include a summary of the numbers of notices served, the basis upon which they were served, the amount of the rent increases and the addresses for which they were served.
+
+(7)
+
+Charge and collect registration fees, including penalties for late payments.
+
+(8)
+
+Collect and/or receive copies of notices of termination of tenancy and changes in terms of tenancy.
+
+(9)
+
+A searchable database will be created so that service of notice may be determined as well information for the reports described above.
+
+(10)
+
+Administer the withdrawal process for the removal of rental units from rental housing market under sections 11.100.050(a)(6) and (7).
+
+(11)
+
+Administer oaths and affirmations and subpoena witnesses.
+
+(12)
+
+Establish rules and regulations for deducting penalties and settling civil claims under Section 11.100.100.
+
+(13)
+
+Refer violations of this chapter to appropriate authorities for prosecution.
+
+(14)
+
+Seek injunctive and other civil relief under Section 11.100.100—110.
+
+(15)
+
+Any other duties necessary to administer and enforce this Chapter.
+
+(f)
+
+Rules and Regulations. The Board shall issue and follow such rules and regulations, including those which are contained in this Chapter, as will further the purposes of the Chapter. The Board shall publicize its rules and regulations prior to promulgation on its website and any other appropriate medium. All rules and regulations, internal staff memoranda, and written correspondence explaining the decisions, orders, and policies of the Board shall be kept in the Board's office and shall be available to the public for inspection and copying.
+
+(g)
+
+Community Education. The Board shall publicize this chapter so that all residents of Richmond will have the opportunity to become informed about their legal rights and duties under this Chapter. The Board shall prepare a brochure which fully describes the legal rights and duties of landlords and tenants under The Fair Rent, Just Cause for Eviction and Homeowner Protection Ordinance. The brochure shall also include helpful information for homeowners. The brochure will be available to the public, and each Tenant of a Rental Unit shall receive a copy of the brochure from his, her or their landlord. Landlords shall provide the brochure at the commencement of the tenancy and with each notice of rent increase. This brochure will be made available for download from the City of Richmond website and/or other appropriate technology. Information about the Ordinance shall be made available in all other languages that are requested by the community.
+
+(h)
+
+Meetings. The Board shall hold such regularly scheduled meetings as are necessary to ensure the timely performance of its duties under this Chapter. All regular and special meetings shall be called and conducted in accordance with state law. There shall be minimally one (1) meeting a year so that the Board may comply with 11.100.070.
+
+(i)
+
+Quorum. Three (3) Members shall constitute a quorum for the Board.
+
+(j)
+
+Voting. The affirmative vote of three (3) Members of the Board is required for a decision, including all motions, regulations, and orders of the Board.
+
+(k)
+
+Dockets. The Board shall maintain and keep in its office all hearing dockets.
+
+(l)
+
+Financing. The Board shall finance its reasonable and necessary expenses by charging landlords annual registration fees in amounts deemed reasonable by the Board. The Board is also empowered to request and receive funding when and if necessary from any available source for its reasonable and necessary expenses.
+
+(1)
+
+Residential Rental Housing Fee. All landlords shall pay a business license fee if required by Richmond Municipal Code plus a Residential Rental Housing Fee. The City shall charge the Residential Rental Housing Fee at the same time as the business license fee. The amount will be determined by the City Council after a recommendation by the Board is provided to the City Council. The City Council will vote on the recommendation at the next regularly scheduled meeting. The budget shall be funded by the rental housing fee.
+
+(2)
+
+This fee shall become due within thirty (30) days of inception of new tenancy if no fee was paid the prior year. Ongoing tenancies shall have fees collected at the same time as the City business license each year.
+
+(m)
+
+Integrity and Autonomy of Board. The Board shall be an integral part of the government of the City, but shall exercise its powers and duties under this chapter independent from the City Council, City Manager, and City Attorney, except by request of the Board. The City shall provide infrastructural support on an ongoing basis as it would with any other department. Doing the transition period before the Board Members are appointed and an Executive Director is hired, the City shall take whatever steps necessary to perform the duties of the Board and implement the purpose of this Chapter.
+
+(n)
+
+Budget. The Board shall, prior to July 1 of each year, hold a public hearing on a proposed budget and adopt an annual budget for the ensuing fiscal year. At least thirty-five days prior to the beginning of each fiscal year, the Board's Executive Director shall submit to the Board the proposed budget as prepared by the Executive Director. After reviewing the same and making such revisions as it may deem advisable, the Board shall determine the time for the holding of a public hearing thereon and shall cause to be published a notice thereof not less than ten days prior to said hearing, by at least one insertion in the official newspaper. Copies of the proposed budget shall be available for inspection by the public in the office of the Board at least ten days prior to said hearing. The City Council and the City Manager shall have no authority to oversee, supervise, or approve this budget. Upon final adoption, the budget shall be in effect for the ensuing fiscal year and the amounts stated therein shall be and become appropriated by the Board for the respective objects and purposes therein specified. At any meeting after the adoption of the budget the Board may amend or supplement the budget by the affirmative votes of at least three members. Copies of the adopted budget and any amendments or supplements shall be filed with the City Clerk, and City Manager. Necessary adjustments to city administrative procedures shall be made.
+
+(o)
+
+Personnel. The Board shall review and assess yearly that sufficient number of staff are employed, including an Executive Director, hearing examiners, housing counselors and legal staff, as may be necessary to perform its function efficiently in order to fulfill the purpose of this Chapter. The Executive Director shall be hired by the Board. All employees of the Board shall be hired, terminated, suspended, and demoted in accordance with the Charter and implementing provisions of the Municipal Code.
+
+(p)
+
+Board Legal Work. Legal staff hired by the Board shall represent and advise the Board, its Members, and its staff in any civil matters, actions, or proceedings in which the Board, its Members, or its staff, in or by reason of their official capacity, are concerned or are a party. The Board may, in its sole discretion, and without approval of the City Council, retain private attorneys to furnish legal advice or representation in particular matters, actions or proceedings.
+
+(q)
+
+Contracts and Purchases. The Board shall procure goods and services as do other City agencies using existing support services within the City as would any other department, i.e. finance, information technology, and public works among others. Provided, however, that the Board shall have sole and final authority to employ attorneys, legislative lobbyists, and other professionals, and to approve contracts for such professional services.
+
+(r)
+
+Conforming Regulations. If any portion of this chapter is declared invalid or unenforceable by decision of a court of competent jurisdiction or rendered invalid or unenforceable by state or federal legislation, the Board and not the City Council shall have authority to enact replacement regulations consistent with the intent and purpose of the invalidated provision and applicable law. Such replacement regulations shall supersede invalidated or unenforceable provisions of this chapter to the extent necessary to resolve any inconsistency. The subject matter of such replacement regulations shall be limited to rent control matters as enumerated in this Chapter.
+
+(s)
+
+Reporting and Fee Payment Requirements.
+
+(1)
+
+Within sixty (60) days after the adoption of this Chapter, all Landlords shall be required to file a copy of all rental increase notices, change of terms of tenancy and tenancy termination notices with the Board before serving the tenant the notice. A proof of service with time and date of service of notice shall be included with notice filed with the City.
+
+(2)
+
+If the Board, after the Landlord has proper notice and after a hearing, determines that a Landlord has willfully and knowingly failed to properly report, as described above, any rental increase notices, change of terms of tenancy or tenancy termination, or pay the rental housing fee, the Board may authorize the tenant of such a non-reporting unit or where the rent housing fee is unpaid to withhold all or a portion of the rent for the rental unit until such time as the rental housing fee is paid or notice filed. After a notice is properly filed or fee paid, the Board shall determine what portion, if any, of the withheld rent is owed to the landlord for the period in which the notice was not properly filed or fee paid. Whether or not the Board allows such withholding, no Landlord who has failed to properly report or pay the fee shall at any time increase Rents for a Rental Unit until such fee or notice is reported. This shall go into effect thirty (30) days after determination of the Board.
+
+(3)
+
+Further, failing to pay the fee or filing a copy of a notice before the filing of an unlawful detainer is a complete defense to an unlawful detainer. No Board action is required for defense to be alleged or litigated in an unlawful detainer.
+
+(t)
+
+In the event the establishment of the Board under this section is adjudged to be invalid for any reason by a court of competent jurisdiction, the City Council shall designate one or more City departments, agencies, boards, or commissions to perform the duties of the Board prescribed by this Chapter.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.070 - Rent control; right of reasonable return for landlords.
+
+(a)
+
+Establishment of Base Rent. Beginning the effective date of this Chapter, no landlord shall charge rent for any Controlled Rental Units in an amount greater than the rent in effect on July 21, 2015 except for increases expressly allowed under this Chapter. The rent in effect on that date is the base rent. If there was no rent in effect on July 21, 2015, the base rent shall be the rent that was charged on the first date that rent was charged following July 21, 2015. For tenancies commencing after the adoption of this Chapter, the base rent is the initial rental rate in effect on the date the tenancy commences. As used in this Subsection, the term "initial rental rate" means only the amount of rent actually paid by the tenant for the initial term of the tenancy. The base rent is the reference point from which the maximum allowable rent shall be adjusted upward or downward in accordance with Section 11.100.070(c).
+
+(b)
+
+Annual General Adjustment. No later than June 30 each year, the Board shall announce the percentage by which rent for eligible rental units will be generally adjusted effective September 1 of that year.
+
+(1)
+
+The annual general adjustment shall be equal to 60 percent of the percentage increase in the Consumer Price Index (all urban consumers, San Francisco-Oakland-San Jose region, or any successor designation of that index that may later be adopted by the U.S. Bureau of Labor Statistics) as reported and published by the U.S. Department of Labor, Bureau of Labor Statistics, for the 12-month period ending as of March of the current year, or three percent, whichever is lower.
+
+(2)
+
+Subsection (1) of this section notwithstanding, in no event shall the annual general adjustment be less than zero percent.
+
+(3)
+
+Notwithstanding any previously issued rent increase, the annual general adjustment for 2022 is three percent. In the event a landlord issued a rent increase on or after September 1, 2022 in excess of three percent, that tenant's rent shall be adjusted to their maximum allowable rent on August 31, 2022, plus three percent.
+
+(c)
+
+Petitions. Upon receipt of a petition by a Landlord and/or a tenant, the maximum allowable rent of individual controlled rental units may be adjusted upward or downward in accordance with the procedures set forth elsewhere in this section. The petition shall be on the form provided by the Board and shall include a declaration by the landlord that the rental unit meets all requirements of this chapter. Notwithstanding any other provision of this section, the Board or hearing examiner may refuse to hold a hearing and/or grant a rent adjustment if an individual hearing has been held and decision made with regard to the maximum allowable rent within the previous twelve (12) months.
+
+(d)
+
+Hearing Procedure. The Board shall enact rules and regulations governing hearings and appeals of individual adjustment of maximum allowable rents which shall include the following:
+
+(1)
+
+Hearing Examiner. A hearing examiner appointed by the Board shall conduct a hearing to act upon the petition for individual adjustment of maximum allowable rent and shall have the power to administer oaths and affirmations.
+
+(2)
+
+Notice. The Board shall notify the landlord, if the petition was filed by the tenant, or the tenant, if the petition was filed by the landlord, of the receipt of such a petition and provide a copy thereof.
+
+(3)
+
+Time of Hearing. The hearing officer shall notify all parties as to the time, date and place of the hearing.
+
+(4)
+
+Records. The hearing examiner may require either party to a rent adjustment hearing to provide it with any books, records and papers deemed pertinent in addition to that information contained in registration statements. The hearing examiner shall conduct a current building inspection and/or request the City to conduct a current building inspection if the hearing examiner finds good cause to believe the Board's current information does not reflect the current condition of the controlled rental unit. The tenant may request the hearing examiner to order such an inspection prior to the date of the hearing. All documents required under this section shall be made available to the parties involved prior to the hearing at the office of the Board. In cases where information filed in a petition for maximum allowable rent adjustment or in additional submissions filed at the request of the hearing examiner is inadequate or false, no action shall be taken on said petition until the deficiency is remedied.
+
+(5)
+
+Open Hearings. All maximum allowable rent adjustment hearings shall be open to the public.
+
+(6)
+
+Right of Assistance. All parties to a hearing may have assistance in presenting evidence and developing their position from attorneys, legal workers, Recognized Tenant Organization representatives or any other persons designated by said parties.
+
+(7)
+
+Hearing Record. The Board shall make available for inspection and copying by any person an official record which shall constitute the exclusive record for decision on the issues at the hearing. The record of the hearing, or any part of one, shall be obtainable for the cost of copying. The record of the hearing shall include: all exhibits, papers and documents required to be filed or accepted into evidence during the proceedings; a list of participants present; a summary of all testimony accepted in the proceedings; a statement of all materials officially noticed; all recommended decisions, orders and/or rulings; all final decisions, orders and/or rulings; and the reasons for each final decision, order and/or ruling. All hearings shall be recorded. Any party may receive a copy of the audio that was made. Reasonable costs may be charged. The Board shall not be responsible for transcribing such audio.
+
+(8)
+
+Quantum of Proof and Notice of Decision. No individual adjustment shall be granted unless supported by the preponderance of the evidence submitted at the hearing. All parties to a hearing shall be sent a notice of the decision and a copy of the findings of fact and law upon which said decision is based. At the same time, parties to the proceeding shall also be notified of their right to any appeal allowed by the Board and/or to judicial review of the decision pursuant to this section and Section 11.100.090 of this chapter.
+
+(9)
+
+Consolidation. All landlord petitions pertaining to tenants in the same building will be consolidated for hearing, and all petitions filed by tenants occupying the same building shall be consolidated for hearing unless there is a showing of good cause not to consolidate such petitions.
+
+(10)
+
+Appeal. Any person aggrieved by the decision of the hearing examiner may appeal to the Board. On appeal, the Board shall affirm, reverse or modify the decision of the hearing examiner.
+
+(11)
+
+Finality of Decision. The decision of the hearing examiner shall be the final decision of the Board in the event of no appeal to the Board. The decision of the hearing examiner shall not be stayed pending appeal; however, in the event that the Board on appeal reverses or modifies the decision of the hearing examiner, the landlord, in the case of an upward adjustment in rent, or the tenant, in the case of a downward adjustment of rent, shall be ordered to make retroactive payments to restore the parties to the position they would have occupied had the hearing examiner's decision been the same as that of the Board.
+
+(12)
+
+Time for Decision. The rules and regulations adopted by the Board shall provide for final action on any individual rent adjustment petition within a reasonable time.
+
+(13)
+
+Decisions decreasing rents shall remain in effect until the Board finds that the landlord has corrected the defect warranting the decrease. The Board shall, by regulation, establish procedures for making prompt compliance determinations. Upon a determination of compliance the landlord shall be entitled to reinstatement of the prior rent level, retroactive to the date that the landlord corrected the defect which warranted the decrease. This shall be in compliance with California Civil Procedure Section 1942.4. If the landlord is found to be in violation of California Civil Procedure Section 1942.4 then no rent shall be charged for the period during which the landlord was in violation.
+
+(e)
+
+Individual Adjustment Rent Increase. In making individual adjustments of the annual adjustable rent increase, the Board shall consider the purposes of this chapter and the requirements of law. In making an individual downward adjustment, the Board may consider decreases in living space, furniture, furnishings, equipment, or services; substantial deterioration of the controlled rental unit other than as a result of ordinary wear and tear; or failure on the part of the landlord to provide adequate housing services or to comply substantially with applicable housing, health and safety codes.
+
+(f)
+
+The landlord may not charge for utilities unless the utility is separately or individually metered.
+
+(g)
+
+Landlords Have the Right to a Reasonable Return on Their Investment. In making individual adjustments of the rent ceiling, the Board or hearing examiner shall consider the purposes of this chapter and shall specifically consider all relevant factors, including (but not limited to):
+
+(1)
+
+Increases or decreases in property taxes;
+
+(2)
+
+Unavoidable increases or any decreases in maintenance and operating expenses;
+
+(3)
+
+The cost of planned or completed capital improvements to the rental unit (as distinguished from ordinary repair, replacement and maintenance) where such capital improvements are necessary to bring the property into compliance or maintain compliance with applicable local code requirements affecting health and safety, and where such capital improvement costs are properly amortized over the life of the improvement;
+
+(4)
+
+Increases or decreases in the number of tenants occupying the rental unit, living space, furniture, furnishings, equipment, or other housing services provided, or occupancy rules;
+
+(5)
+
+Substantial deterioration of the controlled rental unit other than as a result of normal wear and tear;
+
+(6)
+
+Failure on the part of the landlord to provide adequate housing services, or to comply substantially with applicable state rental housing laws, local housing, health and safety codes, or the rental agreement;
+
+(7)
+
+The pattern of recent rent increases or decreases;
+
+(8)
+
+It is the intent of this chapter that individual upward adjustments in the rent ceilings on units be made only when the landlord demonstrates that such adjustments are necessary to provide the landlord with a fair return on investment.
+
+(h)
+
+No upward adjustment of an individual rent ceiling shall be authorized by the Board under this section if the landlord:
+
+(1)
+
+Has continued to fail to comply, after order of the Board, with any provisions of this chapter and/or orders or regulations issued thereunder by the Board, or
+
+(2)
+
+Has failed to bring the rental unit into compliance with the implied warranty of habitability.
+
+(j)
+
+Allowable rent increases pursuant to an individual upward adjustment of the rent ceiling shall become effective only after the landlord gives the tenant at least a thirty (30) day written notice of such rent increase and the notice period expires. If the Board makes a downward individual adjustment of the rent ceiling, such rent decrease shall take effect no sooner than thirty (30) days after the effective date set by the Board for the downward adjustment.
+
+(k)
+
+No provision of this chapter shall be applied so as to prohibit the Board from granting an individual rent adjustment that is demonstrated by the landlord to be necessary to provide the landlord with a fair return on investment. Necessity shall be defined in regulations promulgated by the Board. Limits on the total increase per month and length of monthly increase shall be promulgated by the Board through regulations.
+
+(Ord. of 12-20-2016(1), 12-20-2016; Ord. No. 15-22 N.S. , § 7, 12-20-2022; Ord. No. 15-22 N.S., § 7, 12-20-2022)
+11.100.080 - Non-waiverability.
+
+Any provision, whether oral or written in or pertaining to a rental housing agreement whereby any provision of this chapter for the benefit of the tenant is waived, shall be deemed to be against public policy and shall be void.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.090 - Judicial review.
+
+A landlord or tenant aggrieved by any action or decision of the Board may seek judicial review by appealing to the appropriate court within the jurisdiction. No action or decision by the Board shall go into effect until thirty (30) days have expired to allow for such appeal.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.100 - Remedies.
+
+(a)
+
+Any landlord who demands, accepts, receives, or retains any payment of rent in excess of the maximum allowable rent, in violation of the provisions of this chapter or any rule, regulation or order hereunder promulgated, including the provisions ensuring compliance with habitability standards and registration fee requirements, shall be liable in a civil action to the tenant from whom such payments are demanded, accepted, received or retained, for reasonable attorney's fees and costs as determined by the court, plus damages in the amount by which the payment or payments demanded, accepted, received or retained exceeds the maximum allowable rent. A civil penalty of treble the amount by which the payment or payments demanded, accepted, received or retained exceeds the maximum allowable rent shall be awarded against the landlord upon a showing that the landlord has acted willfully or with oppression, fraud or malice. No administrative remedy need be exhausted prior to filing suit pursuant to this Subsection.
+
+(b)
+
+In lieu of filing a civil action, a tenant may file an administrative complaint. The Board shall establish by rule and regulation a hearing procedure similar to that set forth in Section 11.100.070.
+
+(1)
+
+The rules and regulations adopted by the Board shall provide for final Board action on any complaint for excess rent within 120 days following the date of filing of the complaint.
+
+(2)
+
+In any administrative hearing under this section, a landlord who demands, accepts, receives or retains any payment of rent in excess of the maximum allowable rent shall be liable for damages in the amount by which the payment or payments demanded, accepted, received or retained exceeds the maximum allowable rent.
+
+(3)
+
+If the tenant from whom such excessive payment is demanded, accepted, received or retained in violation of the foregoing provisions of this chapter or any rule or regulation or order hereunder promulgated fails to bring a civil or administrative action as provided for in Sections 11.100.100(b) within 120 days from the date of occurrence of the violation, the Board may settle the claim arising out of the violation or bring such action. Thereafter, the tenant on whose behalf the Board acted is barred from also bringing an action against the landlord in regard to the same violation for which the Board has made a settlement or brought action. In the event the Board settles said claim, it shall be entitled to retain the costs it incurred in settlement thereof, and the tenant against whom the violation has been committed shall be entitled to the remainder.
+
+(c)
+
+The appropriate court in the jurisdiction in which the controlled rental unit affected is located shall have jurisdiction over all actions brought under this section.
+
+(d)
+
+Any landlord violating this chapter shall be guilty of a misdemeanor and shall be punished in accordance with Section 1.04.100 of the Richmond Municipal Code
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.110 - Injunctive and other civil relief.
+
+The Board, and tenants and landlords of rental units, may seek relief from the appropriate court within the jurisdiction within which the affected rental unit is located to enforce any provision of this chapter or its implementing regulations or to restrain or enjoin any violation of this chapter and of the rules, regulations, orders and decisions of the Board.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.120 - Partial invalidity.
+
+If any provision of this chapter or application thereof to any person or circumstances is held invalid, this invalidity shall not affect other provisions or applications of this chapter which can be given effect without the invalid provision or application, and to this end the provisions of this chapter are declared to be severable. This chapter shall be liberally construed to achieve the purposes of this chapter and to preserve its validity.
+
+(Ord. of 12-20-2016(1), 12-20-2016)
+11.100.130 - Majority approval, effective date, execution.
+
+This chapter shall be effective only if approved by a majority of the voters voting thereon and shall go into effect ten (10) days after the vote is declared by the City Council. The Mayor and City Clerk are hereby authorized to execute this chapter to give evidence of its adoption by the voters.
+
+(Ord. of 12-20-2016(1), 12-20-2016)

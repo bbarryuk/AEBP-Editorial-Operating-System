@@ -1,0 +1,1991 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: OMC Ch. 5.04 — Business taxes (incl. residential rental tax)
+Jurisdiction: Oakland
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://library.municode.com/ca/oakland/codes/code_of_ordinances  [to confirm (add chapter/article deep link)]
+Version: Saved 2026-10-06; Municode version date not recorded
+Saved to OneDrive: 2026-10-06   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Oakland-MunCode-Ch5_04-BusinessTax.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Chapter 5.04 - BUSINESS TAXES GENERALLY[1]
+
+Footnotes:
+--- (1) ---
+
+Editor's note— Res. No. 89297, Pt. 2, adopted July 5, 2022, repealed the former Ch. 5.04, §§ 5.04.010—5.04.090, 5.04.095, 5.04.100—5.04.150, 5.04.151, 5.04.152, 5.04.160—5.04.440, 5.04.460—5.04.480, 5.04.481, 5.04.485, 5.04.490—5.04.630, 5.04.631, and 5.04.640—5.04.660, and enacted a new Ch. 5.04 as set out herein. The former Ch. 5.04 pertained to similar subject matter, and derived from prior code §§ 5-1.00, 5-1.01, 5-1.02, 5-1.02(a), 5-1.02(i), 5-1.03—5-1.06, 5-1.08, 5-1.09, 5-1.10(a)—(c), 5-1.11, 5-1.13, 5-1.13(b), 5-1.14—5-1.16, 5-1.17, 5-1.17(a)—(d), 5-1.18—5-1.20, 5-1.21(a)—(c), 5-1.22—5-1.26, 5-1.28—5-1.31, 5-1.31(a), (b), 5-1.32, 5-1.33, 5-1.36, 5-1.37, 5-1.37(d), 5-1.38, 5-1.38(d), (f), (g), 5-1.40, 5-1.41, 5-1.47—5-1.49, 5-1.52, 5-1.52(a), 5-1.53, 5-1.54, 5-1.55—5-1.57, 5-1.57(a)—(c), 5-1.59, 5-1.64—5-166; Ord. No. 11876; Ord. No. 11877, § 1, adopted in 1996; Ord. No. 11876; Ord. No. 11911, § 2, adopted in 1996; Ord. No. 12080, §§ 1, 2, adopted in 1998; Ord. No. 12172, § 1, adopted in 1999; Ord. No. 12208, §§ 1, 3, adopted in 2000; Ord. No. 12432, §§ 3, 4, adopted in 2002; Ord. No. 12541, § 3, adopted in 2003; Ord. No. 12552, § 3, adopted in 2003; Ord. No. 12569, §§ 4, 5, adopted in 2004; Ord. No. 12691, §§ 3, 4, adopted in 2005; Ord. No. 12838, § 3 (part), adopted in 2007; Res. No. 81925, § 2, adopted April 21, 2009; Res. No. 82949, § 2, adopted July 26, 2010; Res. No. 87247, § 2, adopted June 19, 2018; Ord. No. 13546, § 2, adopted June 18, 2019; Ord. No. 13573, § 2, adopted December 10, 2019; and Ord. No. 13579, § 2, adopted January 21, 2020.
+
+5.04.010 - Title and purpose.
+
+A.
+
+Title. This Chapter shall be known as and may be cited as the Business Tax Ordinance.
+
+B.
+
+Purpose. In Oakland, nearly all businesses regardless of gross receipts, pay a flat tax rate, and very small businesses pay a flat amount. This disproportionately affects small businesses, which contribute a large proportion of Oakland's total business tax revenue. Other major jurisdictions in the Bay Area have implemented progressive gross receipts tax structures, in which businesses with more gross receipts are taxed at a higher rate than smaller businesses.
+
+Oakland's business tax system is complicated and antiquated. By modernizing our tax system, the City can give needed tax relief to small businesses and generate increased revenue needed to protect vital City services that keep Oakland's neighborhoods clean, well maintained, and safe.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.020 - Business tax.
+
+A.
+
+Imposition of Business Tax. Pursuant to the terms of this Chapter, the City imposes, and every person engaging in business activities within the City shall pay, an annual business tax.
+
+B.
+
+Business Certificate Requirements. Every person conducting any business activity in the City shall pay the annual business tax and obtain an annual business tax certificate from the City. Except as otherwise specifically provided, the City shall collect business taxes and issue business tax certificates on a calendar year basis. The carrying on of any business without procuring a certificate shall constitute a violation of this Code for every day that such business is carried on. A separate certificate must be obtained for each and every business activity at each and every branch establishment or separate place of business at which business activity takes places, subject to the requirements to obtain a "master certificate" as defined in Section 5.04.320.
+
+C.
+
+Use of Funds. The business tax is a tax imposed upon persons engaging in business within the City for the privilege of engaging in a business or occupation in the City. The business tax is imposed for general governmental purposes. Proceeds from the tax may be deposited in the City's general fund and may be expended for any purposes of the City.
+
+D.
+
+Intent. This Chapter authorizes application of the business tax in the broadest manner consistent with the provisions of this Municipal Code and the requirements of the California Constitution, the United States Constitution, and any other applicable provision of Federal or State law.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.030—5.04.090 - Reserved.
+5.04.100 - Definitions and classifications.
+
+Unless a specific provision or context otherwise requires, the definitions and classifications set forth in Sections 5.04.110 and 5.04.120 shall govern and apply to this Chapter.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.110 - General definitions.
+
+A.
+
+"Business" means any activity, enterprise, profession, trade, or undertaking of any nature conducted or engaged in, with the object of gain, benefit or advantage, whether direct or indirect, to the taxpayer or to another or others. "Business" shall include any transaction which is or which, in effect results in a sale, but shall not include the services rendered by an employee to their employer.
+
+B.
+
+"Certificate" means a business tax certificate issued to a person pursuant to this chapter evidencing the payment of or declared intent to pay the business tax.
+
+C.
+
+"City" means City of Oakland, a California Charter City.
+
+D.
+
+"Engaging in Business" means commencing, conducting, or continuing in business and also the exercise of corporate or franchise powers as well as liquidating a business when the liquidators hold themselves out to the public as conducting such business.
+
+E.
+
+"Firearms" means any device, designed to be used as a weapon, from which is expelled through a barrel a projectile by the force of any explosion, or other form of combustion. The term also includes any rocket, rocket-propelled projectile launcher, or similar device containing any explosive or incendiary material and not designed for emergency or distress signaling purposes.
+
+F.
+
+"Firearms Ammunition" means any projectiles with their fuses, propelling charges, or primers fired from weapons, and any of the individual components of such projectiles, including, but not limited to, black powder and reloading primers.
+
+G.
+
+"Gross Payroll" means and includes the total gross amount of all salaries, wages, commissions, bonuses, or other money payment of any kind that a person received from, or is entitled to receive from or be given credit for by, their employer for any work done or personal service rendered in any trade, occupation, or profession, including any kind of deductions before "take home" pay is received. "Gross payroll" does not mean or include amounts paid to traveling salespersons or other workers as allowance or reimbursement for traveling or other expenses incurred in the business of the employer, except to the extent of the excess of such amounts over such expenses actually incurred and accounted for by the employee to the employer.
+
+H.
+
+"Gross Receipts," except as otherwise specifically provided, means the taxpayer's gross receipts of the preceding fiscal year or part thereof, and is defined as follows: the total amount actually received or receivable from all sales; the total amount or compensation actually received or receivable for the performance of any act or service, of whatever nature it may be, for which a charge is made or credit allowed, whether or not such act or service is done as a part of or in connection with the sale of materials, goods, wares or merchandise; discounts, rents, royalties, fees, commissions, dividends, and gains realized from trading in stocks or bonds, other emoluments, or other things of value however designated. Included in "gross receipts" shall be all receipts, cash, credits, property of any kind or nature, or any other things of value, without any deduction therefrom on account of the cost of the property sold, the cost of materials used, labor or service costs, interest paid or payable, or losses or other expenses whatsoever, except that the following shall be excluded therefrom:
+
+1.
+
+Cash discounts allowed and taken on sales.
+
+2.
+
+Credit allowed on property accepted as part of the purchase price and which property may later be sold, at which time the sales price shall be included as gross receipts.
+
+3.
+
+Any tax required by law to be included in or added to the purchase price and collected from the consumer or purchaser.
+
+4.
+
+Such part of the sale price of any property returned by purchasers to the seller as refunded by the seller by way of cash or credit allowances or return of refundable deposits previously included in gross receipts.
+
+5.
+
+Receipts from investments where the holder of the investment receives only interest and/or dividends, royalties, annuities and gains from the sale or exchange of stock or securities solely for a person's own account, not derived in the ordinary course of a business.
+
+6.
+
+Receipts derived from the occasion sale of used, obsolete or surplus trade fixtures, machinery or other equipment used by the taxpayer in the regular course of the taxpayer's business.
+
+7.
+
+Cash value of sales, trades or transactions between departments or units of the same business.
+
+8.
+
+Receipts of community chest funds, foundations or corporations organized and operated for religious or charitable purposes, which are not conducted for profit and no part of the net earnings of which inures to the benefits of any private shareholder or individual.
+
+9.
+
+Receipts of nonprofit educational institutions of collegiate grade, defined herein to mean institutions incorporated as colleges or seminaries under the laws of the State of California; receipts of nonprofit secondary schools which are duly accredited by the University of California, and receipts of nonprofit elementary schools in which instruction is given to students in the preprimary grades in the several branches or studies required to be taught in the public schools of the State of California.
+
+10.
+
+Whenever there are included within the gross receipts amounts which reflect sales for which credit is extended and such amount proved uncollectible in a subsequent year, those amounts may be excluded from the gross receipts in the year they prove to be uncollectible; provided, however, if the whole or portion of such amounts excluded as uncollectible are subsequently collected, they shall be included in the amount of gross receipts for the period when they are recovered.
+
+11.
+
+Transactions between a partnership and its partners.
+
+12.
+
+Receipts from services or sales in transactions between affiliated corporations. An affiliated corporation is a corporation:
+
+a.
+
+The voting and nonvoting stock of which is owned at least eighty (80) percent by such other corporation with which such transaction is had; or
+
+b.
+
+Which owns at least eighty (80) percent of the voting and nonvoting stock of such other corporation; or
+
+c.
+
+At least eighty (80) percent of the voting and nonvoting stock of which is owned by a common parent corporation which also has such ownership of the corporation with which such transaction is had.
+
+13.
+
+Transactions between a limited liability company and its member(s), provided the limited liability company has elected to file as a subchapter K entity under the Internal Revenue Code and that such transaction(s) shall be treated the same as between a partnership and its partner(s) as specified in Subsection 11. above.
+
+I.
+
+"NAICS" means the numerical classification for business activities established in the North American Industry Classification System used by Federal governmental agencies to classify business establishments; references in this Chapter to particular numerical NAICS codes are intended to apply the definitions and descriptions adopted in that system as of the effective date of this Chapter.
+
+J.
+
+"Newly Established Business" is defined as:
+
+1.
+
+A person conducting any business activity in the City for the first time; or
+
+2.
+
+A business that resumes operation in the City after having been out of operation in the City during the entire previous tax year.
+
+In any case, "newly established business" does not include a business for which a "related entity" as defined by Section 5.04.310 is already in operation in the City.
+
+K.
+
+"Person" means any natural person, receiver, administrator, executor, assignee, trustee in bankruptcy, trust, estate, firm, co-partnership, joint venture, club, company, joint stock company, business trust, limited liability company, municipal corporation, political subdivision of the State of California, domestic or foreign corporation, association, syndicate, society, or any group of individuals acting as a unit, whether mutual, cooperative, fraternal, nonprofit, or otherwise, and the United States or any instrumentality thereof, and any natural person, who as an individual or with a spouse, owns fifty-one (51) percent or more of the capital stock of a corporation obligated to file a declaration and pay tax pursuant to this Chapter; and in addition, is a person with the power to control the fiscal decision-making process by which the corporation allocates funds to creditors in preference to its tax obligations under the provisions of this Chapter. A person as defined herein, who is also an officer or director of a corporation obligated to file declarations and pay tax pursuant to this Chapter, shall be presumed to be a person with the power to control the fiscal decision-making process. Whenever the term "person" is used in any clause prescribing and imposing a penalty, the term as applied to any association shall mean the owners or part owners of such association, and as applied to any corporation, shall mean the officers of such association.
+
+L.
+
+"Residential and Nonresidential Rental Businesses" means engaging in any of the following business activities, as defined below: "residential rental" and "nonresidential rental."
+
+M.
+
+"Sale" and "Sell" means any transfer of title to property for a price by any manner or means, and to the serving, supplying, or furnishing, for a price, of any property fabricated or made at the special order of consumers who do or do not directly or indirectly furnish the specifications for such special order. "Sale" also includes any transaction where the possession of property is transferred, but the seller retains the title as security for the payment of the price.
+
+N.
+
+"Shall" and "May." "Shall" is mandatory. "May" is permissive.
+
+O.
+
+"Tax" or "Business Tax" means the charge for issuance of a certificate pursuant to Chapter 5.04 of the City's Municipal Code.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.120 - Business activity definitions.
+
+A.
+
+"Administrative Headquarters" means a location where the principal business transacted consists of providing administrative or management related services such as, but not limited to, recordkeeping, data processing, research, advertising, public relations, personnel administration, legal, and corporate headquarters services, to other locations where the operations of the same business are conducted which lead more directly to the production of gross receipts.
+
+B.
+
+"Ambulance Service" means either providing transportation of patients by ground or air, along with medical care, in vehicles that are equipped with lifesaving equipment operated by medically trained personnel or otherwise meeting the NAICS classification for "ambulance services" (NAICS 62191).
+
+C.
+
+"Automobile Sales" means the selling of new or used motor vehicles at wholesale or retail.
+
+D.
+
+"Business and Personal Services" means any business providing services such as, but not limited to, website hosting, internet and data exchange, repairs or improvements to or on real and personal property, renting or leasing personal property to businesses or persons, packaging, transshipping, storing, or stevedoring or providing services to persons such as, but not limited to, laundries, cleaning and dyeing, shoe repair, barber and beauty shops, photographic studios, parking lots and garages, and title guarantee companies.
+
+E.
+
+"Cannabis Business" means any business that involves planting, cultivating, harvesting, transporting, dispensing, delivering, selling at retail or wholesale, manufacturing, compounding, converting, processing, preparing, storing, packaging, or testing any part of the plant Cannabis sativa L. or any of its derivatives.
+
+F.
+
+"Construction Contractor" means a person who conducts or carries on a business that is licensed as a contractor by the State of California and who undertakes to, or offers to undertake to, or purports to have the capacity to undertake to, or submits bids to, or does themself or by or through others, construct, alter, repair, add to, subtract from, improve, move, wreck, or demolish any building, highway, road, railroad, excavation, or other structure project, development, or improvement, or to do any part thereof, including the erection of scaffolding or other structures or works in connection therewith.
+
+G.
+
+"Nonresidential Rental" means renting or letting all or a portion of a building, structure, billboard, or other property for commercial, industrial, or advertising purposes, or a portion of such building, structure, billboard or property within the City for a purpose other than dwelling, sleeping, or lodging to a tenant. "Nonresidential rental" includes offering, renting, or letting co-working spaces in any building or space, either as individual offices or shared working space, to businesses, independent contractors, or persons regardless of whether the person offering the co-working space owns the building or space or offers other related services, space, or products.
+
+H.
+
+"Firearms and Ammunition Sales" means the selling, leasing, or transferring of firearms or firearms ammunition, except for wholesale sales. This definition shall not include establishments exclusively involved in the sales of firearms or firearms ammunition to law enforcement officials or any business licensed as a pawnbroker pursuant to the Oakland Municipal Code that (1) receives firearms or firearms ammunition as bond or other security for loans, advances, or other forms of compensation, or (2) sells or resells firearms or firearms ammunition wholesale to properly licensed and registered dealers exclusively.
+
+I.
+
+"Grocer" means a retailing of perishable and non-perishable food type items, such as, but not limited to, meats, fish, poultry, vegetables, fruits, nuts, breads, dairy products, non-alcoholic beverages, etc., from a fixed location.
+
+J.
+
+"Hotel" and "Motel" means providing short-term lodging in facilities known as hotels, motor hotels, resort hotels, and motels that may offer food and beverage services, recreational services, conference rooms, convention services, laundry services, parking, and other services, or otherwise meeting the NAICS classification for "Hotels (except Casino Hotels) and Motels" (NAICS 72111). "Hotel" and "motel" also includes offering all or a portion of a residential building or structure for short-term dwelling, sleeping, or lodging, for example, by offering a bedroom, home, or other living space on a third-party platform for short-term residential use.
+
+K.
+
+"Manufacturing" means manufacturing or processing any goods, wares, merchandise, articles, or commodities at a location within or outside of the City of Oakland and selling such items at retail and/or wholesale in the City of Oakland.
+
+L.
+
+"Media Firms" means providing published or electronic media, including newspapers, publishing, radio, and broadcast television companies.
+
+M.
+
+"Miscellaneous" means any business activity not otherwise defined in this Section.
+
+N.
+
+"Professional/Semi-Professional Service" means any professional services not specifically taxed by other business tax provisions of this Chapter. The term includes, but is not limited to: business management services; website development services; finance services; insurance services; real estate services; medical and other health services; educational services; legal services; engineering and architectural services; accounting, auditing, and bookkeeping services; commission merchants; conducting, managing, or carrying on the business of furnishing reports on persons to insurance companies for underwriting purposes; or furnishing reports on persons to mercantile concerns as a basis for extending credit savings and loan and other financial institutions; conducting, managing or carrying on the business of lending money or advancing credit or arranging for the loan of money or the advancing of credit as principal or agent, where the obligation to repay the money lent or debt incurred or to compensate for the advance of credit is secured by a lien on real property, or some interest in real property, unless such business is exempt therefrom by law; software as a service; platform as a service; and infrastructure as a service.
+
+O.
+
+"Commission Merchant" means a person who, for compensation in the form of a commission, engages in selling activities, including the solicitation or negotiation of a sale, or the forwarding of sales orders, which lead to the sale of goods, wares, or merchandise owned by some person other than the commission merchant. The business of a commission merchant shall also include the buying and selling of goods, wares, or merchandise by a person to the extent that the person:
+
+1.
+
+Does not engage in the business of manufacturing, refining, fabricating, milling, treating, or other processing of the goods, wares, or merchandise bought and sold, and does not cause said goods, wares, or merchandise to be manufactured, refined, fabricated, milled, treated, or otherwise processed; and
+
+2.
+
+Does not obtain or retain title to said goods, wares, or merchandise except in one (1) or more of the following situations: while such may be in transit or for short periods of time before transportation commences or after it ceases; and
+
+3.
+
+Does not store or warehouse such goods, wares, or merchandise except during one (1) or more of the following situations:
+
+a.
+
+Storage or warehousing while such goods, wares, or merchandise are in transit; or
+
+b.
+
+Storage or warehousing for short periods of time before transportation commences or after it ceases.
+
+P.
+
+"Recreation and Entertainment" means providing entertainment, recreation, or amusement. The business of providing entertainment, recreation, or amusement shall include, but is not limited to, the following: theatrical or musical entertainment, all shows or exhibits, exhibiting motion pictures, athletic clubs, sports and athletic exhibitions or contests, pools or billiard rooms, bowling alleys, golf courses, circuses, or penny arcades.
+
+Q.
+
+"Residential Rental" means conducting or operating an apartment house, lodging house, and every person engaged in the business of conducting or letting rooms, and/or any building structure, for dwelling, sleeping, or lodging, including, and limited to, a single-family house, duplex, triplex, townhouse, condominium, or co-operative.
+
+R.
+
+"Retail Sales" means the sale of goods, wares, or merchandise for any purpose other than resale in the regular course of business, including restaurants.
+
+S.
+
+"Taxi and Limousine Service" means providing passenger transportation by automobile or van or providing any specialty or luxury passenger transportation services via limousine or luxury sedan on a reserved or unreserved basis or otherwise meeting the NAICS classification for "taxi and limousine service" (NAICS 4853).
+
+T.
+
+"Transportation" and "Trucking" refers to the use of transportation equipment such as airplanes, trains, boats, cars, trucks, vehicles, or pipelines as productive assets to move people and goods and includes businesses engaged in NAICS codes 481 through 487, air transportation, rail transportation, water transportation, truck transportation, transit and ground passenger transportation, pipeline transportation, and scenic and sightseeing transportation.
+
+U.
+
+"Public Utility" means conducting or operating a public utility. This Section includes, but is not limited to, establishments providing to the general public or to private business sectors the following services: gas, electric, sanitary and garbage, cable television, and P.U.C.-related telephone services.
+
+V.
+
+"Wholesale Sales" means the sale of goods, wares, or merchandise for the purpose of resale in the regular course of business.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.130 - Business activity classifications.
+
+For the purpose of imposing the business tax, business activities are classified as follows:
+Class A 	Retail Sales
+Class B 	Grocers
+Class C 	Automobile Sales
+Class D 	Wholesale Sales
+Class E 	Business and Personal Services
+Class F 	Professional and Semi-Professional Services
+Class G 	Recreation and Entertainment
+Class H 	Construction Contractors
+Class I 	Manufacturing
+Class J 	Hotel and Motel
+Class K 	Administrative Headquarters
+Class L 	Media Firms
+Class M 	Public Utility
+Class N 	Miscellaneous
+Class O 	Residential Rental and Nonresidential Rental
+Class P 	Cannabis Business
+Class Q 	Firearms Ammunition
+Class R 	Taxi, Limousine, and Ambulance Services
+Class S 	Transportation and Trucking
+
+ 
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.200 - Tax rates.
+
+Except as otherwise provided in this Chapter, persons engaged in business activities in the City shall pay the business tax at the rate provided for in Section 5.04.205. All rates stated as an amount per one thousand dollars ($1,000.00) shall be paid for each full one thousand dollars ($1,000.00) of taxable gross receipts and every fractional part thereof.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+
+_____
+5.04.205 - Tax rates for Class A through Class S—Progressive rates.
+
+A.
+
+Class A (Retail Sales). Persons engaged in Class A business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $66,666.00 	$60.00
+Over $66,666.00 but not over $1,000,000.00 	$60.00, plus $0.90 per $1,000.00 of annual gross receipts over $66,666.00
+Over $1,000,000.00 but not over $2,500,000.00 	$900.00, plus $1.10 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$2,550.00, plus $1.80 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$34,050.00, plus $2.00 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$94,050.00, plus $2.50 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+B.
+
+Class B (Grocers). Persons engaged in Class B business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $120,000.00 	$60.00
+Over $120,000.00 but not over $1,000,000.00 	$60.00, plus $0.50 per $1,000.00 of annual gross receipts over $120,000.00
+Over $1,000,000.00 but not over $2,500,000.00 	$500.00, plus $0.55 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$1,325.00, plus $1.00 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$18,825.00, plus $1.75 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$71,325.00, plus $2.50 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+C.
+
+Class C (Automobile). Persons engaged in Class C business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $50,000.00 	$60.00
+Over $50,000.00 but not over $1,000,000.00 	$60.00, plus $1.20 per $1,000.00 of annual gross receipts over $50,000.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,200.00, plus $1.45 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$3,375.00, plus $1.80 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$34,875.00, plus $2.00 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$94,875.00 plus $2.50 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+D.
+
+Class D (Wholesale Sales). Persons engaged in Class D business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $54,545.00 	$60.00
+Over $54,545.00 but not over $1,000,000 	$60.00, plus $1.10 per $1,000.00 of annual gross receipts over $54,545.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,100.00, plus $1.20 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$2,900.00, plus $1.80 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$34,400.00, plus $2.00 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$94,400.00, plus $2.50 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+E.
+
+Class E (Business and Personal Services). Persons engaged in Class E business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $42,857.00 	$60.00
+Over $42,857.00 but not over $1,000,000.00 	$60.00, plus $1.40 per $1,000.00 of annual gross receipts over $42,857.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,400.00, plus $2.10 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$4,550.00, plus $2.80 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$53,550.00, plus $4.00 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$173,550.00, plus $4.50 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+F.
+
+Class F (Professional and Semi-Professional Service). Persons engaged in Class F business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $16,666.00 	$60.00
+Over $16,666.00 but not over $1,000,000.00 	$60.00, plus $3.60 per $1,000.00 of annual gross receipts over $16,666.00
+Over $1,000,000.00 but not over $2,500,000.00 	$3,600.00, plus $4.25 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$9,975.00, plus $4.75 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 	$93,100.00, plus $5.00 per $1,000.00 of annual gross receipts over $20,000,000.00
+
+ 
+
+G.
+
+Class G (Recreation and Entertainment). Persons engaged in Class G business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $14,285.00 	$60.00
+Over $14,285.00 but not over $1,000,000.00 	$60.00, plus $4.20 per $1,000.00 of annual gross receipts over $14,285.00
+Over $1,000,000.00 but not over $2,500,000.00 	$4,200.00, plus $4.50 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$10,950.00, plus $4.75 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$94,075.00, plus $5.00 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$244,075.00, plus $5.25 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+H.
+
+Class H (Construction Contractors). Persons engaged in Class H business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $33,333.00 	$60.00
+Over $33,333.00 but not over $1,000,000.00 	$60.00, plus $1.80 per $1,000.00 of annual gross receipts over $33,333.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,800.00, plus $2.10 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$4,950.00, plus $2.80 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$53,950.00, plus $4.00 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$173,950.00, plus $5.00 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+Commencing on January 1, 2023 and terminating on December 31, 2032, persons engaged in Class H business activities shall not be subject to the business tax described above, and shall instead pay a business tax of sixty dollars ($60.00) per year or fractional part thereof for the first thirty-three thousand three hundred thirty-three dollars ($33,333.00) or less of gross receipts, plus one dollar and eighty cents ($1.80) for each additional one thousand dollars ($1,000.00) of gross receipts or fractional part thereof in excess of thirty-three thousand three hundred thirty-three dollars ($33,333.00) for work engaged at sites within the City, if they are in compliance with both of the following apprenticeship and health care standards:
+
+1.
+
+Apprenticeship: The construction contractor either:
+
+a.
+
+Participates in a joint labor-management apprenticeship program approved by the State of California Division of Apprenticeship Standards; or
+
+b.
+
+Participates in an apprenticeship program approved by the State of California Division of Apprenticeship Standards that has a graduation rate of fifty (50) percent or higher and has graduated an average of at least thirty (30) apprentices annually for the five (5) years immediately preceding the work. The construction contractor will also maintain at least the ratio of apprentices required by California Labor Code section 1777.5. Any change in program participation must be immediately provided to the City; or
+
+c.
+
+A construction contractor without regular construction employees may satisfy the apprenticeship requirement by having a contractual obligation to hire construction contractors that participate in Subsection a. or c.
+
+2.
+
+Health Care: The construction contractor provides required health care expenditures for all of its construction craft employees during periods of employment and has maintained such medical coverage in good standing for one hundred eighty (180) consecutive days immediately prior to the work as demonstrated by a copy of the declaration of insurance coverage showing the dates of continuous coverage or proof that the contractor has a contractual obligation to provide such medical coverage. A construction contractor without regular construction employees may satisfy this standard by having a contractual obligation to hire construction contractors that provide such coverage. Any change in coverage must be immediately provided to the City. The required health care expenditures shall be subject to the following terms:
+
+a.
+
+The required health care expenditure is calculated by multiplying the number of hours worked by the hourly health care expenditure rate.
+
+b.
+
+The health care expenditure rate shall be equivalent to at least the hourly pro rata cost of a Covered California Silver Level plan for two (2) forty-year old adults and two (2) dependents zero (0) to fourteen (14) years of age for the Covered California in Alameda County.
+
+c.
+
+Required health care expenditures may be made to a health plan in which a construction craft employee is enrolled, to a construction craft employee's health savings account, and/or to a construction craft employee in the form of cash at double the rate of the required health care expenditure.
+
+d.
+
+A construction contractor without regular construction employees may satisfy this standard by having a contractual obligation to hire construction contractors that provide required health care expenditures. Any change in coverage must be immediately provided to the City.
+
+e.
+
+A construction contractor is deemed in compliance with the health care provision if it is signatory to a valid collective bargaining agreement that requires expenditures on health care for employees and dependents.
+
+I.
+
+Class I (Manufacturing). Persons engaged in Class I business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $50,000.00 	$60.00
+Over $50,000.00 but not over $1,000,000.00 	$60.00, plus $1.20 per $1,000.00 of annual gross receipts over $50,000.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,200.00, plus $1.32 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$3,180.00, plus $1.50 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$29,430.00, plus $1.80 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$83,430.00, plus $2.50 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+J.
+
+Class J (Hotel and Motel). Persons engaged in Class J business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $33,333.00 	$60.00
+Over $33,333.00 but not over $1,000,000.00 	$60.00, plus $1.80 per $1,000.00 of annual gross receipts over $33,333.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,800.00, plus $2.10 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$4,950.00, plus $2.80 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$53,950.00, plus $3.50 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$158,950.00, plus $4.00 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+K.
+
+Class K (Administrative Headquarters). Persons engaged in Class K business activities shall pay a business tax as follows:
+If annual gross payroll is: 	Then the business tax is:
+Not over $50,000.00 	$60.00
+Over $50,000.00 but not over $1,000,000.00 	$60.00, plus $1.20 per $1,000.00 of annual gross payroll over $50,000.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,200.00, plus $2.00 per $1,000.00 of annual gross payroll over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$4,200.00, plus $3.75 per $1,000.00 of annual gross payroll over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$69,825.00, plus $5.00 per $1,000.00 of annual gross payroll over $20,000,000.00
+Over $50,000,000.00 	$219,825.00, plus $5.50 per $1,000.00 of annual gross payroll over $50,000,000.00
+
+ 
+
+L.
+
+Class L (Media Firms). Persons engaged in Class L business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $50,000.00 	$60.00
+Over $50,000.00 but not over $1,000,000.00 	$60.00, plus $1.20 per $1,000.00 of annual gross receipts over $50,000.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,200.00, plus $1.50 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$3,450.00, plus $2.30 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$43,700.00, plus $4.00 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$163,700.00, plus $4.50 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+M.
+
+Class M (Public Utility). Persons engaged in Class M business activities shall pay a business tax as follows:
+If annual gross receipts are: 	Then the business tax is:
+Not over $60,000.00 	$60.00
+Over $60,000.00 but not over $1,000,000.00 	$60.00, plus $1.00 per $1,000.00 of annual gross receipts over $60,000.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,000.00, plus $2.25 per $1,000.00 of annual gross receipts over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$4,375.00, plus $3.25 per $1,000.00 of annual gross receipts over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$61,250.00, plus $3.75 per $1,000.00 of annual gross receipts over $20,000,000.00
+Over $50,000,000.00 	$173,750.00, plus $4.00 per $1,000.00 of annual gross receipts over $50,000,000.00
+
+ 
+
+N.
+
+Class N (Miscellaneous). Persons engaged in Class N business activities shall pay a business tax as follows:
+If annual gross payroll is: 	Then the business tax is:
+Not over $50,000.00 	$60.00
+Over $50,000.00 but not over $1,000,000.00 	$60.00, plus $1.20 per $1,000.00 of annual gross payroll over $50,000.00
+Over $1,000,000.00 but not over $2,500,000.00 	$1,200.00, plus $1.50 per $1,000.00 of annual gross payroll over $1,000,000.00
+Over $2,500,000.00 but not over $20,000,000.00 	$3,450.00, plus $2.40 per $1,000.00 of annual gross payroll over $2,500,000.00
+Over $20,000,000.00 but not over $50,000,000.00 	$45,450.00, plus $3.90 per $1,000.00 of annual gross payroll over $20,000,000.00
+Over $50,000,000.00 	$162,450.00, plus $5.50 per $1,000.00 of annual gross payroll over $50,000,000.00
+
+ 
+
+O.
+
+Class O (Residential and Nonresidential Rentals).
+
+1.
+
+Persons engaged in Class O business activities shall pay a business tax of thirteen dollars and ninety-five cents ($13.95) for each one thousand dollars ($1,000.00) of annual gross receipts.
+
+2.
+
+A person otherwise subject to the business tax described in Subsection 1. of this Section shall not be exempt by reason of the fact that one (1) or more persons may reside within a building or structure where the primary purpose of the particular tenancy or the primary use or right to use by the tenant is for some purpose other than dwelling, sleeping, or lodging.
+
+3.
+
+Five-year exemption for buildings and major renovations completed before January 1, 2024.
+
+a.
+
+All new buildings and those buildings on which major renovations are completed after July 1, 1981 will be eligible for a five-year exemption from the business tax rate described in Subsection l of this section.
+
+b.
+
+A person that qualifies for this exemption shall pay a business tax of sixty dollars ($60.00) per year or fractional part thereof for the first thirty-three thousand three hundred thirty-three dollars ($33,333.00) or less of annual gross receipts, plus one dollar and eighty cents ($1.80) for each additional one thousand dollars ($1,000.00) of annual gross receipts or fractional part thereof in excess of thirty-three thousand three hundred thirty-three dollars ($33,333.00), during the five-year exemption period.
+
+c.
+
+In determining the five-year exemption period:
+
+i.
+
+The five-year exemption shall be deemed to commence in the year in which new buildings and/or major renovations are completed and to end in the fifth year from the year of completion irrespective of the date on which an application for exemption is filed.
+
+ii.
+
+There will be no extensions of the five-year exemption period for subsequent major renovations after the first major renovations are completed.
+
+iii.
+
+All lessors are entitled to only one (1) five-year exemption for each business location. The five-year exemption applies to the building or structure and not the lessor.
+
+iv.
+
+There will be no proration in applying for the first year of the five-year exemption. The year in which new buildings are completed or major renovations are completed shall be considered to be a full year regardless of the date of completion.
+
+d.
+
+To qualify for an exemption, the person must file an annual exemption on a form prescribed by the City.
+
+e.
+
+Definitions applicable to this Subsection are as follows:
+
+i.
+
+"Major Renovation" means any instance where the cost of renovation is equal to or exceeds fifty (50) percent of the after-renovation appraised value of the building as determined by a certified, independent appraiser.
+
+ii.
+
+"New Building" means any newly constructed building completed after July 1, 1981 for which a temporary certificate of occupancy or certificate of occupancy has been issued by the City.
+
+iii.
+
+"New Lessor" means any change which results in an eighty (80) percent or more change of ownership.
+
+f.
+
+Notwithstanding any other terms of this Section, the exemption described in this subpart applies only to persons engaged in the business of renting or letting a building, structure, or other property for commercial/industrial purposes, or a portion of such building, structure, or property within the City for a purpose other than dwelling, sleeping, or lodging to a tenant. Notwithstanding any other terms of this Section, the exemption created by this Subsection 5.04.205 G.3. shall not apply to any new buildings completed after December 31, 2023 or buildings on which major renovations are completed after December 31, 2023.
+
+4.
+
+Tax Exemption/Reduction for Owner-Occupied Rental Property.
+
+a.
+
+For the purpose of this Subsection 4, "Owner" is defined as a natural person, who is an owner of record holding an interest equal to or greater than thirty-three (33) percent in the property.
+
+b.
+
+For the purposes of this Subsection 4., "household income" shall not include the income of a person renting a room in a single-family house, townhouse, or condominium unless the person is a member of the owner's family.
+
+c.
+
+An owner of a single-family house, townhouse, or condominium who offers for rent no more than two (2) rooms in said house, townhouse, or condominium shall be exempt from the business tax described in Subsection 1. of this Section if:
+
+i.
+
+The owner currently lives in the house, townhouse, or condominium as his or her principal place of residence and has received the homeowner property tax exemption on their County property assessment under California Revenue and Taxation Code Section 218; and
+
+ii.
+
+The owner has owned and lived in the house, townhouse, or condominium as his or her principal place of residence for at least one (1) year immediately preceding the application of this exemption; and
+
+iii.
+
+The owner's total household income from all sources is less than or equal to one hundred fifty (150) percent of the area median income (AMI); and
+
+iv.
+
+The owner has no ownership interest in any other residential rental property in the City of Oakland.
+
+d.
+
+An owner of a single-family house, townhouse, or condominium who offers for rent three (3) rooms in said house, townhouse, or condominium shall only be required to pay the business tax described in Subsection 1. of this Section on one-third (⅓) of the total annual gross receipts if the owner satisfies all of the conditions set forth above in Subsections 4(c) (i)—(iv) of this Section.
+
+e.
+
+An owner of a duplex, triplex, or a single-family house with one (1) or two (2) accessory dwelling unit(s) (ADUs) shall be exempt from the business tax described in Subsection 1. of this Section if:
+
+i.
+
+The owner currently lives in one (1) of the dwelling units as their principal place of residence and has received the homeowner property tax exemption on their County property assessment under California Revenue and Taxation Code Section 218; and
+
+ii.
+
+The owner has owned the property and lived in one (1) of the dwelling units as their principal place of residence for at least one (1) year immediately preceding the application of this exemption; and
+
+iii.
+
+For duplexes and triplexes, the rental unit is a "covered unit" as defined in Oakland Municipal Code Section 8.22.020; and
+
+iv.
+
+The owner's total household income from all sources is less than or equal to one hundred fifty (150) percent of the area median income (AMI); and
+
+v.
+
+The owner has no ownership interest in any other residential rental property in the City of Oakland.
+
+f.
+
+The exemption and reduction to the business tax described in Subsection 1. provided for in this Subsection 4. shall apply only to rental agreements with a tenancy term of thirty (30) days or more; it shall not apply to short term residential rentals.
+
+g.
+
+The exemption and reduction to the business tax described in Subsection 1. provided for in this Subsection 4. shall not be applied retroactively to taxes paid or due on or before December 31, 2019.
+
+h.
+
+The exemption and reduction to the business tax described in Subsection 1. provided for in this Subsection 4. is a provisional adjustment to the business tax and shall be effective from January 1, 2020 through December 31, 2030 ("effective term"). On January 1, 2031 and thereafter, the tax rate described in Subsection 1. shall be applied without consideration of Subsection 4., unless the effective term is further extended by the City Council.
+
+i.
+
+The City Administrator or designee may create regulations to implement this Subsection including, but not limited to, documentation requirements to verify owner occupancy and income requirements set forth in this Subsection 4., and an administrative option of receiving tax savings pursuant to Subsection 4. through rebate to property owner. Prior to adoption of any regulations pursuant to this Section, the City Administrator must publicize and hold at least one (1) community meeting for stakeholders and the public.
+
+P.
+
+Class P (Cannabis Business).
+
+1.
+
+Definitions. The following definitions apply to this Section:
+
+a.
+
+"Cannabis Business" means any business that involves planting, cultivating, harvesting, transporting, dispensing, delivering, selling at retail or wholesale, manufacturing, compounding, converting, processing, preparing, storing, packaging, or testing any part of the plant Cannabis sativa L. or any of its derivatives.
+
+b.
+
+"Cannabis Cultivation" means to plant, grow, harvest, dry, cure, grade, or trim cannabis.
+
+c.
+
+"Cannabis Distribution and Transportation" means any business that sells at wholesale and any business that transports cannabis between licensees, including any business that operates under a "Distributor" license issued by the California Bureau of Cannabis Control pursuant to California Business and Profession's Code Section 26070, and as that Section may be amended or renumbered.
+
+d.
+
+"Cannabis Manufacturing" means any business that produces, prepares, propagates, or compounds cannabis or cannabis products, directly or indirectly, by extraction methods, independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis.
+
+e.
+
+"Cannabis Storage or Packaging" means any business that packages or stores cannabis but only to the extent that the business's packing or storing activity is not attributable to cannabis cultivation, cannabis manufacturing, or retail cannabis carried on within Oakland.
+
+f.
+
+"Cannabis Testing" means any business that conducts analytical testing of cannabis, cannabis-derived products, hemp, or hemp-derived products.
+
+g.
+
+"Equity Cannabis Business" means a cannabis business that satisfies the "equity criteria" as that term is defined and applied in Sections 5.80.050 and 5.81.060.
+
+h.
+
+"General Cannabis Business" shall mean any cannabis business that is not an equity business.
+
+i.
+
+"Indoor Cultivation" means any cannabis business involved in cannabis cultivation within a permanent structure and using primarily artificial light.
+
+j.
+
+"Medical Cannabis Business" means any cannabis business conducted pursuant to Health and Safety Code Sections 11362.5 and 11362.7—11362.83.
+
+k.
+
+"Non-Medical Cannabis Business" means any cannabis business not conducted pursuant to Health and Safety Code Sections 11362.5 and 11362.7—11362.83.
+
+l.
+
+"Outdoor Cultivation" means any cannabis business involved in cannabis cultivation that is not within a permanent structure or that does not primarily use artificial light. For the purposes of applying this definition, any "mixed-light cultivation" including greenhouses, hoop-houses, glasshouses, conservatories, hothouses, or other similar structures, as that term is defined by the California Department of Cannabis Control (4 CCR § 15000), does not use "primarily artificial light."
+
+m.
+
+"Retail Cannabis" means any business that dispenses or sells cannabis for use or consumption by end-users, either in-person, by delivery, or in conjunction with another party, and includes any business regulated or permitted by Chapter 5.80 of this Code and as that Chapter may be re-numbered or amended.
+
+2.
+
+Business Tax Rate. Every person engaged in a cannabis business shall pay business tax at the rates provided in this Section.
+
+a.
+
+Equity Cannabis Businesses (Under One Million Five Hundred Thousand Dollars ($1,500,000.00)). With respect to any 2020 business tax certificate, and for each following year, and for a business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019, every person engaged in an equity cannabis business with total gross receipts less than or equal to one million five hundred thousand dollars ($1,500,000.00) shall pay a business tax of one dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof.
+
+b.
+
+General Cannabis Businesses (Under Five Hundred Thousand Dollars ($500,000.00)). With respect to any 2020 business tax certificate, and for each following year, and for a business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019, every person engaged in a general cannabis business with total gross receipts less than or equal to five hundred thousand dollars ($500,000.00) shall pay a business tax of one dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof.
+
+c.
+
+Equity Retail Cannabis and Equity Indoor Cultivation (Over One Million Five Hundred Thousand Dollars ($1,500,000.00) But Less Than Five Million Dollars ($5,000,000.00)). Every equity cannabis business engaged in retail cannabis or indoor cultivation with total gross receipts greater than one million five hundred thousand dollars ($1,500,000.00) but less than or equal to five million dollars ($5,000,000.00) shall pay a business tax of:
+
+i.
+
+New 2019 Business and Annual 2020 Business Certificates. With respect to any 2020 business tax certificate and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, greater than one million five hundred thousand dollars ($1,500,000.00) and derived from a medical cannabis business; plus
+
+(3)
+
+Sixty-five dollars ($65.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, greater than one million five hundred thousand dollars ($1,500,000.00) and derived from a non-medical cannabis business.
+
+ii.
+
+Annual 2021 Business Certificates. With respect to any 2021 business tax certificate:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00).
+
+iii.
+
+Annual 2022 Business Certificates and After. With respect to any 2022 business tax certificate and for each following year:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00).
+
+d.
+
+General Retail Cannabis and General Indoor Cultivation (Over Five Hundred Thousand Dollars ($500,000.00) But Less Than Five Million Dollars ($5,000,000)). Every general cannabis business engaged in retail cannabis or indoor cultivation with total gross receipts greater than five hundred thousand dollars ($500,000.00) but less than or equal to five million dollars ($5,000,000.00) shall pay a business tax of:
+
+i.
+
+New 2019 Business and Annual 2020 Business Certificates. With respect to any 2020 business tax certificate and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to five hundred thousand dollars ($500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, greater than five hundred thousand dollars ($500,000.00) and derived from a medical cannabis business; plus
+
+(3)
+
+Sixty-five dollars ($65.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, greater than five hundred thousand dollars ($500,000.00) and derived from a non-medical cannabis business.
+
+ii.
+
+Annual 2021 Business Certificates. With respect to any 2021 business tax certificate:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to five hundred thousand dollars ($500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five hundred thousand dollars ($500,000.00).
+
+iii.
+
+Annual 2022 Business Certificates and After. With respect to any 2022 business tax certificate and for each following year:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to seven hundred fifty thousand dollars ($750,000.00); plus
+
+(2)
+
+Forty dollars ($40.00) for each one thousand dollars ($1,000.00) of gross receipts, or factional part thereof, over seven hundred fifty thousand dollars ($750,000.00), but less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(3)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00).
+
+e.
+
+Indoor Cultivation (Over Five Million Dollars ($5,000,000.00)). Every person engaged in indoor cultivation with total gross receipts greater than five million dollars ($5,000,000.00) shall pay a business tax of:
+
+i.
+
+New 2019 Business and Annual 2020 Business Certificates. With respect to any 2020 business tax certificate and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019:
+
+(1)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, attributable to any medical cannabis business; plus
+
+(2)
+
+Ninety-five dollars ($95.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, attributable to any non-medical cannabis business.
+
+ii.
+
+Annual 2021 Business Certificates and After. With respect to any 2021 business tax certificate, and for each following year, fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof.
+
+f.
+
+Retail Cannabis (Over Five Million Dollars ($5,000,000.00)). Every person engaged in retail cannabis with total gross receipts greater than five million dollars ($5,000,000.00) shall pay a business tax of:
+
+i.
+
+New 2019 Business and Annual 2020 Business Certificates. With respect to any 2020 business tax certificate and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019:
+
+(1)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, attributable to any medical cannabis business; plus
+
+(2)
+
+Ninety-five dollars ($95.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, attributable to any non-medical cannabis business.
+
+ii.
+
+Annual 2021 Business Certificates. With respect to any 2021 business tax certificate:
+
+(1)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, attributable to any medical cannabis business; plus
+
+(2)
+
+Eighty dollars ($80.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, attributable to any non-medical cannabis business.
+
+iii.
+
+Annual 2022 Business Certificates and After. With respect to any 2022 business tax certificate, and for each following year, fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof.
+
+g.
+
+Equity Cannabis Manufacturing, Equity Outdoor Cultivation, and Equity Cannabis Packaging and Storage (Over One Million Five Hundred Thousand Dollars ($1,500,000.00)). Every equity cannabis business engaged in cannabis manufacturing, outdoor cultivation, or cannabis packaging with total gross receipts greater than one million five hundred thousand dollars ($1,500,000.00) shall pay a business tax of:
+
+i.
+
+New 2019 Business and Annual 2020 Business Certificates. With respect to any 2020 business tax certificate and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00) and attributable to any medical cannabis business; plus
+
+(3)
+
+Sixty-five dollars ($65.00) for each one thousand dollars ($1,000.00) of gross receipts, or factional part thereof, over one million five hundred thousand dollars ($1,500,00.00) but less than or equal to five million dollars ($5,000,000.00) and attributable to any non-medical cannabis business; plus
+
+(4)
+
+Ninety-five dollars ($95.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five million dollars ($5,000,000.00) and attributable to any non-medical cannabis business.
+
+ii.
+
+Annual 2021 Business Certificates. With respect to any 2021 business tax certificate:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00).
+
+iii.
+
+Annual 2022 Business Certificates and After. With respect to any 2022 business tax certificate and for each following year:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(2)
+
+Forty-five dollars ($45.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00) but less than or equal to five million dollars ($5,000,000.00); plus
+
+(3)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five million dollars ($5,000,000.00).
+
+h.
+
+General Cannabis Manufacturing, General Outdoor Cultivation, and General Cannabis Packaging and Storage (Over Five Hundred Thousand Dollars ($500,000,000)). Every general cannabis business engaged in cannabis manufacturing, outdoor cultivation, or cannabis packaging with total gross receipts greater than five hundred thousand dollars ($500,000.00) shall pay a business tax of:
+
+i.
+
+New 2019 Business and Annual 2020 Business Certificates. With respect to any 2020 business tax certificate and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to five hundred thousand dollars ($500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five hundred thousand dollars ($500,000.00) and attributable to any medical cannabis business; plus
+
+(3)
+
+Sixty-five dollars ($65.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five hundred thousand dollars ($500,000.00) but less than or equal to five million dollars ($5,000,000.00) and attributable to any non-medical cannabis business; plus
+
+(4)
+
+Ninety-five dollars ($95.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five million dollars ($5,000,000.00) and attributable to any non-medical cannabis business.
+
+ii.
+
+Annual 2021 Business Certificates. With respect to any 2021 business tax certificate:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to five hundred thousand dollars ($500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof over five hundred thousand dollars ($500,000.00).
+
+iii.
+
+Annual 2022 Business Certificates and After. With respect to any 2022 business tax certificate, and for each following year:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to seven hundred fifty thousand dollars ($750,000.00); plus
+
+(2)
+
+Thirty-five dollars ($35.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over seven hundred fifty thousand dollars ($750,000.00) but less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(3)
+
+Forty-five dollars ($45.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00) but less than or equal to five million dollars ($5,000,000.00); plus
+
+(4)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five million dollars ($5,000,000.00).
+
+i.
+
+Equity Cannabis Distribution and Transportation (Over One Million Five Hundred Thousand Dollars ($1,500,000.00)). Every equity cannabis business engaged in cannabis distribution and transportation with total gross receipts greater than one million five hundred thousand dollars ($1,500,000.00) shall pay a business tax of:
+
+i.
+
+New 2019 Business and Annual 2020 Business Certificates. With respect to any 2020 business tax certificate and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand ($1,500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00) and attributable to any medical cannabis business; plus
+
+(3)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or factional part thereof, over one million five hundred thousand dollars ($1,500,000.00) but less than or equal to five million dollars ($5,000,000.00) and attributable to any non-medical cannabis business; plus
+
+(4)
+
+Ninety-five dollars ($95.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five million dollars ($5,000,000.00) and attributable to any non-medical cannabis business.
+
+ii.
+
+Annual 2021 Business Certificates. With respect to any 2021 business tax certificate:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(2)
+
+Forty-five dollars ($45.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof over one million five hundred thousand dollars ($1,500,000.00).
+
+iii.
+
+Annual 2022 Business Certificates. With respect to any 2022 business tax certificate, and for each year thereafter:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(2)
+
+Thirty dollars ($30.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00) but less than or equal to five million dollars ($5,000,000.00); plus
+
+(3)
+
+Forty dollars ($40.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof over five million dollars ($5,000,000.00).
+
+j.
+
+General Cannabis Distribution and Transportation (Over Five Hundred Thousand Dollars ($500,000.00)). Every general cannabis business engaged in cannabis distribution and transportation with total gross receipts greater than five hundred thousand dollars ($500,000.00) shall pay a business tax of:
+
+i.
+
+New 2019 Business and Annual 2020 Business Certificates. With respect to any 2020 business tax certificate and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to five hundred thousand ($500,000.00); plus
+
+(2)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five hundred thousand dollars ($500,000.00) and attributable to any medical cannabis business; plus
+
+(3)
+
+Fifty dollars ($50.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five hundred thousand dollars ($500,000.00) but less than or equal to five million dollars ($5,000,000.00) and attributable to any non-medical cannabis business; plus
+
+(4)
+
+Ninety-five dollars ($95.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five million dollars ($5,000,000.00) and attributable to any non-medical cannabis business.
+
+ii.
+
+Annual 2021 Business Certificates. With respect to any 2021 business tax certificate:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to five hundred thousand dollars ($500,000.00); plus
+
+(2)
+
+Forty-five dollars ($45.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof over five hundred thousand dollars ($500,000.00).
+
+iii.
+
+Annual 2022 Business Certificates. With respect to any 2022 business tax certificate, and for each year thereafter:
+
+(1)
+
+One dollar and twenty cents ($1.20) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, less than or equal to seven hundred fifty thousand dollars ($750,000.00); plus
+
+(2)
+
+Twenty-five dollars ($25.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over seven hundred fifty thousand dollars ($750,000.00) but less than or equal to one million five hundred thousand dollars ($1,500,000.00); plus
+
+(3)
+
+Thirty dollars ($30.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over one million five hundred thousand dollars ($1,500,000.00) but less than or equal to five million dollars ($5,000,000.00); plus
+
+(4)
+
+Forty dollars ($40.00) for each one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, over five million dollars ($5,000,000.00).
+
+k.
+
+Cannabis Testing. With respect to any 2020 business tax certificate and for each year thereafter, and for any business tax certificate issued pursuant to Section 5.04.240 for a business newly established in calendar year 2019, the rates defined in this Subsection 5.04.205(P) shall no longer be applicable to cannabis testing and such businesses shall pay business tax at the rate, if any, otherwise applicable to that business notwithstanding this Subsection 5.04.205 P.
+
+3.
+
+Vertically Integrated Businesses. Any person who engages in a business that produces gross receipts from more than one (1) of the taxable activities described in this Subsection 5.04.205 P. shall calculate their tax as the sum of:
+
+a.
+
+The tax due from the rate described in Subsections 5.04.205 P.2.c., d., or f., as applied to any gross receipts entirely or partially derived from any retail cannabis activity attributable to Oakland; plus
+
+b.
+
+The tax due from the rate described in Subsections 5.04.205 P.2.e., d., or e. as applied to any gross receipts entirely or partially derived from any indoor cultivation activity attributable to Oakland, but not including any gross receipts partially derived from retail cannabis activity attributable to Oakland; plus
+
+c.
+
+The tax due from the rate described in Subsections 5.04.205 P.2.g. or h. as applied to any gross receipts entirely or partially derived from cannabis manufacturing activity attributable to Oakland, but not including any gross receipts partially derived from retail cannabis activity or indoor cultivation activity attributable to Oakland; plus
+
+d.
+
+The tax due from the rate described in Subsections 5.04.205 P.2.g. or h. as applied to any gross receipts entirely or partially derived from outdoor cultivation activity attributable to Oakland, but not including any gross receipts partially derived from retail cannabis activity, indoor cultivation, or cannabis manufacturing activity attributable to Oakland; plus
+
+e.
+
+The tax due from the rate described in Subsections 5.04.205 P.2.g. or h. as applied to any gross receipts entirely or partially derived from cannabis packaging and storage activity attributable to Oakland, but not including any gross receipts partially derived from retail cannabis activity, indoor cultivation, cannabis manufacturing, or outdoor cultivation activity attributable to Oakland; plus
+
+f.
+
+The tax due from the rate described in Subsections 5.04.205 P.2.i. or j. as applied to any gross receipts entirely or partially derived from cannabis distribution and transportation activity attributable to Oakland, but not including any gross receipts partially derived from retail cannabis activity, indoor cultivation, cannabis manufacturing, outdoor cultivation, or cannabis packaging and storage activity attributable to Oakland.
+
+For the purposes of applying this Subsection, references to "total gross receipts" in Subsection 5.04.205 F.2. refer to all gross receipts generated by the business without respect to the portion of gross receipts generated from any taxable activity.
+
+4.
+
+Deductions for Raw Materials. Before applying the rates described above, persons will be allowed to make deductions from any gross receipts entirely or partially derived from any manufacturing cannabis activity or cannabis cultivation activity carried on within Oakland in the same manner as manufacturing businesses subject to Section 5.04.266.
+
+5.
+
+Maximum Rates. To the extent that the tax rates described in this Section are less than the maximum rates approved by City of Oakland Measure V, as submitted to voters on November 6, 2018, the reduction in the tax rate is intended as a provisional adjustment that the City Council may reconsider and eliminate, in part or in whole, in the future.
+
+6.
+
+Quarterly Reporting. Notwithstanding Sections 5.04.240, 5.04.245, 5.04.250, and 5.04.300 of this Chapter, any cannabis business may elect to remit business taxes on a quarterly basis according to rules and procedures adopted by the Director of Finance.
+
+7.
+
+Council Amendments. Following a public hearing, the City Council of the City of Oakland is hereby authorized to amend Subsection 5.04.120 P. of the Oakland Municipal Code in any manner that does not increase the tax rate applicable to medical and/or non-medical cannabis businesses engaged in any or all categories of cannabis business activity, or otherwise constitute a tax increase for which voter approval is required by Article XIIIC of the California Constitution. This Section shall not be limited by the provisions of Section 5.04.675.
+
+Q.
+
+Class Q (Firearms Ammunition). Persons engaged in Class Q business activities shall pay a business tax of sixty dollars ($60.00) per year or fractional part thereof for the first two thousand five hundred dollars ($2,500.00) or less of annual gross receipts, plus twenty-four dollars ($24.00) per year for each additional one thousand dollars ($1,000.00) of annual gross receipts in excess of two thousand five hundred dollars ($2,500.00).
+
+R.
+
+Class R (Taxi, Ambulance, and Limousine Service). Persons engaged in Class R business activities shall pay a business tax of one hundred forty-nine dollars ($149.00) for each ambulance, one hundred eighty dollars ($180.00) for each limousine, and one hundred eighty dollars ($180.00) for each taxicab permit.
+
+S.
+
+Class S (Transportation/Trucking).
+
+1.
+
+Persons engaged in Class S business activities shall pay an annual business tax based upon the average number of persons employed by such business in the City as follows:
+
+a.
+
+One hundred fifty dollars ($150.00) for the first person employed;
+
+b.
+
+Twenty-five dollars ($25.00) per person for the next nine (9) persons employed;
+
+c.
+
+Thirty dollars ($30.00) per person for the next ninety (90) persons employed;
+
+d.
+
+Forty dollars ($40.00) per person employed for the one hundred first (101st) person and greater.
+
+2.
+
+"Average number of persons employed" means the average number of persons employed daily in the business for the period of one (1) year, and shall be determined by ascertaining the total number of hours of service performed by all employees during the previous year, and dividing the total number of hours of service thus obtained by the number of hours of service constituting a day's work, according to the custom or laws governing such employments, and by again dividing the sum thus obtained by the number of business days in each year. In computing the "average number of persons employed," fraction of numbers shall be excluded. "Employee," as used in this Section, means all persons engaged in the operation or conduct of the business, whether as owner, any member of the owner's family, partner, manager, and any and all other persons employed or working in said business.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.240 - "Annual gross receipts"—Definition—First certificate.
+
+"Annual gross receipts" for a newly established business receiving its first business tax certificate shall mean the total gross receipts received from the initiation of any business activities to the expiration of the person's first business tax certificate.
+
+Every person applying for the first business tax certificate for a newly established business shall provide a reasonable estimate of their anticipated gross receipts for the period from the initiation of any business activities to the expiration of its first business tax certificate. The applicant shall pay an initial tax payment based on the estimate.
+
+In a manner and time prescribed by the City Administrator, the City shall allow a credit against future taxes for any overpayment in comparison to actual gross receipts and the applicant shall make an additional payment for any undercharge in comparison to actual gross receipts. The true up required by this paragraph shall proceed regardless of whether the person seeks a second business tax certificate.
+
+The City Administrator may demand any information necessary to verify any estimate, reject any estimate, or unilaterally amend any estimate to conform to the City Administrator's understanding of a reasonable estimate of any person's anticipated gross receipts based on any factual information in the City Administrator's possession.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.245 - "Annual gross receipts"—Definition—Second certificate.
+
+"Annual gross receipts" for a business receiving its second business tax certificate means the total gross receipts received from January 1 to December 31 of the year for which the business tax certificate is issued.
+
+Every person applying for a second business tax certificate shall provide a reasonable estimate of their anticipated gross receipts for the period from January 1 to December 31 of the year for which the business tax certificate is issued. The applicant shall pay an initial tax payment based on the estimate.
+
+In a manner and time prescribed by the City Administrator, the City shall allow a credit against future taxes for any overpayment in comparison to actual gross receipts and the applicant shall make an additional payment for any undercharge in comparison to actual gross receipts. The true up required by this paragraph shall proceed regardless of whether the person seeks a further business tax certificate.
+
+The City Administrator may demand any information necessary to verify any estimate, reject any estimate, or unilaterally amend any estimate to conform to the City Administrator's understanding of a reasonable estimate of any person's anticipated gross receipts based on any factual information in the City Administrator's possession.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.250 - "Annual gross receipts"—Definition—Third certificate and thereafter.
+
+"Annual gross receipts" for a business receiving its third business tax certificate, and for any business tax certificates, means the total gross receipts received from January 1 to December 31 of the year immediately preceding the year for which the business tax certificate is issued.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.251 - "Annual gross receipts"—Definition—Construction contractors.
+
+Any person engaging in the business of a construction contractor shall apply the method for determining "annual gross receipts" defined in Section 5.04.240 with respect to its first business tax certificate.
+
+Any person engaging in the business of a construction contractor shall apply the method for determining "annual gross receipts" defined in Section 5.04.245 with respect to its second business tax certificate and for all business tax certificates applied for thereafter, notwithstanding any terms to the contrary in Section 5.04.245 or 5.04.250.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.261 - Exemption: Buildings rented by the City.
+
+A person who rents or leases a building to the City shall be exempt from the business tax to the extent the taxpayer receives gross receipts from the City with respect to the rental or lease of the building, if the City and the person enter into an agreement pursuant to which the City assumes responsibility for payment of the business tax.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.262 - Exemption: Affordable housing developments.
+
+A.
+
+General Rule. A person engaged in residential rental of a property that is eligible for a partial property tax exemption pursuant to Section 214(g) of the California Revenue and Taxation Code shall be exempt from business tax liability with respect to the property in an amount to equal to the gross receipts derived from the property multiplied by the percentage calculated for the purpose of determining the amount of the property tax exemption allowed pursuant to Section 214(g) for the most recent property tax bill issued for the property.
+
+B.
+
+Conditions. Any person entitled to a deduction pursuant to this Section shall provide the City with any information deemed necessary by the City Administrator to confirm that the property is eligible for a partial property tax exemption pursuant to Section 214(g) of the California Revenue and Taxation Code and the extent to which such property is eligible for such exemption.
+
+C.
+
+Denial of Exemption. The City may deny the deduction provided for by this Section, in part or in whole, to any person who the City Administrator reasonably believes does not qualify for, or has miscalculated, the partial property tax exemption created by Section 214(g) of the California Revenue and Taxation Code, regardless of any determinations made or exemptions granted by any other public or private party.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.263 - Exemption: Family daycare.
+
+Every person licensed by the State of California Department of Social Services as a family daycare provider, and maintaining a state license permitting up to fourteen (14) children or less per facility, shall be exempt from the business tax imposed under this Chapter. Family child care providers shall not be subject to the requirements under Section 5.04.300.
+
+(Ord. No. 13779, § 3, 1-16-2024; Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.264 - Exemption: Parking stalls.
+
+Parking stall operators who are subject to the parking stall fee shall be exempt from business tax under this Section to the extent they derive gross receipts from such activity.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.265 - Optional method of determining tax.
+
+When a person engages in two (2) or more business activities, other than manufacturing, which are taxed on the basis of gross receipts under different provisions of this Chapter, such person may elect to combine all such gross receipts and pay a tax determined by applying the rate of tax applicable to that business activity producing the greatest amount of gross receipts, subject to the following provisions:
+
+A.
+
+All businesses must be conducted at the same location; and
+
+B.
+
+The gross receipts of all business activities, except the business producing the greatest amount of gross receipts, must not exceed twenty (20) percent of the total combined gross receipts of all business activities.
+
+Each person required to obtain a business tax certificate for engaging in the business of selling firearms or firearms ammunition shall not be required to obtain a business tax certificate for activities covered by any other Section of this Chapter and shall pay tax on gross receipts derived from any activity covered by any Section of this chapter at the rate prescribed for gross receipts from the sale of firearms or firearms ammunition.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.266 - Raw materials.
+
+Any person engaging in the business activity of a manufacturer may deduct the value of raw materials actually used from their calculation of annual gross receipts. Only the value of raw materials actually used during the same time period as the time period used to calculate the person's annual gross receipts may be deducted.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.267 - Cannabis equity tax rebate program.
+
+A.
+
+Definitions. The definitions stated in Subsection 5.04.205 P.l. also apply to this Section. In addition, the following definitions apply to this Section:
+
+1.
+
+"Equity Employee" means:
+
+a.
+
+An employee who lives in any combination of Oakland police beats 2X, 2Y, 6X, 7X, 19X, 21X, 21Y, 23X, 26Y, 27X, 27Y, 29X, 30X, 30Y, 31Y, 32X, 33X, 34X, 5X, 8X and 35X and has lived in any combination of such police beats for the immediately preceding two (2) years; or
+
+b.
+
+An employee who lives anywhere in Oakland and was arrested after November 5, 1996 and convicted of a cannabis crime in California.
+
+2.
+
+"Essential Roles" means employment roles that are within the usual course of the hiring entity's business.
+
+3.
+
+"Full Time Employee" means employment in which an employee is employee for at least thirty-six (36) hours per week.
+
+4.
+
+"Managerial Roles" means employment roles that involve supervision of other employees or regular exercise of business judgment.
+
+B.
+
+Equity, Small Business, and Workforce Empowerment Rebate Program.
+
+1.
+
+Rebate Program. Any Cannabis Business that timely and fully pays business taxes owed pursuant to Subsection 5.04.205 P. for operation in any given calendar year shall be entitled to a rebate for each rebate condition, described below, that the business can demonstrate it satisfied with respect to that calendar year. The rebate program described in this Section will be effective for any business tax certificate issued for operation in calendar year 2020, with respect to rebate conditions met during calendar year 2020, and for all business tax certificates issued thereafter.
+
+2.
+
+Rebate Conditions. The following "rebate conditions" apply to this Section:
+
+a.
+
+Local Equity Hiring Rebate Conditions.
+
+i.
+
+During at least one hundred eighty-two (182) days of the relevant calendar year, equity employees represented at least thirty (30) percent of the business's total workforce.
+
+ii.
+
+During at least one hundred eighty-two (182) days of the relevant calendar year, equity employees in essential roles represented at least twenty-five (25) percent of the business's total workforce.
+
+iii.
+
+During at least one hundred eighty-two (182) days of the relevant calendar year, equity employees represented at least twenty (20) percent of the business's employees in managerial roles.
+
+b.
+
+Equity Supply Chain Rebate Conditions.
+
+i.
+
+With respect to the relevant calendar year, at least thirty (30) percent of the value of cannabis products delivered to the business were delivered by a cannabis distribution and transportation business that was an equity cannabis business.
+
+ii.
+
+With respect to the relevant calendar year, at least twenty-five (25) percent of the value of cannabis products delivered to the business were originally cultivated or manufactured by a cannabis cultivation or cannabis manufacturing business that was an equity cannabis business.
+
+c.
+
+Workforce Quality of Life Rebate Conditions.
+
+i.
+
+Throughout the relevant calendar year, none of the employees of the business earned a wage less than twenty dollars ($20.00) per hour, if the employer provides "health benefits" as that term is used in the City's Living Wage Ordinance (Chapter 2.28), or twenty-five dollars ($25.00) per hour, if the employer does not provide health benefits.
+
+ii.
+
+Throughout the relevant calendar year, at least eighty (80) percent of the business's employees were full time employees.
+
+d.
+
+Incubation.
+
+i.
+
+The business previously served as an equity incubator for an equity applicant and continues to provide free real estate or rent to the equity applicant, on terms that comply with Subsections 5.80.050 D.3.b.—D.3.d. or 5.81.060 D.3.b.—D.3.d., either throughout the relevant calendar year or for that portion of the relevant calendar year that is beyond the initial three-year period described in Subsections 5.80.050 D.3. and 5.81.060 D.3.
+
+ii.
+
+The business provides free real estate or rent to an equity applicant, on terms that comply with Subsections 5.80.050 D.3.b.—D.3.d. or 5.81.060 D.3.b.—D.3.d., throughout the relevant calendar year, and does not intend to seek any "permitting priority" pursuant to those sections.
+
+3.
+
+Rebate Amount.
+
+a.
+
+Local Hiring, Supply Chain, and Wage Rebate Conditions. For each rebate condition satisfied pursuant to Subsections 5.04.267 B.2.a., B.2.b., and B.2.c.i.:
+
+i.
+
+With respect to each rebate condition satisfied for calendar year 2020 or 2021, the business shall be entitled to reduce each of the marginal rates applicable to its gross receipts for the relevant calendar year, except for any marginal rate set at one dollar and twenty cents ($1.20) per one thousand dollars ($1,000.00) of gross receipts, by five dollars ($5.00) for every one thousand dollars ($1,000.00) of gross receipts up to twelve million five hundred thousand dollars ($12,500,000.00) of gross receipts for which the business timely and fully paid business taxes for the relevant calendar year and receive a rebate equal to the difference between the business's total taxes paid at the original rates and the amount due at the reduced rates.
+
+ii.
+
+With respect to each rebate condition satisfied for calendar year 2022 and beyond, the business shall be entitled to a rebate equal to five dollars ($5.00) for every one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, up to twelve million five hundred thousand dollars ($12,500,000.00) of gross receipts for which the business timely and fully paid business taxes for the relevant calendar year.
+
+b.
+
+Full Time Employees Rebate Condition. For each rebate condition satisfied pursuant to Subsection 5.04.267 B.2.c.ii.:
+
+i.
+
+With respect to each rebate condition satisfied for calendar year 2020 or 2021, the business shall be entitled to reduce each of the marginal rates applicable to its gross receipts for the relevant calendar year, except for any marginal rate set at one dollar and twenty cents ($1.20) per one thousand dollars ($1,000.00) of gross receipts, by two dollars and fifty cents ($2.50) for every one thousand dollars ($1,000.00) of gross receipts up to twelve million five hundred thousand dollars ($12,500,000.00) of gross receipts for which the business timely and fully paid business taxes for the relevant calendar year and receive a rebate equal to the difference between the business's total taxes paid at the original rates and the amount due at the reduced rates.
+
+ii.
+
+With respect to each rebate condition satisfied for calendar year 2022 and beyond, the business shall be entitled to a rebate equal to two dollars and fifty cents ($2.50) for every one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, up to twelve million five hundred thousand dollars ($12,500,000.00) of gross receipts for which the business timely and fully paid business taxes for the relevant calendar year.
+
+c.
+
+Incubation Rebate Conditions. For each rebate condition satisfied pursuant to Subsection 5.04.267 B.2.d.:
+
+i.
+
+With respect to each rebate condition satisfied for calendar year 2020 or 2021, any business with total gross receipts less than or equal to two million dollars ($2,000,000.00) shall be entitled to reduce each of the marginal rates applicable to its gross receipts for the relevant calendar year, except for any marginal rate set at one dollar and twenty cents ($1.20) per one thousand dollars ($1,000.00) of gross receipts, by fifteen dollars ($15.00) for every one thousand dollars ($1,000.00) of gross receipts for which the business timely and fully paid business taxes for the relevant calendar year and receive a rebate equal to the difference between the business's total taxes paid at the original rates and the amount due at the reduced rates.
+
+ii.
+
+With respect to each rebate condition satisfied for calendar year 2020 or 2021, any business with total gross receipts greater than two million dollars ($2,000,000.00) shall be entitled to reduce each of the marginal rates applicable to its gross receipts for the relevant calendar year, except for any marginal rate set at one dollar and twenty cents ($1.20) per one thousand dollars ($1,000.00) of gross receipts, by ten dollars ($10.00) for every one thousand dollars ($1,000.00) of gross receipts up to seven million five hundred thousand dollars ($7,500,000.00) of gross receipts and by five dollars ($5.00) for every one thousand dollars ($1,000.00) of gross receipts up to twelve million five hundred thousand dollars ($12,500,000.00) for which the business timely and fully paid business taxes for the relevant calendar year and receive a rebate equal to the difference between the business's total taxes paid at the original rates and the amount due at the reduced rates.
+
+iii.
+
+With respect to each rebate condition satisfied for calendar year 2022 and beyond for a business with gross receipts less than or equal to two million dollars ($2,000,000.00) in the relevant calendar year shall be entitled to a rebate equal to fifteen dollars ($15.00) for every one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, for which the business timely and fully paid business taxes for the relevant calendar year.
+
+iv.
+
+With respect to each rebate condition satisfied for calendar year 2022 and beyond for a business with gross receipts greater than two million dollars ($2,000,000.00) in the relevant calendar year shall be entitled to a rebate equal to ten dollars ($10.00) for every one thousand dollars ($1,000.00) of gross receipts, or fractional part thereof, up to seven million five hundred thousand dollars ($7,500,000.00) of gross receipts and by five dollars ($5.00) for every one thousand dollars ($1,000.00) of gross receipts up to twelve million five hundred thousand dollars ($12,500,000.00) for which the business timely and fully paid business taxes for the relevant calendar year.
+
+d.
+
+Exceptions. The following exceptions apply to this subsection:
+
+i.
+
+In any given year, a business may not claim more than one (1) rebate pursuant to Subsection 5.04.267 B.2.d.
+
+ii.
+
+A business may not claim, over any number of years, more than five (5) rebates pursuant to Subsection 5.04.267 B.2.d. on the basis of free real estate or rent provided to any single equity applicant.
+
+iii.
+
+In any given year, a business may not claim any rebates pursuant to 5.04.267 B.2.c. unless it also qualifies for at least one (1) rebate pursuant to Subsection 5.04.267 B.2.a.
+
+4.
+
+Cumulative Rebates and Rebate Limit. Rebates may be claimed cumulatively, but in no case will a business be entitled to cumulative rebates that, with respect to rebates claimed for calendar years 2020 and 2021, would reduce any particular marginal rate below zero ($0.00) dollars, or would reduce its overall tax rate for the relevant calendar year to less than:
+
+a.
+
+Thirty-five dollars ($35.00) for each one thousand dollars ($1,000.00) of gross receipts or fractional part thereof with respect to any rebates claimed for activity in calendar year 2020 or calendar year 2021;
+
+b.
+
+Twenty-five dollars ($25.00) for each one thousand dollars ($1,000.00) of gross receipts or fractional part thereof with respect to any rebates claimed for activity in calendar year 2022 and any following years.
+
+5.
+
+Process for Applying for and Granting Rebates. The City shall accept requests for rebates from any business at the time the business pays business tax for the calendar year following the calendar year pursuant to which the business seeks a rebate, and for thirty (30) days thereafter, or within thirty (30) days of cessation of business activities pursuant to Section 5.04.370. The business shall submit any documentary evidence requested by the City Administrator, or their designee.
+
+Any business entitled to rebates may elect to be paid in check, or other equivalent, or to be paid in the form of a credit for any future business taxes owed. If the business elects for the rebates to be paid in check or other equivalent, the City shall make such payment to any business entitled to a rebate within sixty (60) days of the business submitting all documentation requested by the City Administrator, or their designee.
+
+A business will not be eligible for any rebate if it has not timely and fully paid all business taxes owed for the relevant calendar year. A business may be required to return any granted rebates if the City discovers that the business misreported its gross receipts for any relevant calendar year.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.270 - Constitutional apportionment.
+
+A.
+
+Right to Apportionment. No taxes, penalties, fees, or interest provided for by this Chapter shall be applied so as to impose an undue burden upon interstate commerce or be violative of the equal protection and due process clauses of the Constitutions of the United States and of the State of California.
+
+B.
+
+Submission of Application. If any person believes that any business tax places an undue burden upon interstate commerce or violates the Constitution of the United States or State of California, the person may apply to the City Administrator for an adjustment of the tax. Such application must be in writing within one (1) year after the original deadline to pay the underlying tax. If the person does not make such request within one (1) year, they shall be conclusively deemed to have waived any adjustment for that year.
+
+Each person submitting an application shall by sworn statement and supporting testimony, show the proposed apportionment method, describe the extent to which the person conducts any business activities within and outside of the City and provide any other information that the City Administrator may deem necessary to determine the extent, if any, of the undue burden or violation.
+
+C.
+
+Consideration of Application. With respect to any application, the City Administrator shall conduct an investigation, and shall fix as the tax an amount that is reasonable and nondiscriminatory, or if the tax has already been paid, shall order a refund of the amount over and above the tax so fixed. In fixing the tax to be charged, the City Administrator shall have the power to base the tax upon a percentage of gross receipts or any other measure that will assure that the tax assessed is uniform with that assessed on businesses of like nature, so long as the amount assessed does not exceed the tax as prescribed by this Chapter. In no event is any taxpayer entitled to a refund that results in a windfall to such taxpayer. If the City Administrator determines no adjustment is necessary, they may require the person to submit a sworn statement of the gross receipts and pay the amount of tax determined by the City Administrator.
+
+D.
+
+Guidelines. The City Administrator may issue guidelines to be used to determine the appropriate apportionment method for any given business. Such guidelines may be general or specific to a particular industry or industries.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.300 - Certificates—Issuance, declaration, content, due date.
+
+A.
+
+Annual Certificate and Written Declaration. Every person engaging in business activities in the City shall file with the City an annual written statement setting forth the then applicable factor or factors that constitute the measure of the tax, together with such other information as may be required by the City Administrator. Written statements shall include a declaration confirming, under penalty of perjury, that the information contained in the application is true and correct. Each applicant who is subject to the contractor's license law, shall state that they are licensed under such law, that this license is in full force and effect, and the number of the license.
+
+B.
+
+New Business Registration. Every person applying for a first business tax certificate for a newly established business shall provide any information to the City that the City Administrator deems reasonably necessary to properly categorize the person's business activities and pay a registration fee in the amount set forth in the City's Master Fee Schedule (as amended from time to time) within thirty (30) days from the date of commencement of business activity. Failure to register shall subject the taxpayer to penalty and interest.
+
+C.
+
+Due Date—Rental Businesses. With respect to any persons engaging in residential and nonresidential rental businesses activities, annual declarations and business tax payments shall be due by or before March 1 of each calendar year for which a person is issued a business tax certificate, unless the City council, in its discretion, declares a different due date.
+
+D.
+
+Due Date—All Other Businesses. With respect to any persons engaging in any business activities other than residential and nonresidential rental businesses activities, annual declarations and business tax payments shall be due by or before March 1 of each calendar year for which a person is issued a business tax certificate, unless the City Council, in its discretion, declares a different due date.
+
+E.
+
+Estimates. Persons who are unable to provide final figures before the due date for annual declarations and business tax payments shall provide estimates following procedures established by City Administrator.
+
+F.
+
+Holidays and Weekends. To the extent any deadlines in this Section fall on holidays or weekends, such deadlines shall be extended to the next business day.
+
+G.
+
+Certificate Contents. Certificates shall contain the name of the business, the place where the business is to be carried on, the business activity, the date of the expiration of such business tax certificate, and such other information as the City Administrator may deem appropriate.
+
+H.
+
+Refusal to Issue Certificate. The City Administrator may refuse to issue any person a business tax certificate for the same or any other business if such person has outstanding and unpaid liabilities pursuant to this Chapter.
+
+I.
+
+Extensions. The City Administrator may grant extensions of up to forty-five (45) days for the payment of business tax or for the making and filing of declarations. No penalty shall be added to the amount due and payable if said tax is paid within the extension period. During such extension period, the amount subject to the extension may, in the City Administrator's discretion, bear interest beginning with the original due date to the date of filing of the declaration and full payment of the tax at a rate of one (1) percent per month or fraction thereof, notwithstanding the granting of the extension.
+
+J.
+
+No Intent to Continue Business. A person who does not intend to carry on usual and customary business activities beyond December 31 of any given year is not liable to obtain and pay for a business tax certificate, unless otherwise provided by any Section of this Chapter. A person did not intend to carry on "usual and customary business activities" beyond December 31 of any given year if:
+
+1.
+
+It is established by written documentation (e.g. opening escrow, bill of sale, etc.) that the person was in the act of selling, liquidating, transferring, or otherwise permanently disposing of its business on or before December 31 of the year preceding the calendar year such business was terminated or transferred, and such sale, liquidation, transfer, or other permanent disposal is not made to or for the direct benefit of a related entity; and
+
+2.
+
+Such termination, liquidation, transfer, or disposition is final with no gross receipts either received or attributable to the taxpayer eligible for the subject proration as of the fifteenth day of April of the calendar year after action to terminate, transfer, liquidate or otherwise dispose of the business was initiated.
+
+(Ord. No. 13718, § 2, 12-20-2022; Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.310 - Related entities.
+
+A.
+
+Definition. "Related Entities" means any business units that are commonly owned and integrated in a way that transfers value among the business units and includes any business units that comprise part of a "unitary business" as defined by California law and any business units that are required to, actually do, or may, file a combined report pursuant to California Revenue and Taxation Code Section 25102, or any statute or law that amends or supersedes that section.
+
+B.
+
+Indicia of Related Entities. The City Administrator may presume that entities with common ultimate ownership and any of the following indicia, as determined by the City Administrator, are related entities:
+
+1.
+
+Same type of business: Entities that engage in the same general line of business activity.
+
+2.
+
+Steps in a vertical process: Entities that engage in different steps in a large, vertically structured enterprise.
+
+3.
+
+Strong centralized management: Entities with strong central management, coupled with the existence of centralized departments for such functions as financing, advertising, research, or purchasing.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.320 - Master certificates—Aggregation of gross receipts.
+
+A.
+
+Applicability. The following persons shall apply for a collective master certificate and any appropriate subsidiary certificates pursuant to the terms of this Section:
+
+1.
+
+All persons and their related entities that generate gross receipts attributable to the City by engaging in similarly categorized business activities from separate branch establishments or places of business; and
+
+2.
+
+All persons who receive goods, wares, merchandise, services, or similar advantages in exchange for compensation that is excluded from the definition of "gross receipts" pursuant to exception 8 in Subsection 5.04.110 H. and the person who provided such goods, wares, merchandise, services, or similar advantages.
+
+B.
+
+Effect of Master Certificate—Aggregation of Gross Receipts. For the purpose of determining the business tax due for any master certificate, all persons and related entities conducting business activities pursuant to a master certificate shall aggregate the applicable annual gross receipts from all persons and related entities subject to the master certificate before applying the rates described in this Chapter. Other subsidiary certificates shall not be subject to further tax.
+
+With respect to any master certificate issued pursuant to Subsection (A)(2) of this Section, "annual gross receipts" shall include any gross receipts received on account of any goods, wares, merchandise, services, or similar advantages received in exchange for compensation that was excluded from the definition of "gross receipts" pursuant to exception 8 in Subsection 5.04.110 H., in addition to any other applicable annual gross receipts.
+
+C.
+
+Maintenance of Master Certificate. All persons required to apply for a master certificate pursuant to Subsection A.1. of this Section shall maintain such master certificate for at least as long as the persons or related entities generate gross receipts attributable to the City by engaging in similarly categorized business activities from separate branch establishments or places of business.
+
+All persons required to apply for a master certificate pursuant to Subsection A.2. of this Section shall maintain such master certificate at least until:
+
+1.
+
+They receive gross receipts on account of all goods, wares, merchandise, services, or similar advantages in exchange for compensation that was excluded from the definition of "gross receipts" pursuant to the exclusion for "transactions between related entities" in Subsection 5.04.110 H.; or
+
+2.
+
+Demonstrate, to the satisfaction of the City Administrator, that they will never generate gross receipts on account of such goods, wares, merchandise, services, or similar advantages.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.330 - Public inspection.
+
+A.
+
+The following information for each business tax certificate under this Chapter shall be available for inspection by the public during normal working hours:
+
+1.
+
+The name and address of the business;
+
+2.
+
+The name of the owner of the business, if such name is shown on the records filed pursuant to this Chapter;
+
+3.
+
+Industrial classification;
+
+4.
+
+Expiration date;
+
+5.
+
+Account number.
+
+B.
+
+The City Administrator may enact such regulations as are necessary to permit reasonable public access to the information. Such regulations may prescribe the time and manner in which to receive and act upon requests for such information.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.340 - Procedure for changes to business tax certificate.
+
+No business tax certificate may be transferred or assigned or authorize any person other than the person named in the business tax certificate to carry on the business named or to transact such business in any place other than the place or location named without the written consent of the City. Any time the place of location for the carrying on of such business or the business name is changed, the person applying for such change shall pay a fee in the amount set forth in the City's Master Fee Schedule.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.350 - Business tax certificate to be conspicuously posted—Exception.
+
+Every person having a business tax certificate and carrying on a business at a fixed place of business shall keep the business tax certificate conspicuously posted and exhibited while in force in a part of said place of business accessible to the view of the public.
+
+Every person having such a business tax certificate and not having a fixed place of business shall carry such business tax certificate with him or her at all times while carrying on the business for which the same was granted.
+
+The City Administrator may designate appropriate staff who shall have the right to enter, free of charge and during business hours, any place of business for which a business tax certificate is required, for the sole purpose of verifying the existence of and to demand the exhibition of such tax business tax certificates for the current term from any person engaged or employed in the transaction of such business.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.360 - Lost certificate.
+
+The City shall issue a duplicate business tax certificate to replace any business tax certificate issued under the provisions of this chapter that has been lost or destroyed at no cost to the taxpayer for the first duplicate business tax certificate. Each replacement business tax certificate issued thereafter will be issued for the amount set forth in the City's Master Fee Schedule (as amended from time to time).
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.370 - Notice of business termination.
+
+Any business that ceases their normal and customary business activities within the City must notify the City within thirty (30) days of cessation of business activities. This notification must be in writing and signed by the registered business owner or authorized agent. Failure to file a timely notification will be subject to a late filing fee.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.400 - Penalty for nonpayment.
+
+A.
+
+The following nonpayments are declared delinquent:
+
+1.
+
+Every annual business tax or portion thereof that is not paid on or before the deadline to make such payment;
+
+2.
+
+Every registration fee and portion thereof for a newly established business, that is not paid within thirty (30) days after commencing business; and
+
+3.
+
+Any other tax, penalty, fee, or interest, or portion thereof, that is not paid by any date and time established or declared pursuant to this Chapter.
+
+B.
+
+Any person whose nonpayments are declared delinquent shall pay a penalty as follows:
+
+1.
+
+Ten (10) percent of the total amount that remains delinquent as of the expiration of the deadline to make such payment; plus
+
+2.
+
+Twenty-five (25) percent of the total amount that remains delinquent as of the expiration of sixty (60) days after the deadline to make such payment, not including any penalty amount. For the purpose of this Subsection, any partial payments shall be first credited against any outstanding penalties and then against the principal delinquent amount.
+
+C.
+
+Proof of Payment of Business Tax or Registration Fee. If a dispute arises regarding the date a payment was received by the City, the burden of proof is on the taxpayer to demonstrate that the taxpayer made and the City received timely payment. Payment is considered timely made and received if it is either actually received by the City or deposited in the United States mail on or before the date the payment is due. The following shall be considered proof of timely payments:
+
+1.
+
+Cash register or electronic receipt issued by the City through an authorized employee, or through an online transaction, to those taxpayers making payment;
+
+2.
+
+Certificate of mailing issued by the U.S. Post Office;
+
+3.
+
+Certificate of registered or certified mail issued by the U.S. Post Office;
+
+4.
+
+Receipt of delivery to private mail services; or
+
+5.
+
+Postmark issued by the U.S. Post Office.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.405 - Interest.
+
+In addition to the penalties imposed, any person whose nonpayments are declared delinquent shall pay interest at the rate of one (1) percent per month or fraction thereof, on the amount of the nonpayment inclusive of penalties from the date on which the nonpayment first became delinquent until paid. Interest is not a penalty. Interest is charged in order to compensate the City for the loss of the use of revenue after the due date of the tax.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.410 - Business tax debt—Liens.
+
+The amount of any business tax and penalty imposed by this Chapter shall be deemed a debt to the City; and any person carrying on any business without first having procured a business tax certificate from the City, or without having paid all appropriate and due taxes, penalties, interest, and fees to the City shall be liable to an action in the name of the City in any court of competent jurisdiction, for the amount of taxes, penalties, interest, and fees imposed on such person.
+
+The City must commence an action to collect any tax, penalty, or interest within the time required by California law and subject to any applicable tolling periods. To the extent allowed by California law "applicable tolling periods" includes, but is not limited to, any period during which the City is unaware of the existence of a business or the ongoing activities of a business due to the taxpayer's failure to obtain a business license or failure to comply with annual reporting requirements, the time during which a taxpayer pursues any administrative review or appeals, and the time during which the City pursues any lawful audit. (See City of Los Angeles v. Centex Telemanagement, Inc. (1994), 29 Cal.App.4th 1384.)
+
+The amount of taxes, penalties, interest, and fees imposed under the provisions of this chapter is assessed against the business property on which the tax is imposed in those instances where the owner of the business and the business property are one and the same. If the taxes are not paid when due, such tax, penalty and interest shall constitute an assessment against such business property and shall be a lien on the property for the amount thereof, which lien shall continue until the amount thereof including all penalties and interest are paid, or until it is discharged of record.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.415 - Notice of hearing on lien.
+
+The City Administrator shall prepare a written notice of those persons against whose property the City will file liens and submit that notice to the City council. The City council shall forthwith fix a time and place for a public hearing on such notice.
+
+The City Administrator shall cause a copy of such notice to be served upon the owner of the business/business property not less than ten (10) days prior to the time fixed for such hearing. Mailing a copy of such notice to the owner of the business/business property at the address listed in the most recent property ownership records provided to the City by the County Assessor as of the date that the City Administrator causes notice to be mailed shall comprise proper service. Service shall be deemed complete at the time of deposit in the United States mail.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.420 - Collection of delinquent taxes by special tax roll assessment.
+
+With the confirmation of the report by the City Council, the listed delinquent business tax charges that remain unpaid by the owner of the business/business property shall constitute a special assessment against said business property and shall be collected at such time as is established by the County Assessor for inclusion in the next property tax assessment.
+
+The City Administrator shall turn over to the County Assessor for inclusion in the next property tax assessment the total sum of unpaid delinquent business tax charges consisting of the delinquent business taxes, penalties, interest at the rate of one (1) percent per month or fraction thereof from the date of recordation to the date of lien, an administrative charge in the amount set forth in the City of Oakland Master Fee Schedule (as amended from time to time) and a release of lien filing fee in an amount equal to the amount charged by the Alameda County Recorder's Office.
+
+Thereafter, said assessment may be collected at the same time and in the same manner as ordinary property taxes are collected, and shall be subject to the same penalties and the same procedure of sale as provided for delinquent ordinary property taxes. The assessment liens shall be subordinate to health and safety liens except for those of State, County, and municipal taxes with which it shall be upon parity. The lien shall continue until the assessment and all interest and charges due and payable thereon are paid. All laws applicable to the levy, collection, and enforcement of municipal taxes shall be applicable to said special assessments.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.425 - Recordation of lien for delinquent charges.
+
+Upon confirmation of the report of delinquent business tax charges by the City Council, a lien on the real property for delinquent business tax charges which were assessed will be recorded with the Recorder of the County of Alameda.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.430 - Audit—Examination of books, records, witnesses.
+
+The City may conduct audits and examinations pursuant to the terms of this Section.
+
+The City Administrator or any authorized employee is authorized to examine the books, papers, tax returns, and records of any person subject to this Chapter for the purpose of verifying the accuracy of any declaration made, or if no declaration was made, to ascertain the business tax due.
+
+Every person subject to the provisions of this Chapter is directed and required to furnish to the City Administrator, the means, facilities, and opportunity for making such examination and investigations. The City Administrator is authorized to examine a person under oath, for the purpose of verifying the accuracy of any declaration made, or if no declaration was made, to ascertain the business tax or registration fees due under this Chapter. In order to ascertain the business tax or registration fees due under this Chapter, the City Administrator may compel, by administrative subpoena, the production of relevant books, papers and records and the attendance of all persons as parties or witnesses.
+
+The refusal to submit to such examination or production by any employer or person subject to the provisions of this Chapter shall be deemed a violation of this chapter, and administrative subpoenas shall be enforced pursuant to applicable State law.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.435 - Results of audit—Reclassification determination.
+
+A.
+
+Notice of Determination. If, pursuant to an audit or examination conducted pursuant to Section 5.04.430, the City determines that a person's business activity should be reclassified, the City may issue a notice of determination ordering such reclassification.
+
+B.
+
+Reclassification—Prospective Only. If an audit or examination results in reclassification, not made necessary by earlier misclassification based upon incorrect and/or incomplete information supplied by a taxpayer to the City, the reclassification shall be effective in the current year only and shall not be retroactive.
+
+C.
+
+Reclassification—Retroactive. If an audit or examination results in reclassification made necessary by earlier misclassification based upon incorrect or incomplete information supplied by a taxpayer to the City, penalties and interest pursuant to Sections 5.04.400 and 5.04.405 shall be retroactively assessed upon amounts underpaid from the date the correct taxes would have been due.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.440 - Results of audit—Deficiency determination.
+
+A.
+
+Notice of Determination. If, pursuant to an audit or examination conducted pursuant to Section 5.04.430, the City determines that a person has not properly completed any declaration, has failed to make a declaration, has improperly calculated the amount of business tax owed, or made some similar error or omission, the City may issue a notice of determination ordering an appropriate correction.
+
+B.
+
+Recomputation of Tax—Authority to Make—Basis of Recomputation. If the City Administrator, in the exercise of reasonable discretion, is not satisfied with the declaration or declarations of the tax or the amount of tax computed, the City Administrator may compute and determine the amount required to be paid upon the basis of the facts contained in the declaration or declarations or upon the basis of any factual information within the City Administrator's possession or that may come into the City Administrator's possession. One (1) or more deficiency determinations may be made of the amount due for one (1) or for more than one (1) period.
+
+C.
+
+Interest and Penalties on Deficiency. The amount of the determination in excess of that amount timely paid by the taxpayer, inclusive of penalties, shall bear interest and penalties in the amount and manner set forth in Sections 5.04.400 and 5.04.405 of this Chapter.
+
+D.
+
+Offsetting of Overpayments. In making a determination, the City Administrator may offset overpayments for a period or periods against underpayments for any period or periods, and against any City debt.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.445 - Determination if no declaration filed—Penalty.
+
+A.
+
+Notice of Determination. If any person fails to file a declaration as required by this Chapter, the City Administrator may issue a notice of determination imposing a penalty pursuant to the terms of this Section.
+
+B.
+
+Estimate, Computation, Penalty. If any person fails to file a declaration as required by this Chapter, the City Administrator may, in the exercise of reasonable discretion, make an estimate of the amount of the gross receipts or other measure of tax applicable to the person or persons subject to the tax. The estimate shall be made for the period or periods for which the person failed to file a declaration and shall be based upon any factual information in the City's possession or which may come into the City's possession. Upon the basis of this estimate, the City Administrator may impose a penalty of up to ten (10) percent of the tax estimated to be owed, in addition to any penalties and interest that may be due pursuant to Section 5.04.400 and Section 5.04.405.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.450 - Notice of determination—Service of—Finalization—Payment.
+
+Any notice of determination issued by the City pursuant to this Chapter shall be served personally or mailed to the taxpayer at the taxpayer's last address shown on the City's records. If served personally, such service is deemed complete at the time of personal service. If mailed, such service is deemed complete at the time of deposit in the United States mail. All notices of determination shall state any related penalties or interest.
+
+Notices of determination become final twenty (20) days after service is deemed complete, unless an extension is granted by the City or the taxpayer files a timely petition for redetermination pursuant to Section 5.04.500.
+
+The taxpayer shall have twenty (20) days after a notice of determination becomes final to pay any additional tax liability described in the notice of determination. If full payment is not timely received, the unpaid amount is deemed to be delinquent. Interest pursuant to Section 5.04.405 shall begin accruing upon delinquent amounts and penalties shall be assessed upon delinquent amounts pursuant to Section 5.04.400.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.500 - Redetermination.
+
+A.
+
+Right of Petition For—Time to File Petition. Any person issued a notice of determination under this Chapter, or any person directly interested, may file a petition for a redetermination within twenty (20) days after service of the notice of determination. The City Administrator in individual cases may, in the exercise of reasonable discretion in administering the provisions of this Chapter, extend the twenty-day period. If a petition for redetermination is not filed within the twenty-day period, or within the extension period granted by the City Administrator, the determination becomes final at the expiration of the twenty-day period. The City Administrator's decisions on applications for extension of time in which to file petitions for redetermination must be served in the manner provided in Section 5.04.450.
+
+B.
+
+Grant of Oral Hearing—Notice—Continuances. If a petition for redetermination is timely filed, the City Administrator shall reconsider the determination and, if the petition includes a request for hearing, shall grant the person an oral hearing, giving the person ten (10) days' notice of the time and place thereof. The City Administrator may continue the hearing from time to time as may be necessary. The City Administrator shall exercise reasonable discretion in the decision on redetermination.
+
+C.
+
+Alteration of Determination—Limitation on Right to Increase Amount. Once a petition for redetermination has been filed, the City Administrator may amend the notice of determination until the notice of determination becomes final; however, the City Administrator must assert any claim for increasing any liability owed by the taxpayer at or before the hearing, if a hearing has been requested. If no hearing has been requested, or if the City Administrator asserts a claim before the hearing without reasserting it at the hearing, notice of the increase must be served on the person in the manner provided in Section 5.04.450.
+
+D.
+
+Finality of Order on Petition. The order or decision of the City Administrator upon a petition for redetermination becomes final twenty (20) days after service upon the petitioner of notice thereof in the manner provided in Section 5.04.450, unless appeal of such order or decision is timely filed with the Board of Review pursuant to Section 5.04.520.
+
+E.
+
+Time for Payment of Amounts Found Due—Penalty for Delinquency. All determinations made by the City Administrator or Board of Review are due and payable at the time they become final.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.510 - Refund of tax, penalty or interest.
+
+A.
+
+Illegally or Erroneously Collected Tax. Any person who alleges that any tax, penalty, or interest has been illegally or erroneously paid to, collected by, or received by the City may file a claim with the City, executed under penalty of perjury and stating the specific grounds upon which the claim is founded. If the City Administrator finds, in their reasonable discretion, that claim is valid or partially valid and that the claim was filed within one (1) year of the payment, collection, or receipt of the tax, the City shall compensate the taxpayer to the extent of the illegally or erroneously collected tax.
+
+B.
+
+Submission of Claim. A claim made pursuant to this Section shall be on a form furnished by the City Administrator. A claim for refund may only be signed by the taxpayer, the taxpayer's authorized agent, or other person determined to be liable for the tax or said person's guardian or conservator. Class claims for refunds shall not be permitted. If the claim is approved by the City Administrator, the excess amount collected may be refunded or may be credited on any amount due and payable from the person from whom it was collected, or by whom paid, and the balance may be refunded to such person, his or her administrators or executors.
+
+No refund of any tax or registration fee paid under this chapter shall be made by virtue of the discontinuance, dissolution, or other termination of a business.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.520 - Board of Review.
+
+A.
+
+Composition. A Business Tax Board of Review ("Board of Review") consisting of the City Administrator, the City auditor, an employee of the City selected by the City Administrator, and two (2) community members nominated by the Mayor and appointed by the City Council each for a term of four (4) years is hereby created. The Board of Review shall select from its members a chairperson who shall serve at its pleasure. The City Administrator and the City auditor may each deputize in writing filed with the Board of Review for such period or for such hearings as may be desired, a person to serve as their designee to the Board of Review. A majority of members of the Board of Review shall constitute a quorum.
+
+A Board of Review member may fully participate in all decisions in which such Board member participates while on holdover status and such decisions are not invalid because of the Board of Review member's holdover status. Neither the members of the Board of Review nor the members of their offices deputized to serve in their places at any time shall receive any compensation as such members or acting members for their services.
+
+B.
+
+Right to Appeal. Any person whose petition for redetermination pursuant to Section 5.04.500 is denied in whole or in part, and any person granted a waiver by the City Administrator, may file an appeal to the Business Tax Board of Review.
+
+C.
+
+Appeals. Any person entitled to file an appeal pursuant to this Section may file an appeal in writing to the Board of Review within twenty (20) days from the date of service of the denial of a petition for redetermination or the waiver giving rise to the person's right to appeal. The City may waive or extend the deadline to file an appeal. The Board of Review shall make findings of fact in support of its decisions on appeal. The Board of Review shall exercise its reasonable discretion in administering the provisions of this Chapter in rendering a decision on appealed rulings and findings. The Board of Review's decision on appeal becomes final upon giving notice of the decision to the appellant in the manner provided in Section 5.04.450. Any tax, penalty, or interest found to be owing is due and payable at the time the Board of Review's decision becomes final.
+
+D.
+
+Extension of Time for Filing and Payment. On written application showing good cause, the Board of Review or its chairperson may, with or without hearing, by written order filed with the City Administrator, extend for not more than forty-five (45) days the time provided in this chapter for the filing of any declaration or making any payment. In no event will such an extension be granted for an annual tax on any written application received after the applicable annual deadline. For the period of such extension the penalty in regard thereto shall be waived.
+
+E.
+
+Exhaustion of Remedies. Any person whose case may be resolved by employing the administrative remedies provided by this Section, or in Section 5.04.500, must exhaust those remedies before filing suit for refund, rebate, exemption, cancellation, amendment, adjustment, or modification of tax, interest, or penalty.
+
+F.
+
+Review of Tax Rulings. The Board of Review shall, on motion of any one (1) of its members, hold a hearing to ascertain its position regarding any business tax ruling. The Board of Review may affirm, modify, or reverse such ruling as necessary or advisable to effectuate the purposes of this Chapter. The Board of Review's decision on such ruling shall have only prospective effect.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.600 - Declaration—Confidential documents.
+
+The statements filed pursuant to the provisions of this Chapter are presumed to be confidential in character and will not be subject to public inspection to the fullest extent allowed by law, and shall be kept so that the contents of such statements will not become known except to the persons charged with the administration of this Chapter.
+
+Any officer or employee who willfully violates any provision of this Section shall be deemed guilty of an infraction, and such violation may be cause for discharge from the City's service.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.605 - Disclosure of business taxpayers, etc. limitation on rule.
+
+Notwithstanding any other provision of any City ordinance, the City Administrator is authorized to enter into agreements with the California Franchise Tax Board, the State Board of Equalization, or the Internal Revenue Service providing for the exchange of information for official purposes of said agencies, and to implement any such agreement through the exchange of information.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.610 - Return check penalty.
+
+Whenever a person submits a check for payment of a business tax and said check is subsequently returned unpaid by the bank upon which said check is drawn, and the check is not redeemed prior to the expiration of the renewal or registration due date, the person's nonpayment will be declared delinquent and the person will be liable for the tax amount due plus penalties and interest.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.615 - Prior year registration assessments.
+
+If any person fails to apply for and secure a business tax certificate, the business tax due shall be that amount due and payable from the first date on which the person was engaged in business in the City, together with applicable penalties and interest.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.620 - Notice not required.
+
+The City is not required to send any renewal, delinquency, or other notices or bills to any person subject to the provisions of this Chapter, except as explicitly provided. Failure to send such notices or bills will not affect the validity of any tax, penalty, or interest due under the provisions of this Chapter.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.625 - Conviction for violation not waiver of business tax.
+
+The conviction and punishment of any person for transacting any business without a business tax certificate shall not excuse or exempt such person from the payment of any business tax due or unpaid at the time of such conviction, and nothing herein shall prevent a criminal prosecution of any violation of the provisions of this Chapter.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.630 - Duties of the City Administrator—Notice of decisions.
+
+It shall be the duty of the City Administrator to collect and receive and keep an accurate record of all taxes imposed by this Chapter. The City Administrator is charged with the enforcement of this Chapter, except as otherwise provided, and may prescribe, adopt, and enforce those rules and regulations necessary or advisable to effectuate the purposes of this Chapter, including provisions for the re-examination and correction of declarations and payments; the exclusive discretionary authority to waive penalties; and the authority to defer the payment due dates as prescribed by Section 5.04.300 by up to forty-five (45) days. In individual cases, the City Administrator may make findings of fact in support of decisions, determinations, and rulings enforcing this Chapter. The City Administrator may prescribe the extent to which any ruling or regulation shall be applied without retroactive effect.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.640 - Savings clause.
+
+A.
+
+The provisions of this Chapter shall not apply to any person, association, or corporation or to any property, as to whom or which it is beyond the power of the City to impose the business tax. If any sentence, clause, section, or part of this Chapter, or any business tax against any individual or any of the several groups specified herein is found to be unconstitutional, illegal or invalid, such unconstitutionality, illegality, or invalidity shall affect only such clause, sentence, section, or part of this Chapter and shall not affect or impair any of the remaining provisions, sentences, clauses, sections, or other parts of this Chapter. It is declared to be the intention of the City and voters that this Chapter would have been adopted had such unconstitutional, illegal, or invalid sentence, clause, section, or part thereof not been included herein.
+
+B.
+
+Any person claiming an exemption from the business tax imposed by this Chapter by virtue of this Section, shall submit to the City a statement signed under penalty of perjury setting forth the facts necessary to establish such claim of exemption.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.645 - Late penalty—Declaration.
+
+Every person who, without an extension authorized by the City Administrator, fails to timely file any business tax declaration or statement of renewal shall pay a late filing fee of fifty dollars ($50.00) or in the amount set forth in the City of Oakland Master Fee Schedule (as amended from time to time), in addition to any other taxes, penalties, fees, or interest that may due under this Chapter.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.650 - Violations, infraction, misdemeanor.
+
+In the exercise of the duties imposed upon the City Administrator, and acting through deputies or duly authorized representatives, the City Administrator shall examine or cause to be examined all places of business in the City to ascertain whether the provisions of this Chapter have been complied with. For the purposes of this paragraph, in the case of a person coming into the City to do business from a location outside the City, the "place of business" shall be deemed to be the place where such person is engaging in business or offering to engage in business in the City.
+
+Any person violating any provision of this Chapter shall be guilty of an infraction. Any person knowingly or intentionally misrepresenting to any officer or employee of this City any material fact in procuring the business tax certificate herein provided for shall be guilty of a misdemeanor, and conviction thereof shall be punishable by a fine of not more than five hundred dollars ($500.00) or imprisonment in the County jail for a period of not more than six (6) months or by both fine and imprisonment.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.655 - Records required from taxpayers.
+
+Every person required to obtain a business tax certificate shall keep and preserve for a period of three (3) years such records as may be necessary to determine the amount of tax for which the person is liable.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.660 - No enjoinment of collection.
+
+No injunction or writ of mandate or other legal or equitable process shall issue in any suit, action, or proceeding in any court against the City or any officer thereof, to prevent or enjoin the collection of business taxes sought to be collected.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.665 - Revenue measure does not permit business activities otherwise prohibited.
+
+The taxes prescribed by the provisions of this Chapter constitute a tax for revenue purposes and are not regulatory permit fees.
+
+Persons holding business tax certificates pursuant to this Chapter shall comply with all requirements of the Oakland Municipal and Planning Code and all other applicable laws and shall not carry on any business activity that violates any law.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.670 - Implementation and delegation.
+
+The City Administrator may adopt rules and regulations consistent with this Chapter as needed to implement this Chapter, subject to the review and approval of the City attorney, and to develop all related forms or other materials, and to take other steps needed to implement this Chapter.
+
+The City Administrator may delegate any duties, rights, powers, or privileges granted by this Chapter to any appropriate subordinate officer, including the director of finance.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.675 - Amendment by City Council.
+
+With the sole exception of Subsection 5.04.120 P., as specified by the provisions of Subsection 5.04.120 F.7., the City Council may not amend this Chapter to modify any business tax rates or minimum tax amounts.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.680 - Effective date.
+
+Rates Effective as of January 1, 2023. The rates provided in this Chapter shall be effective with respect to any 2023 business tax certificate and for each following year. Any business tax certificates issued to a newly established business for operation in 2022 shall pay business tax pursuant to the rates that were effective at the time the person seeking the certificate submitted their initial application.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)
+5.04.685 - Existing tax liabilities.
+
+Existing Tax Liabilities. Any taxes, penalties, fees, interest, liens, or debts imposed or owed pursuant to any earlier version of Oakland's business tax ordinance shall remain collectible and enforceable notwithstanding any later amendments to the business tax ordinance. The City may pursue such taxes, penalties, fees, interest, liens, or debts in any manner allowed by Federal, State or local law.
+
+(Res. No. 89297, Pt. 2, 7-5-2022)

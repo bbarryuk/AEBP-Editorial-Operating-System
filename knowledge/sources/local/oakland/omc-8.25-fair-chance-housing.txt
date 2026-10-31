@@ -1,0 +1,278 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: OMC Ch. 8.25 — Fair Chance Access to Housing
+Jurisdiction: Oakland
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://library.municode.com/ca/oakland/codes/code_of_ordinances  [to confirm (add chapter/article deep link)]
+Version: Saved 2026-10-06; Municode version date not recorded
+Saved to OneDrive: 2026-10-06   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Oakland-MunCode-Ch8_25.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Chapter 8.25 - RONALD V. DELLUMS AND SIMBARASHE SHERRY FAIR CHANCE ACCESS TO HOUSING ORDINANCE
+
+8.25.010 - Title, purpose, and application.
+
+A.
+
+This Chapter shall be known as the "Ronald V. Dellums and Simbarashe Sherry Fair Chance Access to Housing Ordinance" and may be shortened to the "Fair Chance Housing Ordinance." (The term "this Chapter" and "this Ordinance" may be used interchangeably to refer to the Ron V. Dellums and Simbarashe Sherry Fair Chance Access to Housing Ordinance as set forth in this Chapter.)
+
+B.
+
+The purpose of this Chapter is to limit the use of criminal history in tenant selection policies in order to give previously incarcerated persons or other persons with a criminal history a fair opportunity to compete for rental housing and to be able to reside with family members and others, thus putting them in a better position to reintegrate into the community and to obtain gainful employment. Such housing opportunities should also reduce the incidence of homelessness for persons with a criminal history. Further, the recitals set forth in the adopted form of this Ordinance, are incorporated into this Chapter as if fully set forth herein.
+
+(Ord. No. 13581, § 1, 2-4-2020)
+8.25.020 - Definitions.
+
+A.
+
+"Adverse Action" means (1) to fail or refuse to rent or lease housing to an individual; (2) to fail or refuse to continue to rent or lease Housing to an individual; (3) to reduce the amount or term of any tenant subsidy for housing; (4) to treat an individual differently from other applicants or tenants such as requiring higher security deposit or rent; (5) to treat an individual as ineligible for a tenant-based rental assistance program, including, but not limited to, the Section 8 Housing Choice Voucher Program, or (6) to fail to permit the addition of a tenant's close family member to occupy a rental unit while the occupying tenant remains in occupancy, based on criminal history.
+
+B.
+
+"Affordable Housing" shall mean any Housing that (i) has received or is receiving City, County, State, or Federal funding, tax credits, or other subsidies connected in whole or in part to developing, rehabilitating, restricting rents, subsidizing ownership, or otherwise providing rental housing for extremely low income, very low income, low income, and moderate income households (collectively, "Public Funding"), with the exception of Housing where the only Public Funding received is in the form of a Local, State or Federal tenant-based voucher, such as through the Section 8 tenant-based voucher program (42 U.S.C. Section 1437f); or (ii) is subject to affordability and related requirements including, but not limited to, the State Density Bonus law (California Government Code Sections 65915-65918 and O.M.C. Section 17.107.040).
+
+C.
+
+"Affordable Housing Provider" shall mean any housing provider that owns, master leases, manages, or develops affordable housing in the City. Any agent, such as a property management company, that makes tenancy decisions on behalf of the above-described housing providers shall also be considered an "affordable housing provider".
+
+D.
+
+"Aggrieved Person" means an applicant who believes they were subject to an adverse action; a tenant who believes they or their close family member was subject to an adverse action at their rental unit based on the application of an applicant to reside in such family member's rental unit; and a tenant who believes they were subject to an adverse action based on the application of a person to reside in such tenant's rental unit to replace an existing tenant, add a new tenant, or to sublet.
+
+E.
+
+"Applicant" means a person who seeks information about, visits or applies to rent or lease housing, who applies for a tenant-based rental assistance program, including, but not limited to, the Section 8 Housing Choice Voucher Program, who seeks to be added as a household member to an existing lease for housing or, with respect to any criminal history that occurred prior to the beginning of the person's tenancy, who currently rents or has a lease for housing.
+
+F.
+
+"Arrest" means a record from any jurisdiction that does not result in a conviction and includes information indicating that a person has been questioned, apprehended, taken into custody or detained, or held for investigation by a law enforcement, police, or prosecutorial agency and/or charged with, indicted, or tried and acquitted for any felony, misdemeanor or other criminal offense.
+
+G.
+
+"Background Check Report" means any report regarding an applicant's criminal history, including, but not limited to, those produced by the California Department of Justice, the Federal Bureau of Investigation, other law enforcement agencies, courts, or by any consumer reporting or tenant screening agency.
+
+H.
+
+"Close Family Member" means a spouse, domestic partner, child, sibling, parent, grandparent, or grandchild.
+
+I.
+
+"Conviction" means a record from any jurisdiction that includes information indicating that a person has been convicted of a felony or misdemeanor or other criminal offense and for which the person was placed on probation, fined, imprisoned and/or paroled.
+
+J.
+
+"Criminal History" means information transmitted orally or in writing or by any other means, and obtained from any source, including, but not limited to, the individual to whom the information pertains, a government agency or a background check report, regarding: one or more convictions or arrests; a conviction that has been sealed, dismissed, vacated, expunged, sealed, voided, invalidated, or otherwise rendered inoperative by judicial action or by statute (for example, under California Penal Code sections 1203.1 or 1203.4); a determination or adjudication in the juvenile justice system; a matter considered in or processed through the juvenile justice system; or participation in or completion of a diversion or a deferral of judgment program.
+
+K.
+
+"Housing" means any residential rental housing, building, or unit, whether legally permitted or not, in the City of Oakland, with the exception of the following:
+
+1.
+
+Single-family dwellings where the owner occupies the dwelling as his or her principal residence;
+
+2.
+
+A dwelling unit in a residential property that is divided into a maximum of three (3) units, one (1) of which is occupied by the owner as his or her principal residence;
+
+3.
+
+Units where the owner has previously occupied the rental unit as his or her principal residence and has the right to recover possession for his or her occupancy as a principal residence under a written rental agreement with the current tenants; and
+
+4.
+
+Tenant-occupied units where an occupying tenant seeks to replace an existing co-tenant, add an additional co-tenant, or sublet the unit, provided that the occupying tenant remains in occupancy.
+
+L.
+
+"Housing Provider" shall mean any person that owns, master leases, manages, or develops housing in the City. For the purpose of this definition, "person" includes one (1) or more individuals, partnerships, organizations, trade or professional associations, corporations, legal representatives, trustees, trustees in bankruptcy, receivers, or any political or civil subdivision or agency or instrumentality of the City. In addition, any agent, such as a property management company, that makes tenancy decisions on behalf of the above-described persons, and any government agency, including, but not limited to, the Oakland Housing Authority, that makes eligibility decisions for tenant-based rental assistance programs, including, but not limited to, the Section 8 Housing Choice Voucher Program, shall also be considered a "housing provider".
+
+(Ord. No. 13581, § 1, 2-4-2020)
+8.25.030 - Use of criminal history in housing decisions.
+
+A.
+
+Except as provided in paragraphs B. and C. of this section, a housing provider shall not, at any time or by any means, whether direct or indirect, inquire about an applicant's criminal history, require an applicant to disclose criminal history, require an applicant to authorize the release of criminal history or, if such information is received, base an adverse action in whole or in part on an applicant's criminal history.
+
+B.
+
+It shall not be a violation of this Ordinance for a housing provider to comply with Federal or State laws that require the housing provider to automatically exclude tenants based on certain types of criminal history, e.g. Ineligibility of Dangerous Sex Offenders for Admission to Public Housing (42 U.S.C. Sec. 13663(a)) and Ineligibility of Individuals Convicted for Manufacturing Methamphetamine on Premises of Federally Assisted Housing for Admission to Public Housing and Housing Choice Voucher Programs (24 C.F.R. Sec. 982.553). However, if such a requirement applies, the Housing Provider shall not inquire about, require disclosure of, or, if such information is received, review an applicant's criminal history until the housing provider first does the following: (1) informs the applicant in advance that the housing provider will check for certain types of criminal history; and (2) requests written consent, or if the applicant objects, provides the applicant the opportunity to withdraw the rental application.
+
+The denial of housing may only be based on State and Federal requirements.
+
+C.
+
+In compliance with state law, in order to protect persons at risk pursuant to Penal Code Section 290.46(j)(1), the Housing Provider may review the State registry of lifetime sex offenders operated by the State of California Department of Justice, provided that (1) the housing provider has stated the lifetime sex offender screening requirement in writing in the rental application; and (2) the housing provider may not inquire about, require disclosure of, or, if such information is received, review an applicant's criminal history until the housing provider has first:
+
+1.
+
+Determined that the applicant is qualified to rent the housing under all of the housing provider's criteria for assessing applicants except for any criteria related to criminal history; and
+
+2.
+
+Provided to the applicant a conditional rental agreement that commits to providing the housing to the applicant as long as the applicant meets the housing provider's criminal history criteria with respect to the registry of lifetime sex offenders.
+
+3.
+
+Informed the applicant in advance that the housing provider will be checking the sex offender registry and requested written consent or if the applicant objects provided the opportunity to withdraw the rental application.
+
+D.
+
+If any adverse action is based in whole or in part on the applicant's criminal history, the housing provider shall provide a written notice to the applicant regarding the adverse action that includes, at a minimum, the reason(s) for the adverse action; instructions regarding how to file a complaint about the adverse action with the City, a list of local legal services providers including contact information; and a copy of any criminal history, background check report, or other information related to the applicant's criminal history that served as a basis for the adverse action, and an opportunity to respond with rebutting or mitigating information prior to the denial of applicant's housing application. The housing provider shall not require reimbursement or payment from the applicant for providing any criminal history or criminal background check report.
+
+(Ord. No. 13581, § 1, 2-4-2020)
+8.25.040 - Requirements for housing providers.
+
+A.
+
+It shall be unlawful for any housing provider, to produce or disseminate any advertisement related to housing that expresses, directly or indirectly, that any person with criminal history will not be considered for the rental or lease of real property or may not apply for the rental or lease of real property, except as required by State or Federal law.
+
+B.
+
+The City shall publish and make available to housing providers, in English, Spanish, and all languages spoken by more than five percent (5%) of the City's population, a notice suitable for posting that informs applicants for housing of their rights under this Ordinance. The notice shall contain the following information:
+
+1.
+
+A description of the restrictions and requirements of this Ordinance;
+
+2.
+
+Instructions for submitting a complaint to the City regarding a violation of this Ordinance; and
+
+3.
+
+Information about community resources available to assist an applicant in connection with a violation of the Ordinance.
+
+C.
+
+Housing providers shall include the notice described in Subsection 8.25.040 B. prominently on their application materials, websites and at any locations under their control that are frequently visited by applicants.
+
+D.
+
+Housing providers shall maintain a record of any criminal history obtained for any applicant for housing for a period of at least three (3) years. To the maximum extent permitted by law, any information obtained regarding an applicant's criminal history shall remain confidential.
+
+E.
+
+Nothing in this section shall prohibit a housing provider from complying with a request by the City to provide records for purposes of demonstrating compliance with the requirements of this Ordinance.
+
+F.
+
+In addition to the requirements in paragraphs A.—E. of this section, Affordable Housing Providers shall also submit to the City an annual certificate of compliance with the requirements of this Ordinance in the form provided by the City.
+
+(Ord. No. 13581, § 1, 2-4-2020)
+8.25.050 - Retaliation prohibited.
+
+It shall be a violation of this Chapter to interfere with, restrain, or deny the exercise of, or the attempt to exercise, any right protected under this Chapter, or to take any adverse action against any person because the person exercised or attempted in good faith to exercise any right protected under this Chapter.
+
+(Ord. No. 13581, § 1, 2-4-2020)
+8.25.060 - Remedies.
+
+A.
+
+Administrative Remedies. For any violation of this Ordinance the City may take the following administrative actions:
+
+1.
+
+Issue a civil penalty of up to one thousand dollars ($1,000.00) for each violation.
+
+2.
+
+Recover the costs of any investigation or issuance of civil penalties.
+
+3.
+
+Issue a warning letter and assess costs in lieu of issuing a civil penalty for a violation.
+
+B.
+
+Any aggrieved person who believes an adverse action was based on a violation of this Ordinance shall have the right to submit a complaint to the City. The City shall review the complaint and any evidence submitted by the aggrieved person. The City may, at its sole discretion, conduct an investigation that may include interviewing witnesses, reviewing documents and records, and any other lawful and reasonable investigative actions.
+
+C.
+
+If, upon review of the evidence submitted by the aggrieved person and any other evidence discovered during the course of review or investigation, the City finds that a violation occurred, the City may take administrative action pursuant to paragraph A.
+
+D.
+
+All records submitted to or obtained by the City containing any criminal history or background check report of any aggrieved person shall be kept confidential to the extent permissible by law.
+
+E.
+
+Penalties and costs assessed under this Ordinance may be recovered by all appropriate legal means including but not limited to civil and small claims action brought by the City.
+
+F.
+
+Civil Remedies. A civil action to enforce the provisions of this Ordinance may be brought by:
+
+1.
+
+Any aggrieved person;
+
+2.
+
+The City Attorney; or
+
+3.
+
+Any organization that:
+
+a.
+
+Has tax exempt status under 26 United States Code Section 501(c)(3) or 501(c)(4); and
+
+b.
+
+Has a mission of protecting the rights of tenants or incarcerated persons in Oakland or Alameda County; and
+
+c.
+
+Will fairly and adequately represent the interests of the aggrieved person.
+
+G.
+
+Equitable Relief. Any housing provider who commits, proposes to commit, or aids another in committing an act that violates this Ordinance may be enjoined therefrom by any court of competent jurisdiction. The court may also award any further relief it deems proper.
+
+H.
+
+Civil Damages. Any housing provider who violates, and any person who aids a housing provider to violate, any provision of this Ordinance shall be liable for the following monetary damages:
+
+1.
+
+In any action brought by any aggrieved person or entity authorized to bring such action under Subsection F.3., above, the housing provider shall be liable for three (3) times the greater of either: a) actual damages, including damages for mental or emotional distress, b) one (1) month's rent that the housing provider charges for the rental unit in question, or c) the HUD Small Area Fair Market Rent of such rental unit.
+
+2.
+
+The court may award punitive damages in a proper case as set out in Civil Code Section 3294 and pursuant to the standards set forth in that Code Section or any successor thereto, but may not award both punitive damages and treble damages.
+
+3.
+
+Attorney's Fees and Costs. The aggrieved person or entity authorized to bring such action under Subsection F.3., above, may recover costs and reasonable attorney's fees. The housing provider may recover attorney's fees if the action brought is found by the Court to be frivolous and without merit.
+
+4.
+
+The City Attorney may file an action against a housing provider that the City Attorney believes has violated provisions of this Ordinance. Such an action may include requests for civil penalties of up to one thousand dollars ($1,000.00) per violation, equitable relief (e.g., injunctions and restitution), and recovery of costs and reasonable attorney's fees. The City Attorney has sole discretion to determine whether to bring such an action.
+
+I.
+
+Criminal Penalties.
+
+1.
+
+Infraction. Any housing provider who violates, or any person who aids a housing provider to violate, any provision of this Ordinance shall be guilty of an infraction for the first offense.
+
+2.
+
+Misdemeanor. Any housing provider who knowingly and willfully violates, or any person who knowingly and willfully aids a housing provider to violate, any provision of this ordinance shall be guilty of a misdemeanor.
+
+J.
+
+General Remedies. The remedies available in this Ordinance are not exclusive and may be used cumulatively with any other remedies in this Ordinance or at law.
+
+(Ord. No. 13581, § 1, 2-4-2020)
+8.25.070 - Regulations.
+
+The City Administrator is authorized to create and amend regulations and forms consistent with this Chapter.
+8.25.080 - No conflict with State or Federal law.
+
+This Chapter is not intended to conflict with State or Federal law. If there is a conflict between the provisions of Federal or State law and this Chapter, Federal or State law shall control.
+
+(Ord. No. 13581, § 1, 2-4-2020)

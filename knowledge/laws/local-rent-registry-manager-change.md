@@ -12,6 +12,11 @@ source:
   - https://www.oaklandca.gov/Community/Housing-Programs-Support/Rent-Adjustment-Program-RAP/For-Property-Owners/Rental-Unit-Registration
   - https://rentboard.berkeleyca.gov/rights-responsibilities/registration
   - https://www.ci.richmond.ca.us/3657/Enrollment-and-Registration
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/local/oakland/omc-8.22-art1-rent-adjustment.txt
+  - knowledge/sources/local/oakland/omc-8.22-art4-rent-program-fee.txt
+  - knowledge/sources/local/berkeley/bmc-13.76-rent-stabilization-just-cause.txt
+  - knowledge/sources/local/richmond/rmc-11.100-fair-rent-just-cause.txt
 ---
 
 # Oakland RAP, Berkeley Rent Board, and Richmond Rent Program — Registration and Manager/Agent-Change Updates

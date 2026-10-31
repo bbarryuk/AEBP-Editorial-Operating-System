@@ -13,6 +13,10 @@ source:
   - https://selfhelp.courts.ca.gov/eviction-tenant/notice-types
   - https://www.dre.ca.gov/publications/ResourceGuidebook/gb08_living.html
   - "Woodman Partners v. Sofa U Love (2001) 94 Cal.App.4th 766" (case law, residential nonwaiver notice requirement)
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/state/statutes/ccp-1161.txt
+  - knowledge/sources/state/statutes/ccp-1162.txt
+  - knowledge/sources/state/statutes/ccp-1013.txt
 ---
 
 # 3-Day Notice to Pay or Quit — Timing, Day-Count, and Waiver-by-Acceptance Rules

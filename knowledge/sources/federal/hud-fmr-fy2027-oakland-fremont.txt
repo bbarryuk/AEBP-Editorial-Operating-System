@@ -1,0 +1,21 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: HUD Fair Market Rents FY 2027 — Oakland-Fremont HUD Metro FMR Area
+Jurisdiction: Federal (HUD)
+Source type: Agency data (EVD-SOURCE-HIERARCHY level 3)
+Official URL: https://www.huduser.gov/portal/datasets/fmr.html  [to confirm (add the exact FMR documentation page)]
+Version: FY 2027 final
+Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/HUD-FMR-2027.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Fair Market Rents Documentation System
+
+    Contact Icon Contact Us
+
+The FY 2027 Oakland-Fremont, CA HUD Metro FMR Area FMRs for All Bedroom Sizes
+Final FY 2027 & Final FY 2026 FMRs By Unit Bedrooms
+Year 	Efficiency 	One-Bedroom 	Two-Bedroom 	Three-Bedroom 	Four-Bedroom
+FY 2027 FMR 	$2,088 	$2,290 	$2,805 	$3,592 	$4,250
+FY 2026 FMR 	$2,142 	$2,385 	$2,912 	$3,724 	$4,413
+
+Alameda County, CA is part of the Oakland-Fremont, CA HUD Metro FMR Area, which consists of the following counties: Alameda County, CA; and Contra Costa County, CA. All information here applies to the entirety of the Oakland-Fremont, CA HUD Metro FMR Area. 

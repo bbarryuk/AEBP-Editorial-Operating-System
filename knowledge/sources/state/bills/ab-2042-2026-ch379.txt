@@ -1,0 +1,76 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: AB 2042 (2026) — Setting aside default / default judgment
+Jurisdiction: California
+Source type: Chaptered bill (EVD-SOURCE-HIERARCHY level 1)
+Official URL: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2042  [standard leginfo pattern]
+Version: Chaptered, Stats. 2026 ch. 379
+Saved to OneDrive: 2026-09-29   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/AB2042-09_20_2026.txt
+Notes: Session-law text: shows what the bill changed, not the current code. Cite the code section for current law.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+ Assembly Bill No. 2042
+CHAPTER 379
+
+An act to amend Section 1788.61 of the Civil Code, and to amend Sections 417.10 and 473.2 of the Code of Civil Procedure, relating to civil actions.
+
+[ Approved by Governor  September 20, 2026. Filed with Secretary of State  September 20, 2026. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+AB 2042, Kalra. Civil actions: setting aside default or default judgment.
+(1) Existing law permits a defendant in a debt enforcement action, brought by a buyer of consumer debt who has obtained a default or default judgment against the defendant, to file a motion to set aside the default or default judgment and for leave to defend the action if the defendant did not receive actual notice of the action in time to defend against it. Existing law requires such a motion to be filed within 6 years after entry of the default or default judgment or 180 days after the first actual notice of the action, or, in the case of identity theft or mistaken identity, within a reasonable amount of time but in no case later than 180 days after the first actual notice of the action.
+This bill would clarify that a defendant who did not receive actual notice may file a motion to set aside and for leave to defend even if the service of the summons of the action was lawfully effected.
+(2) Existing law provides that if a copy of the summons and complaint cannot with reasonable diligence be personally delivered to the person to be served, the summons may be served by leaving a copy at the person’s dwelling house, usual place of abode, usual place of business, or usual mailing address, in the presence of a person who is at least 18 years of age, and by thereafter mailing a copy of the summons and complaint as specified. Existing law also authorizes a summons in an action for unlawful detainer to be served by posting if the court is satisfied that the party to be served cannot with reasonable diligence be served in any authorized manner other than publication, and that other specified conditions are met. Existing law requires the proof of service of a summons to contain specified information and documentation. Beginning on January 1, 2027, existing law will define reasonable “diligence,” for purposes of service of process in specified civil cases, to mean attempting personal delivery of the summons and complaint, in good faith, on at least three occasions on three different days at three different times. Beginning on January 1, 2027, existing law will require the proof of service of a summons and complaint, if served personally, by substituted service, or by posting, if the summons is for an action for unlawful detainer of real property, to include at least one photograph, if such can be obtained without compromising the safety of the process server, of the site of the effectuated or attempted service and contain a readable stamp and global positioning system (GPS) coordinates indicating the date, time, and location of service. Beginning on January 1, 2027, existing law will also require a process server to provide a detailed statement on the proof of service, as specified, if there is no GPS or cellular signal available at the time and place of the effected or attempted service.
+This bill would make nonsubstantive changes to this provision.
+(3) Existing law prescribes methods for the service of a summons in a civil action. Under existing law, a party that was not served in accordance with those methods may file a motion to set aside or vacate a default or default judgment and for leave to defend the action or move for dismissal. The party making such a motion is required to proffer evidence that service was not lawfully effected. This proffer rebuts the presumption of facts stated in the process server’s return and place the burden of proving by a preponderance of the evidence that service of the summons and complaint was lawful on the party seeking the default or default judgment. Existing law makes these provisions operative on January 1, 2027.
+This bill would clarify that the provisions described above apply to service attempted or completed on or after January 1, 2027, and that those provisions do not alter a court’s existing authority to determine a motion for relief from a judgment that involves a proof of service filed before January 1, 2027. The bill would also clarify that a party who is not served may move for dismissal as permitted by existing law.
+Digest Key
+Vote: MAJORITY   Appropriation: NO   Fiscal Committee: NO   Local Program: NO  
+Bill Text
+The people of the State of California do enact as follows:
+
+SECTION 1. Section 1788.61 of the Civil Code is amended to read:
+
+1788.61. (a) (1) Notwithstanding Section 473.5 of the Code of Civil Procedure, if service of a summons was lawfully effected but has not resulted in actual notice to a person in time to defend an action brought by a debt buyer and a default or default judgment has been entered against the person in the action, the person may serve and file a notice of motion and motion to set aside the default or default judgment and for leave to defend the action.
+(2) Except as provided in paragraph (3), the notice of motion shall be served and filed within a reasonable time, but in no event exceeding the earlier of:
+(A) Six years after entry of the default or default judgment against the person.
+(B) One hundred eighty days of the first actual notice of the action.
+(3) (A) Notwithstanding paragraph (2), in the case of identity theft or mistaken identity, the notice of motion shall be served and filed within a reasonable time, but in no event exceeding 180 days of the first actual notice of the action.
+(B) (i) In the case of identity theft, the person alleging that they are a victim of identity theft shall provide the court with either a copy of a Federal Trade Commission identity theft report or a copy of a police report filed by the person alleging that they are the victim of an identity theft crime, including, but not limited to, a violation of Section 530.5 of the Penal Code, for the specific debt associated with the judgment.
+(ii) In the case of mistaken identity, the moving party shall provide relevant information or documentation to support the claim that they are not the party named in the judgment or is not the person who incurred or owes the debt.
+(b) A notice of motion to set aside a default or default judgment and for leave to defend the action shall designate as the time for making the motion a date prescribed by Section 1005 of the Code of Civil Procedure, and it shall be accompanied by an affidavit stating under oath that the person’s lack of actual notice in time to defend the action was not caused by their avoidance of service or inexcusable neglect. The person shall serve and file with the notice a copy of the answer, motion, or other pleading proposed to be filed in the action. Either party may introduce, and the court may consider, evidence in support of its motion or opposition, including evidence relating to the process server who appears on the proof of service of the summons and complaint.
+(c) Upon a finding by the court that the motion was made within the period permitted by subdivision (a) and that the person’s lack of actual notice in time to defend the action was not caused by their avoidance of service or inexcusable neglect, the court may set aside the default or default judgment on whatever terms as may be just and allow the party to defend the action. If the validity of the judgment is not challenged, the court may select an appropriate remedy other than setting aside the default or default judgment.
+(d) This section shall apply to a default or default judgment entered on or after January 1, 2010, except in the case of identity theft or mistaken identity, in which case this section shall apply regardless of the date of the default or default judgment.
+(e) This section shall not limit the equitable authority of the court or other available remedies under law.
+
+SEC. 2. Section 417.10 of the Code of Civil Procedure, as added by Section 9 of Chapter 563 of the Statutes of 2025, is amended to read:
+
+417.10. Proof that a summons was served on a person within this state shall be made:
+(a) If served under Section 415.10, 415.20, 415.30, or 415.45, by the affidavit of the person making the service showing the time, place, and manner of service and facts showing that the service was made in accordance with this chapter. The affidavit shall recite or in other manner show the name of any person to whom a copy of the summons and complaint were delivered, and, if appropriate, the person’s title or the capacity in which the person is served, and that the notice required by Section 412.30 appeared on the copy of the summons served, if in fact it did appear.
+(1) If served under Section 415.10, 415.20, or 415.45, the proof of service shall include one or more photographs of the site of each effected or attempted service of the summons and complaint.
+(A) Each photograph shall contain a readable stamp that establishes and automatically records the date, time, and global positioning system (GPS) or equivalent coordinates of the effected or attempted service.
+(B) If no GPS, cellular, or equivalent signal is available at the time and place of an effected or attempted service, the process server shall provide a detailed statement on or with the proof of service explaining the reason for the lack of a readable GPS or equivalent stamp on the photograph.
+(2) (A) If the site of the effected or attempted service is a dwelling place or abode, for each effected or attempted service of the summons and complaint, at least one of the photographs required by paragraph (1) shall show the door, or, if the door is not reasonably accessible, the entrance of the house, apartment, or other dwelling place of the person to be served.
+(B) If the site of the effected or attempted service is a place of business, for each effected or attempted service of the summons and complaint, at least one of the photographs required by paragraph (1) shall show the door, or, if the door is not reasonably accessible, the entrance of the specific office or other place of business of the person being served.
+(C) For purposes of subparagraphs (A) and (B), if the door is not reasonably accessible and the process server takes a photograph of the entrance instead, the process server shall explain with specificity on or with the proof of service why the door was not accessible.
+(3) If service is made by mail pursuant to Section 415.30, proof of service shall include the acknowledgment of receipt of summons in the form provided by that section or other written acknowledgment of receipt of summons satisfactory to the court.
+(4) Notwithstanding paragraph (1), a photograph is not required if, in the reasonable judgment of the process server, taking a photograph would compromise the process server’s safety. In such circumstances, the process server shall document the effected or attempted service on or with the proof of service and provide a detailed statement explaining why taking a photograph would have compromised their safety.
+(5) The photograph required by paragraph (1) shall be taken by the process server as closely as practicable to the time of effecting or attempting service.
+(b) If served by publication pursuant to Section 415.50, by the affidavit of the publisher or printer, or the publisher’s or printer’s foreperson or principal clerk, showing the time and place of publication, and an affidavit showing the time and place a copy of the summons and of the complaint were mailed to the party to be served, if in fact mailed.
+(c) If served pursuant to another law of this state, in the manner prescribed by that law or, if no manner is prescribed, in the manner prescribed by this section for proof of a similar manner of service.
+(d) By the written admission of the party.
+(e) If served by posting pursuant to Section 415.45, by the affidavit of the person who posted the premises, showing the time and place of posting, and an affidavit showing the time and place copies of the summons and of the complaint were mailed to the party to be served, if in fact mailed.
+(f) All proof of personal service shall be made on a form adopted by the Judicial Council.
+(g) This section shall become operative on January 1, 2027.
+
+SEC. 3. Section 473.2 of the Code of Civil Procedure is amended to read:
+
+473.2. (a) A party that was not served with a summons and complaint in accordance with this chapter may file and serve a motion to set aside or vacate the default or default judgment and for leave to defend the action or for dismissal as permitted by law.
+(b) (1) A party moving to set aside or vacate a default or a default judgment pursuant to subdivision (a) shall proffer evidence, through a sworn affidavit or otherwise, that service was not lawfully effected. Proffering evidence that service was not lawfully effected rebuts a presumption of the facts stated in the process server’s return.
+(2) If a process server files their return before the operative date of this section, the absence of the photograph required by Section 417.10 shall not by itself render the proof of service unlawful or insufficient.
+(c) In responding to a motion that is filed pursuant to this section and that complies with subdivision (b), the party seeking a default or default judgment has the burden of proving by a preponderance of the evidence that service of the summons and complaint was lawful.
+(d) In deciding a motion filed pursuant to subdivision (a), the court shall take evidence as to the lawfulness of the service of process and shall not deny a reasonable request by either party to conduct a hearing and permit oral testimony.
+(e) This section does not limit any other remedies available under law.
+(f) This section shall apply to service attempted or completed on or after January 1, 2027.
+(g) Nothing in this section alters a court’s existing authority to adjudicate a motion made pursuant to Section 473, or otherwise to vacate or set aside a judgment, with respect to a proof of service filed before January 1, 2027.

@@ -1,0 +1,141 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: OMC 8.22 Art. VIII — Relocation payments for owner/relative move-ins
+Jurisdiction: Oakland
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://library.municode.com/ca/oakland/codes/code_of_ordinances  [to confirm (add chapter/article deep link)]
+Version: Municode version dated 2026-07-13 (per original filename)
+Saved to OneDrive: 2026-09-28   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Oakland-MunCode-Ch8-Art8-07_13_2026.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+ARTICLE VIII. - RELOCATION PAYMENTS FOR OWNER OR RELATIVE MOVE-INS
+
+8.22.850 - Relocation Payments for Owner or Relative Move-Ins.
+
+A.
+
+Applicability. An owner who evicts a tenant pursuant to O.M.C. Section 8.22.360 A.9. or where a tenant vacates following a notice or other communication stating the owner 's intent to seek recovery of possession of the unit under this O.M.C. Section must provide relocation payment under this Section. Relocation payment procedures pursuant to code compliance or Ellis Act evictions will be governed by the Code Compliance Relocation Ordinance and the Ellis Act Ordinance.
+
+B.
+
+The property owner shall be responsible for providing relocation payments, in the amounts specified in Section 8.22.820, to an eligible tenant household in the form and manner prescribed under this article and any rules and regulations adopted under this article.
+
+C.
+
+Tenant Eligibility for Payment. Tenants will be eligible for relocation payments according to the following schedule based on the effective date of ay notice to terminate:
+
+1.
+
+Upon taking possession of the rental unit, the tenant will be eligible for one-third (⅓) of the total payment pursuant to subsection B., above.
+
+2.
+
+After one (1) year of occupancy of the rental unit, the tenant will be eligible for two-thirds (⅔) of the total payment pursuant to subsection B., above.
+
+3.
+
+After two (2) years of occupancy of the rental unit, the tenant will be eligible for the full amount of the total payment pursuant to subsection B., above.
+
+D.
+
+Time for Payment.
+
+1.
+
+The owner must pay the tenant half of the relocation payment provided for in Subsection 8.22.820 A. when the termination notice is given to the household and the remaining half when the tenant vacates the unit.
+
+2.
+
+The owner must pay the tenant the additional payment provided for in Section 8.22.820 B. within fifteen (15) days of the tenant's notice of eligibility or the tenant supplying documentation of the tenant's eligibility.
+
+3.
+
+An owner who pays relocation expenses in conjunction with a notice to quit as required by this Section need not pay the same relocation expenses with any further notices to quit based on O.M.C. Section 8.22.360 A.9. for the same unit that are served within one hundred eighty (180) days of the notice that included the required relocation payment. Nothing in this paragraph relieves the owner from portions of relocation expenses not yet paid by the owner or received by the tenant, including the remaining half due when the tenant vacates the unit.
+
+E.
+
+If an owner fails to make the relocation payment as prescribed, the tenant may file an action against the owner and, if the tenant is found eligible for the relocation payments, the tenant will be entitled to recover the amount of the relocation payments plus an equal amount as damages and the tenant's attorney's fees. Should the owner's failure to make the payments as prescribed be found to be in bad faith, the tenant shall be entitled to the relocation payments plus an additional amount of three (3) times the amount of the relocation payments and the tenant's attorney's fees.
+
+F.
+
+Owners may apply for a zero-interest loan from the City of Oakland for the purpose of satisfying their relocation payment obligation under this O.M.C Section if they meet the eligibility criteria set forth below. An owner qualifies for a relocation payment assistance loan if they meet the following two (2) conditions:
+
+1.
+
+Ownership of fewer than five (5) units in the City of Oakland. In the case of a relative move-in, the relative must also not own any other real estate property and must be of low or moderate income as defined by California Health and Safety Code Section 50093.
+
+2.
+
+The owner must be ineligible for a cash-out refinance loan based on the underwriting criteria for investment properties set forward by Fannie Mae regulations.
+
+The owner must also meet at least one (1) of the following two (2) conditions to qualify:
+
+1.
+
+The owner must not have more than six (6) months of liquid financial reserves as defined by Fannie Mae regulations.
+
+2.
+
+The owner must qualify as low or moderate income as defined by California Health and Safety Code Section 50093.
+
+The City Administrator may issue additional regulations or guidance to implement this subsection.
+
+(Ord. No. 13608, § 7(Att. F), 7-21-2020; Ord. No. 13468, § 2, 1-16-2018; Ord. No. 13499, § 1, 7-24-2018)
+8.22.860 - Violation—Penalty.
+
+A.
+
+Criminal Penalties.
+
+1.
+
+Infraction. Any property Owner violating any provision or failing to comply with any requirements of this article shall be guilty of an infraction for the first offense.
+
+2.
+
+Misdemeanor. Any property Owner violating any provision or failing to comply with any requirements of this article multiple times shall be guilty of a misdemeanor.
+
+B.
+
+Administrative Penalties.
+
+1.
+
+Administrative Citation. Any person violating any provision or failing to comply with any requirements of this article may be assessed an administrative citation pursuant to O.M.C. Chapter 1.12 for the first offense.
+
+2.
+
+Civil Penalties. Any person violating any provision or failing to comply with any requirements of this article multiple times may be assessed a civil penalty for each violation pursuant to O.M.C. Chapter 1.08.
+
+C.
+
+Violation includes attempted violation. In addition to failing to comply with this article, it is also violation to attempt to have a Tenant accept terms that fail to comply with this article, including any of the following actions:
+
+1.
+
+Asking the Tenant to accept an agreement that pays less than the required relocation payments;
+
+2.
+
+Asking the Tenant to accept an agreement that waives the Tenant's rights; or
+
+3.
+
+Upon a return to the unit, asking the Tenant to pay a higher rent than is permitted under this article or O.M.C. Chapter 8.22.
+
+(Ord. No. 13468, § 2, 1-16-2018)
+8.22.870 - Civil Remedies.
+
+A.
+
+Any person or organization who believes that a property Owner or Tenant Household has violated provisions of this article or the program rules and regulations adopted pursuant to this article shall have the right to file an action for injunctive relief and/or actual damages against such party. Whoever is found to have violated this article shall be subject to appropriate injunctive relief and shall be liable for damages, costs and reasonable attorneys' fees. Treble damages shall be awarded for a property Owner's willful failure to comply with the payment obligation established under this article.
+
+B.
+
+Nothing herein shall be deemed to interfere with the right of a property Owner to file an action against a Tenant or non-Tenant third party for the damage done to said Owner's property. Nothing herein is intended to limit the damages recoverable by any party through a private action.
+
+C.
+
+The City Attorney may bring an action against a property Owner that the City Attorney believes has violated provisions of this article or any program rules and regulations adopted pursuant to this article. Such an action may include injunctive relief and recovery of damages, penalties—including any administrative citations or civil penalties—treble damages, and costs and reasonable attorney's fees. The City Attorney has sole discretion to determine whether to bring such an action.
+
+(Ord. No. 13468, § 2, 1-16-2018)

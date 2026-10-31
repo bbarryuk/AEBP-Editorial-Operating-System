@@ -16,6 +16,13 @@ source:
   - https://www.oaklandca.gov/Community/Housing-Programs-Support/Evictions-and-Tenant-Rights/Managing-Evictions-For-Landlords/Read-the-Just-Cause-for-Eviction-Ordinance
   - https://rentboard.berkeleyca.gov/laws-regulations/state-law/ab-1482-california-tenant-protection-act-2019
   - https://rentboard.berkeleyca.gov/rights-responsibilities/rent-control-101/renting-berkeley
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/state/statutes/civ-1946.txt
+  - knowledge/sources/state/statutes/civ-1946.1.txt
+  - knowledge/sources/state/statutes/civ-1946.2.txt
+  - knowledge/sources/state/statutes/civ-827.txt
+  - knowledge/sources/local/oakland/omc-8.22-art2-just-cause.txt
+  - knowledge/sources/local/berkeley/bmc-13.76-rent-stabilization-just-cause.txt
 ---
 
 # Fixed-Term Lease Expiration, Holdover Conversion, and Just-Cause Interaction

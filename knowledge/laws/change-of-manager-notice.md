@@ -13,6 +13,8 @@ source:
   - https://codes.findlaw.com/ca/civil-code/civ-sect-1950-5/
   - https://codes.findlaw.com/ca/business-and-professions-code/bpc-sect-10145/
   - https://dre.ca.gov/files/pdf/re13.pdf
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/state/statutes/civ-1950.5.txt
 ---
 
 # Change of Property Manager — Tenant Notice, Security Deposit Handoff, and Trust Fund Duties

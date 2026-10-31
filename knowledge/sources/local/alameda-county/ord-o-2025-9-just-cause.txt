@@ -1,0 +1,426 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: Alameda County Ord. O-2025-9 — Just cause for evictions, unincorporated areas (Ord. Code Ch. 3.70)
+Jurisdiction: Alameda County (unincorporated)
+Source type: County ordinance (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://www.acgov.org/  [to confirm (add ordinance link)]
+Version: not recorded
+Saved to OneDrive: 2026-10-06   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/AlamedaCounty-JustCause-O-2025-9.pdf
+Notes: OCR from a scanned PDF (tesseract). OCR can misread numbers and section symbols — check the original PDF before quoting.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+ORDINANCE NO. O-2025-9
+
+AN ORDINANCE ADDING CHAPTER 3.70 TO THE ALAMEDA COUNTY ORDINANCE CODE
+REGARDING JUST CAUSE FOR EVICTIONS IN THE UNINCORPORATED AREAS OF
+ALAMEDA COUNTY AND INCORPORATING BY REFERENCE CALIFORNIA CIVIL CODE
+SECTION 1946.2, EXCLUDING SUBDIVISIONS (G) AND (K) THEREOF, AS AMENDED, AND
+ESTABLSHING PENALTIES FOR VIOLATIONS
+
+The Board of Supervisors of the County of Alameda, State of California, does ordain as follows:
+SECTION |
+The Board of Supervisors makes the following findings in support of this ordinance:
+
+A. There is a shortage of decent, safe, affordable, and sanitary housing in the unincorporated
+areas of Alameda County.
+
+B. The prolonged affordable housing crisis in the unincorporated areas of Alameda County
+impacts low income and working-class households, senior citizens, people of color, immigrants,
+and people with disabilities, and thereby has a disproportionate impact on certain classes of
+people, and evictions without cause increases homelessness, crime, and harms neighborhood
+
+stability and cohesion.
+
+C. Residential tenants, who constitute over 50% of the residents of unincorporated areas of
+Alameda County, often suffer great and serious hardship when forced to move from their homes.
+
+D. _ Given the increased housing cost burden faced by many residents of the unincorporated
+areas of Alameda County, excessive rent increases threaten the public health, safety, and welfare
+of over 10,000 households, including seniors, people with disabilities, those on fixed incomes,
+those with low and moderate income levels, and those with other special needs, to the extent that
+such persons may be forced to choose between paying rent and providing food, clothing, and
+medical care for themselves and their families.
+
+E. According to the 2019 American Community Survey, 50% of tenant households are "rent-
+burdened households,” meaning the household pays 30% or more of its income on housing costs
+and 27% of tenant household are “extremely rent-burdened households,” meaning the household
+
+pays 50% or more of its income on housing costs.
+
+F.. Given these concerns, including the current and immediate threat to the health, safety,
+and welfare of tenants residing in the unincorporated areas of Alameda County and the adverse
+impacts that would result from a substantial decrease of affordable housing within the
+unincorporated areas of Alameda County, the Board of Supervisors determines that it is in the
+interest of preserving the public health, safety and general welfare to enact this ordinance
+adopting more protective just cause eviction protections.
+
+G. California adopted AB 1482 enacting the Tenant Protection Act of 2019, effective January
+2, 2020, and amended by SB 1371 (2021), AB 3088 (2021), AB 978 (2022), and SB 567 (2023).
+The Tenant Protection Act provided statewide just cause tenant protections and relocation
+assistance to many tenants in the state.
+
+H. The Tenant Protection Act, in California Civil Code Section 1946.2(g)(1)(B), authorizes a
+local ordinance requiring just cause for termination of a residential tenancy to supplant the
+
+
+provisions of the statute if the local ordinance is “more protective.” To qualify as “more protective”
+the local ordinance must be consistent with Section 1946.2; it must further limit the reasons for
+termination, provide for higher relocation assistance amounts, or provide additional tenant
+protections not prohibited by other provision of law; and the local government must make a binding
+finding within the local ordinance that it is more protective.
+
+I. This ordinance incorporates by reference those provisions of the Tenant Protection Act
+requiring just cause for eviction (Civil Code section 1946.2), with the exception of “more
+protective” local provisions including, for example, expanded applicability of just cause
+protections; increased mandatory relocation assistance for No-Fault Evictions; heightened notice
+requirements for seniors, disabled persons, and families; and expanded Tenants’ right of return
+
+following substantial remodel.
+
+J. Other sections of the Tenant Protection Act place statewide limits on rentai rate increases
+(Civil Code section 1947.22). Those sections are not affected or adopted by this ordinance.
+
+K. It is the express intent of this Board that the adoption in this ordinance by reference of the
+Tenant Protection Act is to include both the Act as it now exists and as subsequently modified or
+amended (Palermo v. Stockton Theaters, inc. (1948) 32 Cal. 2d 53; 70 Ops. Cal. Atty. Gen. 49,
+53.(1987)).
+
+SECTION Il
+
+Chapter 3.70 is hereby added to the Alameda County Ordinance Code and reads as follows:
+
+Chapter 3.70 — JUST CAUSE EVICTION
+.3.70.010 Purpose, Incorporation of State Law, and Statutory Findings
+
+A. The purpose of this Chapter is to promote neighborhood and community stability, healthy
+housing, and affordability for tenants in the unincorporated areas of Alameda County by
+controlling arbitrary evictions, while providing landlords a fair and reasonable return on their
+
+investment.
+
+B. The Board of Supervisors hereby incorporates into this Chapter 3.70 by reference California
+Civil Code section 1946.2, as amended, as the County of Alameda Tenant Protection Act,
+excluding only subdivisions (g)(regarding local ordinance preemption) and (k)(sunset of
+current statute), as it now exists and as subsequently modified or amended, but with the
+additional local changes contained in this Chapter 3.70.
+
+C. The Board of Supervisors finds that: (i) the just cause for termination of a residential tenancy
+under this Chapter is consistent with Civil Code section 1946.2; (ii) this Chapter provides for
+greater tenant protections by including just cause protections for some renters of single family
+homes, expanding right of return to one year, heightened notice requirements if a Tenant in
+the Tenant Household is under age 18, disabled, elderly or of lower income, and other
+additional tenant protections not prohibited by- other provision of law; and (iii) this Chapter is
+more protective than the provisions of Civil Code section 1946.2.
+
+3.70.020 Director Authority to Establish Procedures, Implement and Enforce Program
+
+Except as otherwise provided herein, the provisions of this Chapter shall be administered and
+
+
+enforced by the Director of the Housing and Community Development Department of the
+Community Development Agency or the Director's designee. The Director may adopt such rules,
+regulations, procedures, and forms as may be required to implement this Chapter.
+
+3.70.030 Definitions
+
+Unless the particular provision or the context otherwise requires, the following definitions shall
+govern the interpretation and application of this Chapter:
+
+A.
+
+J.
+
+“At-Fault Eviction” means evictions brought under Civil Code section 1946.2(b)(1), as
+amended.
+
+“Elderly Tenant” means a tenant who is 62 years of age or older.
+
+“Housing Department’ means the Housing and Community Development Department of the
+County of Alameda.
+
+“CDA Director’ means the director of the Community Development Agency or the director's
+designated representative, acting either directly or through their assigned deputies and
+
+employees.
+
+“| andiord’ means an owner, lessor, or sublessor who receives or is entitled to receive rent
+for the use and occupancy of any Rental Unit, and the agent, representative, or successor
+
+of any of the foregoing.
+
+“No-Fault Eviction” means evictions brought under Civil Code section 1946.2(b)(2), as
+amended.
+
+“Rental Unit” means any unit in any real property (regardless of zoning status), including the
+land appurtenant thereto, that is rented or available for rent for residential use or occupancy
+(regardless of whether the unit is also used for other purposes), together with all housing-
+related services connected with use or occupancy of such property, such as common areas
+and recreational facilities held out for use by the tenant, including parking facilities.
+
+“Tenant” means a residential tenant, subtenant, lessee, sublessee, or other person entitled
+by written or oral rental agreement, or by sufferance, to the use or occupancy of a Rental
+
+Unit.
+
+“Tenant Household” means one or more Tenants who occupy an individual Rental Unit,
+including each dependent of a Tenant whose primary residence is the Rental Unit.
+
+“Termination Notice” shall have the meaning provided in Section 3.70.080.
+
+3.790.040 Applicability and Exemptions
+
+A. Applicability. The provisions of this Chapter shall apply to (1) all eligible Tenants who have
+
+rented a subject Rental Unit in the unincorporated area of Alameda County that is subject
+to this Chapter, and (2) to all Rental Units, in whole or in part, located in the unincorporated
+area of Alameda County, subject to the exemptions in paragraph B below.
+
+B. Exemptions. This Chapter shall not apply to the types of residential real properties and
+
+
+residential circumstances enumerated in Civil Code section 1946.2(e), as amended;
+provided, however, that this Chapter shall apply to single-family residences when the
+Landlord owns five or more Rental Units in the unincorporated areas of Alameda County.
+
+C. This Chapter shall not apply to an unlawful detainer action solely for nonpayment of rent
+originally due from March 1, 2020 through June 30, 2022, to the extent prohibited by
+California Code of Civil Procedure Section 1179.05 or any successor statute.
+
+D. Ifa Landlord claims the Rental Unit is exempt from this Chapter based upon the provisions
+in this Section, the Landlord must list the applicable exemption in the Termination Notice.
+
+3.70.050 Just Cause Protections
+
+After a tenant has continuously and lawfully occupied a Rental Unit for twelve (12) months or if
+any additional adult tenants are added to the lease before an existing tenant has continuously
+and lawfully occupied the Rental Unit for twelve (12) months, then if at least one (1)-tenant has
+continuously and lawfully occupied the Rental Unit for twenty four (24) months, a Landlord may
+not terminate the tenancy without just cause or take action to terminate any tenancy, including
+making a demand for possession of a Rental Unit, threatening to terminate a tenancy verbally or
+in writing, serving notice to quit or other eviction notice, or bringing action to recover possession
+or be granted recovery of possession of a Rental Unit, including by seeking the entry of an eviction
+judgment or by causing or permitting a writ of possession to be entered, unless the Landlord can
+
+demonstrate:
+
+1. That the Landlord served a Termination Notice to the Tenant and delivered a copy of
+the Termination Notice to the Housing and Community Development Department in
+accordance with Section 3.70.080; and
+
+2. Thatthe termination qualifies as a just cause termination, whether At-Fault or No-Fault,
+in compliance with Civil Code section 1946.2(b), as amended, and this Chapter 3.70.
+
+3.70.060 Just Causes For Termination
+
+The only just causes for eviction pursuant to Section 3.70.050 shall be those enumerated in Civil
+Code section 1946.2(b), as amended.
+
+3.70.070 Relocation Assistance Payments
+
+A. Each Tenant Household receiving a Termination Notice for a No-Fault Eviction shall be
+entitled to receive relocation assistance from the Landlord, in the amounts specified in
+
+paragraph C of this Section 3.70.070.
+
+B. A Landlord who pays relocation assistance, as required by this Section, in conjunction
+with a Termination Notice, is not obligated to pay subsequent relocation expenses for the
+same No-Fault Eviction under Section 3.70.060 for the same Rental Unit within 180 days
+of the notice that included the required relocation payment. The relocation assistance
+required by this Section 3.70.070 is separate from any security or other refundable
+deposits as defined in California Civil Code Section 1950.5. Further, payment or
+acceptance of relocation assistance shall not operate as a waiver of any rights a Tenant
+
+may have under law.
+
+
+C. Each Tenant Household receiving a No-Fault Eviction Notice shall receive a sum equal to
+the value of two (2) months of the current rent amount. The relocation assistance sum
+must be paid in accordance with Civil Code section 1946.2(d), as amended. In no case,
+however, shall the Landlord be obligated to provide more than ten thousand dollars
+($10,000) for each Tenant Household, unless this sum is less than one (1) month of
+current rent, in relocation assistance to all Tenants and members of the Tenant Household
+
+in the same Rental Unit.
+3.70.080 Notice Terminating Tenancy
+
+A. A Termination Notice means the notice informing a Tenant Household of the termination
+of its tenancy in accordance with this Section and California Civil Code Section 1946.1
+(term not specified) or California Code of Civil Procedure Section 1161 (unlawful detainer).
+
+B. Termination Notices provided to Tenants must contain the following:
+1. The reason for the termination of tenancy in accordance with Section 3.70.060; and
+
+2. If the notice is for a No-Fault Eviction, an explanation of the right to and amount of
+relocation assistance payments pursuant to Section 3.70.070; and
+
+3. If the notice is for a No-Fault Eviction under Civil Code section 1946.2(b)(2)(D)(intent
+to substantially remodel), this statement:
+
+“When the needed repairs are completed on your unit, the Landiord must offer you the
+opportunity to return to your unit with a rental agreement containing similar terms as
+your original agreement, subject to an increase in rent if needed to afford the owner a
+
+reasonable rate of return’,
+
+and a description of the right of first refusal, a description of all repairs to be performed,
+and an estimate of the time required to complete the repairs and the date upon which
+it is expected that the Rental Unit will be ready for habitation.
+
+C. A Landlord serving a Termination Notice for a No-Fault Eviction to a Tenant Household
+with at least one (1) Tenant and one (1) or more children under the age of eighteen (18)
+years, person who is disabled, Elderly Tenant, or person who is lower income, as defined
+by Health and Safety Code section 50079.5, shall serve the Termination Notice not less
+than ninety (90) days prior to the proposed termination date. This Section shall not apply
+if a longer notice period applies (for example, under the terms of the lease agreement
+between the parties); or if the Landlord is seeking to recover possession based on the
+Tenant causing or creating an imminent risk of physical harm to persons or propertly; or if
+the Landlord is seeking to recover possession based on the non-payment of rent.
+
+D. Acopy of the Termination Notice issued to a Tenant shall be filed by the Landlord with the
+CDA Director or the Director's designee within three (3) days after the service of the
+
+Termination Notice on the Tenant.
+3.70.085 _ Rules, Regulations, Procedures and Forms
+
+The CDA Director shall adopt reasonable rules, regulations, and forms as necessary to implement
+the procedures required in this Chapter.
+
+
+3.70.090 Rental Units Withdrawn from the Rental Market
+
+The Ellis Act (Government Code sections 7060, et seg.) governs a Landlords withdrawal of Rental
+Units from the rental market. This Chapter shall be interpreted and applied in a manner that does
+
+not conflict or interfere with the Ellis Act.
+
+3.70.100 Additional Protections
+
+A.
+
+Right of Return and First Right of Refusal. All Tenants displaced based on termination of
+tenancy for a No-Fault Eviction under Civil Code section 1946.2(b)(2)(A) (owner move in) or
+Civil Code section 1946.2(b)(2)(D) (substantial remodel) shall have the first right of refusal to
+return to the unit if the Rental Unit should be returned to the rental market by the Landlord or
+a successor Landlord within one (1) year of displacement of the Tenant or such a longer period
+as required by state law. All notices of termination of tenancy served under Civil Code section
+1946.2(b)(2)(A) or Civil Code section 1946.2(b)(2)(D) shall state the current rent in effect at
+
+the time of termination of tenancy.
+
+Retaliation Barred. \t shall be an affirmative defense to an action to recover possession of the
+Rental Unit that the eviction is knowingly or intentionally in retaliation for the Tenant reporting
+violations of this Chapter or other law, for exercising rights granted under this Chapter or other
+law, or for forming or participating in a Tenant organization.
+
+1. Retaliatory Eviction. tt shall be unlawful for a Landiord to recover possession of a Rental
+Unit in retaliation of a Tenant exercising the Tenant's right to file a complaint with the
+County advising that a building, housing, nuisance Code or ordinance violation, or permit
+
+violation may exist on the property.
+
+2. Rent increase or other Retaliatory Actions. The Landlord shall not engage in retaliatory
+conduct, such as improperly depriving the Tenant of use of the premises, decreasing
+services, or increasing the rent, or otherwise improperly interfering with the Tenants’ rights
+
+under the lease agreement.
+
+Protections for the Elderly. A Landlord shall not refuse to rent or lease or otherwise deny to or
+withhold from any person any Rental Unit because the age of a prospective Elderly Tenant
+would result in the Tenant acquiring rights under this Chapter.
+
+3.70.110 Defenses and Remedies
+
+A.
+
+Affirmative Defense. Each Landlord that seeks to terminate a tenancy of a Tenant must
+comply with this Chapter. Failure to comply with an applicable provision of this Chapter may
+be asserted by a Tenant as a defense in an unlawful detainer action.
+
+Civil Remedies. Whenever a Landlord or anyone assisting a Landlord wrongfully recovers
+possession of a Rental Unit in violation of this Chapter, the Tenant or the County may institute
+a civil proceeding for injunctive relief, actual damages, and other relief deemed appropriate
+by the court or as provided for in Civil Code section 1946.2(h). Nothing in this Chapter is
+intended to limit the damages recoverable by any party through a private action.
+
+Landlord Rights. Nothing in this Chapter shall be deemed to interfere with the right of a
+Landlord to file an action against a Tenant or non-Tenant third party for the damage done to
+
+the Landlord’s property.
+
+
+3.70.120 Penalties
+
+A. Any Landlord who attempts to recover a Rental Unit in material violation of this Chapter
+3.70 shall be liable to the Tenant in a civil action for the following:
+1. the actual damages sustained by the Tenant;
+2. in the court's discretion, reasonable attorney's fees and costs;
+3. upon a showing that the Landlord acted willfully or with oppression, fraud, or
+
+malice, up to three times the actual damages. An award may also be entered for punitive
+damages for the benefit of the Tenant.
+
+B. The county counsel may seek injunctive relief based on violations of this Chapter 3.70.
+
+3.70.130 No Waiver
+
+The provisions of this Chapter may not be waived, and any term of any lease, contract, or other
+agreement which purports to waive or limit the substantive or procedural rights created under this
+
+Chapter are contrary to public policy, unenforceable, and void.
+
+SECTION Ill
+
+The CDA Director shall conduct a comprehensive review and. assessment of this Ordinance and
+present to the Board of Supervisors no later than twelve (12) months following adoption of this
+
+Ordinance.
+
+SECTION IV
+
+If any provision of this Ordinance is found to be unconstitutional or otherwise invalid by any court
+of competent jurisdiction, that invalidity shall not affect the remaining provisions of this Ordinance
+which can be implemented without the invalid provisions, and to this end, the provisions of this
+Ordinance are declared to be severable, and the Board of Supervisors hereby declares that it
+would have adopted this Ordinance and each provision thereof irrespective of whether any one
+or more provisions are found invalid, unconstitutional or otherwise unenforceable.
+
+SECTION V
+
+This Ordinance shall take effect and be in force thirty (30) days from and after the date of passage
+and before the expiration of fifteen (15) days after its passage it shall be published once with the
+names of the members voting for and against the same in a newspaper of general circulation
+
+published in the County of Alameda.
+
+Adopted by the Board of Supervisors of the County of Alameda, State of California, on the 4th
+day of February 2025, by the following called vote:
+
+AYES: Supervisors Fortunato Bas, Marquez, Miley, Tam & President Haubert - 5
+NOES: None
+
+EXCUSED: None
+ABSTAINED: None Divst A boop
+
+President of the Board of Supervisors
+
+ 
+
+
+ATTEST:
+
+Anika Campbell-Belton,
+Clerk of the Board of Supervisors
+
+By: q VA NM |
+
+( Deputy Clerk:
+
+APPROVED AS TO FORM:
+DONNA R. ZIEGLER, COUNTY COUNSEL
+
+o Signed by:
+By: af balla Seis
+Caitlyn M. Gulyas
+Deputy County Counsel
+
+

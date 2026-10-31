@@ -1,0 +1,305 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: EMC Ch. 5-40 — Residential Landlord and Tenant Relations
+Jurisdiction: Emeryville
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://ecode360.com/46994531  [already cited in knowledge/laws]
+Version: eCode360, current through 2026-06-02 per knowledge/laws/emeryville-landlord-tenant.md
+Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Emeryville-EMC-5_40.txt
+Notes: The 2016 enacting ordinance (16-011) and the older EMC printout PDF were NOT copied: both are superseded by this text.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+CHAPTER 40 RESIDENTIAL LANDLORD AND TENANT RELATIONS
+5-40.01 Purpose.
+5-40.02 Definitions.
+5-40.03 Just Cause for Termination of Tenancy Initiated by Landlord.
+5-40.04 Relocation Assistance.
+5-40.05 Anti-Harassment and Other Prohibited Activities.
+5-40.06 Civil Remedies.
+5-40.07 Notice of Tenant Rights.
+5-40.08 Landlord Notice of Termination to Tenant and City.
+5-40.01 Purpose.
+(a) 
+The residential landlord and tenant relations chapter of the Emeryville Municipal Code is enacted to formalize the relations between owners and managers of residential rental property in the City and the tenants who reside in those properties. By formalizing and regulating the landlord-tenant relationship, the City sets clear expectations and provides certainty for both landlords and tenants, promotes fair dealings between landlords and tenants, and recognizes the fundamental importance of residential housing and the landlord-tenant relationship to create a healthy, safe, and vibrant city. This chapter is intended to complement existing State and Federal regulation of the landlord-tenant relationship; it does not summarize or supersede any State or Federal law. The rights and obligations created by this chapter for landlords and tenants are in addition to those rights and obligations under State and Federal law.
+(b) 
+The City Manager has the authority to issue interpretations of and regulations to
+implement this chapter, including regulations to develop a process in which landlords may petition the City for a complete or partial exemption from the obligations set forth in Section 5-40.04.
+(Sec. 2 (part), Ord. 16-011, eff. Apr. 1, 2017)
+5-40.02 Definitions.
+(a) 
+"Affected residential tenant"
+means a tenant or tenant household, who has, as a result of the COVID-19 pandemic, or declaration of the Alameda County Public Health Officer, or other local, State, or Federal authority, been instructed to shelter-in-place in their home.
+(b) 
+"Covered unit"
+means every residential housing unit or dwelling unit within or under the jurisdiction of the City of Emeryville except the following:
+(1) 
+Dwelling units in hotels, motels, and short-term rentals, as described in Section 9-2.333, are exempt from this chapter so long as the tenant(s) in a given dwelling unit do not reside in that unit for more than thirty (30) consecutive days. Terminating a tenancy or requiring an occupant to move or to check out and reregister before the expiration of thirty (30) days' occupancy is prohibited if a purpose is to avoid the effects of this chapter, in accordance with California Civil Code Section 1940.1.
+(2) 
+The entirety of a single owner-occupied residence, when the owner-occupant rents or leases two (2) or fewer bedrooms to one (1) or more lodgers, is exempt from this chapter.
+(3) 
+Dwelling units in nonprofit cooperatives owned, occupied, and controlled by a majority of the residents are exempt from this chapter.
+(4) 
+Each dwelling unit where the rent is controlled, regulated, or restricted by a State or Federal government unit, agency, or authority, when the control, regulation, or restriction would preempt local regulation of landlord and tenant relations, is exempt from this chapter. This exemption includes, but is not limited to, those dwelling units restricted by a recorded encumbrance on title pursuant to the Federal low income housing tax credit program. This exemption applies unless and until such restrictions, regulations, or controls of residential rents are released or no longer preempt local regulation of the landlord and tenant relationship; this exemption does not apply whenever a dwelling unit may be leased or rented for fair market value.
+(5) 
+Housing accommodations in any nonprofit hospital, convent, monastery, extended care facility, asylum, residential care or adult day health care facility for the elderly which must be operated pursuant to a license issued by the California Department of Social Services are exempt from this chapter.
+(6) 
+Housing units owned by any government unit, agency, or authority, including but not limited to any division or department of a local, State, or Federal government, are exempt from this chapter.
+(c) 
+"Deployment"
+shall have the same meaning as set forth in 10 U.S.C. Section 991(b) and as may be amended.
+(d) 
+Reserved (Repealed by Ord. 20-009).
+(e) 
+"Landlord"
+means an owner, lessor, or sublessor who receives or is entitled to receive rent for the use and occupancy of any resident rental unit or portion thereof, and includes any legal entity or other individuals, employees, agents, contractors, and subcontractors that comprise or represent the landlord.
+(1) 
+"Large landlord"
+means a landlord of more than four (4) covered units in the City of Emeryville.
+(2) 
+"Small landlord"
+means a landlord of four (4) or fewer covered units, or a landlord of a group residential facility of any size, as that term is defined in Section 9-2.211, in the City of Emeryville.
+(f) 
+"Lodger"
+means a person contracting with the owner of a dwelling unit for a room or room and board within the dwelling unit personally occupied by the owner, where the owner retains a right of access to all areas of the dwelling unit occupied by the lodger and has overall control of the dwelling unit, as defined in California Civil Code Section 1946.5(c).
+(g) 
+"Notice of termination"
+means a written notice that includes all of the components identified in Section 5-40.08.
+(h) 
+"Owner-occupied residence"
+means a single dwelling unit in which an individual retains no less than a fifty percent (50%) ownership interest in the individual unit, and resides in that unit as his or her permanent residence no less than ten (10) months of any calendar year.
+(i) 
+"Relocation assistance"
+shall have the meaning described in Section 5-40.04.
+(j) 
+"Right to return"
+means the obligation of certain residential landlords to deliver, and the right of certain residential tenants to receive, an offer to return to and rent a covered unit when the landlord returns the unit to the rental market, after temporarily removing the unit from the market under Section 5-40.03(e)(2). Tenant(s) with tenancies terminated pursuant to Section 5-40.03(e)(2) are entitled to receive, and landlord(s) must deliver, an offer to return to and rent the same unit if: (1) the tenant has provided to the landlord a current mailing address at which to receive an offer of the right to return; (2) the landlord returns the covered unit to the rental market within two (2) years of terminating the tenancy under Section 5-40.03(e)(2); and (3) the tenant delivers to the landlord an affirmative written acceptance of the offer to return to and rent the unit within thirty (30) days of delivery by the landlord of the offer to return. For purposes of this subsection, "deliver" and "delivery" include deposit with the United States Postal Service of a sealed, addressed envelope, with first-class postage paid. A tenant's right to return survives regardless of any transfer of legal ownership of the covered unit.
+(Secs. 1 – 3, Ord. 20-009, eff. June 4, 2020; Sec. 3, Ord. 20-006, eff. May 21, 2020; Sec. 2 (part), Ord. 16-011, eff. Apr. 1, 2017)
+5-40.03 Just Cause for Termination of Tenancy Initiated by Landlord.
+No landlord may terminate a residential tenancy of a covered unit unless the landlord can demonstrate:
+(a) 
+That the landlord possesses a valid residential landlord business license pursuant to Chapter 1 of Title 3;
+(b) 
+That the landlord has provided the tenant with a notice of tenant rights in accordance with Section 5-40.07;
+(c) 
+That the landlord served a notice of termination to the tenant in the form required by Section 5-40.08, and that the landlord delivers a true and accurate copy of the notice of termination to the City Clerk within ten (10) calendar days of delivery to the tenant(s); and
+(d) 
+That the landlord has not accepted and will not accept rent or any other consideration in return for the continued use of the covered unit beyond the term of the terminated tenancy in compliance with California Civil Code Sections 1945, 1946, and 1946.1.
+(e) 
+That the termination qualifies as a for cause or no fault termination, as defined below.
+(1) 
+For Cause Terminations. If a landlord can show any of the following circumstances with respect to a termination of tenancy, the termination will qualify as for cause.
+(i) 
+Failure to Pay Rent. Tenant failed to pay rent within three (3) days of receiving written notice from the landlord demanding payment in accordance with California Code of Civil Procedure Section 1161.2 (3-Day Notice). In the case of an affected residential tenant, as defined in Section 5-40.02(a), and prior to delivery of a notice of termination for nonpayment of rent, the landlord must offer the affected residential tenant a reasonable repayment plan for the total sum of unpaid rent accruing between April 1, 2020, and the expiration of the Governor's COVID-19 state of emergency. The repayment plan must be presented in writing and may not be for less than a twelve (12) month period beginning from the expiration of the Governor's COVID-19 state of emergency.
+(ii) 
+Breach of Rental Contract. Tenant violated a material term of the rental agreement.
+(iii) 
+Tenant Illegal Activities. Tenant has used the unit for an illegal purpose, including but not limited to the unlawful distribution of a controlled substance as contemplated by California Civil Code Section 3486, or the unlawful use, manufacture, or possession of weapons and ammunition as contemplated by California Civil Code Section 3485.
+(iv) 
+Violations of Applicable Health and Safety Code. Tenant created or is maintaining a dangerous and unsanitary condition as described in the Emeryville Municipal Code or applicable Federal and State law, and that condition has not been promptly abated or repaired as contemplated by applicable law.
+(v) 
+Failure to Allow Landlord Access. Tenant failed to allow landlord access to the unit, after receiving due notice as required by California Civil Code Section 1954.
+(vi) 
+Tenant Rejected Written Lease Extension. Tenant failed to execute a written extension of an existing rental agreement, but only if the offered written extension is substantially and materially the same as the original rental agreement.
+(vii) 
+Tenant Violated Occupancy Restriction. Tenant failed to abide by the long-term occupancy restrictions of the rental agreement (i.e., tenant allowed long-term occupancy of the unit by one (1) or more individuals who were not previously contemplated in the rental agreement), but only when the unapproved, long-term occupants of the unit would cause the number of persons living in the unit to exceed the total of two (2) persons per bedroom in the unit plus one (1).
+(viii) 
+Landlord Returning from Sabbatical to Occupy Unit. Landlord has temporarily rented or leased the entirety of a single covered unit for up to and including one (1) year, when that covered unit qualified as an owner-occupied residence during the calendar year prior to the temporary rental and the landlord intends to return to the covered unit as his or her primary residence to re-qualify the covered unit as an owner-occupied residence for the calendar year after the conclusion of the temporary rental; if the covered unit does not qualify as an owner-occupied residence following the conclusion of the temporary rental, the tenant during the temporary rental is entitled to the right to return.
+(ix) 
+Landlord Returning from Deployment. Landlord has rented or leased the entirety of a single covered unit during the landlord's deployment by any United States Armed Force, and once the deployment has concluded, landlord returns immediately to the covered unit as his or her residence that the landlord usually occupies for use during off-duty time.
+(x) 
+Landlord Condominium Conversion. Landlord is converting the covered unit(s) to a condominium in accordance with Article 7 (Residential Condominium Conversions) of Chapter 6 (Subdivisions) of Title 9 (Planning Regulations), and has provided the tenant(s) with the relocation assistance payment under Section 9-6.706.
+(2) 
+No Fault Terminations. If a landlord can show any of the following circumstances with respect to a termination of tenancy, the termination will qualify as "no fault" and entitles the tenant to relocation assistance in accordance with Section 5-40.04 and the right to return, which includes the right to receive notice from the landlord that the unit will be returned to the rental market and the right to return to and rent the unit under substantially the same material terms as the prior rental agreement when it is placed back in service for residential rental purposes. For purposes of this section, "substantially the same material terms as the prior rental agreement" means substantially similar housing services for a monthly rent charge that may not exceed the amount paid for the last month of the tenancy, subject to any notice provided in accordance with California Civil Code Section 827.
+(i) 
+Landlord Will Remove Unit from Market. Landlord will imminently demolish the unit or otherwise permanently remove the unit from any residential rental use or purpose.
+(ii) 
+Landlord Will Move into Unit. Landlord, or one of landlord's parents or children, will imminently move into and reside in the housing unit as his or her permanent residence no less than ten (10) months of any calendar year, for no less than two (2) years from the termination of tenancy.
+(iii) 
+Unit Is Temporarily Unfit for Human Habitation. The unit must be temporarily removed from the rental market because the unit is not currently fit for human habitation, but will be repaired and returned to the rental market.
+(iv) 
+Unit Will Be Substantially Renovated. The unit must be temporarily removed from the rental market because it will imminently become unfit for human habitation because of planned capital improvements and other necessary rehabilitation, for which the landlord currently possesses all necessary permits to imminently begin and diligently complete the permitted work in order to promptly return the unit to the rental market.
+(Sec. 4, Ord. 20-006, eff. May 21, 2020; Sec. 2 (part), Ord. 16-011, eff. Apr. 1, 2017)
+5-40.04 Relocation Assistance.
+(a) 
+When a landlord terminates a tenancy through a no fault termination, the tenant(s) will be entitled to receive relocation assistance, unless the cause of the no fault termination was a natural disaster or other naturally occurring phenomenon beyond the control of the landlord, such as an earthquake, fire, or flood.
+(b) 
+Landlord may pay the relocation assistance to entitled tenants concurrent with or after delivering the notice of termination, but must deliver the relocation assistance to the tenant(s) by the last day of tenancy for which the landlord has received rent.
+(c) 
+A large landlord shall pay relocation assistance to the tenant(s), which is equivalent to either five (5) times the most current fair market rents as published annually by the U.S. Department of Housing and Urban Development ("HUD") for the Oakland-Fremont, California HUD Metro FMR Area in the Federal Register, or four (4) times the monthly rent that the tenant(s) is paying at the time the notice of termination is delivered, whichever amount is greater. The payment must be divided equally among all tenants who are occupying the rental unit at the time the notice of termination is delivered to the tenant(s).
+(d) 
+A small landlord shall pay relocation assistance to the tenant(s), which is equivalent to either one (1) month of the most current fair market rents as published annually by the U.S. Department of Housing and Urban Development ("HUD") for the Oakland-Fremont, California HUD Metro FMR Area in the Federal Register, or one (1) month of rent that the tenant(s) is paying at the time the notice of termination is delivered, whichever amount is greater. The payment must be divided equally among all tenants who are occupying the rental unit at the time the notice of termination is delivered to the tenant(s).
+(Sec. 4, Ord. 20-009, eff. June 4, 2020; Sec. 2 (part), Ord. 16-011, eff. Apr. 1, 2017)
+5-40.05 Anti-Harassment and Other Prohibited Activities.
+(a) 
+No landlord may do any of the following in bad faith, with ulterior motive, or without honest intent:
+(1) 
+Interrupt, fail to provide, or threaten to interrupt or fail to provide any housing services under the rental agreement, including but not limited to utility services and other amenities and services agreed to by contract;
+(2) 
+Fail to perform repairs or maintenance required by contract or by State, County, or local housing, health, or safety laws;
+(3) 
+Fail to exercise due diligence to complete repairs and maintenance once undertaken, including the failure to follow industry-appropriate safety standards and protocols;
+(4) 
+Abuse or otherwise improperly use landlord's right to access the property;
+(5) 
+Remove personal property of the tenant(s) from the rental unit;
+(6) 
+Influence or attempt to influence the tenant(s) to vacate the unit by means of fraud, intimidation, or coercion (including but not limited to threats based on immigration status);
+(7) 
+Offer payment or any other consideration, in return for the tenant(s) vacating the unit, more often than once every six (6) months;
+(8) 
+Threaten the tenant(s) by word or gesture with physical harm;
+(9) 
+Interfere with the tenant(s) right to quiet use and enjoyment of the rental unit;
+(10) 
+Refuse to accept or acknowledge receipt of lawful rent from the tenant(s);
+(11) 
+Refuse to cash a rent check for over thirty (30) days;
+(12) 
+Interfere with the tenant(s) right to privacy;
+(13) 
+Request information that violates the tenant(s) right to privacy;
+(14) 
+Other repeated acts or omissions of such significance as to substantially interfere with or disturb the tenant(s) comfort, repose, peace, or quiet enjoyment, and that cause, are likely to cause, or are intended to cause the tenant(s) to vacate the unit; or
+(15) 
+Retaliate against the tenant(s) for the tenant(s) exercise of rights under this chapter or State or Federal law.
+(b) 
+Nothing in this section prohibits the lawful eviction of a tenant by appropriate legal means.
+(Sec. 2 (part), Ord. 16-011, eff. Apr. 1, 2017)
+5-40.06 Civil Remedies.
+(a) 
+Whenever a landlord attempts to prevent a tenant from acquiring any rights under this chapter, retaliates against a tenant for the exercise of any rights under this chapter, or engages in activities prohibited under this chapter, the tenant or the City may institute a civil proceeding for money damages or injunctive relief or both. This section creates a private right of action to enforce all terms, rights, and obligations under this chapter.
+(b) 
+Any tenant who receives a notice of termination may bring a civil action against the landlord to contest the validity of each necessary component and pre-condition for service of the notice of termination as required by Sections 5-40.03(a), (b), (c), (d) and (e) and to request injunctive relief to halt the termination of tenancy.
+(1) 
+A landlord's inability to demonstrate compliance with any individual component of or pre-condition to serve a notice of termination as defined in Sections 5-40.03(a), (b), (c), (d) and (e) will invalidate, nullify, and avoid the effect of a notice of termination, except that a failure to demonstrate service to the City under Section 5-40.03(c) will not invalidate the notice of termination. If a notice of termination is invalidated, the tenant(s) will be entitled to costs and reasonable attorney fees incurred to invalidate the notice of termination.
+(2) 
+If a landlord can demonstrate compliance with each pre-condition to serve the notice of termination to the tenant(s) by a preponderance of the evidence, the notice of termination will be deemed valid and the landlord entitled to costs and reasonable attorney fees incurred to defend the notice of termination.
+(c) 
+Any tenant may bring a civil action to determine the applicability of this chapter to the tenancy, including but not limited to a determination of whether the dwelling unit is a covered unit or whether the residence qualifies as an owner-occupied residence.
+(Sec. 2 (part), Ord. 16-011, eff. Apr. 1, 2017)
+5-40.07 Notice of Tenant Rights.
+(a) 
+Landlords must provide to each tenant in a covered unit a notice of tenant rights under this chapter in substantially the same form as follows:
+The City of Emeryville regulates the relationship between most landlords and tenants within the City. Generally, landlords may not terminate your tenancy without cause or explanation, and may not reduce or stop providing services agreed to in the rental contract, so long as you pay rent on time as agreed in the rental contract.
+In addition to State and Federal Laws, the Residential Landlord and Tenant Relations chapter of the Emeryville Municipal Code creates certain rights for landlords and tenants, which may include the right to relocation assistance or the right to return to your rental unit if you are evicted. Visit the City of Emeryville website for more information: http://www.emeryville.org
+(b) 
+Landlords must provide to tenants the notice of tenant rights in accordance with subsection (a) of this section in the following circumstances:
+(1) 
+Within thirty (30) days of enactment of this chapter;
+(2) 
+When entering a lease or rental agreement;
+(3) 
+When renewing a lease or rental agreement;
+(4) 
+With a notice of termination, as provided in Section 5-40.08; and
+(5) 
+At such times as required by the City of Emeryville, which may include, but is not limited to, when this chapter is significantly amended.
+(Sec. 2 (part), Ord. 16-011, eff. Apr. 1, 2017)
+5-40.08 Landlord Notice of Termination to Tenant and City.
+(a) 
+The notice of termination provided to tenants must contain the reason for the termination of tenancy in accordance with Section 5-40.03(e), a notice of tenant rights under Section 5-40.07, and a list of rents charged throughout the tenancy in substantially the same form as provided in subsection (b) of this section. The City of Emeryville makes no claim or representation that the notice of termination satisfies any responsibilities or obligations imposed upon landlords serving a notice of intent to terminate a tenancy under State or Federal law.
+(b) 
+The notice of termination must be in substantially the same form as the following:
+The City of Emeryville makes no claim or representation that this notice satisfies any responsibilities or obligations imposed by State or Federal Law. You may wish to consult with a private attorney prior to completing this form.
+NOTICE OF TERMINATION
+This is a notice of the landlord's intent to terminate your tenancy. Read this notice for important information about your rights under the City of Emeryville regulation of landlord and tenant relations. You may wish to consult with a private attorney about the information contained in this notice.
+Landlord Information
+Name:
+Address:
+No. of Units Owned in Emeryville
+	
+Property Information
+Unit:
+Address:
+Emeryville, CA 94608
+Length of Notice
+□ 30 Days
+□ 60 Days
+	
+□ Other:
+(Specify Days)
+	
+Intended Final Date of Occupancy
+Landlord requests return of unit by:
+(Day of the Week, Calendar Date/Month/Year)
+Reason for Termination THIS AFFECTS YOUR LEGAL RIGHTS.
+Tenant(s) may be entitled to money to help relocate and the right to return to the unit depending upon the reason for termination. Tenant(s) must provide Landlord with mailing address for Right to Return.
+(Check Only ONE, see Emeryville Municipal Code § 5-40.03 for More Information)
+"For Cause"
+	
+□ Failure to Pay Rent
+EMC §5-40.03(e)(1)(i)
+	
+□ Breach of Rental Contract
+EMC §5-40.03(e)(1)(ii)
+	
+□ Tenant Illegal Activities
+EMC §5-40.03(e)(1)(iii)
+□ Violations of Applicable Health & Safety Code
+EMC §5-40.03(e)(1)(iv)
+	
+□ Failure to Allow Landlord Access
+EMC §5-40.03(e)(1)(v)
+	
+□ Tenant Rejected Written Lease Extension
+EMC §5-40.03(e)(1)(vi)
+□ Tenant Violated Occupancy Restriction
+EMC §5-40.03(e)(1)(vii)
+	
+□ Landlord Returning from Sabbatical to Occupy Unit
+EMC §5-40.03(e)(1)(viii)
+	
+□ Landlord Returning from Deployment
+EMC §5-40.03(e)(1)(ix)
+□ Landlord Condo Conversion
+EMC §5-40.03(e)(1)(x)
+	
+	
+"No Fault"
+	
+□ Landlord Will Remove Unit from Market
+EMC §5-40.03(e)(2)(i)
+	
+□ Landlord Will Move into Unit
+EMC §5-40.03(e)(2)(ii)
+	
+□ Unit Is Temporarily Unfit for Human Habitation
+EMC §5-40.03(e)(2)(iii)
+	
+□ Unit Will Be Substantially Renovated
+EMC §5-40.03(e)(2)(iv)
+	
+Rent Paid
+	
+List Contractual Rental Amount Charged Per Month For Most Months in:
+$
+Year: 20___
+	
+$
+Year: 20___
+	
+$
+Year: 20___
+	
+$
+Year: 20___
+	
+$
+Year: 20___
+	
+$
+Year: 20___
+City of Emeryville Notice
+	
+EMC § 5-40.07
+The City of Emeryville regulates the relationship between most landlords and tenants within the City. Generally, landlords may not terminate your tenancy without cause or explanation, and may not reduce or stop providing services agreed to in the rental contract, so long as you pay rent on time as agreed in the rental contract.
+In addition to State and Federal Laws, the Residential Landlord and Tenant Relations chapter of the Emeryville Municipal Code creates certain rights for landlords and tenants, which may include the right to relocation assistance or the right to return to your rental unit if you are evicted. Visit the City of Emeryville website for more information: http://www.emeryville.org
+California Civil Code § 1946 Notice
+State law permits former tenants to reclaim abandoned personal property left at the former address of the tenant, subject to certain conditions. You may or may not be able to reclaim property without incurring additional costs, depending on the cost of storing the property and the length of time before it is reclaimed. In general, these costs will be lower the sooner you contact your former landlord after being notified that property belonging to you was left behind after you moved out.
+(c) 
+Landlords must provide a copy of the notice of termination to the City Clerk within ten (10) days of delivery to the tenant(s). Landlords must attach a copy of the applicable rental agreement or contract to the notice of termination when submitting the notice of termination to the City Clerk. Notices of termination with a copy of the applicable rental agreement or contract may be mailed or otherwise delivered to:
+City Clerk
+1333 Park Avenue
+Emeryville, CA 94608
+ATTN: Notice of Termination of Residential Tenancy
+(Sec. 2 (part), Ord. 16-011, eff. Apr. 1, 2017)

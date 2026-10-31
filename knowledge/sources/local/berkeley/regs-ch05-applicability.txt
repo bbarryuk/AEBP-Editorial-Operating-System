@@ -1,0 +1,457 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: Berkeley Rent Board Regulations Ch. 5 — Applicability
+Jurisdiction: Berkeley
+Source type: Rent board regulation (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://rentboard.berkeleyca.gov/  [to confirm (add regulations page link)]
+Version: not recorded
+Saved to OneDrive: 2026-10-06   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Berkeley-Regs-525-1205-1210-1242-CHAPTER 5_Applicability.pdf
+Notes: Extracted from PDF with pdftotext; layout spacing preserved. Original PDF stays in OneDrive.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+                     CHAPTER 5. APPLICABILITY
+
+
+CONTENTS
+
+501 - 502   (RESERVED)
+503         Definition of Principal Residence
+504         Transient Units
+505         Non-Transient Units
+506         Changes in Status of Transient Unit
+507         Posting of Rents for Non-Transient Occupancy
+508         Exemption for Certain Single Family Residences
+509         Definition of New Construction REPEALED 4/24/17
+510         Definition of New Construction for Units that Lack a
+            Certificate of
+            Occupancy
+511 - 519   (RESERVED)
+520         Exemption for Fraternities and Sororities
+521         Procedure for Claiming Exemption
+522         Procedure for Challenging Exempt Status
+523         When Exemption Must Be Claimed or Verified
+524         Tenant in Occupancy
+525         Procedure for Challenging Tenant in Occupancy Status
+526 - 599   (RESERVED)
+501- 502   Reserved
+503.   Definition of Principal Residence
+
+       (A)    Background and Purpose. Like many of the exemptions listed in
+Berkeley Municipal Code Section 13.76.050, the exemptions identified in Berkeley
+Municipal Code Sections 13.76.050F. and 13.76.050G. (Sections 5(f) and 5(g) of the
+Ordinance) are transitory.
+A landlord may not claim an exemption pursuant to Sections 5(f) or 5(g) of the
+Ordinance unless the landlord occupies a unit on the property as his/her principal
+residence at the time the landlord asserts or claims the exemption.
+
+               (B)    “Person” limited to “natural person.” Only a natural person may
+       claim principal residence in a unit when claiming an exemption under Sections
+       5(f) or 5(g) of the Ordinance. For purposes of this Regulation, “person” shall
+       mean only a “natural person.” A successor in interest is not entitled to the
+       exemptions in either Sections 5(f) or 5(g) of the Ordinance merely because a
+       previous landlord claimed entitlement to one of these exemptions. A bank,
+       corporation, or other business entity may never claim a unit as exempt under
+       Sections 5(f) or 5(g) of the Ordinance as such entities are not natural persons. A
+       natural person who has granted the subject property into a revocable living trust
+       may claim principal residence only as follows:
+
+              (1)    The person claiming principal residence is both the grantor and the
+              trustee of the revocable living trust, or
+
+              (2)    The grantor has named another natural person as trustee but has
+              retained oversight over the amount of rent charged at the property and
+              any decision to evict any tenant from the property.
+
+              (3)   A natural person who is the sole surviving beneficiary of a
+              revocable living trust for which all grantor(s)/trustee(s) are deceased
+              may claim principal residence.
+
+              (4)    All applicable criteria set forth in Subsections C and D shall apply
+              equally to natural persons claiming principal residence pursuant to a
+              revocable living trust as if they were owners of record. The Board may
+              require appropriate documentation, including but not limited to an
+              affidavit signed under penalty of perjury and/or a Certification of Trust for
+              the purpose of establishing exemption.
+
+        (C)    Principal residence, as used in Sections 5(f) and 5(g) of the Ordinance,
+is that dwelling place where the person actually resides a majority of the time. For the
+purpose of this Ordinance, a person may have only one principal residence.
+
+        (D)    In the determination as to the principal residence status of the dwelling
+place, the following factors shall be considered:
+
+              (1)    whether the person carries on basic living activities at the dwelling
+                     place;
+              (2)  whether the person maintains another dwelling and, if so, the
+              amount of time that the person spends at each dwelling place;
+
+              (3)  whether the person has filed for and obtained a homeowner's
+              exemption for the dwelling place;
+
+              (4)    whether the person is a registered voter at the dwelling place;
+
+              (5)    other relevant factors.
+
+
+[Effective Date: 11/26/80; renumbered 04/09/99; added new Sections A and B, and
+enumerated sub-section identifiers of new Section D (previously A through D)
+06/17/13; amended Section B to make clear that properties held in certain types of
+revocable living trusts will qualify for exemption when applicable criteria is met; sunset
+provision identified in Section E – 9/19/19; 10/21/21: Eliminated Section E.]
+504.   Transient Units
+
+A rental unit in an establishment such as a hotel, motel, inn, tourist home, or rooming or
+boarding house, shall be presumed to be rented primarily to transient guests and
+exempted from the Ordinance if all of the following facts exist:
+
+       (A)   The establishment is properly licensed as a hotel, motel, inn, tourist
+             home, rooming or boarding house, or similar establishment and said
+             usage is lawful under the zoning laws of the City of Berkeley;
+
+       (B)   The unit has been continuously occupied by its current occupant(s) for
+             less than 14 days;
+
+       (C)   The current occupant(s) of the unit have continuously resided in the
+             property for less than 14 days. For purposes of this regulation, the term
+             property shall be defined as set forth in Section 4(h) of the Ordinance;
+
+       (D)   The occupancy is subject to the hotel tax; and
+
+       (E)   The unit has been occupied by persons described in (B) through (D) above,
+             for at least 184 days in the 12-month period immediately preceding
+             September 1 of each year and/or has been vacant and available for rent to
+             transient guests for 184 days.
+
+[Effective Date: 10/27/82, renumbered 04/09/99.]
+505.   Non-Transient Units
+
+A rental unit in an establishment such as a hotel, motel, inn, tourist home, or rooming or
+boarding house, shall be presumed to be rented primarily to non-transients and subject
+to the provisions of the Ordinance if:
+
+       (A)   The occupancy is not subject to the hotel tax; or
+
+       (B)   The current resident(s) have continuously resided in any unit on the
+             property for at least 14 days.
+
+[Effective Date: 10/27/82; renumbered 04/09/99.]
+506.   Changes in Status of Transient Unit
+
+If a unit becomes subject to the provisions of the Ordinance by virtue of Regulation 505,
+it shall be registered within 60 days as set forth in Section 8(I) of the Ordinance. If
+thereafter the unit becomes vacant and is rented to a transient, it shall be exempt for
+the period of time of such transient occupancy.
+
+During such period of exemption, the provisions of the Ordinance relating to limitations
+on rents and eviction controls shall not apply. When the unit is again occupied by a
+nontransient, the rent must revert to the level which would have been lawful under the
+Ordinance had the unit continuously been occupied by a nontransient. A unit which is
+subject to the Ordinance need only be registered once each year regardless of the
+number of times its status changes.
+
+[Effective Date: 10/27/82; renumbered 04/09/99.]
+507.   Posting of Rents for Non-Transient Occupancy
+
+The maximum lawful rent for non-transient occupancy shall be posted in a readily
+visible place in each unit subject to registration by virtue of these regulations. Such
+posting shall be done on a form approved or provided by the Board.
+
+[Effective Date: 10/27/82; renumbered 04/09/99.]
+508.   Exemption for Certain Single Family Residences
+
+       (A) Effective July 1, 1999, the following single-family residences shall be exempt
+from the terms of Berkeley Municipal Code Section 13.76.080 [Rent Registration];
+Section 13.76.100 [Establishment of Base Rent Ceiling and Posting]; Section 13.76.110
+[Annual General Adjustment of Rent Ceilings] and Section 13.76.120 [Individual
+Adjustment of Rent Ceilings - except as it relates to the recovery of security deposits]:
+
+       (1) A single-family residence that first became subject to the Rent Ordinance on
+       or after January 1, 1996.
+
+       (2) As of January 1, 1999, a single family residence for which a new tenancy
+       began on or after January 1, 1996 except where:
+
+              (a) The preceding tenancy was terminated by the landlord by notice
+              pursuant to Section 1946 of the Civil Code or was terminated upon the
+              change in terms of tenancy noticed pursuant to Section 827 of the Civil
+              Code;
+
+              (b) The landlord has otherwise agreed by contract with the City of
+              Berkeley or any other public entity to limit or otherwise restrict rent levels
+              in consideration for a direct financial contribution or any other forms of
+              assistance specified in Chapter 4.3 (commencing with Section 65915) of
+              Division 1 of title 7 of the Government Code; or
+
+              (c) The dwelling unit contains serious health, safety, fire or building code
+              violations, excluding those caused by disasters, for which a citation has
+              been issued by the appropriate governmental agency, and which citation
+              has remained unabated for six months or longer preceding the vacancy.
+
+       (B) For purposes of this Regulation, a single family residence is defined as a
+unit that is alienable separate from the title to any other dwelling unit or is a subdivided
+interest in a subdivision as specified in subdivision (b), (d) or (f) section 11004.5 of the
+Business and Professions Code but does not include a condominium dwelling or unit
+that has not been sold separately by the subdivider to a bona fide purchaser for value
+as provided in Civil Code section 1954.52(a)(3)(B)(ii).
+
+       (C) Except as provided in this regulation, single-family residences remain
+subject to the terms of the Rent Ordinance, including Berkeley Municipal Code Section
+13.76.070 [Security Deposits] and Section 13.76.130 [Good Cause Required for
+Eviction].
+
+[Effective Date: 4/23/99; revised Section (B) added lines after.. Professions Code..
+2/4/02]
+509.   Definition of New Construction for Legal Rental Units – **REPEALED**
+
+    (A)      Authority and Scope. Section 5(i) of the Ordinance exempts newly-
+constructed rental units from Chapter 8 (Rent Registration), Chapter 10 (Establishment
+of Base Rent Ceiling and Posting), Chapter 11 (Annual Adjustment of Rent Ceilings),
+and Chapter 12 (Individual Adjustments of Rent Ceilings) of the Ordinance. This
+Regulation addresses only newly- constructed rental units for which the owner has
+secured the necessary and proper City permits for legal construction.
+
+   (B)        Definition.   As defined in Section 5(i) of the Ordinance and
+consistent with California Civil Code Section 1954.50, et. seq., new construction of
+legal units shall include:
+
+       (1) units that receive a Certificate of Occupancy issued after February 1, 1995; or
+
+       (2) units that have already been exempt from the Ordinance prior to February
+           1, 1995, pursuant to Section 5(i) of the Ordinance.
+
+All units constructed as the result of rehabilitation, conversion, or partial demolition of
+existing units and which do not meet either of the definitions as stated in Paragraphs
+(B)(1) or (B)(2) above shall not qualify as new construction and shall be subject to the
+terms of all Chapters of the Ordinance including Chapter 8 (Rent Registration), Chapter
+10 (Establishment of Base Rent Ceiling and Posting), Chapter 11 (Annual Adjustment of
+Rent Ceilings), and Chapter 12 (Individual Adjustments of Rent Ceilings).
+
+
+[Adopted 11/17/14. Repealed 4/24/17.]
+510. Definition of New Construction for Units that Lack a Certificate of Occupancy.
+
+(A)    Scope and Authority.
+Since 1980, the Rent Ordinance has distinguished between newly-constructed rental
+units and those created through conversion or substantial rehabilitation. Effective
+December 18, 2016, the new construction exemption was amended. See Berkeley
+Municipal Code Section 13.76.050.
+Consistent with California Civil Code Section 1954.50 et seq., certain newly-constructed
+rental units for which a Certificate of Occupancy has not been issued are exempt from
+Chapter 8 (Rent Registration), Chapter 10 (Establishment of Base Rent Ceiling and
+Posting), Chapter 11 (Annual Adjustment of Rent Ceilings), and Chapter 12 (Individual
+Adjustment of Rent Ceilings) of the Ordinance. This Regulation sets forth the criteria for
+exemption of such rental units.
+
+(B)    Conversion.
+A rental unit that is created as the result of conversion or substantial rehabilitation of an
+existing structure shall not be exempt unless a Certificate of Occupancy has been
+issued for that unit after June 30, 1980.
+
+(C)   Units constructed before February 1, 1995.
+A detached rental unit constructed from the ground up after June 30, 1980 but before
+February 1, 1995 shall be exempt from the Chapters detailed in Subsection A.
+
+(D)   Units constructed after February 1, 1995.
+A detached rental unit constructed from the ground up after February 1, 1995 shall be
+exempt from the Chapters detailed in Subsection A only where all applicable building
+permits have been issued and finally approved by the City.
+
+(E)    Definition of “ground up” construction.
+For the purposes of this regulation, construction from the ground up is defined as the
+construction of an entirely new structure, not attached to any other structure and not
+created by the partial demolition of an existing structure.
+
+(F)   Units with a formal determination of exemption.
+Notwithstanding the foregoing, where a formal determination of exemption was
+made before February 1, 1995, the subject rental unit shall remain exempt
+consistent with California Civil Code Section 1954.50 et seq.
+
+[Adopted April 24, 2017.]
+511-519   RESERVED
+520. Exemption for Fraternities and Sororities
+
+(A)    Background and Purpose. The Rent Board has long exempted rental units in
+properties owned by fraternities and sororities (or companies that manage units
+occupied by active members of these organizations). Tenants who live in these units
+that are not active members of fraternities and sororities, however, are not exempt from
+any section of the Rent Ordinance. The Board recognizes that many of these rental
+units are occupied seasonally (typically during the summer months) by non-members
+and has charged the landlord a partial Registration Fee required by B.M.C. 13.76.080.
+This regulation clarifies this exemption and identifies the tenants that are covered by
+the Rent Ordinance.
+
+(B)    Exemption under B.M.C. 13.76.050M. Rental units – as defined by Regulations
+403 and 403.5 – occupied as a primary residence by a member of a fraternity or
+sorority in which the fraternity or sorority owns the rental unit (or a unit owned by an
+entity whose sole purpose is the maintenance and operation of the fraternity or
+sorority’s rental units) are exempt from Berkeley Municipal Code Chapter 13.76.
+
+(C)   Rental units not subject to exemption under B.M.C. 13.76.050M. Rental units
+located within a property as defined by subparagraph (B) that are occupied by a tenant
+who is not an active member of a fraternity or sorority are subject to all sections of
+Berkeley Municipal Code Chapter 13.76 including Section 13.76.080, Rent Registration.
+
+Tenants who occupy rental units for only part of the year in properties primarily
+occupied by fraternities and sororities shall be considered “authorized seasonal rentals”
+as further defined in Regulation 808. Tenants who occupy authorized seasonal rentals
+shall have the same rights and responsibilities as a tenant who occupies any another
+rent-controlled unit not subject to an exemption identified in B.M.C. 13.76.050. The
+Board shall charge a reduced registration fee, however, for these authorized seasonal
+rentals as defined by Regulation 808.
+
+[Adopted April 24, 2017.]
+521.   Procedure for Claiming Exemption
+
+       (A) The landlord of any rental unit claimed to be exempted from the
+provisions of the ordinance shall inform the Board of the nature of the claimed
+exemption and the specific facts upon which the landlord relies in support of the
+exemption. The landlord shall supply such further information and documentation
+as the Executive Director or his or her designee may require to investigate and verify
+the claimed exemption. The landlord and all tenants of unit shall be notified in
+writing of the exemption determination.
+
+       (B) If the Executive Director, or his or her designee, determines that the unit is
+subject to the ordinance and the landlord disagrees, the landlord may within 15 days of
+the determination, file a request for hearing on exemption status. The hearing shall be
+conducted in accordance with the rules for hearing regarding nonregistration of units.
+
+[Effective Date: 05/23/84; renumbered 04/09/99.]
+522.   Procedure for Challenging Exempt Status
+
+ The tenant of a unit which has been determined to be exempt by the Executive
+Director, or his or her designee, may at anytime obtain review of the unit's exemption
+status by filing a tenant petition for rent withholding for non-registration. Such a
+petition shall not be granted if the property was previously held to be exempt after a
+landlord-initiated hearing on exemption status was held unless it can be shown that
+there has been a material change in the facts after the first hearing was held, or that
+the information supplied by the landlord in support of the exemption was false.
+
+[Effective Date: 05/23/84; renumbered 04/09/99.]
+523.   When Exemption Must Be Claimed or Verified
+
+       (A) Where the claimed exemption is based upon the grounds set forth in
+subsections C., E., F. and G. of Section 5 of the Rent Ordinance [B.M.C. §§13.76.050],
+the exemption need not be claimed or verified each year. However, if the facts that
+gave rise to the exemption cease to exist, the landlord shall register the unit in
+accordance with Section 8.i. of the Ordinance within 60 days after the unit becomes
+subject to the Ordinance.
+
+        (B) Where the claimed exemption is based upon subsections B. or D. of Section
+5 of the Rent Ordinance [B.M.C. §§13.76.050], the exemption must be claimed and
+verified on an annual basis.
+
+       (C) Where the claimed exemption is based upon subsection I of Section 5 of
+the Rent Ordinance [B.M.C. §§13.76.050]., the exempt status of the unit need only be
+claimed and verified once.
+       (D) Where the claimed exemption is based upon Regulation 508, the Board will
+determine the exemption before July 1 of each year, by referring to the Vacancy
+Registrations filed with the Board, and will notify the landlord and the tenant. Either
+party can object to the determination by following the procedure set forth in
+Regulations 521 or 522.
+
+       (E) Nothing in this Chapter shall prevent the Executive Director or his or her
+designee from investigating and reviewing the status of any unit claimed to be
+exempt or previously found to be exempt if there is reason to believe that the claimed
+exemption is not supported by the facts or has been obtained as a result of falsely
+supplied information.
+
+[Effective Date: 05/23/84; amended & renumbered 04/09/99.]
+524. Tenant in Occupancy.
+
+        (A)    In accordance with the purposes of the Rent Stabilization Ordinance, to
+address the city of Berkeley’s Housing Crisis, the rent ceiling limitations of Berkeley
+Municipal Code Sections 13.76.110 and 13.76.120 apply only to a rental unit that is
+occupied by a “tenant in occupancy,” which is an individual who otherwise meets the
+definition of tenant set forth in Berkeley Municipal Code Section 13.76.040.I and who
+occupies the unit as his or her primary residence. Rental units that are kept primarily
+for secondary residential occupancy, such as a pied-a-terre or vacation home, or
+primarily for non-residential use, such as storage, commercial, or office use, are not
+subject to the rent ceiling limitations of Berkeley Municipal Code Sections
+13.76.110 and 13.76.120.
+
+       (B)    Occupancy as a primary residence does not require that the individual be
+physically present in the unit at all times or continuously, but the unit must be the
+tenants usual place of return. Evidence that a unit is the individual's “primary
+residence” includes, but is not limited to, the following elements:
+
+            (1) the individual carries on basic living activities at the subject
+      premises for extended periods;
+
+            (2) the individual does not maintain another dwelling or, if the individual
+      does maintain another dwelling, the amount of time that the individual spends at
+      each dwelling place;
+
+             (3) the subject premises are listed as the individual's place of
+      residence on any motor vehicle registration, driver's license, voter registration,
+      or with any other public agency, including Federal, State and local taxing
+      authorities;
+
+             (4) utilities are billed to and paid by the individual at the subject premises;
+
+            (5) all of the individual's personal possessions have been moved into the
+      subject premises;
+
+              (6) a homeowner's tax exemption for the individual has not been
+      filed for a different property;
+
+             (7) the individual is enrolled as a student or is a member of the
+      faculty at an institution of higher education in the San Francisco Bay Area;
+
+             (8) the subject premises are the place the individual normally returns to as
+      his/her home, exclusive of military service, hospitalization, vacation, family
+      emergency, Peace Corps service, academic sabbatical, travel necessitated by
+      employment or education, or other reasonable temporary periods of absence.
+524. Tenant in Occupancy.
+
+
+
+       (C)     A tenant who is enrolled as a student or is a member of the faculty
+or staff at an accredited institution of higher education in the San Francisco Bay
+Area may qualify as a tenant in occupancy notwithstanding his or her having
+another residence to which he or she will ultimately return.
+
+       (D)    If an individual rents two units in the same building and resides in
+one of the units as a primary residence, the second unit shall qualify as a
+tenant in occupancy unit if it is used primarily for residential storage of the
+personal property of the individual.
+
+
+
+[Effective Date: 5/22/03]
+525.   Procedure for Challenging Tenant in Occupancy Status.
+
+        (A)    The landlord of any rental unit who seeks a determination that the unit is
+not being occupied by a tenant in occupancy may file a petition on a form provided by
+the Board. The petition shall include a brief explanation of the basis for the petition,
+including a statement that the unit is not occupied by any subtenants. (See Regulation
+1013 (O) and California Civil Code Section 1954.53 (d) et. seq. for the status of units
+occupied by subtenants, where the original occupant(s) no longer permanently reside(s)
+in the unit.) Proof that the petition has been served on all tenants claiming a right to
+possession of the unit shall be submitted with the petition. Service shall be in
+accordance with Regulations 1205 and 1210. Concurrent with or anytime after the filing
+of the petition, the landlord may give legal notice of a rent increase that exceeds the
+limitations of Berkeley Municipal Code Sections 13.76.110 and 13.76.120, however, the
+noticed increase shall remain inoperative until a decision is rendered on the landlord’s
+petition
+
+       (B)      Petitions filed under this section shall be expedited so that a hearing on
+the petition is held within 30 days of filing and a decision rendered within 30 days of the
+hearing. The parties shall be given at least 15 days notice of the hearing.
+
+       (C)     Except as provided in subsection (B), proceedings on petitions filed under
+this section shall be conducted according to all provisions of Chapter 12, Subchapter B.
+A determination that a tenant is not a tenant in occupancy must be supported by a
+preponderance of the evidence presented to the hearing examiner. If the owner makes
+a prima facie showing that the unit is not continuously occupied by the individual as a
+residence, the burden of proving that the unit is the usual place of return and not a
+secondary residence or used primarily for commercial, office, or storage, except as
+provided in Section 524(D), shall shift to the tenant. If the hearing examiner determines
+that the tenant is not a tenant in occupancy, any rent increase noticed by the landlord
+shall become effective on the date specified in the notice or the date on which rent is
+next due following service of the hearing examiner’s decision, whichever is later.
+
+
+
+[Effective Date: 5/22/03; amended 03/23/26 to allow for electronic service.]
+526 - 599   (RESERVED)
+

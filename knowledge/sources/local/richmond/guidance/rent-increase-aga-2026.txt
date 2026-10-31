@@ -1,0 +1,81 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: Richmond Rent Program — Rent control and 2026 AGA page
+Jurisdiction: Richmond
+Source type: Agency guidance (EVD-SOURCE-HIERARCHY level 3)
+Official URL: https://www.ci.richmond.ca.us/3376/Rent-Increase  [already cited in knowledge/laws]
+Version: 2026 AGA 1.5%, approved 2026-06-17
+Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Richmond-Rent-Control+AGA.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Rent Control & Annual General Adjustment
+Current Rules at a Glance: 
+
+    2026 Annual General Adjustment (AGA): 1.5%  (Approved by the Rent Board on June 17, 2026)
+    Effective Date: Valid for increases taking effect between September 1, 2026, and August 31, 2027.
+    Maximum Cap: Up to 6.5% if utilizing "banked" previous untaken rent increases. If all applicable AGAs have gone into effect, your Maximum Allowable Rent (MAR) may be 1.5% plus the current rent.
+    Notice Deadline: Landlords must file the notice with the Rent Program within ten (10) business days of serving the tenant with a Proof of Service.
+
+Annual General Adjustment Rent Increases 2016-2026
+Year 	Allowable Rent Increase 	Applies to Tenants Who Moved In BEFORE:
+2016 	3.0% 	September 1, 2015 
+(does not apply to the rent increase 
+notices on or before June 21, 2017)
+2017 	3.4% 	September 1, 2016
+2018 	3.6% 	September 1, 2017
+2019 	3.5% 	September 1, 2018
+2020 	2.9% 	September 1, 2019
+2021 	1.6% 	September 1, 2020
+2022 	3.0% 	September 1, 2021
+2023 	3.0% 	September 1, 2022
+2024 	1.4% 	September 1, 2023
+2025 	1.62% 	September 1, 2024
+2026 	1.5% 	September 1, 2025
+Step 1: Compliance and Check Eligibility:
+
+
+    Ensure compliance with the Richmond Rent Ordinance, which includes: 
+        Property Enrollment: Only required once. If there has been a change in ownership, mailing address, rental status, or agent, please complete the form. 
+        Tenancy Registration for each rent-controlled unit.
+        Payment of the Residential Rental Housing Fee 
+        Active Rental Business License (contact the Finance Department to verify (510) 620-5555)
+    Property Coverage: To confirm the status of your Rental Unit, contact the Richmond Rent Program. 
+        Fully Covered Rental Units: Rent Control applies to multi-unit properties on one parcel built before February 1, 1995.
+        Partially Covered Rental Units: NOT subject to Rent Control, which includes: 
+            Governmentally subsidized units/Section 8
+            Properties with one dwelling unit on one parcel (i.e., Single-Family Home or Condominium)
+            "New Construction" built with permits after February 1, 1995
+    Tenancy Length: The Annual General Adjustment (AGA) can only apply after a tenant has lived in the unit for one full calendar year. 
+    Calculation Tool: Use the interactive Maximum Allowable Rent & Rent Increase Calculator to calculate the rent increase limit.
+
+If you require assistance with calculating the rent increase amount, you may schedule an appointment with a Housing Counselor by contacting the Rent Program. 
+Step 2: Download Required Notice Forms: 
+
+Landlords may use the official templates. Providing an invalid notice makes the increase legally void. 
+2026 Annual General Adjustment Templates (1.5% AGA)
+
+    30 - Day Written Notice: Download 30-Day AGA Notice Template (PDF) - Used for total increases of 10% or less in a 12-month period. 
+    90 - Day Written Notice: Download 90- Day AGA Notice Template (PDF) - Used for total increases of more than 10% in a 12-month period. 
+    Rent Program Brochure: Download Official Rent Program Brochure - Must be served to the tenant alongside the increase notice
+
+2025 Annual General Adjustment Templates (1.62% AGA)
+
+    30 - Day Written Notice: Download 30-Day AGA Notice Template (PDF) - Used for total increases of 10% or less in a 12-month period. 
+    90 - Day Written Notice: Download 90- Day AGA Notice Template (PDF) - Used for total increases of more than 10% in a 12-month period. 
+    Rent Program Brochure: Download Official Rent Program Brochure - Must be served to the tenant alongside the increase notice
+
+30-Day Notice (Fillable) Opens in new window
+90-Day Notice (Fillable) Opens in new window
+Step 3: File with the Richmond Rent Program (Within 10 Business Days)
+
+After serving the tenant, you must submit a copy of the notice plus a signed Proof of Service Form to the Rent Program by one of the following methods: 
+
+    Online Submission: Complete the digital upload on the Richmond Form Center. Go to "File a Notice of Rent Increase with the Rent Board" below. If filing for more than five (5) Rental Units, online submission is required.
+    In-Person Delivery: Bring the documents to the Rent Program Office: 440 Civic Center Plaza, 2nd Floor, Richmond, CA 94804. 
+    Mail Submission: Send documents to: Richmond Rent Program, 440 Civic Center, Suite 200, Richmond, CA 94804. 
+
+Important: Rent Increase Notice(s) will not be accepted by email to the Richmond Rent Program.
+FILE A RENT INCREASE Opens in new window
+Rent Adjustment Petitions: 
+
+If the standard AGA rate does not fit your operational needs or if you believe an increase is unlawful, please visit Petition Forms for more information. Richmond Landlords and Tenants may file rent adjustment petitions, depending on the reasons allowed by the Richmond Rent Ordinance. The option to file a Rent Adjustment Petition is ONLY for Fully Covered Rental Units.

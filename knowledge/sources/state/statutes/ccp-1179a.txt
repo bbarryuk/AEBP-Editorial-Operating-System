@@ -1,0 +1,24 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: Code of Civil Procedure § 1179a — UD calendar preference
+Jurisdiction: California
+Source type: Statute (EVD-SOURCE-HIERARCHY level 1)
+Official URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1179a.  [standard leginfo pattern]
+Version: (Added by Stats. 1931, Ch. 885.)
+Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/CCP-1179a.txt
+Notes: See the Stats. amendment note in the text for the version in force when saved.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Code of Civil Procedure - CCP
+PART 3. OF SPECIAL PROCEEDINGS OF A CIVIL NATURE [1063 - 1822.60]  ( Part 3 enacted 1872. )
+  
+TITLE 3. OF SUMMARY PROCEEDINGS [1132 - 1179a]  ( Title 3 enacted 1872. )
+  
+
+CHAPTER 4. Summary Proceedings for Obtaining Possession of Real Property in Certain Cases [1159 - 1179a]  ( Chapter 4 enacted 1872. )
+
+  
+1179a.  
+
+In all proceedings brought to recover the possession of real property pursuant to the provisions of this chapter all courts, wherein such actions are or may hereafter be pending, shall give such actions precedence over all other civil actions therein, except actions to which special precedence is given by law, in the matter of the setting the same for hearing or trial, and in hearing the same, to the end that all such actions shall be quickly heard and determined.
+(Added by Stats. 1931, Ch. 885.)

@@ -1,0 +1,50 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: AB 246 (2025) — Social Security Tenant Protection Act (Civ. 1946.3)
+Jurisdiction: California
+Source type: Chaptered bill (EVD-SOURCE-HIERARCHY level 1)
+Official URL: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB246  [standard leginfo pattern]
+Version: Chaptered, Stats. 2025 ch. 337
+Saved to OneDrive: 2026-10-14   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/AB246-06Oct2025.txt
+Notes: Session-law text: shows what the bill changed, not the current code. Cite the code section for current law.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Assembly Bill No. 246
+CHAPTER 337
+
+An act to add and repeal Section 1946.3 to the Civil Code, relating to housing.
+
+[ Approved by Governor  October 06, 2025. Filed with Secretary of State  October 06, 2025. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+AB 246, Bryan. Social Security Tenant Protection Act of 2025.
+Existing law provides that a tenant is guilty of unlawful detainer if the tenant continues to possess the property without permission of the landlord after the tenant defaults on rent or fails to perform a condition or covenant of the lease under which the property is held, among other reasons. Existing law requires a tenant be served a 3 days’ notice in writing to cure a default or perform a condition of the lease, or return possession of the property to the landlord, as specified. Existing law, until January 1, 2030, prohibits an owner of residential real property from terminating a tenancy without just cause, as specified.
+This bill would, until January 20, 2029, enact the Social Security Tenant Protection Act of 2025 (the Act). The Act would authorize a tenant of residential real property to assert Social Security hardship as an affirmative defense in an unlawful detainer proceeding based on the nonpayment of rent. The Act would define “Social Security hardship” as a loss of income due to an interruption in the payment of Social Security benefits due to the action or inaction of the federal government. The Act would require a tenant asserting Social Security hardship as an affirmative defense to provide, to the satisfaction of the court, evidence that Social Security payments typically received by the tenant’s household have been terminated, delayed, or reduced due to no fault of the tenant and that the hardship prevented the tenant from paying the rent. If the tenant successfully provides this evidence, the Act would require the court to issue a stay of the unlawful detainer action, as specified.
+The Act would not relieve a tenant of their obligation to pay past due rent, and it would require a tenant, within 14 days of the Social Security benefits being restored, to either pay all past due rent or enter into a mutually agreed upon payment plan with the owner of the residential real property. If the tenant pays all past due rent or enters into a payment plan with the owner, the Act would require the court to either dismiss the unlawful detainer action with prejudice or set aside the judgment against all named and unnamed defendants in the action. The Act would further require the Judicial Council, by January 1, 2027, to adopt or modify forms as needed to implement the Act.
+Digest Key
+Vote: MAJORITY   Appropriation: NO   Fiscal Committee: YES   Local Program: NO  
+Bill Text
+The people of the State of California do enact as follows:
+
+SECTION 1. Section 1946.3 is added to the Civil Code, to read:
+1946.3. (a) This section is known, and may be cited, as the Social Security Tenant Protection Act of 2025.
+(b) For purposes of this section:
+(1) “Residential real property” means any dwelling or unit that is intended for human habitation, including any dwelling or unit in a mobilehome park.
+(2) “Restored” means a reinstated Social Security benefit that has been received by the Social Security beneficiary.
+(3) “Social Security hardship” means a loss of income due to an interruption in the payment of Social Security benefits due to the action or inaction of the federal government.
+(c) Notwithstanding any other law, a tenant of residential real property may assert Social Security hardship as an affirmative defense in any unlawful detainer proceeding based on the nonpayment of rent. A tenant that asserts Social Security hardship as a defense shall provide evidence of all of the following to the satisfaction of the court:
+(1) That Social Security benefits typically received by the tenant’s household have been terminated, delayed, or reduced due to no fault of the tenant.
+(2) That the Social Security hardship prevented the tenant from paying the unpaid rent alleged in the unlawful detainer action.
+(d) If the tenant successfully provides all evidence required by subdivision (c) the court shall stay the unlawful detainer action until the earlier of either of the following:
+(1) Fourteen days after the tenant’s Social Security benefits are restored.
+(2) Six months after the stay is issued.
+(e) (1) This section does not relieve the tenant of their obligation to pay past due rent.
+(2) Within 14 days of their Social Security benefits being restored by the Social Security Administration, a tenant shall do one of the following:
+(A) Pay all past due rent.
+(B) Enter into a mutually agreed upon payment plan with the owner of the residential real property.
+(f) If the tenant has complied with paragraph (2) of subdivision (e), the court shall restore the tenant to their former estate or tenancy and either dismiss the unlawful detainer action with prejudice or set aside the judgment against all named and unnamed defendants in the action.
+(g) By January 1, 2027, the Judicial Council shall adopt or modify forms, as needed, to implement this section.
+(h) The affirmative defense created by this section does not apply to any unlawful detainer action other than an action based on the nonpayment of rent.
+(i) This section does not prohibit or preempt the Governor from using existing emergency powers to declare a moratorium on evictions for individuals experiencing Social Security hardship or from taking any other emergency actions.
+(j) This section shall remain in effect until January 20, 2029, and as of that date is repealed.

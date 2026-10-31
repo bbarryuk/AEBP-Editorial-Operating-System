@@ -15,6 +15,8 @@ source:
   - https://www.emeryville.org/files/assets/city/v/1/finance/documents/business-license-faqs-updated-07.31.25.pdf
   - https://www.emeryville.org/Services/Housing/Tenant-Resources/Tenant-Protection-Resources
   - https://www.emeryville.org/files/assets/city/v/1/development/documents/housing/emeryville-eviction-ordinance-presentation.pdf
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/local/emeryville/emc-5-40-landlord-tenant-relations.txt
 ---
 
 # Emeryville Residential Landlord and Tenant Relations Ordinance

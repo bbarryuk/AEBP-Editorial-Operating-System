@@ -19,6 +19,14 @@ source:
   - https://rentboard.berkeleyca.gov/elected-rent-board/news/2026-adjustments-relocation-assistance-payments
   - https://bornstein.law/oakland-relocation-payments-2026/
   - https://www.oaklandca.gov/files/assets/city/v/1/housing-comm-dev/documents/landlords/info-sheet_uniform-residential-tenant-relocation_en_6.2.25_draft-1.pdf
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/state/statutes/civ-1946.2.txt
+  - knowledge/sources/local/oakland/omc-8.22-art7-uniform-relocation.txt
+  - knowledge/sources/local/oakland/omc-8.22-art8-omi-relocation.txt
+  - knowledge/sources/local/berkeley/bmc-13.76-rent-stabilization-just-cause.txt
+  - knowledge/sources/local/berkeley/bmc-13.77-ellis-act-withdrawal.txt
+  - knowledge/sources/local/berkeley/guidance/2026-relocation-adjustment-staff-report.txt
+  - knowledge/sources/local/emeryville/emc-5-40-landlord-tenant-relations.txt
 ---
 
 # Relocation Assistance for No-Fault Just-Cause Terminations

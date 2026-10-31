@@ -1,0 +1,1305 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: OMC 8.22 Art. I — Residential Rent Adjustment Program
+Jurisdiction: Oakland
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://library.municode.com/ca/oakland/codes/code_of_ordinances  [to confirm (add chapter/article deep link)]
+Version: Municode version dated 2026-07-13 (per original filename)
+Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Oakland-MunCode-Ch8-Art1-07_13_2026.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Article I. - Residential Rent Adjustment Program
+
+8.22.010 - Findings and purpose.
+
+A.
+
+The City Council finds that a shortage of decent, safe, affordable and sanitary residential rental housing continues to exist in Oakland. This shortage is evidenced by a low vacancy rate among such units throughout the city and a continually increasing demand for such housing. Many residents of Oakland pay a substantial amount of their monthly income for rent. The present shortage of rental housing units and the prevailing rent levels have a detrimental effect on the health, safety, and welfare of a substantial number of Oakland residents, particularly senior citizens, persons in low and moderate income households, and persons on fixed incomes. Stability in their housing situation is important for individuals and families in rental housing. In particular, tenants desire to be free from the fear of eviction motivated by a rental property owner's desire to increase rents. Rental property owners desire the ability to expeditiously terminate the tenancies of problem tenants.
+
+B.
+
+Further, the welfare of all persons who live, work, or own residential rental property in the City depends in part on attracting persons who are willing to invest in residential rental property in the city. It is, therefore, necessary that the City Council take actions that encourage investment in residential housing while also protecting the welfare of residential tenants.
+
+C.
+
+Among the purposes of this Chapter are providing relief to residential tenants in Oakland by limiting rent increases for existing tenants; encouraging rehabilitation of rental units, encouraging investment in new residential rental property in the city; reducing the financial incentives to rental property owners who terminate tenancies under California Civil Code Section 1946 ("Section 1946") or where rental units are vacated on other grounds under state law Civil Code Sec. 1954.50, et seq. ("Costa-Hawkins") that permit the city to regulate initial rents to new tenants, and allowing efficient rental property owners the opportunity for both a fair return on their property and rental income sufficient to cover the increasing cost of repairs, maintenance, insurance, employee services, additional amenities, and other costs of operation.
+
+D.
+
+The City Council also wishes to foster better relations between rental property owners and tenants and to reduce the cost and adversarial nature of rent adjustment proceedings under This chapter. For these reasons, This chapter includes options for rental property owners and tenants to mediate rent disputes that would otherwise be subject to a hearing process, and to mediate some evictions.
+
+E.
+
+Terminations of Tenancies. On November 5, 2002, Oakland voters passed the Just Cause for Eviction Ordinance (Measure EE). The enactment of the Just Cause for Eviction Ordinance by the electorate makes unnecessary the need for the eviction restrictions in This chapter, Article I (Rent Adjustment Ordinance) for a tenant whose tenancy is terminated by California Civil Code Section 1946 and also overrides portions of the Rent Adjustment Ordinance.
+
+F.
+
+The City Council desires to provide efficient and effective program services to rental property owners and tenants. The City Council recognizes there must be an adequate funding source in order to accomplish this objective. To provide adequate funding for the program and services provided to rental property owners and tenants under This chapter, an annual fee has been established, as set out in the Master Fee Schedule. The funds provided from this fee shall be dedicated to the administrative, public outreach, enforcement, and legal needs of the programs and services set out in This chapter and not for any other purposes. This fee is to be paid by the rental property owner not as the owner of real property, but instead as the operator of the business of renting residential units, with a reimbursement of fifty percent (50%) of the fee from the tenant as provided in This chapter. The fee will sunset after two years unless the City Council acts to extend it. With the enactment of the Just Cause for Eviction Ordinance, the City Council desires to extend the Rent Program Service Fee to all residential rental units covered by either Residential Rent Adjustment Program or the Just Cause for Eviction Ordinance and, therefore, moves the section of Article I pertaining to the fee to a new Chapter 8.22, Article IV.
+
+(Ord. No. 13542, § 1, 6-4-2019; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.020 - Definitions.
+
+As used in this Chapter, Article I:
+
+"1946 Notice" means any notice of termination of tenancy served pursuant to California Civil Code Section 1946. This notice is commonly referred to as a thirty (30) or sixty (60) day notice of termination of tenancy, but the notice period may actually be for a longer or shorter period, depending on the circumstances.
+
+"1946 Termination of Tenancy" means any termination of tenancy pursuant to California Civil Code § 1946.
+
+"Additional occupant" means an occupant whose addition to the unit has increased the total number of occupants above the base occupancy level. The owner may petition to increase the rent by an amount up to five percent (5%) for each additional occupant above the base occupancy level. A rent increase shall not be based on an additional occupant who is the spouse, registered domestic partner, parent, grandparent, child, adopted child, foster child, or grandchild of an existing tenant, or the legal guardian of an existing tenant's child or grandchild who resides in the unit, or a caretaker/attendant as required for a reasonable accommodation for an occupant with a disability. A rent increase granted under this Section shall be reversed if the number of occupants decreases.
+
+"Anniversary Date" is the date falling one (1) year after the day the tenant was provided with possession of the covered unit or one (1) year after the day the most recent rent adjustment took effect, whichever is later. Following certain vacancies, a subsequent tenant will assume the anniversary date of the previous tenant (Section 8.22.080).
+
+"Appeal Panel" means a three-member panel of Board members authorized to hear appeals of Hearing Officer decisions. Appeal panels must be comprised of one (1) residential rental property owner, one (1) tenant, and one (1) person who is neither a tenant nor a residential rental property owner. Appeal panels may be made up of all regular Board members, all alternates, or a combination of regular Board members and alternates.
+
+"Banking" means any CPI Rent Adjustment (or any rent adjustment formerly known as the Annual Permissible Rent Increase) the owner chooses to delay imposing in part or in full, and which may be imposed at a later date, subject to the restrictions in the ordinance.
+
+"Base occupancy level" means the number of tenants occupying the covered unit as principal residence as of June 16, 2020, with the owner's knowledge, or allowed by the lease or rental agreement effective as of June 16, 2020, whichever is greater, except that, for units that had an initial rent established on or after June 17, 2020, "base occupancy level" means the number of tenants allowed by the lease or rental agreement entered into at the beginning of the current tenancy.
+
+"Board" and "Residential Rent Adjustment Board" means the Housing, Residential Rent and Relocation Board.
+
+"Capital Improvements" means those improvements to a covered unit or common areas that materially add to the value of the property and appreciably prolong its useful life or adapt it to new building codes. Those improvements must primarily benefit the tenant rather than the owner. Capital improvement costs that may be passed through to tenants include seventy percent (70%) of actual costs, plus imputed financing. Capital improvement costs shall be amortized over the useful life of the improvement as set forth in an amortization schedule developed by the Rent Board. Capital improvements do not include the following as set forth in current and future regulations: correction of serious code violations not created by the tenant; improvements or repairs required because of deferred maintenance; improvements that are greater in character or quality than existing improvements ("gold-plating," "over-improving"), excluding: improvements approved in writing by the tenant, improvements that bring the unit up to current building or housing codes, or the cost of a substantially equivalent replacement; or costs for which a landlord is reimbursed (e.g., insurance, court awarded damages, subsidies, tax credits, and grants).
+
+"Costa-Hawkins" means the California state law known as the Costa-Hawkins Rental Hawkins Act codified at California Civil Code § 1954.50, et seq. (Appendix A to this Chapter contains the text of Costa-Hawkins).
+
+"Covered Unit" means any dwelling unit, including joint living and work quarters, and all housing services located in Oakland and used or occupied in consideration of payment of rent with the exception of those units designated in Section 8.22.030 A. as exempt. "Covered Unit" includes a vehicular residential facility, as defined in Oakland Planning Code Section 17.10.700, rented or offered for rent for living or dwelling purposes, whether rent is paid for the recreational vehicle and the lot upon which it is located, or rent is paid for the lot alone.
+
+"CPI—All items" means the Consumer Price Index—All items for all urban consumers for the San Francisco—Oakland Hayward area as published by the U.S. Bureau of Labor Statistics.
+
+"CPI—Less Shelter" means the Consumer Price Index—All items less shelter for all urban consumers for the San Francisco—Oakland Hayward area as published by the U.S. Bureau of Labor Statistics.
+
+"CPI Rent Adjustment" means the maximum rent adjustment (calculated annually according to a formula pursuant to Section 8.22.070 B.3) that an owner may impose within a twelve-month period without the tenant being allowed to contest the rent increase, except as provided in Section 8.22.070 B.2. (failure of the owner to give proper notices, decreased housing services, and uncured code violations).
+
+"Current Business Tax Certificate" means a business tax certificate ("Certificate" under O.M.C. Section 5.04.110) that covers the property in which the unit is located:
+
+i.
+
+For the current calendar year if the notice or petition is served on or after April 30 of a calendar year;
+
+ii.
+
+For either the current calendar year or the prior calendar year if the notice or petition is served before April 30 of a calendar year.
+
+"Ellis Act Ordinance" means the ordinance codified at O.M.C. 8.22.400 (Chapter 8.22, Article III) setting out requirements for withdrawal of residential rental units from the market pursuant to California Government Code § 7060 et seq. (the Ellis Act).
+
+"Fee" means the rent program service fee as set out in O.M.C. 8.22.500 (Chapter 8.22, Article IV).
+
+"Housing services" means all services provided by the owner related to the use or occupancy of a covered unit, including, but not limited to, insurance, repairs, maintenance, painting, utilities, heat, water, elevator service, laundry facilities, janitorial service, refuse removal, furnishings, parking, security service, employee services, and any other benefits or privileges permitted the tenant by agreement, whether express or implied, including the right to have a specific number of occupants and the right to one-for-one replacement of roommates, regardless of any prohibition against subletting and/or assignment.
+
+"Just Cause for Eviction Ordinance" means the ordinance adopted by the voters on November 5, 2002 (also known as Measure EE) and codified at O.M.C. 8.22.300 (O.M.C. Chapter 8.22, Article II).
+
+"Mandatory Seismic Capital Improvement" means capital improvements that consist of mandatory seismic retrofitting as required in O.M.C. Chapter 15.27. Allowable adjustments of rents for work required by O.M.C. Chapter 15.27 shall be governed by Article 1, Chapter 8.22.
+
+"Owner" means any owner, lessor or landlord, as defined by state law, of a covered unit that is leased or rented to another, and the representative, agent, or successor of such owner, lessor or landlord.
+
+"Owner of Record" means a natural person, who is an owner of record holding an interest equal to or greater than thirty-three percent (33%) in the property, but not including any lessor, sublessor, or agent of the owner of record.
+
+"Regulations" means the Regulations adopted by the Board and approved by the City Council for implementation of this Chapter, Article I (formerly known as "Rules and Procedures") (after regulations are approved, they will be attached to this Chapter as Appendix B).
+
+"Rent" means the total consideration charged or received by an owner in exchange for the use or occupancy of a covered unit including all housing services provided to the tenant.
+
+"Rent Adjustment Program" means the department in the City that administers this Chapter and also includes the Board.
+
+"Security Deposit" means any payment, fee, deposit, or charge, including, but not limited to, an advance payment of rent, used or to be used for any purpose, including, but not limited to, the compensation of an owner for a tenant's default in payment of rent, the repair of damages to the premises caused by the tenant, or the cleaning of the premises upon termination of the tenancy exclusive of normal wear and tear.
+
+"Tenant" means a person entitled, by written or oral agreement to the use or occupancy of any covered unit.
+
+"Uninsured Repairs" means that work done by an owner or tenant to a covered unit or to the common area of the property or structure containing a covered unit which is performed to secure compliance with any state or local law as to repair damage resulting from fire, earthquake, or other casualty or natural disaster, to the extent such repair is not reimbursed by insurance proceeds.
+
+"Voluntary Seismic Capital Improvement" means capital improvements that consist of "seismic strengthening" as defined in O.M.C. Section 15.30.100, but is not required for compliance under Chapter 15.27.
+
+(Ord. No. 13828, § 1, 12-17-2024; Ord. No. 13693, § 3, 6-7-2022; Ord. No. 13668, § 1, 11-16-2021; Ord. No. 13608, § 3(Exh. B), 7-21-2020; Ord. No. 13516, § 6, 1-22-2019; Ord. No. 13391, § 1, 9-20-2016; Ord. No. 13373, § 1, 6-7-2016; Ord. No. 13221, § 1(Exh. A), 4-1-2014; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.030 - Exemptions.
+
+A.
+
+Types of Dwelling Units Exempt. The following dwelling units are not covered units for purposes of this Chapter, Article I only (the Just Cause for Eviction Ordinance (Chapter 8.22, Article II) and the Ellis Act Ordinance (Chapter 8.22, Article II)) have different exemptions):
+
+1.
+
+Dwelling units whose rents are controlled, regulated (other than by this Chapter), or subsidized by any governmental unit, agency or authority.
+
+2.
+
+Accommodations in motels, hotels, inns, tourist houses, rooming houses, and boarding houses, provided that such accommodations are not occupied by the same tenant for thirty (30) or more continuous days.
+
+3.
+
+Housing accommodations in any hospital, convent, monastery, extended care facility, convalescent home, nonprofit home for the aged, or dormitory owned and operated by an educational institution.
+
+4.
+
+Dwelling units in a nonprofit cooperative, owned, occupied, and controlled by a majority of the residents.
+
+5.
+
+Dwelling units which were newly constructed and received a certificate of occupancy on or after January 1, 1983. This exemption does not apply to a vehicular residential facility, or any newly constructed dwelling units that replace covered units withdrawn from the rental market in accordance with O.M.C. 8.22.400, et seq. (Ellis Act Ordinance). To qualify as a newly constructed dwelling unit, the dwelling unit must be entirely newly constructed or created from space that was formerly entirely nonresidential.
+
+6.
+
+Substantially Rehabilitated Buildings. This exemption shall apply only to buildings where the rental property owner submitted an application for a certification of exemption to the Rent Adjustment Program prior to October 20, 2017, and which have been issued a certificate of exemption from the Rent Adjustment Program.
+
+7.
+
+Dwelling units exempt pursuant to Costa-Hawkins (California Civil Code § 1954.52).
+
+B.
+
+Exemption Procedures.
+
+1.
+
+Certificate of Exemption:
+
+a.
+
+A certificate of exemption is a determination by the Rent Adjustment Program that a dwelling unit or units qualify for an exemption and, therefore, are not covered units. For units exempt as new construction, or by State law, an owner may obtain a certificate of exemption by claiming and proving an exemption in response to a tenant petition or by petitioning the Rent Adjustment Program for such exemption. A certificate of exemption may be granted only for dwelling units that are permanently exempt from the Rent Adjustment Ordinance as new construction, or by State law (Costa Hawkins).
+
+b.
+
+For purposes of obtaining a certificate of exemption or responding to a tenant petition by claiming an exemption from Chapter 8.22, Article I, the burden of proving and producing evidence for the exemption is on the owner. A certificate of exemption is a final determination of exemption absent fraud, mistake, or a change in law or circumstances.
+
+c.
+
+Timely submission of a certificate of exemption previously granted in response to a petition shall result in dismissal of the petition absent proof of fraud or mistake regarding the granting of the certificate. The burden of proving such fraud, mistake, or change in law or circumstances is on the tenant.
+
+2.
+
+Reserved.
+
+C.
+
+Controlled, Regulated, or Subsidized Units. The owner of a dwelling unit that is exempt because it is controlled, regulated (other than by this Chapter), or subsidized by a governmental agency (Section 8.22.030A.1) must file a notice with the Rent Adjustment Program within thirty (30) days after such dwelling unit is no longer otherwise controlled, regulated, or subsidized by the governmental agency. Once the dwelling unit is no longer controlled, regulated, or subsidized, the dwelling unit ceases to be exempt and becomes a covered unit subject to this Chapter, Article I. Such notice must be on a form prescribed by the Rent Adjustment Program.
+
+(Ord. No. 13777, § 1, 12-19-2023; Ord. No. 13668, § 2, 11-16-2021; Ord. No. 13542, § 2, 6-4-2019; Ord. No. 13523, § 1, 3-21-2019; Ord. No. 13418, § 1(Exh. A), 2-7-2017; Ord. No. 13391, § 1, 9-20-2016; Ord. 12781 § 1 (part), 2007; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.040 - Composition and functions of the Board.
+
+A.
+
+Composition.
+
+1.
+
+Members. The Board shall consist of seven (7) regular members appointed pursuant to Section 601 of the City Charter. The Board shall be comprised of two (2) residential rental property owners, two (2) tenants, and three (3) persons who are neither tenants nor residential rental property owners. The Board shall also have six (6) alternate members, two (2) residential rental property owners, two (2) tenants and two (2) persons who are neither a tenants nor residential rental property owners appointed pursuant to Section 601 of the Charter. An alternate member may act at Board meetings in the absence of a regular Board member of the same category, and at appeal panels meetings without such an absence.
+
+2.
+
+Appointment. A Board member is deemed appointed after confirmation by the City Council and upon taking the oath of office.
+
+3.
+
+Board members serve without compensation.
+
+B.
+
+Vacancies and Removal.
+
+1.
+
+A vacancy on the Board exists whenever a Board member dies, resigns, or is removed, or whenever an appointee fails to be confirmed by the City Council within two (2) City Council meetings of nomination by the Mayor.
+
+2.
+
+Removal for Cause. A Board member may be removed pursuant to Section 601 of the City Charter. Among other things, conviction of a felony, misconduct, incompetency, inattention to or inability to perform duties, or excessive absences except on account of illness or when absent from the city by permission of the Board, constitute cause for removal. Excessive absences for a regular member shall mean missing three (3) regular meetings in a six-month period; and for alternative members shall mean not being available to attend more than half of Appeal Panel meetings in a six-month period.
+
+3.
+
+Report of Attendance. To assure participation of Board members, attendance by the members of the Board at all regularly scheduled and special meetings of the Board shall be recorded, and such record shall be provided annually to the Office of the Mayor and to the City Council.
+
+C.
+
+Terms and Holdover.
+
+1.
+
+Terms. Board members' terms shall be for a period of three (3) years beginning on February 12 of each year and ending on February 11 three (3) years later. Board members shall be appointed to staggered terms so that only one-third (⅓) of the Board will have terms expiring each year, with no more than one (1) Board member who is neither a residential rental property owner nor a tenant, and no more than one (1) rental property owner and no more than one (1) tenant expiring each year. Terms will commence upon the date of appointment, except that an appointment to fill a vacancy shall be for the unexpired portion of the term only. No person may serve more than two (2) consecutive terms as a board member, nor more than two (2) consecutive terms as an alternate. Time served as a board member shall be considered separately from time served as an alternate.
+
+2.
+
+Holdover. A Board member whose term has expired may remain as a Board member for up to one (1) year following the expiration of his or her term or until a replacement is appointed whichever is earlier. The City Clerk shall notify the Mayor, the Rent Program, the Board, and affected Board member when a Board member's holdover status expires. Prior to notification by the City Clerk of the end of holdover status, a Board member may fully participate in all decisions in which such Board member participates while on holdover status and such decisions are not invalid because of the Board member's holdover status.
+
+D.
+
+Duties and Functions.
+
+1.
+
+Appeals. The Board, an Appeal Panel, or an Appeal Officer hears appeals from decisions of hearing officers under the procedures set out in O.M.C. Section 8.22.120.
+
+2.
+
+Regulations. The Board may develop or amend the regulations, subject to City Council approval.
+
+3.
+
+Reports. The Board shall make such reports to the City Council or committees of the City Council as may be required by this Chapter, by the City Council or City Council Committee.
+
+4.
+
+Recommendations. The Board may make recommendations to the City Council or appropriate City Council committee pertaining to this Chapter or City housing policy when requested to do so by the City Council or when the Board otherwise acts to do so.
+
+5.
+
+Regular Meetings. The Board or an Appeal Panel shall meet regularly on Thursdays unless cancelled. Rent Program staff is authorized to schedule these regular meetings either for the full Board or for an Appeal Panel.
+
+6.
+
+Special Meetings. The Board or an Appeal Panel may meet at additional times as scheduled by the Board Chair or Rent Program staff.
+
+E.
+
+Appeal Panels.
+
+1.
+
+Appeal Panels shall hear appeals of Hearing Officer decisions.
+
+2.
+
+Rent Program staff shall determine whether an appeal should be heard by an Appeal Panel, the full Board, or an Appeal Officer in accordance with O.M.C. 8.22.120.
+
+3.
+
+All Appeal Panel members must be present for a quorum. A majority of the Appeal Panel is required to decide an appeal.
+
+4.
+
+Membership on an Appeal Panel is determined by Rent Program staff. Membership need not be permanent, but may be selected for each panel meeting. Appeal Panels may be comprised solely of Alternate Board Members.
+
+F.
+
+Appeal Officer.
+
+1.
+
+Staff may designate a single Appeal Officer to hear appeals designated in O.M.C. 8.22.120.B.2.
+
+2.
+
+The Appeal Officer may be a staff person not involved in the decision appealed, a contract person hired for this purpose, or a Board member who is neither a tenant nor a residential rental property owner.
+
+(Ord. No. 13618, § 1, 10-20-2020; Ord. No. 13418, § 1(Exh. A), 2-7-2017; Ord. No. 13373, § 1, 6-7-2016; Ord. 12706 § 1, 2005; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.050 - Summary of notices required by this Chapter, Article I.
+
+The following is a summary of notices required by this Chapter, Article I (the Just Cause for Eviction Ordinance (Chapter 8.22, Article II) and the Ellis Act Ordinance (Chapter 8.22, Article III) may require other or different notices). Details of the requirements for each notice are found in the applicable section.
+
+A.
+
+Notice at the Commencement of a Tenancy. Existence and scope of this Chapter (Section 8.22.060).
+
+B.
+
+Change in Terms of Tenancy or Rent Increase. Notice of tenant's right to petition. (Section 8.22.070 H.).
+
+(Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.060 - Notice of the existence of this Chapter required at commencement of tenancy.
+
+A.
+
+Notice at Commencement of Tenancy. The owner of any covered unit is required to comply with the following notice requirements at the commencement of any tenancy:
+
+1.
+
+On or before the date of commencement of a tenancy, the owner must give the tenant a written notice in a form prescribed by the Rent Adjustment Program which must include the following information:
+
+a.
+
+The existence and scope of this Chapter;
+
+b.
+
+The tenant's rights to petition against certain rent increases;
+
+c.
+
+Whether the Owner is permitted to set the initial Rent to the new Tenant without limitation (such as pursuant to the Costa-Hawkins Act (California Civil Code Sec. 1954.52));
+
+d.
+
+If the Owner is not permitted to set the initial Rent to the new Tenant (such as after an eviction noticed pursuant to California Civil Code Section 1946), the Owner must state the Rent in effect when the prior Tenant vacated, and if the initial Rent is in excess of the Rent to the prior Tenant the basis for any Rent in excess of the Rent to the prior tenant (which can only be based on the CPI Rent Adjustment, Banking, and/or a final a final decision in an Owner's petition).
+
+2.
+
+The Owner must give the initial notice in three languages: English, Spanish, and Chinese.
+
+B.
+
+Evidence of Giving Notice. When filing an owner's response to a tenant petition or an owner's petition for a rent increase, the owner must submit evidence that the owner has given the notice required by this Section to the affected tenants in the building under dispute in advance of the filing. When responding to a tenant petition, the owner may allege that the affected dwelling units are exempt in lieu of providing evidence of complying with the notice requirement. If an owner fails to submit the evidence and the subject dwelling unit is not exempt, then the owner's petition or response to a tenant's petition must be dismissed. This evidence can be a statement of compliance given under oath, however, the tenant may controvert this statement at the hearing. An owner's filing the notice in advance of petition or response prevents the owner's petition or response from being dismissed, but the owner may still be subject to the rent increase forfeiture if the notice was not given at the commencement of the tenancy or within the cure period set out in Section 8.22.060(C).
+
+C.
+
+Failing to Give Notice. An owner who fails to give notice of the existence and scope of the Rent Adjustment Program at the commencement of a tenancy, but otherwise qualifies to petition or respond to a petition filed with the Rent Adjustment Program, will forfeit six (6) months of the rent increase sought unless the owner cured the failure to give the notice. An owner may cure the failure to give the notice at the commencement of a tenancy required by this Section and not be subject to a forfeiture of a rent increase if the owner gives the notice at least six (6) months prior to serving the rent increase notice on the tenant or, in the case of an owner petition, at least six (6) months prior to filing the petition.
+
+(Ord. No. 13418, § 1(Exh. A), 2-7-2017; Ord. No. 13391, § 1, 9-20-2016; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.065 - Rent adjustments in general.
+
+A.
+
+Notwithstanding any other provision of this Chapter, owners may increase rents only for increases based on the CPI Rent Adjustment or Banking, or by filing a petition to increase rent in excess of that amount. Any rent increase not based on the CPI Rent Adjustment or Banking that is not first approved by the Rent Adjustment Program is void and unenforceable.
+
+B.
+
+Rent increases are subject to the requirements of this Chapter and Regulations.
+
+C.
+
+The changes reflected in this section 8.22.065 apply only to rent increases noticed on or after February 1, 2017.
+
+(Ord. No. 13391, § 1, 9-20-2016; Res. No. 86320, § 1, 7-19-2016)
+8.22.070 - Rent adjustments for occupied covered units.
+
+This Section applies to all rent adjustments for continuously occupied covered units. (Rent increases following vacancies of covered units are governed by Section 8.22.080). Any rent increase for a continuously occupied covered unit must comply with this Section.
+
+A.
+
+One Rent Increase Each 12 Months; Exceptions and Limitations.
+
+1.
+
+One (1) Rent Increase Each Twelve (12) Months.
+
+a.
+
+Except as provided in Paragraph b below, an Owner may increase the rent on a covered unit occupied continuously by the same tenant only once in a twelve-month period. If an Owner filed an Owner's Rent Increase petition, the earliest any increase allowed in the Hearing Officer's decision may be effective is the date that a rent increase notice consistent with this Chapter and state law is served on the Tenant after the service date of the decision. Such rent increase cannot take effect earlier than the tenant's anniversary date if the Owner has already increased that tenant's rent within the preceding twelve-month period.
+
+b.
+
+Upon the occurrence of any of the following, an Owner may increase the Rent on a Covered Unit occupied continuously by the same Tenant, even if rent has already been raised during the preceding twelve (12) months:
+
+i.
+
+If the Owner restores housing services, rent may be restored to the original Rent from the level to which rent had been decreased after a rent decrease awarded in a hearing decision by the RAP for housing services; and/or
+
+ii.
+
+If, as a result of an appeal to the Rent Board or a writ to the Superior Court, the final decision permits a Rent increase greater than that allowed in the Hearing Officer's decision, the Owner may notice such increase as of the date of the final decision.
+
+2.
+
+In no event may rent for any covered unit increase in any twelve-month period by more than ten percent (10%), or the amount permitted for Oakland rental units subject to California Civil Code 1947.12 (or successor provisions), whichever is lower, for any and all rent increases based on the CPI Rent Adjustment, as set out in O.M.C. 8.22.070 B. (CPI Rent Adjustment), and any justifications pursuant to O.M.C. 8.22.070 C.2. (Rent Increases In Excess of CPI Rent Adjustment) except if required for the owner to obtain a fair return pursuant to O.M.C. 8.22.070 C.1.d.
+
+3.
+
+No series of rent increases in any five-year period can exceed thirty percent (30%) for any rent increases based on the CPI Rent Adjustment, as set out in, O.M.C. 8.22.070 B. (CPI Rent Adjustment) and any justifications pursuant to O.M.C. 8.22.070 C.2. (Rent Increases In Excess of CPI Rent Adjustment) except for the following:
+
+a.
+
+A series of rent increases composed solely of CPI Adjustments may exceed the thirty percent (30%) limitation;
+
+b.
+
+Exceeding the thirty percent (30%) limitation is required for the owner to obtain a fair return pursuant to O.M.C. 8.22.070C.1.d.
+
+4.
+
+If an owner is entitled to a rent increase or increases that cannot be taken because of the Rent increase limitations pursuant to Subsections 2. or 3. above, the owner may defer the start date of the increase to a future period, provided that in the rent increase notice that limits the owner's ability to take the increases, the owner must identify the justification and the amount or percentage of the deferred increase that may be applied in the future.
+
+B.
+
+CPI and Banking Rent Adjustments.
+
+1.
+
+Effective Date of this Section. An owner may first impose CPI Rent Adjustments pursuant to this section that take effect on or after July 1, 2002.
+
+2.
+
+CPI and Banking Rent Adjustment Not Subject to Petition. A Tenant may not petition to contest a rent increase justified in an amount up to and including the CPI Rent Adjustment and/or any Banking Rent increase unless the tenant alleges one or more of the following:
+
+a.
+
+The owner failed to provide the notice required at the commencement of tenancy and did not cure such failure (Section 8.22.060);
+
+b.
+
+The owner failed to provide the notice required with a rent increase (Section 8.22.070 H);
+
+c.
+
+The owner decreased housing services;
+
+d.
+
+The covered unit has uncured health, safety, fire, or building code violations pursuant to Section 8.22.070 D.6.;
+
+e.
+
+Any or all of a banking rent increase is not correctly calculated or the Owner is not eligible for a banking rent increase;
+
+f.
+
+The Rent increase exceeds the limitations set out in Sections 8.22.070 A.2 or A.3;
+
+g.
+
+The Owner has increased the rent once during the preceding twelve-month period without qualifying for an exception pursuant to Section 8.22.070.A.1.
+
+h.
+
+The Owner did not have a current business tax certificate.
+
+3.
+
+Calculation of the CPI Rent Adjustment. Beginning in 2002 until July 31, 2022, the CPI Rent Adjustment is the average of the percentage increase in the CPI—All items and the CPI—Less shelter for the twelve-month period starting on March 1 of each calendar year and ending on the last day of February of the following calendar year calculated to the nearest one-tenth of one percent (0.1%). Beginning on August 1, 2022, the CPI Rent Adjustment is (1) sixty percent (60%) of the percentage increase in the CPI-All items published for April of that calendar year from April of the immediately preceding calendar year calculated to the nearest one-tenth of one percent (0.1%), or (2) three percent (3%), whichever is lower.
+
+4.
+
+Effective Date of CPI Rent Adjustments. An owner may notice a rent increase for a CPI Rent Adjustment so that the rent increase is effective during the period from August 1 following the Rent Adjustment Program's announcement of the annual CPI Rent Adjustment through July 31 of the next year. The rent increase notice must comply with state law and take effect on or after the tenant's anniversary date.
+
+5.
+
+Banking. In accordance with rules set out below, an owner may bank CPI rent adjustments and notice a Banking Rent increase concurrent with a CPI Rent Adjustment.
+
+a.
+
+If an owner chooses to increase rents less than the annual CPI Adjustment permitted by the ordinance, any remaining CPI Rent Adjustment may be carried over to succeeding twelve-month periods ("banked"). However, the total of CPI Adjustments imposed in any one (1) Rent Increase, including the current CPI Rent Adjustment, may not exceed three (3) times the allowable CPI Rent Adjustment on the effective date of the Rent Increase notice.
+
+b.
+
+Banked CPI Rent Adjustments may be used together with other Rent justifications, except Increased Housing Service Costs and Fair Return, because these justifications replace the current year's CPI increase.
+
+c.
+
+In no event may any banked CPI Rent Adjustment be implemented more than five (5) years after it accrues.
+
+d.
+
+Any banked CPI Rent Adjustment expires upon transfer of ownership of the property in which the Covered Unit is located, unless:
+
+(1)
+
+The transfer of ownership is through an inheritance between spouses or between parents and siblings, children or stepchildren; and
+
+(2)
+
+The person(s) inheriting the property owned the property for at least one (1) year.
+
+6.
+
+Schedule of Prior Annual Permissible Rent Adjustments. Former annual permissible rent adjustments available under the prior versions of this Chapter:
+
+a.
+
+May 6, 1980 through October 31, 1983, the annual rate was ten percent (10%).
+
+b.
+
+November 1, 1983 through September 30, 1986, the annual rate was eight percent (8%).
+
+c.
+
+October 1, 1986 through February 28, 1995, the annual rate was six percent (6%).
+
+d.
+
+March 1, 1995 through June 30, 2002, the annual rate was three percent (3%).
+
+C.
+
+Rent Increases in Excess of the CPI Rent Adjustment or Banking.
+
+1.
+
+For Rent increases based on grounds other than the CPI Rent Adjustment or Banking, an Owner must first petition the Rent Program and receive approval for the Rent increase before the Rent increase can be imposed. A Rent increase in excess of the CPI Rent Adjustment or a Banking increase must be justified on one (1) or more of the following grounds:
+
+a.
+
+Capital improvement costs, including financing of capital improvement costs;
+
+b.
+
+Uninsured repair costs;
+
+c.
+
+Increased housing service costs;
+
+d.
+
+The rent increase is necessary to meet constitutional or fair return requirements;
+
+e.
+
+The rent increase is imposed for an additional occupant, as defined by Section 8.22.020.
+
+f.
+
+The unlimited rent increase is imposed because the tenant is not residing in the unit as their principal residence.
+
+2.
+
+The amount of rent increase allowable for the grounds listed in Section 8.22.070 C.2. are subject to the limitations set forth in the regulations.
+
+D.
+
+Rent Increase Notices and Operative Dates for Rent Increases.
+
+1.
+
+CPI and Banking Increases not subject to a Petition. Rent increase notices for CPI and Banking Rent increases that are not the subject of a Petition shall be operative in accordance with this Chapter and State law.
+
+2.
+
+Owner Petitions.
+
+a.
+
+An Owner may notice a Rent increase based on a petition after the service date of the decision subject to the limitation of one Rent Increase each twelve (12) months (the effective date of the Rent increase).
+
+b.
+
+Except for any portion of the petitioned-for Rent increase that is based on a CPI Rent or Banking Rent Increase, a Tenant is not required to pay the Rent increase until there is a final decision on the petition pursuant to Section 8.22.070 D.5 (the operative date of the Rent increase). However if the Tenant chooses not to pay the Rent increase, the Tenant owes the increased Rent starting from the effective date of the Rent increase if the final decision upholds the Hearing Officer's decision.
+
+c.
+
+In a decision by the board or an appeals panel, the decision may (or may direct staff to) calculate the amount due and determine a repayment schedule consistent with the rent board regulations for the Tenant to pay any back Rent due or for the Tenant to receive any rent credits if the Tenant paid a Rent increase that is not upheld on appeal. However, a Hearing Officer shall calculate the amount due if there is a factual dispute regarding such amount.
+
+d.
+
+If a final decision permits a greater Rent increase than the amount permitted in the Hearing Officer's decision, the Owner may issue another Rent increase notice up to the amount allowed in the final decision, and such additional notice is not subject to the limitation of no more than one (1) Rent increase within [a] twelve-month period.
+
+e.
+
+If the final decision permits a smaller Rent increase than the amount permitted in the Hearing Officer's decision, the Tenant need only pay the Rent increase based on the amount of the final decision.
+
+3.
+
+Tenant Petitions.
+
+a.
+
+While a tenant petition is pending, a tenant must pay when due, pursuant to the rent increase notice, the amount of the rent increase that is equal to the CPI Rent Adjustment unless:
+
+i.
+
+The tenant's petition claims decreased housing services; or
+
+ii.
+
+The owner failed to separately state in the rent increase the amount that equals the CPI Rent Adjustment pursuant to Section 8.22.070 H.
+
+b.
+
+The amount of any noticed rent increase above the CPI Rent Adjustment and Banking that is the subject of a petition is not operative until the decision is final.
+
+4.
+
+When a party appeals the decision of a hearing officer, the tenant must continue to pay the amount of the rent adjustment due during the period prior to the issuance of the decision and the remaining amount of the noticed rent increase is not operative until the board has issued its written decision.
+
+5.
+
+Final decision. The decision on a petition is final when any one (1) of the following events have occurred:
+
+a.
+
+A hearing officer decision has been issued and the time for appeal has passed without an appeal being filed;
+
+b.
+
+An appeal decision is issued and the time to file a writ of administrative mandamus has passed without a writ being filed; or
+
+c.
+
+When a court issues a final decision, including any further court appeals, on any writ of administrative mandamus contesting a Rent Board appeal decision.
+
+6.
+
+No part of any noticed rent increase is operative during the period after the tenant has filed a petition and the applicable covered unit has been cited in an inspection report by the appropriate governmental agency as containing serious health, safety, fire, or building code violations as defined by Section 17920.3 of the California Health and Safety Code, excluding any, violation caused by a disaster or where the owner proves the violation was solely caused by the willful conduct of the tenant. In order for such rent increase to be operative the owner must provide proof that the cited violation has been abated. The owner must then issue a new rent increase notice pursuant to California Civil Code Section 827. The rent increase will be operative in accordance with Section 827. However, if an Owner files a petition for a Rent increase, the Tenant must include the allegation of code violations in the response to the petition for this Subsection to be considered.
+
+E.
+
+An owner cannot increase the rent for a covered unit except by following the procedures set out in this Chapter (including the Just Cause for Eviction Ordinance (O.M.C. Chapter 8.22, Article II) and the Ellis Act Ordinance (O.M.C. Chapter 8.22, Article III)) or where Costa-Hawkins allows an owner to set the initial rent for a new tenant without restriction.
+
+F.
+
+Decreased Housing Services. A decrease in housing services is considered an increase in rent. A tenant may petition for an adjustment in rent based on a decrease in housing services under standards in the regulations. The tenant's petition must specify the housing services decreased. Where a rent or a rent increase has been reduced for decreased housing services, the rent or rent increase may be restored in accordance with procedures set out in the regulations when the housing services are reinstated.
+
+G.
+
+Pass-through of Fee. An owner may pass-through one half of the fee to a tenant in accordance with Section 8.22.500G. The allowed fee pass-through shall not be added to the rent to calculate the CPI Rent Adjustment or any other rent adjustment and shall not be considered a rent increase.
+
+H.
+
+Notice Required to Increase Rent or Change Other Terms of Tenancy.
+
+1.
+
+All Rent Increase Notices. As part of any notice to increase rent or change any terms of tenancy, an owner must include:
+
+a.
+
+Notice of the existence of this Chapter; and
+
+b.
+
+The tenant's right to petition against any rent increase in excess of the CPI Rent Adjustment unless such rent increase is pursuant to an approved Petition.
+
+2.
+
+Notices for Rent Increases Based on the CPI Rent Adjustment or Banking. As part of a notice to increase Rent based on the CPI Rent Adjustment or Banking, an Owner must include:
+
+a.
+
+The amount of the CPI Rent Adjustment; and
+
+b.
+
+The amount of any banking increases and:
+
+c.
+
+i.
+
+If the rent increase includes banking, a copy of a current business tax certificate;
+
+ii.
+
+If the rent increase is based solely on the CPI Rent Adjustment, a copy of a current business tax certificate or a copy of a current signed payment plan with the City for delinquent business taxes.
+
+3.
+
+Notices for Rent Increases Based on Owner Petition. As part of a notice to increase rent based on an owner petition, an owner must include a summary of the decision in the form provided by the Rent Adjustment Program pursuant to the following:
+
+a.
+
+The Rent Adjustment Program will provide a summary of any decision, including an appeal decision or final decision with the decision or final decision, which the Owner shall include in a notice of rent increase.
+
+b.
+
+The Rent Adjustment Program may provide optional, "safe harbor" forms for required notices, unless the ordinance or regulations require use of a specified form.
+
+4.
+
+A notice to increase rent must include the information required by Subsection 8.22.070H.1. using the language and in a form prescribed by the Rent Adjustment Program.
+
+5.
+
+A rent increase is not permitted unless the notice meets the requirements of California Civil Code Section 827.
+
+6.
+
+A rent increase is not permitted unless the notice required by this section is provided to the tenant. An owner's failure to provide the notice required by this section invalidates the rent increase or change of terms of tenancy. This remedy is not the exclusive remedy for a violation of this provision.
+
+I.
+
+An owner may terminate the tenancy for nonpayment of rent (California Code of Civil Procedure § 1161(2) (unlawful detainer)) of a tenant who fails to pay the portion of a rent increase that is equal to the CPI Rent Adjustment when the tenant is required to do so by this subsection. In addition to any other defenses to the termination of tenancy the tenant may have, a tenant may defend such termination of tenancy on the basis that:
+
+1.
+
+The owner did not comply with the notice requirements for a rent increase; or
+
+2.
+
+The tenant's petition was based on decreased housing services.
+
+(Ord. No. 13828, § 2, 12-17-2024; Ord. No. 13693, § 2, 6-7-2022; Ord. No. 13649, § 2, 5-18-2021; Ord. No. 13608, § 3(Att. B), 7-21-2020; Ord. No. 13418, § 1(Exh. A), 2-7-2017; Ord. No. 13226, § 1(Exh. A), 5-6-2014; Ord. No. 13221, § 1(Exh. A), 4-1-2014; Ord. 12781 § 1 (part), 2007; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.080 - Rent increases following vacancies.
+
+A.
+
+Purpose of Section. This section sets forth how an owner may set the rents to a new tenant following vacancies. Rent increases following an owner's setting the initial rent are regulated by this Chapter.
+
+B.
+
+Setting Initial Rents to Tenants Without Restriction. Costa-Hawkins provides that owners may set an initial rent to a new tenant without restriction except in certain circumstances.
+
+C.
+
+Costa-Hawkins Exceptions. Costa-Hawkins permits an owner to set initial rents to a new tenant without restriction except where the previous tenant vacated under the following circumstances:
+
+1.
+
+1946 Termination of Tenancy. ("The previous tenancy has been terminated by the owner by notice pursuant to [California Civil Code § ] 1946 …") (California Civil Code § 1954.53(a)(1)).
+
+2.
+
+Change of Terms of Tenancy or Rent Increase Not Permitted by This chapter. The previous tenancy was terminated following a notice of a rent increase not permitted by this Chapter. ("The previous tenancy … has been terminated upon a change in the terms of the tenancy pursuant to [California Civil Code § ] 827, except a change permitted by law in the amount of rent or fees.") (California Civil Code § 1954.53(a)(1)).
+
+3.
+
+Failure to Renew Contract with Government That Limits Rent Increases. In certain circumstances, "… an owner … [who] terminates or fails to renew a contract or recorded agreement with a government agency that provides for a rent limitation to a qualified tenant" … "shall not be eligible to set an initial rent for three years following the date of the termination or nonrenewal of the contract or agreement". (California Civil Code § 1954.53(a)(1)(A)).
+
+4.
+
+Owner Agrees to Rent Restriction in Exchange for Subsidy. The owner has agreed to a rent restriction in return for public financial support. (California Civil Code § 1954(a)(1)(B)(2)).
+
+5.
+
+Unabated Serious Code Violations. The dwelling unit was cited for serious health, safety, fire, or building code violations at least sixty (60) days prior to the vacancy and the violations were not abated by the time the unit was vacated. (California Civil Code § 1954.53(f)).
+
+D.
+
+Sublets and Assignments. Under specified conditions, Costa-Hawkins permits an owner to set initial rents without restriction when a covered unit is sublet or assigned and none of the original occupants permanently reside in the covered unit. (California Civil Code § 1954.53(d)).
+
+E.
+
+Rent Increases After Setting an Initial Rent Without Restriction. After the owner sets an initial rent without restriction pursuant to Costa-Hawkins, the owner may only increase rent in conformance with the requirements of Section 8.22.070, based on circumstances or cost increases that arise after the beginning of the new tenancy. The owner may not increase rents based on banking, cost increases, capital improvements, or other circumstances that arose before the new tenancy began.
+
+F.
+
+Restrictions Where the Owner May Not Set the Initial Rent.
+
+1.
+
+The Just Cause for Eviction Ordinance (O.M.C. 8.22.300 (Chapter 8.22, Article II)) provides for certain restrictions on setting initial rents to new tenants and upon re-rental to former tenants.
+
+2.
+
+The Ellis Act Ordinance (O.M.C. 8.22.400 (Chapter 8.22, Article III)) provides for certain restrictions on setting initial rents to new tenants and upon re-rental to former tenants.
+
+G.
+
+Initial Rent to New Tenant Where Owner Not Entitled to Set Initial Rent. An Owner may not set an initial Rent to a new Tenant that is more than the lawful Rent that had been charged to the previous Tenant on the date that Tenant vacated, plus any allowable CPI Rent Adjustments and Banking rent increases, unless the Owner is authorized to charge a higher initial rent by a final decision in response to an Owner petition of which the new Tenant had been given proper notice.
+
+H.
+
+Rent After a Tenant Returns to a Unit Following Vacation for Repairs. Where a Tenant returns to a Unit after vacating for repairs pursuant to a notice from the Owner, or an order from the City or other government agency, the Owner must petition the Rent Adjustment Program to impose any Rent increases above the lawful Rent on the date the Tenant vacated the unit for the repairs, other than for any allowable CPI Rent Adjustments and Banking rent increases.
+
+(Ord. No. 13418, § 1(Exh. A), 2-7-2017; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.090 - Petition and response to filing procedures.
+
+A.
+
+Tenant Petitions and Responses.
+
+1.
+
+Tenant may file a petition regarding any of the following:
+
+a.
+
+A rent increase was given that is not based on the CPI rent adjustment, banking; and/or a final decision in an owner petition;
+
+b.
+
+The owner set an initial rent in excess of the amount permitted pursuant to Section 8.22.080 (Rent increases following vacancies);
+
+c.
+
+A rent increase notice failed to comply with the requirements of Subsection 8.22.070H;
+
+d.
+
+The owner failed to give the tenant a notice in compliance with Section 8.22.060 and State law;
+
+e.
+
+The owner decreased housing services to the tenant;
+
+f.
+
+The tenant alleges the covered unit has been cited in an inspection report by the appropriate governmental agency as containing serious health, safety, fire, or building code violations pursuant to Subsection 8.22.070 D.6;
+
+g.
+
+The owner fails to reduce rent on the month following the expiration of the amortization period for capital improvements, or to pay any interest due on any rent overcharges from the failure to reduce rent for a capital improvement.
+
+h.
+
+The owner noticed a rent increase that exceeds the annual limit as provided in Section 8.22.070 A.2. or that exceeds the rent increase limit of thirty percent (30%) in five (5) years.
+
+i.
+
+The petition is permitted by the Just Cause for Eviction Ordinance (Measure EE) O.M.C. 8.22.300 or its regulations.
+
+j.
+
+The petition is permitted by the Ellis Act Ordinance, O.M.C. 8.22.400, or its regulations.
+
+k.
+
+The tenant contests an exemption from this O.M.C. 8.22, Article I or Article II.
+
+l.
+
+The tenant claims the owner has received reimbursements for any portion of cost or financing of capital improvements after a capital improvement rent increase has been approved, and has not prorated and refunded such reimbursement, or has other undeclared capital improvement benefits.
+
+m.
+
+After a rent increase imposed for an additional occupant as defined by Section 8.22.020, the owner fails to reduce the rent following a decrease in occupancy.
+
+n.
+
+A primary tenant overcharges a subtenant in violation of the regulations. Only a subtenant may file a petition for this reason.
+
+o.
+
+The owner did not have a current business tax certificate.
+
+2.
+
+For a petition contesting a rent increase, the petition must be filed as follows:
+
+a.
+
+If the owner provided written notice of the existence and scope of this Chapter as required by Section 8.22.060 at the inception of tenancy, the petition must be filed within one hundred eighty (180) days of the date the owner serves the rent increase notice.
+
+b.
+
+If the owner did not provide written notice of the existence and scope of this Chapter as required by Section 8.22.060 at the inception of tenancy, within one hundred eighty (180) days of the date the tenant first receives written notice of the existence and scope of this Chapter as required by Section 8.22.060.
+
+3.
+
+For a petition claiming decreased housing services:
+
+a.
+
+If the decreased housing is the result of a noticed or discrete change in services provided to the tenant (e.g., removal of parking place, requirement that tenant pay utilities previously paid by owner) the petition must be filed within ninety (90) days of whichever of the following is later:
+
+i.
+
+The date the tenant is noticed or first becomes aware of the decreased housing service; or
+
+ii.
+
+The date the tenant first receives written notice of the existence and scope of this Chapter as required by Section 8.22.060.
+
+b.
+
+If the decreased housing is ongoing (e.g., a leaking roof), the tenant may file a petition at any point but is limited in restitution for three (3) years before the petition is filed and to the period of time when the owner knew or should have known about the decreased housing service.
+
+4.
+
+In order to file a petition or respond to petition, a tenant, including a subtenant contesting overcharges by a primary tenant, must provide the following at the time of filing the petition or response:
+
+a.
+
+A completed tenant petition or response on a form prescribed by the Rent Adjustment Program;
+
+b.
+
+Reserved;
+
+c.
+
+A statement of the services that have been reduced or eliminated, if the tenant claims a decrease in housing services;
+
+d.
+
+A copy of the applicable citation, if the tenant claims the rent increase need not be paid because the covered unit has been cited in an inspection report by the appropriate governmental agency as containing serious health, safety, fire, or building code violations pursuant to Section 8.22.070D.6; and
+
+e.
+
+Proof of service by first-class mail or in person of the tenant petition or response and any supporting documents on the opposing party (owner, subtenant, or primary tenant).
+
+5.
+
+A tenant must file a response to an owner's or subtenant's petition within thirty (30) days of service of the petition.
+
+B.
+
+Owner Petitions and Owner Responses to Tenant Petitions.
+
+1.
+
+In order for an owner to file a response to a tenant petition or to file a petition, the owner must provide the following:
+
+a.
+
+Evidence of possession of a current business tax certificate;
+
+b.
+
+Evidence of payment of the Rent Adjustment Program service fee or evidence of exemption from the fee:
+
+c.
+
+i.
+
+Evidence of service of written notice of the existence and scope of the Rent Adjustment Program as required by Section 8.22.060 on all tenants in covered units affected by the petition or response;
+
+ii.
+
+After July 1, 2023, evidence of registration with the Rent Adjustment Program as provided in O.M.C. Section 8.22.510 for each affected covered unit in the building prior to the petition or response being filed;
+
+d.
+
+A completed response or petition on a form prescribed by the Rent Adjustment Program;
+
+e.
+
+Organized documentation supporting the owner's claimed justification(s) for the rent increase or supporting any claim of exemption; and
+
+f.
+
+Proof of service by first-class mail or in person of the owner petition or response and any supporting documents on the tenants of all units affected by the petition. Supporting documents that exceed twenty-five (25) pages are exempt from the service requirement, provided that: (1) the owner petition form must be served by first-class mail or in person; (2) the petition or attachment to the petition must indicate that additional documents are or will be available at the Rent Adjustment Program; and (3) the owner must provide a paper copy of supporting documents to the tenant or the tenant's representative within ten (10) days if a tenant requests a paper copy in the tenant's response.
+
+2.
+
+An owner must file a response to a tenant's petition within thirty (30) days of the service of the tenant petition.
+
+3.
+
+Subsection 8.22.090 B. shall not apply to primary tenant responses to subtenant petitions.
+
+(Ord. No. 13828, § 3, 12-17-2024; Ord. No. 13777, § 2, 12-19-2023; Ord. No. 13710, § 2, 12-6-2022; Ord. No. 13693, § 3, 6-7-2022; Ord. No. 13649, § 3, 5-18-2021; Ord. No. 13618, § 2, 10-20-2020; Ord. No. 13608, § 3(Att. B), 7-21-2020; Ord. No. 13516, § 6, 1-22-2019; Ord. No. 13418, § 1(Exh. A), 2-7-2017; Ord. No. 13391, § 1, 9-20-2016; Ord. No. 13226, § 1(Exh. A), 5-6-2014; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.100 - Mediation of rent disputes.
+
+Voluntary mediation of all rent increase disputes will be available to all parties to a rent adjustment hearing after the filing of the petition and response.
+
+(Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.110 - Hearing procedures.
+
+A.
+
+Hearing Officer. A hearing shall be set before a Hearing Officer to decide the issues in the petition.
+
+B.
+
+Hearings.
+
+1.
+
+All hearings on petitions shall be open to the public and recorded;
+
+2.
+
+Any party to a hearing may be assisted by a representative who may be an attorney or any other person. A party must designate his or her representative in writing.
+
+C.
+
+Notification and Consolidation. Rent Adjustment Program staff shall notify the owner and tenant in writing of the time and place set for hearing. Representatives of parties shall also be notified of hearings, provided that the Rent Adjustment Program has been notified in writing of a party's designation of a representative at least ten (10) days prior to the notice of the hearing being sent. Disputes involving more than one (1) covered unit in any single building may be consolidated for hearing.
+
+D.
+
+Time of Hearing and Decision.
+
+1.
+
+The Hearing Officer shall have the goal of hearing the matter within sixty (60) days of the original petition's filing date.
+
+2.
+
+The Hearing Officer shall have a goal of rendering a decision within sixty (60) days after the conclusion of the hearing or the close of the record, whichever is later. The decision shall be issued in writing.
+
+3.
+
+The decision of the examiner shall be based entirely on evidence placed into the record.
+
+E.
+
+A Hearing Officer may order a rent adjustment as restitution for any overcharges or undercharges due, subject to guidelines set out in the regulations.
+
+F.
+
+Administrative Decisions.
+
+1.
+
+Notwithstanding the acceptance of a petition or response by the Rent Adjustment Program, if any of the following conditions exist, a hearing may not be scheduled and a Hearing Officer may issue a decision without a hearing:
+
+a.
+
+The petition or response forms have not been properly completed or submitted;
+
+b.
+
+The petition or response forms have not been filed in a timely manner;
+
+c.
+
+The required prerequisites to filing a petition or response have not been met;
+
+d.
+
+A certificate of exemption was previously issued and is not challenged by the tenant; or
+
+e.
+
+The petition and response forms raise no genuine dispute as to any material fact, and the petition may be decided as a matter of law.
+
+2.
+
+A notice regarding the parties' appeal rights will accompany any decision issued administratively. Appeals are governed by Section 8.22.120.
+
+G.
+
+Should the petitioner fail to appear at the designated hearing, the Hearing Officer may dismiss the petition.
+
+(Ord. No. 13608, § 3(Att. B), 7-21-2020; Ord. No. 13418, § 1(Exh. A), 2-7-2017; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.120 - Appeal procedure.
+
+A.
+
+Filing an Appeal.
+
+1.
+
+Either party may appeal the Hearing Officer's decision, including an administrative decision, within fifteen (15) days after service of the notice of decision by filing with the Rent Adjustment Program a written notice on a form prescribed by the Rent Adjustment Program setting forth the grounds for the appeal.
+
+2.
+
+The matter shall be set for an appeal hearing and notice thereof shall be served on the parties not less than ten (10) days prior to such hearing.
+
+B.
+
+Assignment of Appeals.
+
+1.
+
+Staff shall assign to the Board appeals that involve an owner's petition seeking a certificate of exemption, a claim of exemption in response to a tenant's petition, or other important decisions as determined by staff.
+
+2.
+
+Staff may assign to an Appeal Officer appeals where the only issue on appeal is whether good cause exists for failing to appear at a hearing or failure to meet a response deadline.
+
+3.
+
+Except cases required to be heard by the Board under O.M.C. 8.22.120 B.1., all other cases may be assigned by Staff to either the Board or an Appeal Panel.
+
+C.
+
+Appeal Hearings. The following procedures shall apply to all appeal hearings:
+
+1.
+
+The Appeal Body shall have a goal of hearing the appeal within thirty (30) days of filing the notice of appeal.
+
+2.
+
+All appeal hearings conducted by the Appeal Body shall be public and recorded.
+
+3.
+
+Any party to a hearing may be assisted by an attorney or any person so designated.
+
+4.
+
+Appeals shall be based on the record as presented to the Hearing Officer unless the Appeal Body determines that an evidentiary hearing is required. If the Appeal Body deems an evidentiary hearing necessary, the case will be continued and the Appeal Body shall issue a written order setting forth the issues on which the parties may present evidence. All evidence submitted to the Appeal Body must be submitted under oath.
+
+5.
+
+The total argument time for each party is limited to six (6) minutes, unless the regulations allow for more time. The Appeal Body or the chair of the Appeal Body may also modify the time limit in an individual appeal.
+
+D.
+
+Appeal Body's Decision Final. The Appeal Body's decision is final. Parties cannot appeal to the City Council. Parties cannot appeal the decision of an Appeal Panel or an Appeal Officer to the full Board.
+
+E.
+
+Court Review. A party may seek judicial review of a final decision of the Appeal Body pursuant to California Civil Code Section 1094.5 within the time frames set forth therein.
+
+(Ord. No. 13618, § 3, 10-20-2020; Ord. No. 13373, § 1, 6-7-2016; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.130 - Retaliatory evictions.
+
+An owner may not recover possession of a covered unit in retaliation against a tenant for exercising rights under this Chapter. If an owner attempts to terminate the tenancy of a tenant who files a petition under this Chapter from the date the petition filing to within six (6) months after the notice of final decision, such termination of tenancy will be rebuttably presumed to be in retaliation against the tenant for the exercise rights under this Chapter.
+
+(Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.140 - Voluntary mediation of evictions.
+
+The Rent Arbitration Program will assist in making voluntary mediation of evictions in covered units available to tenants and owners prior to an unlawful detainer lawsuit being filed.
+
+(Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.150 - General remedies.
+
+A.
+
+Violations of this Chapter.
+
+1.
+
+Violations of Orders or Decisions. Failure of a party to abide by an order or decision of a Hearing Officer and/or the Board shall be deemed a violation of this Chapter and shall be punishable administratively or by civil remedies unless otherwise provided in this Chapter.
+
+2.
+
+Violations of this Chapter. Violations of this Chapter may be enforced administratively or by civil remedies as set forth in this section or as otherwise specifically set out in this Chapter.
+
+3.
+
+In addition to the remedies provided in this Chapter, a violator is liable for such costs, expenses, and disbursements paid or incurred by the city in abatement and prosecution of the violation.
+
+4.
+
+The remedies available in this Chapter are not exclusive and may be used cumulatively with any other remedies in this Chapter or at law.
+
+5.
+
+Remedies for violations of Section 8.22.080 are set out in that section.
+
+B.
+
+General Administrative Remedies.
+
+1.
+
+Administrative Citation. Anyone who violates specified provisions of this Chapter may be issued an administrative citation. Administrative citations shall be issued in accordance with O.M.C Chapter 1.12 (Administrative Citations). The specified sections of this Chapter that may be enforced by administrative citation shall be set out in the regulations.
+
+2.
+
+Administrative Assessment of Civil Penalties. Anyone who violates specified provisions of this Chapter may be administratively assessed a civil penalty. Civil penalties for violations are assessed in accordance with O.M.C Chapter 1.08 (Administrative Assessment of Civil Penalties) as a major violation under that Chapter 1.08. Specified sections of this Chapter that may be enforced with civil penalties shall be set out in the regulations.
+
+3.
+
+The City Manager shall designate staff authorized to issue administrative citation and civil penalties.
+
+4.
+
+Each and every day or any portion of a day during which a violation of any provision of this Chapter is committed, continued, or permitted is a separate violation and shall be punishable accordingly.
+
+C.
+
+General Civil Remedies. An aggrieved party or the City Attorney, on behalf of such party, may bring a civil action for injunctive relief or damages, or both, for any violation of the provisions of this Chapter or an order or decision issued by a Hearing Officer or the Board.
+
+(Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.160 - Computation of time.
+
+In this O.M.C. 8.22, Article I, days are computed using calendar days unless otherwise specifically stated. Date of service of any matter under this Chapter is the date the matter is placed in the mail (in which case the time for responding is extended by five days) or the date of receipt for a matter personally served. Timely filing requires receipt by the Rent Arbitration Program on or before 5:00 p.m. on the last day to file the document as prescribed in this Chapter or the regulations. If the last day to file is a weekend or holiday the period of time to file the document is extended to the next business day. The Rent Arbitration Program may establish rules and procedures to accept electronic filing of certain documents.
+
+(Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.170 - Severability.
+
+This chapter shall be liberally construed to achieve its purposes and preserve its validity. If any provision or clause of this Chapter or application thereof to any person or circumstances is held invalid, such invalidity shall not affect other provisions or applications of this Chapter which can be given effect without the invalid provision or application; and to this end the provisions of this Chapter are declared to be severable and are intended to have independent validity.
+
+(Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.180 - Non-waiverability.
+
+Any provision, whether oral or written, in or pertaining to a rental agreement whereby any provision of this Chapter is waived or modified, is against public policy and void.
+
+(Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.185 - Miscellaneous.
+
+A.
+
+Translation Services. Translation services for documents, procedure, and hearings in languages other than English pursuant to the equal access to services ordinance (O.M.C. Chapter 2.30) shall be made available to persons requesting such services subject to the City's ability to provide such services.
+
+B.
+
+Periodic Reports. Staff shall report annually to Council on Rent Board vacancies, statistics on petition filings and outcomes, timeliness of appeal hearings and appeals, statistics on numbers and types of evictions, and statistics on numbers and types of covered units.
+
+C.
+
+Request for Enforcement Action. The Rent Board may request enforcement actions be taken by the City Administrator or the City Attorney.
+
+D.
+
+Studies and Investigations. The Rent Board may request Council direct the City Administrator undertake studies, surveys, or investigations related to administering and enforcement of renter protection laws.
+
+(Ord. No. 13391, § 1, 9-20-2016)
+8.22.190 - Applicability—Effective date of chapter.
+
+The ordinance codified in this Chapter shall take effect as follows:
+
+A.
+
+The CPI Rent Adjustment. The CPI Rent Adjustment is effective for rent increases taking effect on or after July 1, 2002 in accordance with Section 8.22.070(B)(1);
+
+B.
+
+Reserved.
+
+C.
+
+Unless otherwise specified in a specific provision of this Chapter All provisions of this Chapter take effect pursuant to Section 216 of the Oakland City Charter. Whenever a new section takes effect on a date after this amended chapter takes effect pursuant to Section 216 of the Oakland City Charter, the provisions of the former Chapter 8.22 will apply until that new section takes effect.
+
+(Ord. No. 13391, § 1, 9-20-2016; Ord. 12538 § 1 (part), 2003; Ord. 12399 (part), 2002)
+8.22.200 - Reduced rents to disaster victims.
+
+A.
+
+Purpose. The purpose of this Section 8.22.200 is to permit owners to offer temporary below market rent to certified displaced persons from areas hit by the Hurricane Katrina disaster ("displacees") and to enable the owners to increase the rent to market rate at the end of the temporary period.
+
+Invocation of Section and Period of Invocation. The provisions of this section will remain in effect for six months after the date of action invoking this section unless rescinded earlier by the City Council. The City Council may extend the time during which this section is in effect. After the end of the period during which the invocation of Section 8.22.200 was in effect, owners and displacees may not enter into new rental agreements pursuant to this section, but may renew or extend rental agreements previously entered into under this section during the invocation on the same terms.
+
+B.
+
+Rent Increases to Displacees. During the period of invocation set out in subsection 8.22.200(B), an owner may enter into a rental agreement with a displacee for an initial rent at a below market rate fixed for a period of at least six months and may increase the rent at the end of the six month period if the owner has given the displacee the notice required by subsection 8.22.200(D). The rent increase at the end of the six month period or other term is not subject to the limitations on rent increases provided in this Chapter, but any subsequent rent increases are subject to the limitations on rent increases provided in this Chapter 8.22. The rent increase must not exceed the amount stated in the notice the owner gives to the displacee prior to the commencement of the tenancy. If an owner agrees to continue to rent to a displacee at the reduced rent for a period longer than one year, the owner may increase the initial rent pursuant to O.M.C. 8.22.070 (Rent Adjustments for Occupied Rental Units). In order for a rental agreement to be eligible under this Section 8.22.200, the below market rent must be no greater than fifty percent (50%) of the HUD Fair Market Rents in effect in Oakland at the time this section is invoked based on the number of bedrooms in the rental unit. The City Administrator will make available to the public the maximum rents for eligibility under this section.
+
+C.
+
+Notice to Displacee. An owner who seeks to rent to a displacee, prior to entering into a rental agreement with a displacee, must give the displacee a notice provided by the Rent Adjustment Program. This notice must specify the amount of the rent the owner will charge after the end of the term of the temporary rental agreement; and at a minimum shall include information about the Rent Adjustment Ordinance and the Just Cause Ordinance.
+
+D.
+
+Determination of Eligibility as Displacee.
+
+1.
+
+The City Administrator will develop a list of public or private agencies, including but not limited to the Federal Emergency Management Agency, that will identify and certify that persons are displacees and can provide documentation of certification as to whether a person is a displacee.
+
+2.
+
+The City Administrator may develop a procedure for owners to receive approval in advance of entering into a rental agreement with a displacee. A rental agreement that is approved in advance would not be subject to challenge on the ground that the agreement violates this Section 8.22.200 or Chapter 8.22, absent fraud by the owner.
+
+3.
+
+An owner who enters into a rental agreement that is based on fraud or misrepresentation by the tenant is not subject to any penalty under this Chapter 8.22 unless the owner knew or should have known of the fraud or misrepresentation in advance of entering into the rental agreement with the tenant.
+
+4.
+
+Eligibility to receive benefits as a displacee of the disaster for which this Section 8.22.200 is invoked is implied as material term of the tenancy created by a rental agreement entered into under this section. The tenancy of an ineligible tenant who knowingly or fraudulently enters into a rental agreement under this section is subject to termination under subsection 8.22.360(A)(1) on the ground that he or she violated a material term of the tenancy and the rent for the rental unit may be increased to the rate given in the notice required by subsection 8.22.200(D), unless the owner knew or should have known of the tenant's fraud or ineligibility. The owner also may recover the difference in the rent the tenant actually paid and the rent set out in the notice required by subsection 8.22.200(D) and such owner's costs and reasonable attorney's fees.
+
+E.
+
+Termination of Tenancy by Displacee. Any rental agreement entered into pursuant to this section must permit the displacee to terminate the rental agreement pursuant to California Civil Code § 1946.
+
+F.
+
+Definitions. The following definitions are applicable to this Section 8.22.200.
+
+1.
+
+For purposes of this section, "displacee" means a person or household who has been displaced as a result of the Katrina Hurricane disaster for which this section has been invoked by City Council, and who has been certified as such by FEMA or other agency designated by the City Administrator pursuant to subsection 8.22.200(E)(1) of this section.
+
+G.
+
+Procedures, Standards, and Regulations. The Rent Adjustment Board is authorized to develop regulations pursuant to O.M.C. 8.22.040(D)(2). The City Administrator is authorized to develop any procedures and standards to carry out this section that are not in conflict with this Section 8.22.200 or any regulations that may later be adopted.
+
+H.
+
+Retroactivity. This Section 8.22.200 may be applied to rental agreements that displacees and owners executed before the ordinance codified in this Chapter became effective if it meets all requirements of Section 8.22.200 including this subsection H. The City Administrator is authorized to develop the procedures and requirements that rental agreements must comply with to be eligible for the protections provided by this section.
+
+(Ord. 12707 § 1, 2005)
+8.22.250 - Administration, Reports, and Notices to Owners and Tenants.
+
+A.
+
+The City Administrator shall report annually on the status of the Rent Adjustment Program to the City Council or to such City Council Committee as the City Council may designate. Such reports shall include, but shall not be limited to the following:
+
+1.
+
+Rent Board vacancies.
+
+2.
+
+Rent Board meeting cancellations.
+
+3.
+
+Statistics on the number and type of petitions filed and outcomes. including rent increases granted.
+
+4.
+
+The timeliness of petition hearings and appeals,
+
+5.
+
+Statistics on numbers and types of eviction notices filed pursuant to the Just Cause for Eviction Ordinance (Chapter 8, Article II, O.M.C. 822.300, et seq.)
+
+6.
+
+Number and types of rental units covered by this Chapter.
+
+7.
+
+Any other information the City Council or Committee may request.
+
+B.
+
+The City Administrator shall develop searchable data bases for ready public access to information on hearing decisions, appeals, and notices filed. To the extent consistent with state and City public records and sunshine laws, names and personal information shall not be included in the database or otherwise shall be redacted from release of filed notices.
+
+C.
+
+The City shall make available translation services in languages other than English, where requested in advance, to interpret and translate documents and procedures as needed related to Board Hearings and Appeals.
+
+D.
+
+Notices to Tenants and Owners.
+
+1.
+
+The City shall annually provide notification to all Covered Units information, including but not limited to, the amount of the annual CPI Rent Adjustment, Banking (as an allowable increase without landlord petitioning) and information on how to get information to challenge a rent increase, and other questions about rents and Rent Adjustment Program procedures.
+
+2.
+
+The City shall annually provide notification to all Owners with Covered Units, including but not limited to, the amount of the annual CPI Rent Adjustment, Banking (as an allowable increase without landlord petitioning), and information on how to get information to petition for a rent increase, and other questions about rents and Rent Adjustment Procedures.
+
+(Res. No. 86320, § 1, 7-19-2016)

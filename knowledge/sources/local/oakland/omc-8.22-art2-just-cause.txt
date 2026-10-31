@@ -1,0 +1,529 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: OMC 8.22 Art. II — Just Cause for Eviction (Measure EE)
+Jurisdiction: Oakland
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://library.municode.com/ca/oakland/codes/code_of_ordinances  [to confirm (add chapter/article deep link)]
+Version: Municode version dated 2026-07-13 (per original filename)
+Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Oakland-MunCode-Ch8-Art2-07_13_2026.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Article II - Just Cause for Eviction Ordinance (Measure EE)
+
+8.22.300 - Just Cause for Eviction Introductory Clauses.
+
+Whereas, the laws of the State of California and the Housing Element of the General Plan of the city of Oakland prohibit arbitrary discrimination by landlords, and
+
+Whereas, the right to occupancy of safe, decent, and sanitary housing is a human right, and
+
+Whereas, the city of Oakland's prolonged affordable housing crisis disproportionately impacts low income and working class households, senior citizens, people of color, and people with disabilities, and thereby increases homelessness and crime, harms neighborhood stability and cohesion, and damages business prospects for small businesses, and
+
+Whereas, recent state laws that eliminate limits on rent increases upon the vacation of rental units provide added economic incentive to evict tenants, such that the number of no cause evictions has increased markedly in recent years, and
+
+Whereas, the absence of a local law prohibiting a landlord from evicting a tenant without good cause is a significant barrier to implementation and enforcement of the Oakland Residential Rent Arbitration Ordinance, and
+
+Whereas, residential tenants, who constitute approximately sixty-five percent (65%) of the residents of Oakland, suffer great and serious hardship when forced to move from their homes, and
+
+Whereas, basic fairness requires that a landlord must not terminate the tenancy of a residential tenant without good, just, non-arbitrary, non-discriminatory reasons, and
+
+Whereas, the good cause eviction protections enacted in San Francisco, Berkeley, Hayward, and other California cities, have aided community stability and reduced urban problems associated with arbitrary disruption of stable households, and
+
+Whereas, the general welfare of all citizens of Oakland would be enhanced if no cause evictions were prohibited,
+
+Therefore, the electorate of the city of Oakland hereby enacts this ordinance, prohibiting a landlord from terminating a tenancy without good or just cause.
+
+(Ord. 12537 § 1 (part), 2003)
+8.22.310 - Title.
+
+This ordinance shall be known as the Just Cause for Eviction Ordinance.
+
+(Ord. 12537 § 1 (part), 2003)
+8.22.320 - Findings.
+
+1.
+
+A public emergency exists in the city due to the lack of adequate, safe, sanitary, and affordable housing. This emergency disproportionately impacts tenants of residential rental units, a majority of whom are people of color, working class families, the homeless, those of low income, and the elderly and disabled.
+
+2.
+
+Just cause eviction protections would strengthen and effectuate existing rent control legislation in Oakland as landlords are able to use no cause evictions to evade the Oakland Residential Rent Arbitration Ordinance.
+
+3.
+
+Oakland presently has no just cause protections for tenants. As a result, any residential tenant may be subjected to eviction at anytime and without reason.
+
+4.
+
+Without just cause protections, many tenants are afraid to demand their right to a safe, inhabitable home.
+
+5.
+
+Furthermore, Oakland is experiencing extreme housing market pressures from neighboring Santa Clara and San Francisco counties, resulting in a decrease in the vacancy rate and an increase in residential rental prices.
+
+6.
+
+This situation has been exacerbated by the Costa-Hawkins law, which, by eliminating controls on rents upon the voluntary vacation of a rental unit, has provided added economic incentive to evict tenants. From January 1999 through December 2000, the effective date of foil implementation of the Costa-Hawkins law, Sentinel Fair Housing has reported a three hundred percent (300%) increase in the eviction of Oakland tenants. This trend has continued to date.
+
+7.
+
+Without the institution of just cause protections, Oakland's housing emergency will continue, and will contribute to increases in homelessness, crime, neighborhood instability, and harm to small businesses.
+
+8.
+
+Many municipal jurisdictions in California, including Berkeley, Hayward, and San Francisco in the Bay Area, have effectively utilized just cause protections to preserve affordable housing. Such protections have helped abate the urban problems associated with neighborhood instability, homelessness, and illegal activity in vacant units, providing concrete benefits for both landowners and tenants.
+
+9.
+
+Just cause eviction protections are consistent with the Housing Element of the Master Plan of the city of Oakland, which states that residents have the right to decent housing in pleasant neighborhoods at prices they can afford.
+
+(Ord. 12537 § 1 (part), 2003)
+8.22.330 - Purpose.
+
+The purpose of this Chapter is to defend and nurture the stability of housing and neighborhoods in the city of Oakland by protecting tenants against arbitrary, unreasonable, discriminatory, or retaliatory evictions, thereby maintaining diversity in Oakland neighborhoods and communities while recognizing the rights of rental property owners. This chapter is intended to address housing problems in the city of Oakland so as to preserve the public health, safety, and welfare, and to advance the housing policies of the city with regard to low and fixed income persons, people of color, students, and those needing special protections, such as long-term elderly and disabled tenants.
+
+(Ord. 12537 § 1 (part), 2003)
+8.22.340 - Definitions.
+
+"Landlord" means an owner of record, or lessor or sublessor of an owner of record, or any other person or entity entitled either to receive rent for the use or occupancy of any rental unit or to maintain an action for possession of a rental unit, or an agent, representative, or successor of any of the foregoing.
+
+"Owner of Record" means a natural person, who is an owner of record holding an interest equal to or greater than thirty-three percent (33%) in the property at the time of giving a notice terminating tenancy and at all times thereafter, until and including the earlier of the tenant's surrender of possession of the premises or the execution of a writ of possession pursuant to the judgment of a court of competent jurisdiction; but not including any lessor, sublessor, or agent of the owner of record.
+
+"Rent" means the consideration, including any deposit, bonus, benefit, or gratuity demanded or received for, or in connection with, the use or occupancy of rental units and housing services. Such consideration shall include, but not be limited to, moneys and fair value of goods or services rendered to or for the benefit of the landlord under the rental agreement, or in exchange for a rental unit or housing services of any kind.
+
+"Rent Board" means city of Oakland Housing, Residential Rent, and Relocation Board (HRRRB), aka Residential Rent Arbitration Board (RRAB), aka Rent Arbitration Board, aka Oakland Rent Board, aka Rent Board, established under Ordinance No. 9980 and subsequent amendments.
+
+"Rental Agreement" means an agreement, oral, written, or implied, between a landlord and a tenant for the use and/or occupancy of a rental unit.
+
+"Rental Unit" (aka Unit, aka Premises) means any unit in any real property, regardless of condition or zoning status, including the land appurtenant thereto, that is rented or available for rent for residential use or occupancy (regardless of whether the unit is also used for other purposes), together with all housing services connected with use or occupancy of such property, such as common areas and recreational facilities held out for use by the tenant. "Rental Unit" includes vehicular residential facilities, as defined by Oakland Planning Code Section 17.10.700, that is rented or offered for rent for living or dwelling purposes, whether rent is paid for the recreational vehicle and the lot upon which it is located, or rent is paid for the lot alone, unless the property is a special occupancy park as defined by State law.
+
+"Property" means a parcel of real property, located in the city of Oakland, that is assessed and taxed as an undivided whole.
+
+"Tenant" means any renter, tenant, subtenant, lessee, or sublessee of a rental unit, or any group of renters, tenants, subtenants, lessees, sublessees of a rental unit, or any other person entitled to the use or occupancy of such rental unit, or any successor of any of the foregoing.
+
+"Skilled Nursing Facility" means a health facility or a distinct part of a hospital that provides, at a minimum, skilled nursing care and supportive care to patients whose primary medical need is the availability of skilled nursing care on an extended basis. Such facility must provide twenty-four (24) hour inpatient care, an activity program, and medical, nursing, dietary, pharmaceutical services. Additionally, the facility must provide effective arrangements, confirmed in writing, through which services required by the patients but not regularly provided within the facility can be obtained promptly when needed.
+
+"Health Facility" means any facility, place or building that is organized, maintained, and operated for the diagnosis, care, and treatment of human illness, physical or mental, including convalescence and rehabilitation, and including care during and after pregnancy, or for any one or more of these purposes.
+
+"Maximum Lawful Rent" means the maximum rent which may lawfully be charged for such unit under the terms of the Oakland Residential Rent Arbitration Ordinance or successor ordinances intended to limit or regulate rent charged for residential rental units within the city of Oakland.
+
+"Business Tax Declaration" means the annual declaration required to be filed in connection with a landlord's obtaining or renewing a city business license for rental units. Any failure by a landlord to file such a declaration, whether pursuant to an exemption or otherwise, shall not relieve a rental unit from being subject to the provisions of this Chapter.
+
+"Child/Parent" means a child/parent relationship is one in which a child is either a parent's biological child or adopted child, provided that such relationship was established prior to the child's eighteenth birthday and at least one year prior to the attempted eviction. At the time of attempted eviction, a child of an owner of record must be over the age of eighteen (18) or be emancipated.
+
+"Tenants' Rights Organization" means any unincorporated tenants' association, incorporated tenants' association, nonprofit housing and/or tenant's rights entity of any form.
+
+(Res. No. 89315, § 1, 7-11-2022; Ord. 12537 § 1 (part), 2003)
+8.22.350 - Applicability and Exemptions.
+
+The provisions of this Chapter shall apply to all rental units in whole or in part, including where a notice to vacate/quit any such rental unit has been served as of the effective date of this Chapter but where any such rental unit has not yet been vacated or an unlawful detainer judgment has not been issued as of the effective date of this Chapter. However, Section 6 [8.22.360] and Section 7(A)-(E) [8.22.370(A) through 8.22.370(E)] of the chapter [O.M.C. Chapter 8.22, Article II] shall not apply to the following types of rental units:
+
+A.
+
+Rental units exempted from Part 4, Title 4, Chapter 2 of the California Civil Code (CCC) by CCC § 1940(b).
+
+B.
+
+Rental units in any hospital, skilled nursing facility, or health facility.
+
+C.
+
+Rental units in a nonprofit facility that has the primary purpose of providing short-term treatment, assistance, or therapy for alcohol, drug, or other substance abuse and the housing is provided incident to the recovery program, and where the client has been informed in writing of the temporary or transitional nature of the housing at its inception.
+
+D.
+
+Rental units in a nonprofit facility which provides a structured living environment that has the primary purpose of helping homeless persons obtain the skills necessary for independent living in permanent housing and where occupancy is restricted to a limited and specific period of time of not more than twenty-four (24) months and where the client has been informed in writing of the temporary or transitional nature of the housing at its inception.
+
+E.
+
+Rental units in a residential property where the owner of record occupies a unit in the same property as their principal residence and regularly shares in the use of kitchen or bath facilities with the tenants of such rental units. For purposes of this Section, the term owner of record shall not include any person who claims a homeowner's property tax exemption on any other real property in the State of California.
+
+F.
+
+Reserved.
+
+G.
+
+A unit that is held in trust on behalf of a developmentally disabled individual who permanently occupies the unit, or a unit that is permanently occupied by a developmentally disabled parent, sibling, child, or grandparent of the owner of that unit.
+
+H.
+
+A rental unit or rental units contained in a building that was newly constructed and received a certificate of occupancy within the past ten (10) years. This exemption applies only to permitted rental units that were newly constructed from the ground up and does not apply to units that were created as a result of rehabilitation, improvement, or conversion of existing residential or commercial space.
+
+(Res. No. 89315, § 2, 7-11-2022; Res. No. 87325, § 1, 7-24-2018; Res. No. 86320, § 2, 7-19-2016; Ord. 12537 § 1 (part), 2003)
+8.22.360 - Good cause required for eviction.
+
+A.
+
+No landlord shall endeavor to recover possession, issue a notice terminating tenancy, or recover possession of a rental unit in the City of Oakland unless the landlord is able to prove the existence of one (1) of the following grounds:
+
+1.
+
+The tenant has failed to pay rent to which the landlord is legally entitled pursuant to the lease or rental agreement and under provisions of State or local law, and said failure has continued after service on the tenant of a written notice correctly stating the amount of rent then due and requiring its payment within a period, stated in the notice, of not less than three (3) days. However, this Subsection shall not constitute grounds for eviction where tenant has withheld rent pursuant to applicable law or where the amount of rent demanded is less than one (1) month of fair market rent for a unit of equivalent size in the Oakland metro area as determined by the U.S. Department of Housing and Urban Development.
+
+2.
+
+The tenant has continued, after written notice to cease, to substantially violate a material term of the tenancy other than the obligation to surrender possession on proper notice as required by law. To establish a substantial violation of a material term of the tenancy, the landlord must demonstrate all of the following: (1) that the violation caused substantial actual injury to the landlord or to other residents; (2) that the tenant's conduct was unreasonable; and (3) that the term of tenancy is reasonable, legal, and was accepted in writing by the tenant.
+
+a.
+
+Notwithstanding any lease provision to the contrary, a landlord shall not endeavor to recover possession of a rental unit as a result of subletting of the rental unit by the tenant if the landlord has unreasonably withheld the right to sublet following a written request by the tenant, so long as the tenant continues to reside in the rental unit and the sublet constitutes a one-for-one replacement of the departing tenant(s). If the landlord fails to respond to the tenant in writing within fourteen (14) days of receipt of the tenant's written request, the tenant's request shall be deemed approved by the landlord.
+
+b.
+
+Notwithstanding any lease provision to the contrary, a landlord shall not endeavor to recover possession of a rental unit based on the addition of occupants to the rental unit if the landlord has unreasonably refused a written request by the tenant to add such occupant(s) to the unit, so long as the maximum number of occupants does not exceed the lesser of the amounts allowed by this Subsection 8.22.360 A.2.b. If the landlord fails to respond in writing with a description of the reasons for the denial of the request within fourteen (14) days of receipt of the tenant's written request, the tenant's request shall be deemed approved by the landlord. However, for units restricted as affordable housing as defined by O.M.C. Section 15.72.030, a written resident request to add an occupant shall be deemed incomplete and inadequate until such resident has provided all documentation required for qualification of such additional occupant and the household after the addition of such occupant under the rules restricting the housing. A landlord's reasonable refusal of the tenant's written request may not be based on either of the following: (1) the proposed additional occupant's lack of creditworthiness, if that person will not be legally obligated to pay some or all of the rent to the landlord, or (2) the number of occupants allowed by the rental agreement or lease. With the exception of the restrictions stated in the preceding sentence, a landlord's reasonable refusal of the tenant's written request may be based on, but is not limited to, the ground that the landlord resides in the same unit as the tenant or the ground that the total number of occupants in a unit exceeds (or with the proposed additional occupant(s) would exceed) the maximum number permitted in the unit under state law and/or other local codes such as the Building, Fire, Housing and Planning Codes.
+
+This Subsection 8.22.360 A.2.b. is not intended by itself to establish a direct landlord-tenant relationship between the additional occupant and the landlord or to limit a landlord's rights under the Costa-Hawkins Rental Housing Act, California Civil Code Section 1954.50 et seq. (as it may be amended from time to time). Nothing in this subsection authorizes an occupancy that would result in either transient habitation commercial activity as defined by O.M.C. Section 17.10.440 or semi-transient commercial activity as defined by O.M.C. Section 17.10.120.
+
+c.
+
+Before endeavoring to recover possession based on the violation of a lawful obligation or covenant of tenancy regarding subletting or limits on the number of occupants in the rental unit, the landlord shall serve the tenant a written notice of the violation that provides the tenant with a minimum of fourteen (14) days opportunity to cure the violation. The tenant may cure the violation by making a written request to add occupants referenced in subsection a. or b. of Section 8.22.360 A.2. or by using other reasonable means to cure the violation, including, without limitation, the removal of any additional or unapproved occupant. Nothing in this Section 8.22.360 A.2.c. is intended to limit any other rights or remedies that the law otherwise provides to landlords or to tenants.
+
+d.
+
+Actual injury must be a direct result of the tenant's lease. Injury is not limited to personal or physical injury. Substantial actual injury includes, but is not limited to, the harm caused by a tenant's failure to comply with income recertification requirements for deed-restricted affordable housing units.
+
+e.
+
+A notice to cease must state allegations in sufficient detail so that a reasonable person would understand the alleged violation and resultant injury, including the term of the lease allegedly violated, the date of the violation, and the injury that occurred as a result of the violation.
+
+3.
+
+Reserved.
+
+4.
+
+The tenant has willfully caused substantial damage to the premises beyond normal wear and tear and, after written notice, has refused to cease damaging the premises, or has refused to either make satisfactory correction or to pay the reasonable costs of repairing such damage over a reasonable period of time.
+
+5.
+
+The tenant has continued, following written notice to cease, to be so disorderly as to destroy the peace and quiet of other tenants at the property.
+
+6.
+
+The tenant has used the rental unit or the common areas of the premises for an illegal purpose including the manufacture, sale, or use of illegal drugs. Residing in a rental unit that lacks a certificate of occupancy, has not been approved by the City for residential use, or that has been cited for housing, building, or planning code violations does not constitute use of the premises for an illegal purpose.
+
+7.
+
+The tenant has, after written notice to cease, continued to deny landlord access to the unit as required by state law.
+
+8.
+
+The owner of record seeks in good faith, without ulterior reasons and with honest intent, to recover possession of the rental unit for their own occupancy as a principal residence where the owner has previously occupied the rental unit as their principal residence and has the right to recover possession for their occupancy as a principal residence under a written rental agreement with the current tenants.
+
+9.
+
+The owner of record seeks in good faith, without ulterior reasons and with honest intent, to recover possession for their own use and occupancy as their principal residence, or for the use and occupancy as a principal residence by the owner of record's spouse, domestic partner, child, parent, or grandparent.
+
+a.
+
+Where the owner of record recovers possession under this Subsection 9. [Paragraph 8.22.360 A.9.], and where continuous occupancy for the purpose of recovery is less than thirty-six (36) months, such recovery of the residential unit shall be a presumed violation of this Chapter.
+
+b.
+
+The owner of record may not recover possession pursuant to this subsection more than once in any thirty-six-month period.
+
+c.
+
+The owner must move into unit within three (3) months of the tenant's vacation of the premises. Such time period may be extended for good cause upon application to, and approval by, the Rent Adjustment Program.
+
+d.
+
+Reserved.
+
+e.
+
+A landlord may not recover possession of a unit from a tenant under Subsection 6.A.9. [8.22.360 A.9.], if the landlord has or receives notice, any time before recovery of possession, that any tenant in the rental unit:
+
+i.
+
+Has been residing in the unit for five (5) years or more; and
+
+(a)
+
+Is sixty (60) years of age or older; or
+
+(b)
+
+Is a disabled tenant as defined in the California Fair Employment and Housing Act (California Government Code Section 12926); or
+
+ii.
+
+Has been residing in the unit for five (5) years or more, and is a catastrophically ill tenant, defined as a person who is disabled as defined by Subsection e.i.b. [8.22.360 A.9.e.i.b.] and who suffers from a life threatening illness as certified by their primary care physician.
+
+f.
+
+The provisions of Subsection e. [8.22.360 A.9.e.] above shall not apply where the landlord's qualified relative who will move into the unit is sixty (60) years of age or older, disabled or catastrophically ill as defined by Subsection e. [8.22.360 A.9.e.], and where every rental unit owned by the landlord is occupied by a tenant otherwise protected from eviction by Subsection e. [8.22.360 A.9.e.].
+
+g.
+
+A tenant who claims to be a member of one (1) of the classes protected by Subsection 6.A.9.e. [8.22.360 A.9.e.] must submit a statement, with supporting evidence, to the landlord. A landlord may challenge a tenant's claim of protected status by requesting a hearing with the Rent Board. In the Rent Board hearing, the tenant shall have the burden of proof to show protected status. No civil or criminal liability shall be imposed upon a landlord for challenging a tenant's claim of protected status. The Rent Board shall adopt rules and regulations to implement the hearing procedure.
+
+h.
+
+Once a landlord has successfully recovered possession of a rental unit pursuant to Subsection 6.A.9. [8.22.360 A.9.], no other current landlords may recover possession of any other rental unit in the building under Subsection 6.A.9. [8.22.360 A.9.]. Only one (1) specific unit per building may undergo a Subsection 6.A.9. [8.22.360 A.9.] eviction. Any future evictions taking place in the same building under Subsection 6.A.9. [8.22.360 A.9.] must be of that same unit, provided that a landlord may file a petition with the Rent Board or, at the landlord's option, commence eviction proceedings, claiming that disability or other similar hardship prevents the landlord from occupying a unit which was previously the subject of a Subsection 6.A.9. [8.22.360 A.9.] eviction. The Rent Board shall adopt rules and regulations to implement the application procedure.
+
+i.
+
+A notice terminating tenancy under this Subsection must contain, in addition to the provisions required under Subsection 6(B)(6) [8.22.360 B.6.]:
+
+i.
+
+A listing of all property owned by the intended future occupant(s).
+
+ii.
+
+The address of the real property, if any, on which the intended future occupant(s) claims a homeowner's property tax exemption.
+
+j.
+
+If the owner or relative specified on the notice terminating tenancy fails to occupy the rental unit for at least a consecutive thirty-six-month period, or fails to occupy the rental unit within ninety (90) days after the tenant vacates, absent Subsection c., the owner shall do the following:
+
+i.
+
+Offer the unit to the tenant who vacated it at the same rent in effect at the time the tenant vacated; and
+
+ii.
+
+Pay to said tenant all reasonable expenses incurred in returning to the unit, including lease termination fees, if any. This subsection does not limit any other remedies a tenant may have under this Chapter or other applicable law.
+
+10.
+
+The owner of record, after having obtained all necessary permits from the City of Oakland on or before the date upon which notice to vacate is given, seeks in good faith to undertake substantial repairs that cannot safely be completed while the unit is occupied, and that are necessary either to bring the property into compliance with applicable codes and laws affecting health and safety of tenants of the building, or under an outstanding notice of code violations affecting the health and safety of tenants of the building.
+
+a.
+
+As soon as the tenant vacates the rental unit, the owner of record shall proceed without unreasonable delay to complete the needed repairs. The tenant shall not be required to vacate pursuant to this Section, for a period in excess of three (3) months; provided, however, that such time period may be extended for good cause upon application to, and approval by, the Rent Adjustment Program. The Rent Board shall adopt rules and regulations to implement the application procedure.
+
+b.
+
+Upon completion of the needed repairs, the owner of record shall offer the tenant the first right to return to the premises at the same rent and pursuant to the same terms of the rental agreement in effect as of the date of the notice to vacate, subject to the owner of record's right to petition the Rent Adjustment Program for a rent increase as provided by the Residential Rent Adjustment Ordinance.
+
+c.
+
+A notice to vacate under this Subsection 6.A.10. [8.22.360 A.10.] must include the following information:
+
+i.
+
+A statement informing tenants as to their right to payment under the Oakland Relocation Ordinance.
+
+ii.
+
+A statement that "When the needed repairs are completed on your unit, the landlord must offer you the opportunity to return to your unit with a rental agreement containing the same terms as your original one and with the same rent (although landlord may be able to obtain a rent increase under the Oakland Residential Rent Arbitration Ordinance [O.M.C. Chapter 8.22, Article I)."
+
+iii.
+
+A list of the code violations necessitating substantial repairs, a detailed description of the work to be performed, the permit numbers of any and all permits obtained to affect the required repairs, and a copy of the City-issued notice of Code violations, if any.
+
+iv.
+
+A good faith estimate of the time required to complete the repairs and the date upon which it is expected that the unit will be ready for habitation.
+
+11.
+
+The owner of record seeks to remove the property from the rental market in accordance with the terms of the Ellis Act (California Government Code Section 7060 et seq.).
+
+B.
+
+The following additional provisions shall apply to a landlord who seeks to recover a rental unit pursuant to Subsection 6(A) [8.22.360 A]:
+
+1.
+
+The burden of proof shall be on the landlord in any eviction action to which this order is applicable to prove compliance with Section 6 [8.22.360].
+
+2.
+
+A landlord shall not endeavor to recover possession of a rental unit unless at least one (1) of the grounds enumerated in Subsection 6(A) [8.22.360 A] above is stated in the notice and that ground is the landlord's dominant motive for recovering possession and the landlord acts in good faith in seeking to recover possession.
+
+3.
+
+Where a landlord seeks to evict a tenant under a just cause ground specified in Subsections 6.A.7., 8., 9., 10., 11.) [8.22.360 A.7., 8., 9., 10., 11., the landlord must do so according to the process established in CCC § 1946 (or successor provisions providing for a thirty- or sixty-day notice period); where a landlord seeks to evict a tenant for the grounds specified in Subsections 6.A.1., 2., 3., 4., 5., 6. [8.22.360 A.1., 2., 3., 4., 5., 6.], the landlord must do so according to the process established in CCP § 1161 (or successor provisions providing for three-day notice period).
+
+4.
+
+Any written notice as described in Subsection 6(A)(2, 3, 4, 5, 7) [8.22.360 A.2, 3, 4, 7] shall be served by the landlord prior to a notice to terminate tenancy and shall include a provision informing tenant that a failure to cure may result in the initiation of eviction proceedings.
+
+5.
+
+Subsection 6(B)(3) [8.22.360 B.3] shall not be construed to obviate the need for a notice terminating tenancy to be stated in the alternative where so required under CCP § 1161.
+
+6.
+
+A notice terminating tenancy must additionally include the following:
+
+a.
+
+A statement setting forth the basis for eviction, as described in Subsections 6(A)(1) [8.22.360 A.1] through 6(A)(11) [8.22.360 A.11];
+
+b.
+
+A statement that advice regarding the notice terminating tenancy is available from the Rent Adjustment Program (RAP) along with information about how the tenant may seek assistance, including the RAP phone number and e-mail address.
+
+c.
+
+Where an eviction is based on the ground specified in Subsection 6.A.9. [8.22.360 A.9.], the notice must additionally contain the provisions specified in Subsection 6.A.9.i. [8.22.360 A.9.i.] and a statement informing tenants of the limitations on evictions as set forth in Subsection 6.D.8. [8.22.360 D.8.].
+
+d.
+
+Where an eviction is based on the ground specified in Subsection 6.A.10. [8.22.360 A.10.], the notice must additionally contain the provisions specified in Subsection 6.A.10.c. [8.22.360 A.10.] and a statement informing tenants of the limitations on evictions as set forth in Subsection 6.D.8. [8.22.3600 D.8.].
+
+e.
+
+Where an eviction is based on the grounds specified in Subsections 8.22.360 A.8.—10., a copy of the owner's current business tax certificate and a statement informing tenants of the limitations on evictions as set forth in Subsection 8.22.360 D.10.
+
+f.
+
+Failure to include any of the required statements in the notice shall be a defense to any unlawful detainer action.
+
+7.
+
+Within ten (10) days of service of a notice terminating tenancy upon a tenant, a copy of the same notice and any accompanying materials must be filed with the Rent Board. Each notice shall be indexed by property address and by the name of the landlord. Such notices shall constitute public records of the City of Oakland, and shall be maintained by the Rent Board and made available for inspection during normal business hours. Failure to file the notice within ten (10) days of service shall be a defense to any unlawful detainer action.
+
+C.
+
+Reserved.
+
+D.
+
+Substantive limitations on landlord's right to evict. This Subsection 8.22.360 D. is intended as both a substantive and procedural limitation on a landlord's right to evict.
+
+1.
+
+In any action to recover possession of a rental unit pursuant to Section 6 [8.22.360], a landlord must allege and prove the following:
+
+a.
+
+The basis for eviction, as set forth in Subsection 6(A)(1) through 6(A)(11) [8.22.360 A.1. through 8.22.360 A.11.] above, was set forth in the notice of termination of tenancy or notice to quit; and
+
+b.
+
+That the landlord seeks to recover possession of the unit with good faith, honest intent and with no ulterior motive;
+
+2.
+
+If landlord claims the unit is exempt from this Chapter, landlord must allege and prove that the unit is covered by one (1) of the exceptions enumerated in Subsection 5. [8.22.350] of this Chapter. Such allegations must appear both in the notice of termination of tenancy or notice to quit, and in the complaint to recover possession, and must specify on what grounds exemption is claimed. Failure to make such allegations in the notice shall be a defense to any unlawful detainer action.
+
+3.
+
+A landlord's failure to comply with the obligations described in Subsections (D)(1) or (2) [sic] [8.22.360 D.1. or 8.22.360 D.2.] shall be a defense to any action for possession of a rental unit.
+
+4.
+
+In any action to recover possession of a rental unit filed under Subsection 8.22.360 A.1. it shall be a defense if the landlord impeded the tenant's effort to pay rent by refusing to accept rent paid on behalf of the tenant from a third party, or refusing to provide a W-9 form or other necessary documentation for the tenant to receive rental assistance from a government agency, non-profit organization, or other third party. Acceptance of rental payments made on behalf of the tenant by a third party shall not create a tenancy between the landlord and the third party as long as either the landlord or the tenant provide written notice that no new tenancy is intended.
+
+5.
+
+A landlord's failure to fully comply with any applicable law requiring payment of relocation benefits to the tenant, such as those provided by Articles III, VII, and VIII of this Chapter and Chapter 15.60 of the Oakland Municipal Code, including, but not limited to, required notice, amount, timing, and any other requirement necessary to withdraw or repair a unit shall be a defense to any action for possession of a rental unit.
+
+6.
+
+Notwithstanding any change in the terms of a tenancy pursuant to Civil Code Section 827, a tenant may not be evicted for a violation of a covenant or obligation that was not included in the tenant's written or oral rental agreement at the inception of the tenancy unless: (1) the change in the terms of the tenancy is authorized by the Rent Ordinance or California Civil Code Sections 1947.5 or 1947.12, or required by federal, state, or local law, or regulatory agreement with a government agency; or (2) the change in the terms of the tenancy was accepted in writing by the tenant after receipt of written notice from the landlord that the tenant need not accept such new term as part of the rental agreement and in exchange for valid consideration.
+
+7.
+
+In any action to recover possession of a rental unit filed under Subsections 8.22.360 A.1.—10., it shall be a defense if the landlord was not in compliance with O.M.C. 8.22.510 at the time the notice terminating tenancy was served.
+
+8.
+
+When a landlord seeks to evict a tenant under Subsection 6.A.9. or 10. [8.22,360 A.9., 10.], it shall be an affirmative defense if any child under the age of eighteen (18) enrolled in a school or any educator resides in the unit, the child or educator is a tenant in the unit or has a custodial or family relationship with a tenant in the unit, the tenant has resided in the unit for at least ninety (90) days, and the effective date of the notice of termination of tenancy falls during the regular school year of the Oakland Unified School District.
+
+a.
+
+For purposes of this Section, the following terms shall have the following meanings:
+
+i.
+
+"Custodial Relationship" means that the person is a legal guardian of the child, has a court-recognized caregiver authorization affidavit for the child, or has provided full-time custodial care of the child pursuant to an agreement with the child's legal guardian or court-recognized caregiver and has been providing that care for at least one (1) year or half of the child's lifetime, whichever is less.
+
+ii.
+
+"Educator" means any person who works on-site at a school in Oakland as an employee of the school or of the Oakland Unified School District, including, without limitation, all teachers, classroom and student support providers, school administrators and administrative staff, counselors, social workers, school health services workers, speech pathologists, custodial or maintenance workers, nutrition and/or food services workers, library services workers, child welfare workers, and attendance liaisons.
+
+iii.
+
+"Family relationship" means that the person is the parent, grandparent, sibling, niece, nephew, aunt, or uncle of the child or educator, or the spouse or domestic partner of such relation.
+
+iv.
+
+"School" for purposes of this Section means any State-licensed child care center, State-licensed family child care home, accredited community or junior college, and/or any public, private, or parochial institution that provides educational instruction for students in any or all of the grades from kindergarten through twelfth grade.
+
+9.
+
+Nonpayment of rent during COVID-19 pandemic. In an any unlawful detainer action based on nonpayment of rent or late fees that accrued between March 9, 2020, and July 14, 2023, it shall be a defense that the rent was late or unpaid because of a substantial reduction in household income or substantial increase in expenses resulting from the Coronavirus pandemic. Any notice demanding rent or late fees that accrued during this time period must:
+
+a.
+
+Be served together with a form developed by the Rent Adjustment Program that, among other things, allows the tenant to indicate that the financial hardship defense applies; and
+
+b.
+
+Include the following statement in bold underlined twelve-point font: "If you were unable to pay the rent or other fees demanded in this notice due to a substantial reduction in household income or substantial increase in expenses as a result of the COVID-19 pandemic, you may raise this as a defense to any eviction action based on this notice."
+
+10.
+
+In any action to recover possession of a rental unit filed under Subsections 8.22.360 A.8.—10. it shall be a defense if the landlord did not have a current business tax certificate at the time the notice terminating tenancy was served.
+
+E.
+
+In the event that new state or federal legislation confers a right upon landlords to evict tenants for a reason not stated herein, evictions proceeding under such legislation shall conform to the specifications set out in this Chapter [O.M.C. Chapter 8.22, Article II].
+
+F.
+
+The City Council is authorized to modify the Just Cause for Eviction Ordinance (Measure EE, O.M.C., Chapter 8, Article II (8.22.300 et seq.)) for the purpose of adding limitations on a landlord's right to evict, but the City Council may not modify any exemption from the ordinance from which this Section is derived contained in Section 8.22.350.
+
+(Ord. No. 13828, § 4, 12-17-2024; Ord. No. 13737, § 7, 5-2-2023; Res. No. 89315, § 3, 7-11-2022; Ord. No. 13693, § 4, 6-7-2022; Ord. No. 13608, § 4(Att. C), 7-21-2020; Ord. No. 13589, § 8, 3-27-2020; Res. No. 87325, § 2, 7-24-2018; Ord. 12537 § 1 (part), 2003; Ord. No. 13748, § 3, 6-20-2023)
+8.22.370 - Remedies.
+
+A.
+
+Remedies for violation of eviction controls.
+
+1.
+
+A tenant who prevails in an action brought by a landlord for possession of the premises shall be entitled to bring an action against the landlord and shall be entitled to recover actual and punitive damages, costs, and reasonable attorney's fees. [6]
+
+2.
+
+Whenever a landlord or anyone assisting a landlord wrongfully endeavors to recover possession or recovers possession of a rental unit in violation of Subsection 6(A) [8.22.360 A], the tenant or Board may institute a civil proceeding for injunctive relief, money damages of not less than three (3) times actual damages (including damages for mental or emotional distress), and whatever other relief the court deems appropriate. In the case of an award of damages for mental or emotional distress, said award shall only be trebled if the trier of fact finds that the landlord acted in knowing violation of or in reckless disregard of this ordinance. The prevailing tenant shall be entitled to reasonable attorney's fees and costs pursuant to order of the court.
+
+3.
+
+The remedies available in this section shall be in addition to any other existing remedies which may be available to the tenant.
+
+B.
+
+Violation of the Ordinance. Any violation of the provisions of this ordinance or application thereof shall entitle the aggrieved tenant to actual and punitive* damages according to proof and costs and attorney's fees.
+
+C.
+
+Authorization of City Attorney to enforce the Ordinance. The City Attorney shall have the authority to enforce provisions of this ordinance; to bring actions for injunctive relief on behalf of the City, or on behalf of tenants seeking compliance by landlords with the ordinance.
+
+D.
+
+It shall be unlawful for a landlord to refuse to rent or lease or otherwise deny to or withhold from any person any rental unit because the age of a prospective tenant would result in the tenant acquiring rights under this Chapter [O.M.C. Chapter 8.22, Article II]. Any person who refuses to rent in violation of the subsection shall, in addition to any other penalties provided by state or federal law, be guilty of a misdemeanor.
+
+E.
+
+It shall be unlawful for a landlord or any other person who willfully assists the landlord to endeavor to recover possession or to evict a tenant except as provided in Subsection 6(A) [8.22.360 A].
+
+(Ord. 12537 § 1 (part), 2003)
+Footnotes:
+--- (6) ---
+
+ Editor's note—The stricken through material was originally part of ordinance 12537 (Measure EE) but was ruled invalid in Alameda Superior Court No. RG03081362 (Kim v. City of Oakland) and accepted in the settlement of California Court of Appeals (1 st District) No. A114855 (Rental Housing Association of Northern Alameda County v. City of Oakland) effective November 13, 2007.
+
+8.22.380 - Non-waiverability.
+
+The provisions of this Chapter may not be waived, and any term of any lease, contract, or other agreement which purports to waive or limit a tenant's substantive or procedural rights under this ordinance are contrary to public policy, unenforceable, and void.
+
+(Ord. 12537 § 1 (part), 2003)
+8.22.390 - Partial invalidity.
+
+A.
+
+If any provision of this Chapter or application thereof is held to be invalid, this invalidity shall not affect other provisions or applications of this Chapter which can be given effect without the invalid provisions or applications, and to this end the provisions and applications of this Chapter are severable.
+
+B.
+
+If any provision of this Just Cause for Eviction Ordinance (Measure EE, O.M.C., Chapter 8, Article II (8.22.300 et seq.)) is invalidated or required to be modified by a court decision or change in State or Federal law, the City Council is authorized to make such modifications to conform to the court decision or change in state law provided such modifications effectuate the purpose of the Just Cause for Eviction Ordinance and the original text.
+
+(Res. No. 87325, § 3, 7-24-2018; Ord. 12537 § 1 (part), 2003)

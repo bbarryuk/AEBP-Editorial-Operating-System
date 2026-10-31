@@ -4,6 +4,16 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 
 ## [Unreleased]
 
+### Added — Primary source texts in `knowledge/sources/`, 2026-10-30
+
+Brian asked whether the bill and ordinance text files kept in OneDrive (`Website-Assets/Rental-Law-Resources/bill-texts`) should live in the repo for drafting and review. Yes: `EVD-SOURCE-HIERARCHY` ranks statutes and local ordinances highest, but until now the repo only linked to them, so a reviewer working from the GitHub copy couldn't check a quoted section without leaving the repo.
+
+- **Added `knowledge/sources/`** with 53 verbatim text files: 23 California code sections, 10 chaptered bills, Oakland (8), Berkeley (6, incl. Rent Board regulations Ch. 5 and 12 extracted from PDF), Emeryville (1), Richmond (2), Alameda County (2, the just-cause ordinance OCR'd from a scanned PDF) and HUD FY 2027 FMRs (1). Each file has a provenance header (official URL, version / Stats. note, date saved, EVD level, notes). `README.md` is the human manifest; `manifest.json` is the same data for automation.
+- **Not copied:** the Bornstein cheat sheets (law-firm copyrighted material; this repo is public), plugin zips, candidate spreadsheets, the Berkeley 13.76.070 excerpt (duplicate of 13.76), and the superseded Emeryville PDFs (2016 Ord. 16-011 and the older EMC printout).
+- **`docs/02-Evidence-and-Sourcing.md`** — new rule `EVD-SOURCE-SNAPSHOTS`: draft and review from the snapshot, verify against the live source before publishing, cite current code rather than session law, match the version to the publish date, check OCR text against the original.
+- **`knowledge/laws/*.md`** — all 10 files gained a `source_text:` frontmatter list pointing at the matching snapshots.
+- **Open items** (listed in `knowledge/sources/README.md`): several official URLs still need exact deep links; Oakland OMC 8.22 Art. V was saved from a 2020-labeled version; the AB 2025 text has no bill header; Civ. 1945/1962, B&P 10145 and Emeryville Ch. 3-1 are cited in `knowledge/laws` but not yet saved.
+
 ### Updated — company overview refreshed from live llms.txt, 2026-10-18
 
 `knowledge/company/overview.md` was last verified 2026-07-06 (review was due 2026-08-06). Flagged during the Oct 26 Week 4 cornerstone build. Brian asked for a refresh from the live llms.txt.

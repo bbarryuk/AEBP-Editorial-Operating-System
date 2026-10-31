@@ -1,0 +1,300 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: Alameda County CDA — Tenant protections staff report to Unincorporated Services Committee
+Jurisdiction: Alameda County (unincorporated)
+Source type: Agency staff report (EVD-SOURCE-HIERARCHY level 3)
+Official URL: https://www.acgov.org/  [to confirm (add agenda/report link)]
+Version: Report dated 2026-02-25
+Saved to OneDrive: 2026-10-06   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/AlamedaCounty-TenantProtections-StaffRpt-2-26-26.pdf
+Notes: Extracted from PDF with pdftotext.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+                             ALAMEDA COUNTY COMMUNITY DEVELOPMENT AGENCY
+
+
+      Sandra Rivera
+     Agency Director
+                       TO:                 Board of Supervisors Unincorporated Services Committee
+                                           Supervisor Nate Miley, Chair
+                                           Supervisor Lena Tam
+224 West Winton Ave
+          Room 110
+                       FROM:               Sandra Rivera, Director, Community Development Agency
+ Hayward, California
+                                           Michelle Starratt, Director, Housing and Community Development
+       94544-1215
+                       DATE:               February 25, 2026
+             phone
+       510.670.5333    SUBJECT:            Tenant Protections Update
+                 fax
+       510.670.6374
+                       Discussion
+ www.acgov.org/cda     On September 30, 2025 (Item No. 3), your Board requested an update on tenant
+                       protections in the Unincorporated County at your Committee. This report covers the
+                       ordinances for Just Cause and Mediation, and outlines the process by which the Rental
+                       Registry, Fair Chance, and Proactive Rental Inspection Pilot program will return to
+                       your Committee for review and subsequent board consideration. These programs serve
+                       both rental housing providers and tenants in the Unincorporated County.
+
+                       ADOPTED ORDINANCES
+
+                       Just Cause
+                       On February 4, 2025 (Item No. 44), your Board adopted the Just Cause for Eviction
+                       Ordinance, which closely follows state law. This ordinance lays out a protective legal
+                       framework to govern when and how a landlord may evict a tenant. Rental housing
+                       providers may only evict tenants when they can show one of the enumerated “just
+                       causes” is being used. These causes are divided between “At-Fault” reasons which
+                       relate to violations of a lease or other unlawful action by a tenant and “No-Fault”
+                       reasons such as owner move-in, substantial rehabilitation, and removal of a unit from
+                       the rental market.
+
+                       The ordinance does not include certain types of housing, including most single-family
+                       homes. Single family homes that are owned by corporations are exempt, and just cause
+                       protections are available to these tenants if they are aware that the property owner is a
+                       corporation. However, since corporations are not required to disclose ownership to the
+                       tenant or the county, each time a tenant receives an eviction notice, they must request
+                       ownership information to learn if their property is covered. HCD is exploring ways to
+                       easily access and provide this information to tenants. The ordinance also sets out
+                       required relocation due to a tenant in the case of a no-fault eviction and requires
+                       sending eviction notices to the County Community Development Agency (CDA).
+
+                       Since March 2025 when the Ordinance took effect, HCD has received 153 notices,
+                       mostly for nonpayment of rent.
+Unincorporated Services Committee
+February 25, 2026
+Page 2
+
+                       Reason for Eviction                                  Number
+    Nonpayment of Rent                                                                   143
+    Material Breach of Lease                                                               4
+    Intent to Withdraw Unit from the Rental Market                                         2
+    Intent to Demolish                                                                     1
+    Substantial Remodel                                                                    1
+
+Over 60 notices came from two multifamily properties that sent repeated notices for the same
+units over several months. HCD contacted the property managers who said that the buildings had
+built-up unpaid rent and as tenants make partial payments, eviction notices are resubmitted by
+the managers of these buildings to update the amount of unpaid rent shown on the notice.
+
+HCD collects countywide unlawful detainer filing data quarterly from the Alameda County
+Superior Court, which shows 62 unlawful detainers were filed for Unincorporated County
+residents between March and November 2025. During this same period, HCD received 108
+unlawful detainer notices.
+
+HCD receives more eviction notices than are ultimately filed in court. This is because informal
+evictions, those that never reach Court, are far more common than formal ones resulting from a
+Court ruling. According to the U.S. Census Bureau’s American Housing Survey (AHS), informal
+evictions occur 5.5 times more often than formal court evictions. In such cases a tenant “self-
+evict” to avoid having an eviction on their record after receiving an eviction notice or other
+communication from their landlord.
+
+Using the AHS data, the County would have expected to receive approximately 300 eviction
+notices between March and November 2025, given the 62 court filings.
+
+While the County’s ability to enforce Just Cause protections on informal evictions is limited, the
+low number of notices filed with HCD suggest there could be a larger number of rental units that
+are not complying with the ordinance or are not subject to it. Fully capturing informal and formal
+eviction trends in the unincorporated areas would require expansion of the ordinance to cover all
+rental units and creation of a rental registry.
+
+To ensure tenants know their rights under the Ordinance and rental housing providers follow Just
+Cause protections, further education and outreach services are necessary. With American Rescue
+Plan Act (ARPA) funding, HCD has provided resources to both East Bay Rental Housing
+Association (EBRHA) and My Eden Voice (MEV) to ensure both rental housing providers and
+tenants are aware of the Just Cause ordinance and its requirements. With the end of the ARPA
+program, additional resources are needed to ensure wide outreach and engagement to both
+tenants and rental property owners. For the current year, Measure W accrued funding was used
+to augment contracts and continue services. Future year funds would require additional
+investment.
+Unincorporated Services Committee
+February 25, 2026
+Page 3
+
+Mediation
+On November 12, 2024 (Item No. 33), your Board adopted the Rental Housing Dispute
+Resolution Ordinance. This ordinance requires landlords and tenants to engage in good faith
+mediation to resolve certain types of qualifying disputes upon the request of either party. The
+Ordinance specifies that the County will cover the cost of the intake and facilitation for this
+service.
+
+On December 10, 2024 (Item No. 19), your Board approved a contract with the Center for
+Community Dispute Settlement (CCDS) to provide mediation for rental housing providers and
+tenants upon request, as required by the Rental Housing Dispute Resolution Ordinance. CCDS
+has partnered with community groups and County departments to ensure tenants and rental
+housing providers are referred to the mediation program.
+
+                      Referring Entity                                 Number of Referrals
+ Alameda County Code Enforcement                                                                   7
+ Alameda County Rental Housing Provider Resource Center                                            3
+ Direct outreach by CCDS                                                                           3
+ Other                                                                                             3
+ My Eden Voice                                                                                     1
+ Total                                                                                            17
+
+CCDS performs intake for each referral or contact before scheduling a mediation with both
+parties.
+
+                              Result                                            Cases
+ Resolved through mediation                                                                    8
+ Ongoing                                                                                       5
+ Resolved via intake, education, or referral                                                   5
+ Partially resolved through mediation                                                          2
+ Not resolved through mediation                                                                1
+ Total                                                                                        21
+
+Cases were initiated for many reasons; habitability and issues related to nonpayment of rent or
+other fees were the most common with eight cases each.
+
+Of the cases that have been resolved, resolutions included:
+     Repossession and repayment
+     Partial payment of security deposit
+     Parking fee adjustment
+     Agreement to repayment plan
+     Agreement to habitability issue plan
+Unincorporated Services Committee
+February 25, 2026
+Page 4
+
+Stakeholders and CCDS staff have noted that mediation seekers often need education or other
+services rather than mediation as their issues are either not suited to mediation or they have
+questions rather than disputes. This points to the need for know-your-rights training and other
+resources for those seeking landlord/tenant services.
+
+PENDING ORDINANCES
+
+Fair Chance
+In December 2022, your Board passed the first reading of the Fair Chance Housing Ordinance,
+aiming to reduce housing discrimination against individuals with criminal records. The ordinance
+prohibited landlords from inquiring about or using an applicant's criminal history in housing
+decisions, with exemptions for owner-occupied properties with four or fewer units and subleases.
+As part of the Partnership for the Bay’s Future work, Fair Chance was discussed in nineteen
+stakeholder meetings, during which it was identified as one of eight priority tenant protection
+recommendations.
+
+This policy built upon similar laws in Berkeley and Oakland. The legal landscape for such
+ordinances was influenced by the Yim v. City of Seattle case. In 2023, the Ninth Circuit Court
+upheld Seattle's prohibition on rental housing providers taking adverse actions based on criminal
+history but struck down Seattle’s provision banning inquiries into such history, citing First
+Amendment concerns. The case was in the courts for several years.
+
+The 9th Circuit issued its final ruling on the Yim case in August of 2025; the final remaining
+issue was whether the Seattle ordinance could survive if the provision banning inquiries was
+severed. The Court determined it could.
+
+County Counsel staff are drafting a revised Fair Chance ordinance that adheres to the Yim
+decision and anticipates bringing the draft to your Committee for consideration this Summer
+after meeting with stakeholders. Staff will be presenting about Fair Chance to your Board’s
+Public Protection Committee on February 26, 2026.
+
+Rental Registry
+Local governments implement rental registration systems to enhance housing safety, improve
+code enforcement, and gain better data on rental market trends. These systems allow
+municipalities to track property ownership and contact information, ensure compliance with
+health and safety standards, and protect tenants from substandard housing conditions.
+Discussions regarding establishing a rental registry for units in unincorporated Alameda County
+have been underway since 2020, driven by concerns over rising rents, eviction risks, and
+substandard housing conditions in areas like Ashland, Cherryland, and San Lorenzo. With the
+passage of AB1482 in 2019, annual allowable statewide rent increases are tied to the base rent
+established in January 2020. However, without a registration system that includes information
+about the base rent, it is difficult to monitor rent increases for AB1482 enforcement at a local
+level. A Rental Registration program is a proactive measure to build the required infrastructure
+to regulate and oversee rental properties in each jurisdiction.
+Unincorporated Services Committee
+February 25, 2026
+Page 5
+
+After a Board work session on September 30, 2025 and discussions regarding the possibility of
+wrapping the rental registry into the County’s Business License Tax ordinance the Board gave
+direction to move forward with a standalone rental registry ordinance for Unincorporated County
+rental units. County Counsel staff are drafting a revised ordinance that creates a standalone
+registry and anticipates bringing the draft to your Committee for consideration this Spring after
+meetings with stakeholders.
+
+Proactive Rental Inspection Pilot Program Ordinance
+In September 2025, staff were directed to develop a 3.5-year proactive inspection pilot in
+Ashland, Cherryland, and Hayward Acres. This pilot introduces regular rental inspections to
+ensure safe, habitable housing conditions, targeting unincorporated areas with high renter
+populations. It prevents habitability-related evictions and supports long-term housing quality.
+This aligns with County goals of improving housing health and safety while preventing
+displacement in under-resourced communities. This pilot program is anticipated to be brought to
+your Committee this Summer after stakeholder meetings, and initial funding will be included in
+CDA’s Measure W proposal for the Unincorporated County.
+
+
+Landlord-Tenant Relations Ordinance
+On June 24, 2025, your Board approved receiving a $400,000 grant from the Metropolitan
+Transportation Commission for CDA work on transit-oriented community policies, a portion of
+which will be used to fund stakeholder outreach and staff time for creation of a landlord-tenant
+relations ordinance. This ordinance will include provisions against harassment of or retaliation
+against tenants, as well as clarity regarding rights and responsibilities of both parties. The
+ordinance will also include a forum for expressing landlord and tenant concerns. Stakeholder
+engagement is expected to begin in Summer 2026.
+
+Program Updates
+
+Fair Housing – ECHO Contract
+ECHO provides Fair Housing Counseling and Investigation, and Tenant/Landlord Counseling
+and Dispute Resolution services to urban and Unincorporated Alameda County residents.
+Services are targeted to eliminate discriminatory housing practices, provide information on basic
+housing rights and responsibilities for landlords and tenants, and provide mediation or
+conciliation to resolve disputes, specifically those related to residents and landlords negatively
+affected by the COVID-19 pandemic. From October through December 2025, ECHO served a
+total of 198 unduplicated clients. For Fair Housing, ECHO served 58 unduplicated clients. There
+were a total of 38 inquiries and 20 investigations. Cases covered familial status, physical
+disability, national origin, race, source of income, gender and sexual orientation. For
+tenant/rental property owner services, ECHO served 140 clients, resulting in 199 services, with
+the following primary concerns: evictions, deposits, harassment, retaliation, entry, habitability
+and rent increases.
+Unincorporated Services Committee
+February 25, 2026
+Page 6
+
+Alameda County Housing Secure
+In 2018, your Board approved the creation of the Alameda County Housing Secure Program.
+Through this program, the County funds a coalition of legal aid organizations to provide
+counseling, know your rights training, and, when possible, representation to tenants who cannot
+afford such services. This is a County-wide service, though ARPA funds were used to expand
+resources for Unincorporated County tenants specifically. The cities of Alameda, Berkeley,
+Emeryville, Hayward, Livermore, Oakland, and Pleasanton have similar contracts with Centro
+Legal or another legal services provider to provide greater capacity to their residents over that
+provided by AC Housing Secure. Currently, AC Housing Secure providers do not have the
+funding or staffing capacity to provide full-scope legal service to every tenant who needs
+assistance.
+
+A Bay Area Housing Finance Report found that there are 261 eviction fillings annually for every
+legal assistance attorney provided by AC Housing Secure and other similar programs—the
+recommended sustainable number of cases per year is 40-50. AC Housing Secure has served
+5,177 tenants and 391 homeowners since the launch of the program in 2018.
+
+As part of a temporary pilot program supported by ARPA funds, the ACHS program included
+independent in-court mediation services for landlord-tenant disputes, focusing on assisting low-
+income tenants at risk of displacement. Between February 2024 and August 2025, 142
+mediations were conducted and 99% of these evictions resulted in either a prevention of loss of
+the current housing, a negotiated or facilitated move-out, or another housing benefit. The funding
+for this pilot has now ended.
+
+Housing Provider Resource Center
+On July 9, 2024, your Board approved a contract with EBRHA for creation and operation of the
+Housing Provider Resource Center, using ARPA funds. The Center provides training, referrals,
+and consultation services for rental housing providers in the unincorporated County. Since its
+launch, the Resource Center has fielded almost 300 inquiries and hosted over 70 events.
+
+This Spring, HCD will contract with EBRHA for $150,000 in Measure W funds to continue their
+work with the Housing Providers Resource Center as well as $200,000 to conduct a minor home
+repair program for repairs costing up to $10,000 in rental units where low-income tenants reside.
+
+My Eden Voice
+On July 26, 2022, the Board approved a contract with MEV, a community-based organizing and
+advocacy group, to undertake outreach, education, trainings, and organization of Unincorporated
+County residents, using federal American Rescue Plan Act (ARPA) funds. During phase one,
+MEV completed a training initiative for residents, leaders, and grassroots organizations and
+administered the Leadership Academy for 54 participants and 4 organizations. Phase 2 of the
+program is ongoing and includes training, workshops, and development of civic participation
+models for unincorporated county residents.
+Unincorporated Services Committee
+February 25, 2026
+Page 7
+
+This Spring, HCD will contract with MEV for $150,000 of Measure W funds to continue their
+outreach and education work with tenants.
+

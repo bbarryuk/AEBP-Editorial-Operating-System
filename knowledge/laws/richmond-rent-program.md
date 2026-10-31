@@ -20,6 +20,9 @@ source:
   - https://www.ci.richmond.ca.us/DocumentCenter/View/62636/082022-Rights-and-Responsibilities-PP-Presentation_English_FINAL (new-tenancy AGA eligibility rule, added 2026-08-12)
   - City of Richmond "Master Fee Schedule – FY 2026-27" (approved by Rent Board 2026-05-13, dated 2026-06-23), supplied directly by Brian 2026-09-08 — p.14 (RRIP) and p.64 (Residential Rental Housing Fee)
   - knowledge/laws/rent-caps.md (AGA rate — this file defers to that one rather than restating)
+source_text:  # verbatim snapshots in knowledge/sources/ — verify against the live source before publishing (EVD-SOURCE-SNAPSHOTS)
+  - knowledge/sources/local/richmond/rmc-11.100-fair-rent-just-cause.txt
+  - knowledge/sources/local/richmond/guidance/rent-increase-aga-2026.txt
 ---
 
 # Richmond Rent Program — Coverage, Fees, Just Cause, Relocation

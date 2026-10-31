@@ -1,0 +1,434 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: OMC 8.22 Art. V — Tenant Protection Ordinance
+Jurisdiction: Oakland
+Source type: Municipal code (EVD-SOURCE-HIERARCHY level 2)
+Official URL: https://library.municode.com/ca/oakland/codes/code_of_ordinances  [to confirm (add chapter/article deep link)]
+Version: Original filename date 2020-07-21 matches Ord. 13608 adoption; confirm against current Municode before citing
+Saved to OneDrive: 2026-10-06   Added to repo: 2026-10-30
+Original file: Rental-Law-Resources/bill-texts/Oakland-MunCode-Ch8-Art5-07_21_2020.txt
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Article V. - Tenant Protection Ordinance[7]
+
+Footnotes:
+--- (7) ---
+
+Editor's note— Ord. No. 13608, § 2(Att. A), adopted July 21, 2020, repealed the former article V, §§ 8.22.600—8.22.680, and enacted a new article V as set out herein. The former article V pertained to similar subject matter and derived from Ord. No. 13542, § 3, 6-4-2019; Ord. No. 13265, § 1, 11-5-2014.
+
+8.22.600 - Tenant protection ordinance.
+
+This ordinance shall be known as the "Tenant Protection Ordinance" ("TPO").
+
+(Ord. No. 13608, § 2(Exh. A), 7-21-2020)
+8.22.610 - Findings and purpose.
+
+A.
+
+There is a very significant demand for rental housing in Oakland leading to rising rents, caused in part by the spillover of increasingly expensive housing costs in San Francisco.
+
+B.
+
+Rents in Oakland increased twelve percent (12%) in 2012 and fifteen percent (15%) in 2013 (Source: East Bay Express, February 12-18, 2014, "The Rise of the New Land Lords," sourcing Oakland Department of Housing and Community Development). As noted by a February 8, 2014 Oakland Tribune article ("High prices sending Bay Area renters and homebuyers to outlying communities"), "Squeezed by astronomical home prices and rents that are almost as unaffordable, a growing number of Bay Area residents are pulling up stakes and trading long commutes for cheaper housing."
+
+C.
+
+According to Oakland Department of Housing and Community Development citing to Zillow Real Estate Research, the estimated rent for all homes in Oakland for June 2014 two thousand one hundred twenty-four dollars ($2,124.00) is nearly eleven percent (11%) higher than that for the same month last year (one thousand nine hundred eighteen dollars ($1,918.00)), and rents have risen every month except for one (1) since January 2013 (18 months total). If current patterns persist, the estimated rent for all homes in June 2015 will be two thousand three hundred eighty-six dollars ($2,386.00). By comparison, the estimated median rent for all Oakland homes for June 2012 was one thousand eight hundred eighteen dollars ($1,818.00), a thirty-one percent (31%) increase in only thirty-six (36) months.
+
+D.
+
+On September 12, 2014, the San Francisco Examiner reported that "San Francisco and Oakland have the distinction of having some of the highest rental rate increases in the nation for the month of August," with Oakland's rents increasing fourteen and four-tenths percent (14.4%) since last year, according to data collected by Trulia.
+
+E.
+
+The rising market demand for rental housing in Oakland creates an incentive for some landlords to engage in harassing behavior or fail to make repairs to pressure existing tenants in rent controlled units to move so that rents can be raised. Existing remedies, such as petitioning the Rent Adjustment Program to restore a rental rate or order repairs, or employing an attorney at great cost to file a lawsuit to enforce state law of lease provisions, are insufficient deterrents to engaging in the illegal conduct in the first place.
+
+F.
+
+The imbalance between supply and demand creates an imbalance of bargaining power between landlords and tenants, which has resulted in many tenants, especially those not in rent controlled units, being unwilling or unable to assert their legal rights, which is detrimental to the health, safety and general welfare of Oakland because the stability, security and quality of housing opportunities are reduced.
+
+G.
+
+The Rent Adjustment Program office of the City of Oakland has conservatively estimated receiving one hundred (100) to two hundred (200) complaints each month from tenants claiming landlord harassment, many of which are completely outside the jurisdiction of the Rent Adjustment Program.
+
+H.
+
+Numerous press articles have reported on the rise of tenant harassment throughout the Bay Area.
+
+I.
+
+Data from organizations providing services to low-income renters in Oakland, including East Bay Community Law Center and Centro Legal de la Raza, indicate that some of their clients live in housing with habitability problems and experience landlord harassment.
+
+J.
+
+Of the approximately four hundred eighty (480) Oakland tenants who received legal services at Centro Legal de la Raza during fiscal year 2014 (July 1, 2013 through June 30, 2014), approximately forty percent (40%) faced harassment by their landlords. The forms of harassment varied, but included one or more of the following in each case:
+
+1.
+
+Interrupting, terminating, failing to provide or threatening to interrupt, terminate or fail to provide housing services required by contract or by State, County or municipal housing, health or safety laws;
+
+2.
+
+Failing to perform required repairs and/or maintenance or threatening to fail to do so;
+
+3.
+
+Failing to exercise due diligence in completing repairs and maintenance once undertaken or failing to follow appropriate industry repair, containment or remediation protocols designed to minimize exposure to noise, dust, lead paint, mold, asbestos, or other building materials with potentially harmful health impacts;
+
+4.
+
+Abusing the owner's right of access into a rental housing unit as that right is provided by law;
+
+5.
+
+Unlawfully removing from the rental unit personal property, furnishings, or any other items without the prior written consent of the tenant;
+
+6.
+
+Influencing, or attempting to influence, a tenant to vacate a rental unit through fraud, intimidation or coercion;
+
+7.
+
+Attempting to coerce a tenant to vacate with offer(s) of payments to vacate which ate accompanied with threats or intimidation;
+
+8.
+
+Threatening the tenant, by word or gesture, with physical harm;
+
+9.
+
+Substantially and directly interfering with a Tenant's right to quiet use and enjoyment of a rental housing unit as that right is defined by California law;
+
+10.
+
+Fraudulently refusing to accept or acknowledge receipt of a Tenant's lawful rent payment.
+
+K.
+
+A majority of Oakland residents are renters. The rental housing units in the City of Oakland include many subject to rent stabilization and some that are not. The cities of San Francisco, Santa Monica, West Hollywood, and East Palo Alto have each passed ordinances prohibiting various forms of harassment by landlords and their agents against tenants.
+
+L.
+
+The City Council of Oakland recognizes that displacement of tenants is a major concern and is interested in putting forth policies that help to maintain the ability of people in all income categories to live in our City. The increased housing pressures for residents across a range of lower and middle income levels warrants improved rent stabilization and tenant protection policies, as well as assessment of statutory damages against landlords who engage in tenant harassment. The City Council finds that reasonable regulation of aspects of the landlord-tenant relationship is necessary in order to foster constructive communication, maintain an adequate supply of a variety of rental housing options, and protect health, safety, and the general welfare of the public.
+
+M.
+
+The purpose of this policy is to deter harassing behavior by landlords, to encourage landlords to follow the law and uphold their responsibility to provide habitable rental properties, and to give tenants and the City of Oakland legal recourse where tenants are subjected to harassing behavior by landlords.
+
+N.
+
+The provisions of the Tenant Protection Ordinance shall be construed liberally for the accomplishment of its purposes.
+
+O.
+
+In order to carry out the purposes of the Tenant Protection Ordinance and safeguard tenants' rights against harassing behavior, the limitations period set out in Section 8.22.670 E. of the Ordinance should be interpreted so as to promote the resolution of potentially meritorious claims.
+
+(Ord. No. 13608, § 2(Exh. A), 7-21-2020)
+8.22.620 - Definitions.
+
+As used in this Chapter, Article V:
+
+"Affordable housing provider" means an owner that provides housing in a building in which at least eighty percent (80%) of the units are restricted to occupancy at an affordable rent or an affordable housing cost for persons and families of low and moderate income as defined in California Health and Safety Code Section 50093. The terms "affordable rent" and "affordable housing cost" shall be as defined in California Health and Safety Code Sections 50053 and 50052.5 and their implementing regulations. Such housing shall have terms of affordability equivalent to those prescribed in California Health and Safety Code Sections 33334.3(f)(1)(A) for rental housing and 33334.3(f)(1)(B) for owner occupied housing.
+
+"Catastrophically III" means Disabled and suffering from a life-threatening illness, as certified by the Tenant's primary care physician.
+
+"City Administrator" means the Oakland City Administrator or his or her designee.
+
+"City Attorney" means the Oakland City Attorney or his or her designee.
+
+"Elderly" means elderly as that term is defined in O.M.C. 8.22.410.
+
+"Disabled" means disabled as that term is defined in O.M.C. 8.22.410.
+
+"Health Facility" has the same meaning as in the Just Cause for Eviction Ordinance (O.M.C. 8.22.340).
+
+"Owner" has the same meaning as "Landlord" in the Just Cause for Eviction Ordinance (O.M.C. 8.22.340).
+
+"Owner of Record" has the same meaning as in the Just Cause for Eviction Ordinance (O.M.C. 8.22.340).
+
+"Rent" has the same meaning as in the Just Cause for Eviction Ordinance (O.M.C. 8.22.340).
+
+"Rent Board" has the same meaning as in the Just Cause for Eviction Ordinance (O.M.C. 8.22.340).
+
+"Rental Agreement" has the same meaning as in the Just Cause for Eviction Ordinance (O.M.C. 8.22.340).
+
+"Rental Unit" has the same meaning as in the Just Cause for Eviction Ordinance (O.M.C. 8.22.340).
+
+"Tenant" means any renter, tenant, subtenant, lessee, or sublessee of a rental unit, or any group of renters, tenants, subtenants, lessees, sublessees of a rental unit, or any other person entitled to the use or occupancy of such rental unit. This includes occupants of residential hotels against whom violations of California Civil Code Section 1940.1 have occurred.
+
+"Skilled Nursing Facility" has the same meaning as in the Just Cause for Eviction Ordinance (O.M.C. 8.22.340).
+
+(Ord. No. 13608, § 2(Exh. A), 7-21-2020)
+8.22.630 - Applicability and exemptions.
+
+A.
+
+The TPO shall apply to all Rental Units where there is a Rental Agreement between an Owner and one or more Tenants, unless exempted herein. The application of the TPO includes units that may not be covered under the Rent Adjustment Ordinance (O.M.C. 8.22.010, et seq.) or the Just Cause for Eviction Ordinance (O.M.C. 8.22.300, et seq.)
+
+B.
+
+Exemptions.
+
+1.
+
+RESERVED.
+
+2.
+
+Rental Units in any Hospital, Skilled Nursing Facility, or Health Facility.
+
+3.
+
+Rental Units in a nonprofit facility that has the primary purpose of providing short term treatment, assistance, or therapy for alcohol, drug, or other substance abuse and the housing is provided incident to the recovery program, and where the client has been informed in writing of the temporary or transitional nature of the housing at its inception and is licensed for such purpose where such license is required.
+
+4.
+
+Rental Units in a nonprofit facility which provides a structured living environment that has the primary purpose of helping homeless persons obtain the skills necessary for independent living in permanent housing and where occupancy is restricted to a limited and specific period of time of not more than twenty-four (24) months and where the client has been informed in writing of the temporary or transitional nature of the housing at its inception and is licensed for such purpose where such license is required.
+
+5.
+
+Rental Units exempted from Part 4, Title 4, Chapter 2 of the California Civil Code (CCC) by CCC § 1940(b) (transient occupancy in hotels/motels) unless the Owner violates CCC § 1940.1 to avoid tenancy status. In those circumstances, the specific Rental Units where such violations have taken place shall not be exempt.
+
+(Ord. No. 13608, § 2(Exh. A), 7-21-2020)
+8.22.640 - Tenant harassment.
+
+A.
+
+No Owner or such Owner's agent, contractor, subcontractor, or employee, shall do any of the following, in bad faith. Subsections 15. and 17.—21. shall apply beginning April 21, 2020.
+
+1.
+
+Interrupt, terminate, or fail to provide housing services required by contract or by State, County or municipal housing, health or safety laws, or threaten to do so;
+
+2.
+
+Fail to perform repairs and maintenance required by contract or by State, County or municipal housing, health or safety laws, or threaten to do so;
+
+3.
+
+Fail to exercise due diligence in completing repairs and maintenance once undertaken or fail to follow appropriate industry repair, containment or remediation protocols designed to minimize exposure to noise, dust, lead paint, mold, asbestos, or other building materials with potentially harmful health impacts;
+
+4.
+
+Abuse the Owner's right of access into a rental housing unit as that right is provided by law;
+
+5.
+
+Remove from the Rental Unit personal property, furnishings, or any other items without the prior written consent of the Tenant, except when done pursuant to the procedure set forth in Civil Code section 1980, et seq. (disposition of Tenant's property after termination of tenancy).
+
+6.
+
+Influence or attempt to influence a Tenant to vacate a Rental Unit through fraud, intimidation or coercion. This includes threatening to report a Tenant or other person known to the Owner to be associated with a Tenant to any local, state, or federal agency on the basis of their perceived or actual immigration status. The prohibition shall not be construed as preventing communication with such agencies regarding an alleged immigration violation;
+
+7.
+
+Offer payments to a Tenant to vacate more than once in six (6) months, after the Tenant has notified the Owner in writing the Tenant does not desire to receive further offers of payments to vacate;
+
+8.
+
+Attempt to coerce a Tenant to vacate with offer(s) of payments to vacate which are accompanied with threats or intimidation. This shall not include settlement offers made in good faith and not accompanied with threats or intimidation in pending eviction actions;
+
+9.
+
+Threaten the Tenant or their guests, by word or gesture, with physical harm;
+
+10.
+
+Substantially and directly interfere with a Tenant's right to quiet use and enjoyment of a rental housing unit as that right is defined by California law;
+
+11.
+
+Refuse to accept or acknowledge receipt of a Tenant's lawful rent payment, except as such refusal may be permitted by state law after a notice to quit has been served on the Tenant and the time period for performance pursuant to the notice has expired;
+
+12.
+
+Refuse to cash a rent check or money order for over thirty (30) days unless a written receipt for payment has been provided to the Tenant, except as such refusal may be permitted by state law after a notice to quit has been served on the Tenant and the time period for performance pursuant to the notice has expired;
+
+13.
+
+Interfere with a Tenant's right to privacy. This includes, but is not limited to: video or audio recording that captures the interior of a Tenant's unit, entering or photographing portions of a Rental Unit that are beyond the scope of a lawful entry or inspection, unreasonable inquiry into a Tenant's relationship status or criminal history, and unreasonable restrictions on or inquiry into overnight guests;
+
+14.
+
+Request information that violates a Tenant's right to privacy, including but not limited to residence or citizenship status or social security number, except as required by law or, in the case of a social security number, for the purpose of obtaining information for the qualifications for a tenancy, or not release such information except as required or authorized by law. This includes a refusal to accept equivalent alternatives to information or documentation that does not concern immigration or citizenship status, e.g. an Individual Taxpayer Identification Number (ITIN);
+
+15.
+
+Unilaterally impose or require an existing tenant to agree to new material terms of tenancy or a new rental agreement, unless: (1) the change in the terms of the tenancy is authorized by the Rent Adjustment Ordinance or California Civil Code Sections 1946.2(f), 1947.5, or 1947.12, or required by federal, state, or local law or regulatory agreement with a government agency; or (2) the change in the terms of the tenancy was accepted in writing by the Tenant after receipt of written notice from the Owner that the Tenant need not accept such new term as part of the rental agreement;
+
+16.
+
+Removing a housing service for the purpose of causing the Tenant to vacate the Rental Unit;
+
+17.
+
+Engage in conduct that violates California Civil Code Section 789.3, including but not limited to an illegal lockout and utility shutoff;
+
+18.
+
+Violate the Unruh Civil Rights Act (California Civil Code 51 et seq.);
+
+19.
+
+Commit elder financial abuse as defined by California Welfare and Institutions Code 15610.30 et seq. of a Tenant;
+
+20.
+
+Misrepresent to a Tenant that they are required to vacate a Rental Unit or otherwise entice a Tenant to vacate a Rental Unit through misrepresentations or concealment of material facts;
+
+21.
+
+Force a Tenant to vacate their Rental Unit and reregister in order to avoid classification as a tenant under Civil Code 1940.1. Forced vacation can be implied from the totality of the circumstances;
+
+22.
+
+Other repeated acts or omissions of such significance as to substantially interfere with or disturb the comfort, repose, peace or quiet of any person lawfully entitled to occupancy of such dwelling unit and that cause, are likely to cause, or are intended to cause any person lawfully entitled to occupancy of a dwelling unit to vacate such dwelling unit or to surrender or waive any rights in relation to such occupancy.
+
+B.
+
+Retaliation Prohibited. Retaliation against a Tenant because of the Tenant's exercise of rights under the TPO is prohibited. Retaliation claims may only be brought in court and may not be addressed administratively. A court may consider the protections afforded by the TPO in evaluating a claim of retaliation.
+
+C.
+
+Evictions. Nothing in the TPO shall be construed as to prevent an Owner from lawfully evicting a Tenant pursuant to state law or Oakland's Just Cause for Eviction Ordinance. (O.M.C. 8.22.300, et seq.).
+
+D.
+
+Rent Adjustments. Nothing in the TPO shall be construed as to prevent an Owner from lawfully increasing a Tenant's rent pursuant to state law or Oakland's Rent Adjustment Ordinance (O.M.C. 8.22.100, et seq.), and such increases shall not be deemed violations of Section 8.22.640 of the TPO.
+
+E.
+
+Notice to Tenants.
+
+1.
+
+Commencement.
+
+a.
+
+For Rental Units covered by the Rent Adjustment Ordinance the Notice at Commencement of Tenancy required by O.M.C. 8.22.060 shall include a reference to the TPO.
+
+b.
+
+For all Rental Units that are not covered by the Rent Adjustment Ordinance, Owners are required to provide a notice regarding the TPO to all Tenants using the required form prescribed by the City staff.
+
+2.
+
+Common area. If Rental Units subject to this ordinance are located in a building with an interior common area that all of the building's Tenants have access to, the Owner must post a notice in at least one such common area in the building via a form prescribed by the City staff.
+
+F.
+
+Repairs and maintenance. Nothing in the TPO shall be construed as requiring different timelines or standards for repairs or maintenance, as required by contract or State, County or municipal housing, health, and safety laws, or according to appropriate industry protocols.
+
+G.
+
+Severances Prohibited. The following amenities, supplied in connection with use or occupancy of a rental unit, may not be severed from a tenancy without good cause: (1) Garage facilities, parking facilities, driveways, storage spaces, laundry rooms, decks, patios, or gardens on the same lot; (2) kitchen facilities, toilet facilities, or lobbies in residential hotels. For purposes of this Subsection, good cause shall include (1) requirement by federal, state, or local law, such as O.M.C. Chapter 15.27, (2) acceptance of the severance in writing by the Tenant after receipt of written notice from the Owner that the Tenant need not accept the severance, (3) ownership by an affordable housing provider as defined by Section 8.22.620 where either (a) the severance is unavoidable in order for the addition of one or more new affordable housing units to proceed and the owner has obtained all necessary permits for constructing the additional unit(s) or (b) the severance results from the removal of a balcony for which repair or removal was necessary for safety and the owner has obtained all necessary permits for the removal, (4) addition of one or more Accessory Dwelling Units (as defined by Government Code Section 65852.2(j)(1), provided that the owner has obtained all necessary permits for constructing the additional unit(s) and the severance is not of a garage facility, parking facility, or driveway more than one-half mile from a designated transit hub, or a laundry room, and is unavoidable in order for the addition of the unit(s) to proceed, and (5) other good cause as provided by regulation, adopted in the same manner as provided by Rent Adjustment Program Regulation Section 8.22.040 B.4.b. A severance does not include noticed temporary unavailability of the above housing services in order to perform necessary work with all required permits. For units covered under the Rent Adjustment Ordinance, any severance permitted under this Section shall be offset by a corresponding reduction in rent. Either an owner or a tenant may file a petition with the Rent Adjustment Program to determine the amount of the rent reduction. This subsection shall apply beginning April 21, 2020.
+
+H.
+
+Late payment fees. Late fees may not be imposed except if provided for in a written rental agreement. Notwithstanding any lease provision to the contrary, fees for late payment of rent shall not exceed a total of three percent (3%) of the monthly rent for each payment of rent and may only be applied for rent which is five (5) or more days overdue. This subsection shall only apply if the applicable written rental agreement was entered into or renewed on or after April 16, 2020.
+
+(Ord. No. 13608, § 2(Exh. A), 7-21-2020)
+8.22.650 - General remedies.
+
+A.
+
+Violations of the TPO. Violations of section 8.22.640 may be enforced by civil remedies as set forth in this section or as otherwise specifically set out in this O.M.C article.
+
+B.
+
+Notice requirement for Tenants. Before a Tenant may file a civil suit alleging a violation of Subsection 8.22.640.A.1., 2., 3., 10., 11., 12., or 13., the affected Tenant must first notify the Owner or his or her designated agent regarding the problem. If the allegation is a violation of Subsections 8.22.640.A.1., 2., 3.,11., or 12., the Tenant must allow fifteen (15) days for the Owner to correct the problem, unless the Owner notifies the Tenant that the repairs will take more than fifteen (15) days and provides for a reasonable time period for completion. If the repair takes more than fifteen (15) days, the Tenant may file the civil suit if the Owner does not take reasonable steps to commence addressing the problem or the Owner does not follow through to complete the repairs with reasonable diligence. However, no fifteen (15) day waiting period shall apply if the Owner's conduct is intentional and demonstrates a willful disregard for the comfort, safety or wellbeing of the Tenant(s).
+
+C.
+
+In addition to the remedies provided in the TPO, a violator is liable for such costs, expenses, and disbursements paid or incurred by the City in abatement and prosecution of the violation.
+
+D.
+
+The remedies available in the TPO are not exclusive and may be used cumulatively with any other remedies in this Chapter or at law.
+
+(Ord. No. 13608, § 2(Exh. A), 7-21-2020)
+8.22.660 - Reserved.
+8.22.670 - Civil remedies.
+
+A.
+
+General Civil Remedies.
+
+1.
+
+Enforcement by Aggrieved-Tenant. An aggrieved Tenant may bring a civil action for any combination of equitable relief, actual or statutory damages, and restitution for any violation of 8.22.640.
+
+2.
+
+Enforcement by City Attorney. The City Attorney may enforce the TPO through civil action for equitable relief, restitution, and/or penalties when the party against whom enforcement is sought has a pattern and practice of violating the TPO. A court may award civil penalties of up to one thousand dollars ($1,000.00) per day for each violation of subsection 8.22.640 A., B., E., G., or H. A court may award punitive damages in a proper case as set out in Civil Code Section 3294 and pursuant to the standards set forth in that Code Section or any successor thereto. The City Attorney may also request that an administrative citation or civil penalty be issued by the City. The City Attorney has the sole discretion to determine the cases appropriate for enforcement by the City Attorney's Office.
+
+B.
+
+Special Damages.
+
+1.
+
+Tenant Enforcement.
+
+a.
+
+Any person who violates, aids, or incites another person to violate subsection 8.22.640 A., E., G., or H. is liable in a court action for each and every such offense for money damages of not less than three (3) times actual damages suffered by an aggrieved Tenant (including damages for mental or emotional distress), or for minimum damages in the sum of one thousand dollars ($1,000.00), whichever is greater, and whatever other relief the court deems appropriate. In the case of an award of damages for mental or emotional distress, said award shall only be trebled if the trier of fact finds that the Owner acted in knowing violation of or in reckless disregard of the TPO.
+
+b.
+
+Any person who violates, aids, or incites another person to violate subsection 8.22.640 A., E., G., or H. with respect to Elderly or Disabled Tenants is liable in a court action for each and every such offense for money damages of no less than three (3) times the actual damages suffered by the aggrieved Tenant(s) (including damages for mental or emotional distress), or for minimum damages of two thousand dollars ($2,000.00), whichever is greater.
+
+c.
+
+Any person who violates, aids, or incites another person to violate subsection 8.22.640 A., E., G., or H. with respect to Catastrophically III Tenants is liable in a court action for each and every such offense for money damages of no less than three (3) times the actual damages suffered by the aggrieved tenant(s) (including damages for mental or emotional distress), or for minimum damages of two thousand five hundred dollars ($2,500.00), whichever is greater.
+
+d.
+
+A Tenant may only receive one form of heightened penalties as between Elderly, Disabled, and Catastrophically III.
+
+e.
+
+Any violation of Subsection 8.22.640 A.6. for threatening to report a Tenant or other person known to the Owner to be associated with a Tenant on the basis of their perceived or actual immigration status is liable in a court action for each and every such offense for money damages of no less than three (3) times the actual damages suffered by the aggrieved Tenant(s) (including damages for mental or emotional distress), or for minimum damages of two thousand dollars ($2,000.00), whichever is greater.
+
+f.
+
+A court may award punitive damages in a proper case as set out in Civil Code Section 3294 and pursuant to the standards set forth in that Code Section or any successor thereto, but may not award both punitive damages and treble damages.
+
+C.
+
+Equitable Relief. Any person who commits an act, proposes to commit an act, or engages in any pattern and practice which violates the TPO may be enjoined therefrom by any court of competent jurisdiction. A court may make such orders or judgments, including the appointment of a receiver, as may be necessary to prevent the use or employment by any person of any practice which violates this ordinance or as may be necessary to restore to any person in interest any money or property, real or personal, which may have been acquired through practices that violate this ordinance. An action for equitable relief under this Subsection may be brought by any aggrieved Tenant, by the City Attorney (for a pattern and practice only), or by an aggrieved Tenant who will fairly and adequately represent the interest of the protected class.
+
+D.
+
+Attorney's Fees and Costs
+
+1.
+
+Action by City Attorney. In any administrative, civil, or special proceeding brought pursuant to the TPO, the City may, at the initiation of the proceeding, seek an award of attorney's fees. If the City seeks an award of attorney's fees, the award shall be made to the prevailing party. Provided however, that no award may be made to a prevailing party that exceeds the amount of reasonable attorney's fees incurred by the City in the action or proceeding. Court costs may be awarded to a prevailing party pursuant to state law.
+
+2.
+
+Action by Tenant. In any civil action brought pursuant to the TPO, the prevailing Tenant is entitled to recover the Tenant's reasonable attorney's fees. A defendant Owner may recover reasonable attorney's fees if the complaint brought by the Tenant was devoid of merit and brought in bad faith. Court costs may be awarded to a prevailing party pursuant to state law.
+
+3.
+
+Costs of Investigation. In the event the City Attorney brings an administrative, civil, or special proceeding pursuant to the TPO, the City Attorney may recover its costs of investigation.
+
+E.
+
+Statute of Limitations. The statute of limitations for an action shall be three (3) years, and all remedies under the Ordinance are available for the entire statutory period.
+
+(Ord. No. 13608, § 2(Exh. A), 7-21-2020)
+8.22.680 - Miscellaneous.
+
+A.
+
+Regulations and Forms. The Rent Board has the authority to make such regulations to implement this O.M.C. Chapter 8.22 Article V as are not inconsistent with the TPO, provided, however, that if the Rent Board has not issued initial regulations within such time as the City Council may proscribe, the City Administrator is authorized to make interim regulations.
+
+Within ninety (90) days of the effective date of the TPO, the City Administrator shall develop forms to implement subsection 8.22.640 E. Any changes to the initial forms shall be effective thirty (30) days after they are made available to the public at the Rent Adjustment Program offices, unless the City Administrator makes a finding that an earlier or later date is necessary. All Forms required by the TPO are vital communication documents and shall be translated and distributed in accordance with the Equal Access to Services Ordinance, O.M.C Chapter 2.30.
+
+B.
+
+Non-waiverability. Any provision, whether oral or written, in or pertaining to a rental agreement whereby any provision of the TPO is waived or modified, is against public policy, void, and unenforceable.
+
+(Ord. No. 13608, § 2(Exh. A), 7-21-2020)
