@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10269,
+  "title": "Berkeley and Oakland Rent Increases for 2027 Explained (Video)",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "c4534e57057f7ec5bebccc3578c4f5cbb18d875c",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10269,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10269",
+    "revision_id": null,
+    "modified_gmt": null
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex (GPT-6)"
+  },
+  "timestamp": "2026-10-31T03:37:26.101Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10269-F01",
+          "quote": "So a tenant who moved in any time in 2025 gets their first increase on January 1, 2027.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The script makes eligibility sound automatic and applies Berkeley's fully-covered-unit rule to all Berkeley rentals. The page's introduction and takeaways repeat the broad claim; lease and compliance conditions are omitted. Source: https://rentboard.berkeleyca.gov/rights-responsibilities/rent-levels/annual-general-adjustment",
+          "fix": "Replace with: 'For fully rent-controlled Berkeley units, 2025 move-ins first become AGA-eligible on January 1, 2027; 2026 move-ins first become eligible in January 2028, subject to the lease, proper notice and Rent Board compliance.' Use the same qualifications in the introduction, takeaways and parent script.",
+          "future_prevention": "Recheck page prose, takeaways and script together whenever the parent changes."
+        },
+        {
+          "finding_id": "10269-F02",
+          "quote": "Units covered only by state law can go up as much as eight point eight percent.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The script does not state the August 2026-July 2027 window for this rate or its rolling-period limit; it can sound like a fresh increase allowance at each anniversary. The page should not imply every state-only unit can take the full amount regardless of earlier increases.",
+          "fix": "Replace with: 'For AB 1482-only units, the cap for increases effective August 1, 2026 through July 31, 2027 is 8.8% over a rolling 12 months, not an additional 8.8% after an earlier increase.' Use the same date window in Key Takeaways. The official Oakland allowable-increases page corroborates 8.8%; the DRE 2026 guide corroborates the rolling-period framework.",
+          "future_prevention": "Include the effective window and rolling-period basis in every standalone rate summary."
+        },
+        {
+          "finding_id": "10269-F03",
+          "quote": "For a January 1 increase, mail the thirty-day notice by November 25, or deliver it in person by December 1.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "This standalone instruction omits when 30 days is enough and assumes within-California mailing. The targets provide adequate buffer for that scenario; the error is their universal framing. Official DRE 2026 guide, printed pp.44-46: https://www.dre.ca.gov/publications/ResourceGuidebook/2026_Landlord_Tenant_Guide.pdf",
+          "fix": "Replace with: 'For a lawful January 1 increase that qualifies for 30-day notice, our conservative targets are November 25 for first-class mailing within California, or December 1 for personal delivery. Larger cumulative increases or mailing from elsewhere need a different notice calculation.' Repeat this qualification in the takeaways and cite the DRE guide in Resources.",
+          "future_prevention": "Carry the notice scenario's conditions into short-form scripts."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10269-F01",
+          "quote": "So a tenant who moved in any time in 2025 gets their first increase on January 1, 2027.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The script makes eligibility sound automatic and applies Berkeley's fully-covered-unit rule to all Berkeley rentals. The page's introduction and takeaways repeat the broad claim; lease and compliance conditions are omitted. Source: https://rentboard.berkeleyca.gov/rights-responsibilities/rent-levels/annual-general-adjustment",
+          "fix": "Replace with: 'For fully rent-controlled Berkeley units, 2025 move-ins first become AGA-eligible on January 1, 2027; 2026 move-ins first become eligible in January 2028, subject to the lease, proper notice and Rent Board compliance.' Use the same qualifications in the introduction, takeaways and parent script.",
+          "future_prevention": "Recheck page prose, takeaways and script together whenever the parent changes."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10269-F05",
+          "quote": "🎥 Video in production. The embed will appear here once it's published.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "The video page is not production-complete. 'Video Script' is correctly labeled, but there is no finished recording to compare or transcript to verify. Metadata and balanced block comments were inspected; inaccessible draft previews prevent verification of rendered schema, editor validity and final URLs.",
+          "fix": "Keep this post in draft until the recording is embedded and checked against the script. Keep 'Video Script' until a verbatim transcript is available; then use 'Video Transcript' with the checked spoken text. Verify rendered VideoObject metadata against the final video and confirm the parent article link in an authenticated preview.",
+          "future_prevention": "Require a separate completed-media and rendered-page check before clearing the video page."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10269-F04",
+          "quote": "That's why, at AEBP, Berkeley is the one city where we raise rent on January 1.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "The cited company records support the portfolio count, but not the new January 1 and anniversary policies or unit-level tracking practices. No relevant confirmation appeared in the anecdote log.",
+          "fix": "Retain only after Brian confirms the practice in an identifiable internal record. Pending confirmation, replace with: 'For eligible fully covered Berkeley units, January 1 can avoid waiting until a later lease anniversary.' Replace 'Outside Berkeley, we time increases to each unit’s lease anniversary' with 'Outside Berkeley, check the lease and the local eligibility rules before choosing an increase date.' Remove unconfirmed tracking claims from the CTA; retain the documented 600+ unit count.",
+          "future_prevention": "Use documented operational facts or clearly framed professional analysis."
+        }
+      ]
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-COMPANION-VIDEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10269-F05",
+          "quote": "🎥 Video in production. The embed will appear here once it's published.",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "The video page is not production-complete. 'Video Script' is correctly labeled, but there is no finished recording to compare or transcript to verify. Metadata and balanced block comments were inspected; inaccessible draft previews prevent verification of rendered schema, editor validity and final URLs.",
+          "fix": "Keep this post in draft until the recording is embedded and checked against the script. Keep 'Video Script' until a verbatim transcript is available; then use 'Video Transcript' with the checked spoken text. Verify rendered VideoObject metadata against the final video and confirm the parent article link in an authenticated preview.",
+          "future_prevention": "Require a separate completed-media and rendered-page check before clearing the video page."
+        }
+      ]
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10269-F01",
+          "quote": "So a tenant who moved in any time in 2025 gets their first increase on January 1, 2027.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The script makes eligibility sound automatic and applies Berkeley's fully-covered-unit rule to all Berkeley rentals. The page's introduction and takeaways repeat the broad claim; lease and compliance conditions are omitted. Source: https://rentboard.berkeleyca.gov/rights-responsibilities/rent-levels/annual-general-adjustment",
+          "fix": "Replace with: 'For fully rent-controlled Berkeley units, 2025 move-ins first become AGA-eligible on January 1, 2027; 2026 move-ins first become eligible in January 2028, subject to the lease, proper notice and Rent Board compliance.' Use the same qualifications in the introduction, takeaways and parent script.",
+          "future_prevention": "Recheck page prose, takeaways and script together whenever the parent changes."
+        },
+        {
+          "finding_id": "10269-F02",
+          "quote": "Units covered only by state law can go up as much as eight point eight percent.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The script does not state the August 2026-July 2027 window for this rate or its rolling-period limit; it can sound like a fresh increase allowance at each anniversary. The page should not imply every state-only unit can take the full amount regardless of earlier increases.",
+          "fix": "Replace with: 'For AB 1482-only units, the cap for increases effective August 1, 2026 through July 31, 2027 is 8.8% over a rolling 12 months, not an additional 8.8% after an earlier increase.' Use the same date window in Key Takeaways. The official Oakland allowable-increases page corroborates 8.8%; the DRE 2026 guide corroborates the rolling-period framework.",
+          "future_prevention": "Include the effective window and rolling-period basis in every standalone rate summary."
+        },
+        {
+          "finding_id": "10269-F03",
+          "quote": "For a January 1 increase, mail the thirty-day notice by November 25, or deliver it in person by December 1.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "This standalone instruction omits when 30 days is enough and assumes within-California mailing. The targets provide adequate buffer for that scenario; the error is their universal framing. Official DRE 2026 guide, printed pp.44-46: https://www.dre.ca.gov/publications/ResourceGuidebook/2026_Landlord_Tenant_Guide.pdf",
+          "fix": "Replace with: 'For a lawful January 1 increase that qualifies for 30-day notice, our conservative targets are November 25 for first-class mailing within California, or December 1 for personal delivery. Larger cumulative increases or mailing from elsewhere need a different notice calculation.' Repeat this qualification in the takeaways and cite the DRE guide in Resources.",
+          "future_prevention": "Carry the notice scenario's conditions into short-form scripts."
+        }
+      ]
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 90,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Specific topic and populated metadata; parent and Berkeley guide links.",
+      "whats_holding_back": "Final video and rendered technical checks pending."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 87,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Concise takeaways and authoritative resources.",
+      "whats_holding_back": "Coverage, rolling cap and notice conditions missing from standalone summaries."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 87,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Links to city sources and documented business scale.",
+      "whats_holding_back": "Unverified practices; recording unavailable."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 94,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Short accessible script; useful November move-in example.",
+      "whats_holding_back": "A few qualifiers are needed to prevent misleading certainty."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear parent-guide and consultation paths.",
+      "whats_holding_back": "Video itself remains unavailable and tracking claim unverified."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 88,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Coherent companion to the written guide.",
+      "whats_holding_back": "Content fixes and production/technical clearance required."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10269-C01",
+      "quote": "We manage 600+ rental units across Oakland, Berkeley, Emeryville and the wider East Bay, and track every unit's increase date and rate for its jurisdiction.",
+      "provenance": "unverified",
+      "source": null,
+      "note": "Portfolio count and service area documented; operational tracking unverified."
+    },
+    {
+      "claim_id": "10269-C02",
+      "quote": "That's why, at AEBP, Berkeley is the one city where we raise rent on January 1.",
+      "provenance": "unverified",
+      "source": null,
+      "note": "No confirming operational record identified in the reviewed company sources."
+    },
+    {
+      "claim_id": "10269-C03",
+      "quote": "Outside Berkeley, we time increases to each unit's lease anniversary.",
+      "provenance": "unverified",
+      "source": null,
+      "note": "No confirming operational record identified in the reviewed company sources."
+    }
+  ],
+  "strengths": [
+    "Correct effective-date distinction between Berkeley's calendar year and Oakland/AB 1482's August-July cycle.",
+    "Berkeley new-tenancy delay and 2027 2.5% AGA independently corroborated.",
+    "Hypothetical unit examples identified as examples; Video Script correctly labeled before recording.",
+    "Useful November move-in comparison and specific consultation path."
+  ],
+  "article_fixes": [
+    "10269-F01: Replace with: 'For fully rent-controlled Berkeley units, 2025 move-ins first become AGA-eligible on January 1, 2027; 2026 move-ins first become eligible in January 2028, subject to the lease, proper notice and Rent Board compliance.' Use the same qualifications in the introduction, takeaways and parent script.",
+    "10269-F02: Replace with: 'For AB 1482-only units, the cap for increases effective August 1, 2026 through July 31, 2027 is 8.8% over a rolling 12 months, not an additional 8.8% after an earlier increase.' Use the same date window in Key Takeaways. The official Oakland allowable-increases page corroborates 8.8%; the DRE 2026 guide corroborates the rolling-period framework.",
+    "10269-F03: Replace with: 'For a lawful January 1 increase that qualifies for 30-day notice, our conservative targets are November 25 for first-class mailing within California, or December 1 for personal delivery. Larger cumulative increases or mailing from elsewhere need a different notice calculation.' Repeat this qualification in the takeaways and cite the DRE guide in Resources.",
+    "10269-F05: Keep this post in draft until the recording is embedded and checked against the script. Keep 'Video Script' until a verbatim transcript is available; then use 'Video Transcript' with the checked spoken text. Verify rendered VideoObject metadata against the final video and confirm the parent article link in an authenticated preview.",
+    "10269-F04: Retain only after Brian confirms the practice in an identifiable internal record. Pending confirmation, replace with: 'For eligible fully covered Berkeley units, January 1 can avoid waiting until a later lease anniversary.' Replace 'Outside Berkeley, we time increases to each unit’s lease anniversary' with 'Outside Berkeley, check the lease and the local eligibility rules before choosing an increase date.' Remove unconfirmed tracking claims from the CTA; retain the documented 600+ unit count."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Refresh Berkeley 2027 rate and election-dependent Measure X notes in the existing rent-cap reference after primary-source verification; do not alter standards as part of this review.",
+      "target_doc": "knowledge/laws/rent-caps.md",
+      "type_c_followup": false
+    },
+    {
+      "description": "If Brian confirms the scheduling and tracking practices, record their exact scope and reuse limits.",
+      "target_doc": "knowledge/company/anecdote-log.md",
+      "type_c_followup": false
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Reviewed current AEBP-Dev full snapshots; no revision identifier or GMT modified time returned. Source post_modified values (site-local, timezone not supplied): 10268 = 2026-10-30 20:28:58; 10269 = 2026-10-30 20:28:59. Repo clean and zero commits ahead of the configured upstream at start; no fetch performed, so remote freshness is not independently established. Standards: docs/01 v0.5, /02 v0.2, /03 v0.3, /07 v0.1; manifests v0.1. Schema version 1.0.0 follows existing review artifacts; the schema does not declare a version constant. Draft previews and prospective production URLs could not be retrieved; generated schema is unverified, not proven missing. Gutenberg comment nesting is balanced in both snapshots, not a substitute for WordPress editor validation. SEO fields are populated. Live Berkeley guide, rent-cap update, banking tip, exemption-notice tip, month-to-month guide and /lets-talk/ retrieved successfully. GBP copy not supplied/reviewed. Official Leginfo sections 827 and 1947.12 returned 403; accessible official DRE 2026 guidance used instead. No WordPress edits or publication performed. Claude should produce 02-revision-response.md/json for every finding, then request re-review."
+}
+
