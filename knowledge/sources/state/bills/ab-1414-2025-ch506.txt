@@ -1,0 +1,35 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: AB 1414 (2025) — Tenant opt-out of third-party internet subscriptions (Civ. 1942.8)
+Jurisdiction: California
+Source type: Chaptered bill (EVD-SOURCE-HIERARCHY level 1)
+Official URL: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1414  [standard leginfo pattern]
+Version: Chaptered, Stats. 2025 ch. 506
+Saved to OneDrive: 2026-11-02   Added to repo: 2026-11-02
+Original file: Rental-Law-Resources/bill-texts/AB1414.txt
+Notes: Session-law text: shows what the bill changed, not the current code. Cite the code section for current law.
+Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Assembly Bill No. 1414
+CHAPTER 506
+
+An act to add Section 1942.8 to the Civil Code, relating to tenancy.
+
+[ Approved by Governor  October 10, 2025. Filed with Secretary of State  October 10, 2025. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+AB 1414, Ransom. Landlord-tenant: internet service provider subscriptions.
+Existing law governs the obligations of tenants and landlords. Existing law authorizes a tenant to deduct the payment made to a public utility or publicly owned utility or a district from the rent, as specified. Existing law prohibits a lessor who has retaliated against a lessee for exercising the lessee’s prescribed rights from recovering possession of a dwelling, causing the lessee to quit involuntarily, increasing the rent, or decreasing services within 180 days of the occurrence of specified events relating to tenability, if the lessee is not in default on their rent, as specified. Existing law presumes that the hiring of real property is renewed for a specified amount of time, under specified circumstances.
+For any residential tenancy commenced, renewed, or continuing on a month-to-month or other periodic basis, on or after January 1, 2026, this bill would require a landlord or their agent to allow the tenant to opt out of paying for any subscription from a third-party internet service provider for specified services in connection with the tenancy. If the landlord or their agent violates this provision, the bill would authorize the tenant to deduct the cost of the subscription from the rent. The bill would prohibit a landlord or their agent from retaliating against a tenant for exercising their rights pursuant to this bill and consistent with the above-described provision on retaliation, as provided.
+Digest Key
+Vote: MAJORITY   Appropriation: NO   Fiscal Committee: NO   Local Program: NO
+Bill Text
+The people of the State of California do enact as follows:
+
+SECTION 1. Section 1942.8 is added to the Civil Code, to read:
+
+1942.8. (a) For any residential tenancy commenced, renewed, or continuing on a month-to-month or other periodic basis, on or after January 1, 2026, a landlord or their agent shall allow the tenant to opt out of paying for any subscription from a third-party internet service provider, such as through a bulk-billing arrangement, to provide service for wired internet, cellular, or satellite service that is offered in connection with the tenancy.
+(b) A landlord or their agent shall not retaliate against a tenant for exercising the tenant’s rights under this section, consistent with the protections provided in Section 1942.5.
+(c) If the landlord or their agent violates subdivision (a), the tenant may deduct the cost of the subscription to the third-party internet service provider from the rent.
+(d) This section does not prevent a landlord or their agent from offering bulk-billing arrangements to their tenants.
+(e) For the purposes of this section, “internet service provider” has the same meaning as that term is defined in Section 3100.

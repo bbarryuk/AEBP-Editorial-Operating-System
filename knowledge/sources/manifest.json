@@ -322,6 +322,20 @@
     "ocr": false
   },
   {
+    "dest": "state/bills/ab-1414-2025-ch506.txt",
+    "title": "AB 1414 (2025) — Tenant opt-out of third-party internet subscriptions (Civ. 1942.8)",
+    "jurisdiction": "California",
+    "type": "Chaptered bill",
+    "evd_level": 1,
+    "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1414",
+    "url_status": "standard leginfo pattern",
+    "version": "Chaptered, Stats. 2025 ch. 506",
+    "saved": "2026-11-02",
+    "src": "AB1414.txt",
+    "notes": "Session-law text: shows what the bill changed, not the current code. Cite the code section for current law.",
+    "ocr": false
+  },
+  {
     "dest": "state/bills/ab-1815-2024-ch619.txt",
     "title": "AB 1815 (2024) — Discrimination: hairstyles (CROWN Act expansion)",
     "jurisdiction": "California",
@@ -434,6 +448,20 @@
     "ocr": false
   },
   {
+    "dest": "state/bills/sb-1365-2026-ch1028.txt",
+    "title": "SB 1365 (2026) — Price gouging: rental housing of any lease length (Pen. Code 396)",
+    "jurisdiction": "California",
+    "type": "Chaptered bill",
+    "evd_level": 1,
+    "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1365",
+    "url_status": "standard leginfo pattern",
+    "version": "Chaptered, Stats. 2026 ch. 1028",
+    "saved": "2026-11-02",
+    "src": "SB1365.txt",
+    "notes": "Session-law text: shows what the bill changed, not the current code. Cite the code section for current law. Operative 2027-01-01. Contains two versions of Pen. Code 396: Sec. 1, and Sec. 1.5 (adds \"war\"), which applies only if SB 493 was also enacted and SB 1365 was enacted after it (Sec. 2). Confirm which version is in the code.",
+    "ocr": false
+  },
+  {
     "dest": "state/bills/sb-329-2019-ch600.txt",
     "title": "SB 329 (2019) — Source-of-income discrimination",
     "jurisdiction": "California",
@@ -458,6 +486,20 @@
     "version": "Chaptered, Stats. 2023 ch. 290",
     "saved": "2026-10-06",
     "src": "SB567-chaptered.txt",
+    "notes": "Session-law text: shows what the bill changed, not the current code. Cite the code section for current law.",
+    "ocr": false
+  },
+  {
+    "dest": "state/bills/sb-610-2025-ch547.txt",
+    "title": "SB 610 (2025) — Disaster assistance: tenants, mobilehome parks, mortgages (Civ. 1941.8, 1941.9, 798.64)",
+    "jurisdiction": "California",
+    "type": "Chaptered bill",
+    "evd_level": 1,
+    "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB610",
+    "url_status": "standard leginfo pattern",
+    "version": "Chaptered, Stats. 2025 ch. 547",
+    "saved": "2026-11-02",
+    "src": "SB610.txt",
     "notes": "Session-law text: shows what the bill changed, not the current code. Cite the code section for current law.",
     "ocr": false
   },

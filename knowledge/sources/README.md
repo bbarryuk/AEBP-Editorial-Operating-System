@@ -2,7 +2,7 @@
 title: Primary Source Texts — Statutes, Bills, Ordinances, Regulations
 doc_type: informative
 owner: Brian
-last_verified: 2026-10-30
+last_verified: 2026-11-02
 next_review: 2027-01-05
 review_frequency: quarterly, plus every January 1 and whenever a local ordinance is amended
 authority: Statute / Local Ordinance / Agency guidance (per file)
@@ -33,6 +33,9 @@ Each file starts with a header (title, jurisdiction, source type and `EVD-SOURCE
 - **AB 2025** — the saved text has no bill header. Confirm the bill number and chapter before citing.
 - **CCP 415.20** — the file holds both the current version and the AB 747 version that takes effect 2027-01-01.
 - **Not yet saved:** sections cited in `knowledge/laws` but missing here — Civ. Code 1945 and 1962, B&P 10145, and Emeryville Ch. 3-1 (business taxes).
+- **Current code text not yet saved** for sections added or amended by the 2026-11-02 bills: Civ. Code 1941.8, 1941.9 and 1942.8, and Pen. Code 396 (as amended by SB 1365, operative 2027-01-01). Until they are, quote the bill files and cite the code section.
+- **SB 1365** contains two versions of Pen. Code 396 (Sec. 1 and Sec. 1.5, which adds "war" and applies only if SB 493 was also enacted and SB 1365 was enacted after it). Confirm which one is in the code before quoting.
+- **2026-11-02 additions:** the OneDrive originals are CRLF; these copies are LF. AB 1414 and SB 610 match the original byte counts exactly after line-ending conversion. SB 1365 is 4 bytes short of the original (39,032 bytes) after conversion, which points to a whitespace-only difference. Re-save from the official URL if an exact copy matters.
 
 ## California — statutes (current code text)
 
@@ -66,6 +69,7 @@ Each file starts with a header (title, jurisdiction, source type and `EVD-SOURCE
 
 | File | Title | Level | Version | Saved | URL |
 |---|---|---|---|---|---|
+| `state/bills/ab-1414-2025-ch506.txt` | AB 1414 (2025) — Tenant opt-out of third-party internet subscriptions (Civ. 1942.8) | 1 | Chaptered, Stats. 2025 ch. 506 | 2026-11-02 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1414) |
 | `state/bills/ab-1815-2024-ch619.txt` | AB 1815 (2024) — Discrimination: hairstyles (CROWN Act expansion) | 1 | Chaptered, Stats. 2024 ch. 619 | 2026-10-06 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB1815) |
 | `state/bills/ab-2025-2026.txt` | AB 2025 (2026) — B&P § 10140.8, digitally altered images in real estate ads | 1 | Dated 2026-09-27 in original filename; chapter number not in saved text | 2026-09-29 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2025) |
 | `state/bills/ab-2042-2026-ch379.txt` | AB 2042 (2026) — Setting aside default / default judgment | 1 | Chaptered, Stats. 2026 ch. 379 | 2026-09-29 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2042) |
@@ -74,8 +78,10 @@ Each file starts with a header (title, jurisdiction, source type and `EVD-SOURCE
 | `state/bills/ab-747-2025-ch563.txt` | AB 747 (2025) — Service of process (CCP 415.20 et al.) | 1 | Chaptered, Stats. 2025 ch. 563 | 2026-09-26 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB747) |
 | `state/bills/sb-1137-2024-ch779.txt` | SB 1137 (2024) — Discrimination: intersectionality | 1 | Chaptered, Stats. 2024 ch. 779 | 2026-10-06 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB1137) |
 | `state/bills/sb-1296-2026-ch1025.txt` | SB 1296 (2026) — Rentals: pet policy (Civ. 1942.7.5) | 1 | Chaptered, Stats. 2026 ch. 1025 | 2026-10-06 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1296) |
+| `state/bills/sb-1365-2026-ch1028.txt` | SB 1365 (2026) — Price gouging: rental housing of any lease length (Pen. Code 396) | 1 | Chaptered, Stats. 2026 ch. 1028 | 2026-11-02 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1365) |
 | `state/bills/sb-329-2019-ch600.txt` | SB 329 (2019) — Source-of-income discrimination | 1 | Chaptered, Stats. 2019 ch. 600 | 2026-10-06 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200SB329) |
 | `state/bills/sb-567-2023-ch290.txt` | SB 567 (2023) — No-fault just cause / rent cap amendments | 1 | Chaptered, Stats. 2023 ch. 290 | 2026-10-06 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB567) |
+| `state/bills/sb-610-2025-ch547.txt` | SB 610 (2025) — Disaster assistance: tenants, mobilehome parks, mortgages (Civ. 1941.8, 1941.9, 798.64) | 1 | Chaptered, Stats. 2025 ch. 547 | 2026-11-02 | [link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB610) |
 
 ## Federal
 

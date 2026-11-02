@@ -4,6 +4,14 @@ All notable changes to the AEBP Editorial Operating System are recorded here. Ve
 
 ## [Unreleased]
 
+### Added — Three more chaptered bills in `knowledge/sources/state/bills/`, 2026-11-02
+
+Brian saved the chaptered texts of SB 1365, SB 610 and AB 1414 to the OneDrive `bill-texts` folder to verify three new rental-law pages (dev posts 10291, 10292, 10293), and asked for them in the repo alongside the 2026-10-30 set.
+
+- **Added** `ab-1414-2025-ch506.txt` (Civ. 1942.8, tenant opt-out of third-party internet subscriptions), `sb-1365-2026-ch1028.txt` (Pen. Code 396, price gouging now covers rental housing of any lease length, operative 2027-01-01) and `sb-610-2025-ch547.txt` (Civ. 1941.8 and 1941.9 disaster remediation, evacuation-order rent and advance-rent refunds; Civ. 798.64 mobilehome parks). Each has the standard provenance header; `manifest.json` and `README.md` are updated, and README `last_verified` is now 2026-11-02.
+- **Open items added to `knowledge/sources/README.md`:** current code text for Civ. 1941.8, 1941.9, 1942.8 and Pen. Code 396 is not yet saved. SB 1365 contains two versions of Pen. Code 396; Sec. 1.5 depends on SB 493. The SB 1365 copy is 4 bytes short of the OneDrive original after line-ending conversion, which points to a whitespace-only difference.
+- **Not added:** AB 268 (Diwali). It was briefly a law-library candidate, but CCP 135 as amended excludes Diwali from judicial holidays, so it has no effect on notice or court-day counting.
+
 ### Added — Primary source texts in `knowledge/sources/`, 2026-10-30
 
 Brian asked whether the bill and ordinance text files kept in OneDrive (`Website-Assets/Rental-Law-Resources/bill-texts`) should live in the repo for drafting and review. Yes: `EVD-SOURCE-HIERARCHY` ranks statutes and local ordinances highest, but until now the repo only linked to them, so a reviewer working from the GitHub copy couldn't check a quoted section without leaving the repo.
