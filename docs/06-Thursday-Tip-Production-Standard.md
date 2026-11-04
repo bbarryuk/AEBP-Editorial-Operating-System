@@ -32,7 +32,7 @@ Fields to deliver, every week:
 - **Headline:** short, punchy, often a question ("Do You Have 3 Months' Reserve Per Property?") or a direct claim ("Your deposit clock starts when they leave — not when the lease ends").
 - **Body paragraph:** **keep to ~200–220 characters.** One of the 4 real examples ran long and got visibly cut off mid-sentence in the actual graphic ("...catches an") — the template has no overflow handling, so this is a hard budget, not a style preference.
 - **Pull quote:** the same pull-quote used in the blog post and email, no attribution, bold italic in the graphic.
-- **Series label + date:** e.g. "Owner ROI Series · July 23, 2026." **There is no formal list of series names** — known ones so far are "Owner ROI Series," "Move-Out Series," and "Renewal Series" (confirmed 2026-07-30, used for all four August 2026 Thursday Tips, which are renewal-adjacent — pairs with "Renewal Season" as the broader August campaign/homepage name; the badge itself stays "Renewal Series" to match the fixed "[Topic] Series" pattern). Ask Brian for the right one each week rather than inventing a new one; add it to this list once confirmed. **"Rent Control Series" confirmed 2026-09-03** for September 2026's city-specific rent control deep-dive month — matches the eyebrow text on that month's hero graphic, used starting with the Week 1 Thursday Tip. **"Security Series" confirmed 2026-10-07** for October 2026's rental security month (matches the homepage hero eyebrow "October 2026 Rental Security Series"), starting with the Oct 8 Thursday Tip.
+- **Series label + date:** e.g. "Owner ROI Series · July 23, 2026." **There is no formal list of series names** — known ones so far are "Owner ROI Series," "Move-Out Series," and "Renewal Series" (confirmed 2026-07-30, used for all four August 2026 Thursday Tips, which are renewal-adjacent — pairs with "Renewal Season" as the broader August campaign/homepage name; the badge itself stays "Renewal Series" to match the fixed "[Topic] Series" pattern). Ask Brian for the right one each week rather than inventing a new one; add it to this list once confirmed. **"Rent Control Series" confirmed 2026-09-03** for September 2026's city-specific rent control deep-dive month — matches the eyebrow text on that month's hero graphic, used starting with the Week 1 Thursday Tip. **"Security Series" confirmed 2026-10-07** for October 2026's rental security month (matches the homepage hero eyebrow "October 2026 Rental Security Series"), starting with the Oct 8 Thursday Tip. **"Ready for 2027 Series" confirmed 2026-11-03** for November 2026 (shortened by Brian from "Ready for January 1"), starting with the Nov 5 Thursday Tip (post 10299).
 
 ## Step 2: Mailchimp email
 
@@ -72,6 +72,8 @@ Reconstructed from posts 7867, 7928, 8006 (8219 is a one-off deviation — flatt
 6. **Closing boilerplate** — outside any group, italicized paragraph, near-verbatim: *"This tip is part of our ongoing education series for Bay Area landlords focused on compliance, risk reduction, and smarter property management. 📋 **Browse all Thursday Landlord Tips →**"* linking to `https://alleastbayproperties.com/landlord-tips/` (absolute URL, not the category archive).
 
 ## Change log
+
+- 2026-11-03: Added "Ready for 2027 Series" to the known series-label list, confirmed by Brian for November 2026.
 
 - 2026-10-07: Added "Security Series" to the known series-label list, confirmed by Brian for October 2026.
 

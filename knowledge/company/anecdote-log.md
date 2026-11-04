@@ -160,4 +160,4 @@ Any future post, video script, or social copy reusing this same observation (rat
 
 **Do not:** claim AEBP serves every notice with proof of service, attaches RAP notices/tax certificates to every Oakland increase, or "applies the right rate per jurisdiction" as an AEBP service claim. Brian didn't confirm those; they were removed from 10268's comparison table in 02-revision-response. Don't attach specific unit counts (how many Berkeley units are held back each January); none was given.
 
-**Used in:** Post 10268 ("How We Time Rent Increases at AEBP" section, comparison table, FAQ 2, CTA, Video Script) and video page 10269 (intro, CTA, Video Script). Planned reuse: Nov 5 Thursday Tip (why Berkeley increases go on January 1).
+**Used in:** Post 10268 ("How We Time Rent Increases at AEBP" section, comparison table, FAQ 2, CTA, Video Script) and video page 10269 (intro, CTA, Video Script). Reused (claims 1, 3, 4 and 5 only) in the Nov 5 Thursday Tip, post 10299, its email, video script and social copy; no unit counts or client stories added.
