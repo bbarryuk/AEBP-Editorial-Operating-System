@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10342,
+  "title": "Berkeley Measure X Explained for Landlords (Video)",
+  "content_type": "video",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "1aec016fd0d92b7f12f934c0e389778d92aacbfc",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10342,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10342"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex"
+  },
+  "timestamp": "2026-11-07T02:25:14.647Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10342-F04-OPEN",
+          "quote": "voter-approved ordinances usually take effect 10 days after the City Council declares the result",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "Rewording is applied, but required live official verification remains incomplete; the response explicitly requests human verification.",
+          "fix": "Retain the revised effective-date wording. Before publication, verify Elections Code §9217 against official current text and record the date and source."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10342-PREVIEW",
+          "quote": "Video in production. It will appear here once it's published.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "Finished media and rendered validation remain pending; raw block balance is insufficient to certify schema or final media.",
+          "fix": "Keep this page in draft until the finished video is embedded, playback and applicable VideoObject metadata are checked, and the script is checked against the recording before relabeling it Video Transcript."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-CONSISTENCY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "VIDEO-TRANSCRIPT-LITERAL",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 91,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10342-C01",
+      "quote": "We manage 600+ rental units",
+      "provenance": "documented",
+      "source": "knowledge/llms.txt; live https://alleastbayproperties.com/llms.txt checked 2026-11-06"
+    },
+    {
+      "claim_id": "10342-C02",
+      "quote": "track every unit's rent increase eligibility date",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 claims 1, 3–5; local pending reuse note"
+    },
+    {
+      "claim_id": "10342-C03",
+      "quote": "owners sometimes do skip a year, usually to keep a good tenant",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 claim 5",
+      "note": "Keep 'a common reason' rather than escalating to 'the most common reason' in blog prose."
+    }
+  ],
+  "strengths": [
+    "Verified revisions in actual WP content, not only the response.",
+    "Tenant-association threshold, parcel scope and continuing rights corrected.",
+    "Banking assumptions and rule comparison corrected; arithmetic unchanged and correct.",
+    "Required checklist and live Berkeley deep-dive link present.",
+    "Scripts are identical and correctly labeled Video Script before recording."
+  ],
+  "article_fixes": [
+    "10342-F04-OPEN",
+    "10342-PREVIEW"
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Complete and record official statutory currency verification; add Elections Code 9217 snapshot after verification. Prior TEST-LEGAL-009/reference commits remain preserved.",
+      "target_doc": "knowledge/sources/README.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Follow-up of 02-revision-response.json against fresh WP snapshot, post_modified local 2026-11-06 18:20:18 (timezone not supplied). Repo commit records remote main, not local worktree. Block delimiter nesting balanced (80 comments); this is not full Gutenberg validation. Scripts compared literally and are identical. Berkeley deep-dive URL confirmed live. No recorded video, featured image, rendered schema or authenticated preview supplied. Live LegInfo 827, 1013, 9217 again returned 403; snapshot/precedent checks do not satisfy the repo's live-source requirement. GBP not reviewed. No WP edits or publication performed."
+}

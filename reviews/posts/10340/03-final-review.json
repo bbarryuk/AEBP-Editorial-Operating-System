@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10340,
+  "title": "Berkeley Measure X Passed: What Changes for Landlords, and When",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "1aec016fd0d92b7f12f934c0e389778d92aacbfc",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10340,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10340"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex"
+  },
+  "timestamp": "2026-11-07T02:25:14.646Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10340-F08",
+          "quote": "Before Measure X, there was no percentage limit on how much banked increase could be taken at once. Now there is.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "One present-tense claim remains in 'The 10% Cap' section despite the effective-date corrections elsewhere.",
+          "fix": "Before Measure X takes effect, there is no banking-specific percentage cap on an otherwise lawful increase up to the unit's rent ceiling. Once Measure X takes effect, AGA-based increases will be limited to 10% in a 12-month period."
+        },
+        {
+          "finding_id": "10340-F06-OPEN",
+          "quote": "Under Civil Code §827(b), the notice period depends on the total increase over the 12 months before the effective date",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "Rewording is applied, but required live official verification remains incomplete; the response explicitly requests human verification.",
+          "fix": "Retain the revised notice wording. Before publication, verify current Civil Code §827(b)-(c), CCP §1013(a), and Elections Code §9217 against the official text and record the date and source."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10340-F08",
+          "quote": "Before Measure X, there was no percentage limit on how much banked increase could be taken at once. Now there is.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "One present-tense claim remains in 'The 10% Cap' section despite the effective-date corrections elsewhere.",
+          "fix": "Before Measure X takes effect, there is no banking-specific percentage cap on an otherwise lawful increase up to the unit's rent ceiling. Once Measure X takes effect, AGA-based increases will be limited to 10% in a 12-month period."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10340-PREVIEW",
+          "quote": "Video in production. It will appear here once it's published.",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "Finished media and rendered validation remain pending; raw block balance is insufficient to certify schema or final media.",
+          "fix": "Keep the draft pending final preview. Add the featured image and verify rendered blocks and applicable BlogPosting/FAQ/Breadcrumb schema. Publish the video link only when the companion is available, or keep the clearly conditional production notice until then."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10340-F09",
+          "quote": "the most common reason is to keep a good tenant",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "The October 30 record confirms a common reason, not a ranked most-common reason. This qualifier was noted in review 01's claim provenance but not applied.",
+          "fix": "a common reason is to keep a good tenant"
+        }
+      ]
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-COMPANION-VIDEO",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 91,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 94,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Outstanding verification and production checks prevent final clearance; blog also has F08/F09."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10340-C01",
+      "quote": "We manage 600+ rental units",
+      "provenance": "documented",
+      "source": "knowledge/llms.txt; live https://alleastbayproperties.com/llms.txt checked 2026-11-06"
+    },
+    {
+      "claim_id": "10340-C02",
+      "quote": "track every unit's rent increase eligibility date",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 claims 1, 3–5; local pending reuse note"
+    },
+    {
+      "claim_id": "10340-C03",
+      "quote": "owners sometimes do skip a year, usually to keep a good tenant",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 claim 5",
+      "note": "Keep 'a common reason' rather than escalating to 'the most common reason' in blog prose."
+    },
+    {
+      "claim_id": "10340-C04",
+      "quote": "Annual Rent Board registration is part of our compliance service",
+      "provenance": "documented",
+      "source": "knowledge/llms.txt FAQ on rent-control compliance; live llms.txt checked."
+    },
+    {
+      "claim_id": "10340-C05",
+      "quote": "This is a hypothetical to show the math, not an AEBP property.",
+      "provenance": "hypothetical_example",
+      "note": "Math verified: $2,811.16 / 12.4464%; shorter gap 5.6990%; eligibility assumptions need tightening."
+    },
+    {
+      "claim_id": "10340-C06",
+      "quote": "the most common reason is to keep a good tenant",
+      "provenance": "unverified",
+      "source": "knowledge/company/anecdote-log.md 2026-10-30 supports 'a common reason' only."
+    }
+  ],
+  "strengths": [
+    "Verified revisions in actual WP content, not only the response.",
+    "Tenant-association threshold, parcel scope and continuing rights corrected.",
+    "Banking assumptions and rule comparison corrected; arithmetic unchanged and correct.",
+    "Required checklist and live Berkeley deep-dive link present.",
+    "Scripts are identical and correctly labeled Video Script before recording."
+  ],
+  "article_fixes": [
+    "10340-F08",
+    "10340-F09",
+    "10340-F06-OPEN",
+    "10340-PREVIEW"
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Complete and record official statutory currency verification; add Elections Code 9217 snapshot after verification. Prior TEST-LEGAL-009/reference commits remain preserved.",
+      "target_doc": "knowledge/sources/README.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Follow-up of 02-revision-response.json against fresh WP snapshot, post_modified local 2026-11-06 18:19:30 (timezone not supplied). Repo commit records remote main, not local worktree. Block delimiter nesting balanced (207 comments); this is not full Gutenberg validation. Scripts compared literally and are identical. Berkeley deep-dive URL confirmed live. No recorded video, featured image, rendered schema or authenticated preview supplied. Live LegInfo 827, 1013, 9217 again returned 403; snapshot/precedent checks do not satisfy the repo's live-source requirement. GBP not reviewed. No WP edits or publication performed."
+}
