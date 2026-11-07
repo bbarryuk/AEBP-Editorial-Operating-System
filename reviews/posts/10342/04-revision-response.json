@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10342,
+  "content_type": "video",
+  "responds_to": {
+    "review_file": "reviews/posts/10342/03-final-review.json",
+    "addendum": "reviews/posts/10342/03-statute-verification.md"
+  },
+  "repo": {
+    "commit": "6c3e06484d806c6fe1dfbf2d4fc41de07717196c",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10342,
+    "revision_id": null,
+    "modified_local": "2026-11-06 18:35:57",
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10342"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-11-07T02:37:00Z",
+  "dispositions": [
+    {
+      "finding_id": "10342-F04-OPEN",
+      "disposition": "resolved",
+      "rationale": "Closed by the statute verification addendum; Elections Code 9217 wording supported.",
+      "change_applied": "None.",
+      "quote_before": "",
+      "quote_after": ""
+    },
+    {
+      "finding_id": "10342-PREVIEW",
+      "disposition": "deferred",
+      "rationale": "Page stays draft until the video is recorded, embedded, playback and VideoObject checked, and the script compared against the recording before relabeling 'Video Transcript'.",
+      "change_applied": "None this round.",
+      "quote_before": "",
+      "quote_after": ""
+    },
+    {
+      "finding_id": "10340-F09 (carried to video script)",
+      "disposition": "accepted",
+      "rationale": "Same frequency overstatement as 10340-F09; changed identically so both scripts still match.",
+      "change_applied": "Video Script paragraph 3 updated.",
+      "quote_before": "And at AEBP, owners sometimes do skip a year, usually to keep a good tenant.",
+      "quote_after": "And at AEBP, owners sometimes do skip a year, and keeping a good tenant is a common reason."
+    }
+  ],
+  "claim_provenance_updates": [],
+  "operating_system_followups": [],
+  "summary": "F04-OPEN closed by the statute addendum. Video Script updated to match 10340's F09 fix. PREVIEW deferred until the video is recorded and embedded.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "ready_once_preview_items_complete"
+}

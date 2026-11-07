@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10340,
+  "content_type": "cornerstone",
+  "responds_to": {
+    "review_file": "reviews/posts/10340/03-final-review.json",
+    "addendum": "reviews/posts/10340/03-statute-verification.md"
+  },
+  "repo": {
+    "commit": "6c3e06484d806c6fe1dfbf2d4fc41de07717196c",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10340,
+    "revision_id": null,
+    "modified_local": "2026-11-06 18:35:55",
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10340"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-11-07T02:37:00Z",
+  "dispositions": [
+    {
+      "finding_id": "10340-F08",
+      "disposition": "accepted",
+      "rationale": "Correct: the last present-tense claim in 'The 10% Cap' section.",
+      "change_applied": "Replaced with the reviewer's wording, lightly edited ('Until Measure X takes effect').",
+      "quote_before": "Before Measure X, there was no percentage limit on how much banked increase could be taken at once. Now there is.",
+      "quote_after": "Until Measure X takes effect, there is no banking-specific percentage cap on an otherwise lawful increase up to the unit's rent ceiling. Once it takes effect, AGA-based increases will be limited to 10% in a 12-month period."
+    },
+    {
+      "finding_id": "10340-F09",
+      "disposition": "accepted",
+      "rationale": "Correct: the anecdote log (2026-10-30, claim 5) supports 'a common reason', not a ranking. The Video Script's 'usually to keep a good tenant' made the same frequency claim, so it was corrected too, identically on 10340 and 10342 to keep VIDEO-CONSISTENCY. Instagram caption copy ('often') softened to 'sometimes'.",
+      "change_applied": "'What We See at AEBP' paragraph 1 and Video Script paragraph 3 (both pages) updated.",
+      "quote_before": "the most common reason is to keep a good tenant",
+      "quote_after": "a common reason is to keep a good tenant"
+    },
+    {
+      "finding_id": "10340-F06-OPEN",
+      "disposition": "resolved",
+      "rationale": "Closed by the statute verification addendum (03-statute-verification.md): Civil Code 827, CCP 1013 and Elections Code 9217 confirmed from owner-supplied official text; no wording change required.",
+      "change_applied": "None.",
+      "quote_before": "",
+      "quote_after": ""
+    },
+    {
+      "finding_id": "10340-PREVIEW",
+      "disposition": "deferred",
+      "rationale": "Depends on assets not yet produced: featured image, recorded video, authenticated preview. Production notice stays conditional until then.",
+      "change_applied": "None this round.",
+      "quote_before": "",
+      "quote_after": ""
+    }
+  ],
+  "claim_provenance_updates": [],
+  "operating_system_followups": [],
+  "summary": "F08 and F09 fixed in the draft (F09 also applied to the Video Script on both pages). F06-OPEN closed by the statute addendum. PREVIEW deferred until the featured image, video and authenticated preview exist.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "ready_once_preview_items_complete"
+}
