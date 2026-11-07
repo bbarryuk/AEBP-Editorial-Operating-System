@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10340,
+  "title": "Berkeley Measure X Passed: What Changes for Landlords, and When",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "2990ed16e7af1a42a92c7c94520d84b7766a245a",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10340,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10340"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex"
+  },
+  "timestamp": "2026-11-07T02:08:08.221Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10340-F01",
+          "quote": "Now it's ten percent at a time, with the rest still banked for later.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The script switches from future effect to present operation and loses the rolling 12-month limit. FAQ labels the carry-forward reading as interpretation but the script does not.",
+          "fix": "Once Measure X takes effect, AGA-based increases will be limited to 10% in a 12-month period. Our reading is that unused amounts remain in the rent ceiling for later; confirm the available amount with the Rent Board."
+        },
+        {
+          "finding_id": "10340-F02",
+          "quote": "And tenant associations can now form in self-managed buildings with five or more units.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Premature 'now'; the statutory test uses parcels, not individual buildings. Official PDF page 18 visually confirms both redline changes and preservation after a manager leaves.",
+          "fix": "Once the measure takes effect, tenants on self-managed parcels with five to nine rental units will become eligible to form an association under the ordinance. Professionally managed parcels already qualified at any size. An established association will also keep its rights if the management company leaves."
+        },
+        {
+          "finding_id": "10340-F03",
+          "quote": "everything in this table except the 2027 AGA became law on November 3, 2026, pending certification.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Election day, declaration/adoption and effective date are conflated. The table even includes the unannounced effective date as something supposedly enacted.",
+          "fix": "Voters approved these amendments in the November 3 election, according to unofficial results. They are not yet in effect; the operative date remains to be confirmed. The 2027 AGA is a separate Rent Board determination. Also replace 'Before November 3' with 'Before Measure X takes effect' in the AEBP observation."
+        },
+        {
+          "finding_id": "10340-F04",
+          "quote": "The change only reaches self-managed buildings with 5 to 9 units.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The threshold expansion is narrower than all changes to association rights; the survival provision also affects professionally managed parcels. See official ballot PDF page 18 and City Attorney analysis items 5–7.",
+          "fix": "The threshold expansion reaches self-managed parcels with five to nine rental units. Measure X also preserves an established association's rights if the property management company leaves. Rename the subsection 'Tenant associations: lower thresholds and continuing rights'."
+        },
+        {
+          "finding_id": "10340-F05",
+          "quote": "the owner could serve one increase to about $2,811 (with 90 days' notice, since it's over 10%).",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The example includes the 2027 AGA, unavailable before January 1; framed as a pre-effective-date action it suggests notice could defeat the future cap. Eligibility for 2023 is not established merely by saying rent reached its ceiling in 2022.",
+          "fix": "Without Measure X's new cap, the hypothetical 2027 ceiling would be about $2,811. This is a comparison of rules, not a suggestion that serving notice before the measure takes effect permits that January increase. Assume the tenancy began before 2022, rent was $2,500 at the end of 2022, and the unit remained eligible for every listed AGA."
+        },
+        {
+          "finding_id": "10340-F06",
+          "quote": "One side effect: the 90-day notice path mostly goes away",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "The section needs the statutory aggregation/service assumptions and a source for mail timing; live LegInfo sections returned 403. Repo civ-827.txt confirms cumulative increases and longer contractual requirements, not an unconditional 30-day result.",
+          "fix": "For AGA-only increases that stay within 10% over the preceding 12 months, the ordinary statutory notice period is 30 days. Longer contractual or other applicable notice requirements still control. The November 25 mailing target assumes mailing within California and includes a conservative extra day. Before publication, verify Civil Code 827(b)-(c), CCP 1013(a), and Elections Code 9217 against an accessible official source and cite them."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10340-F02",
+          "quote": "And tenant associations can now form in self-managed buildings with five or more units.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Premature 'now'; the statutory test uses parcels, not individual buildings. Official PDF page 18 visually confirms both redline changes and preservation after a manager leaves.",
+          "fix": "Once the measure takes effect, tenants on self-managed parcels with five to nine rental units will become eligible to form an association under the ordinance. Professionally managed parcels already qualified at any size. An established association will also keep its rights if the management company leaves."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10340-F07",
+          "quote": "Bottom Line",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "CORNERSTONE-STRUCTURE requires a Before You Act checklist. Technical gate also requires a Berkeley deep-dive link, absent in the draft; rendered schema and blocks could not be checked through anonymous draft URLs.",
+          "fix": "Before You Serve a Berkeley Rent Increase: Confirm coverage and tenancy eligibility; verify the registered ceiling, unused AGAs and prior 12-month increases; confirm Measure X's effective date; check registration, deposit interest, repair orders and lease limits; calculate notice and service time. Add a contextual link to the site's Berkeley rent-control deep-dive guide after resolving its live URL. Replace the video teaser's 'with chapter links and a full transcript' with 'with the draft script below' until production is complete. Validate rendered blocks, schema and media in authenticated preview."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10340-F07",
+          "quote": "Bottom Line",
+          "find_type": [
+            "A",
+            "B"
+          ],
+          "root_cause": "CORNERSTONE-STRUCTURE requires a Before You Act checklist. Technical gate also requires a Berkeley deep-dive link, absent in the draft; rendered schema and blocks could not be checked through anonymous draft URLs.",
+          "fix": "Before You Serve a Berkeley Rent Increase: Confirm coverage and tenancy eligibility; verify the registered ceiling, unused AGAs and prior 12-month increases; confirm Measure X's effective date; check registration, deposit interest, repair orders and lease limits; calculate notice and service time. Add a contextual link to the site's Berkeley rent-control deep-dive guide after resolving its live URL. Replace the video teaser's 'with chapter links and a full transcript' with 'with the draft script below' until production is complete. Validate rendered blocks, schema and media in authenticated preview."
+        }
+      ]
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-COMPANION-VIDEO",
+      "status": "PASS"
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "value": 91,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Timing drift, missing association detail and incomplete publication checks; see findings."
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "value": 92,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Timing drift, missing association detail and incomplete publication checks; see findings."
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "value": 93,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Timing drift, missing association detail and incomplete publication checks; see findings."
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "value": 92,
+      "threshold": 90,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Timing drift, missing association detail and incomplete publication checks; see findings."
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "value": 90,
+      "threshold": 85,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Timing drift, missing association detail and incomplete publication checks; see findings."
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "value": 92,
+      "threshold": 95,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Answer-first explanation, local scope, source links and a concrete CTA.",
+      "whats_holding_back": "Timing drift, missing association detail and incomplete publication checks; see findings."
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10340-C01",
+      "quote": "We manage 600+ rental units",
+      "provenance": "documented",
+      "source": "knowledge/llms.txt; live https://alleastbayproperties.com/llms.txt checked 2026-11-06"
+    },
+    {
+      "claim_id": "10340-C02",
+      "quote": "track every unit's rent increase eligibility date",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 claims 1, 3–5; local pending reuse note"
+    },
+    {
+      "claim_id": "10340-C03",
+      "quote": "owners sometimes do skip a year, usually to keep a good tenant",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-10-30 claim 5",
+      "note": "Keep 'a common reason' rather than escalating to 'the most common reason' in blog prose."
+    },
+    {
+      "claim_id": "10340-C04",
+      "quote": "Annual Rent Board registration is part of our compliance service",
+      "provenance": "documented",
+      "source": "knowledge/llms.txt FAQ on rent-control compliance; live llms.txt checked."
+    },
+    {
+      "claim_id": "10340-C05",
+      "quote": "This is a hypothetical to show the math, not an AEBP property.",
+      "provenance": "hypothetical_example",
+      "note": "Math verified: $2,811.16 / 12.4464%; shorter gap 5.6990%; eligibility assumptions need tightening."
+    }
+  ],
+  "strengths": [
+    "Both tenant-association numeric redlines verified visually in official ballot PDF, printed p.18.",
+    "2027 AGA and historical figures match Rent Board publications; banking arithmetic correct.",
+    "Removed unsupported AEBP claims remain absent; table's retained tracking/registration claims are documented.",
+    "Golden Duplex notice and lower-state-limit language from superseded drafts are absent."
+  ],
+  "article_fixes": [
+    "10340-F01",
+    "10340-F02",
+    "10340-F03",
+    "10340-F04",
+    "10340-F05",
+    "10340-F06",
+    "10340-F07"
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Commit pending reuse log, Measure X reference corrections and TEST-LEGAL-009; record visual redline verification and continuing association rights.",
+      "target_doc": "knowledge/laws/rent-caps.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Remote main at review: 9e490e00d109ff0e280a777ee4b617751605a82f; local HEAD differs and has pending knowledge/test content. No local worktree/push state could be verified because git status reports 'must be run in a work tree'; dirty denotes known pending reference differences. Reviewed WP modified local fields 2026-11-06 17:52:50 / 17:53:41; timezone not supplied. Draft URLs inaccessible to anonymous rendering; schema/render checks remain pending. GBP copy not supplied and consistency not assessed. Primary sources: official Measure X PDF (visual page 18); City Attorney analysis pp.6–7; AGA page and history list; County unofficial result 67.51% (17,270/25,580), so 68% is acceptable rounded but add as-of date and official county link. 2024 BB effective date confirmed on Rent Board site; live statutory URLs were 403, not claimed verified."
+}

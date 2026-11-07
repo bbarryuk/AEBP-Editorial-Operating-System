@@ -3,11 +3,11 @@ title: Rent Cap Figures — AB 1482, Oakland RAP, Berkeley AGA, Richmond AGA
 doc_type: informative
 owner: Brian
 last_verified: 2026-10-30
-next_review: 2026-11-15
+next_review: 2026-12-03
 next_review_by_jurisdiction:
   ab_1482_statewide: 2027-08-01
   oakland_rap: 2027-08-01
-  berkeley_aga: 2026-11-15  # recheck after the Nov 3 Measure X result is certified
+  berkeley_aga: 2026-12-03  # Measure X passed; recheck operative date after county certification
   richmond_aga: 2027-06-01
 review_frequency: as-changed (see Currency note; per-jurisdiction dates above — the file-level next_review is the earliest of the four, so nothing in this file goes stale silently)
 authority: Statute / Local Ordinance
@@ -81,7 +81,11 @@ Not previously spelled out here, surfaced 2026-08-12 while fact-checking ChatGPT
 
 **Verified 2026-10-29/30 against the Berkeley Rent Board's AGA page** (`rentboard.berkeleyca.gov/rights-responsibilities/rent-levels/annual-general-adjustment`: "The AGA for 2027 is 2.5%") **and the October 15, 2026 Board agenda** (Consent Item 7E, Resolution 26-32 confirming the 2027 AGA at 2.5%, published as Regulation 1149). Effective January 1, 2027 for fully covered units, for increases taking effect during calendar 2027; 2026's 1.0% still applies to increases effective through December 31, 2026. **Confidence: Level 1.** Applied 2026-10-29 to posts 7996 and 9050 (dated update notes) and Law Library entry 9403.
 
-**Pending, not yet law:** Berkeley Measure X (Nov 3, 2026 ballot) would cap AGA-based increases at 10% in any 12 months including banked AGAs, change the Golden Duplex exemption-notice rule, and move the registration fee deadline to September 30 from 2027. Source: City of Berkeley November 2026 impartial analyses. Recheck after the result is certified; do not describe any of it as in effect until then.
+**Measure X — approved November 3, 2026 (unofficial: 68% yes, 25,580 ballots, per Brian 2026-11-04; corroborated by Local News Matters 2026-11-04 "Berkeley voters likely to approve Measure X"). Not yet certified; effective date not yet announced.** **Corrected 2026-11-05 (caught by Brian): use the City's official Measure X full text, not the council packets.** Source: https://berkeleyca.gov/sites/default/files/Berkeley_Rent%20Ordinance%20-%20Full%20Text.pdf (20 pp., linked from Berkeley's elections page). A 2026-11-04 entry here cited the July 7 council item and said Measure X requires a Golden Duplex exemption notice for tenancies starting on or after December 1, 2027. That proposal was struck in the July 7 Supplemental Packet 2 (Lunaparra revision) and is NOT in the final measure: §13.76.050(C)(9) on PDF p. 5 has no notice, date or delayed-exemption condition. The error came from pdftotext output, which drops strikethrough formatting and made deleted text read as operative (see tests/legal/TEST-LEGAL-009.md).
+
+Final text, verified 2026-11-05: §13.76.110(F) — "a landlord shall not increase the lawful periodic rent charged for any unit in a 12-month period by more than ten percent (10%) for rent increases based on the Annual General Adjustment" (the final text has no "lower state limit" clause; the earlier draft did). §13.76.050(D) "No Removal of Rights Previously Established" — no exemption applies "when the current tenancy commenced prior to the date the unit met all elements of the exemption," and it "shall not apply to any rental unit deemed exempt prior to November 3, 2026." §13.76.080(G) — "Starting in 2027, annual registration fees ... shall be due and payable on or before September 30 of each year." §13.76.080(N) — the Board "may, by regulation" require paperless/online payment (no unit threshold stated in this text). Tenant-association threshold (§13.76.135(A)), read 2026-11-06 from the official full text: parcels with 5+ units, or 1–4 units if managed by a property management company as defined by Board regulation (previously 10+, or 1–9 if professionally managed). Extracted text shows the redline as "ten five" / "nine four"; the 10→5 change matches the City Attorney's analysis, both the 10→5 and 9→4 changes were visually verified in the official PDF, printed p. 18, on 2026-11-06. The same subsection preserves an established association’s rights if the management company leaves; do not describe the threshold expansion as the only association change. §13.76.080(O): Board may waive or reduce fees for 501(c)(3)-controlled units under a regulatory agreement. No effective-date clause in the measure; Elections Code §9217 (10 days after the council declares the result) applies. Used in post 10340. Recheck after Alameda County certifies (by ~Dec 3, 2026) for the operative date. Applied 2026-11-04 to post 10268 and Law Library entries 9403/9404.
+
+**Superseded pre-election note:** Berkeley Measure X (Nov 3, 2026 ballot) would cap AGA-based increases at 10% in any 12 months including banked AGAs, change the Golden Duplex exemption-notice rule, and move the registration fee deadline to September 30 from 2027. Source: City of Berkeley November 2026 impartial analyses. Recheck after the result is certified; do not describe any of it as in effect until then.
 
 
 | Period | Formula | Rate | Confidence |
