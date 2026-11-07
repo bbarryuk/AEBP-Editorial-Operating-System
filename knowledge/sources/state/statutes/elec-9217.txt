@@ -1,0 +1,23 @@
+=== AEBP SOURCE SNAPSHOT — NOT THE LIVE LAW ===
+Title: Elections Code § 9217 — Voter-approved city ordinances
+Jurisdiction: California
+Source type: Statute (EVD-SOURCE-HIERARCHY level 1)
+Official URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=ELEC&sectionNum=9217.
+Version: (Enacted by Stats. 1994, Ch. 920, Sec. 2.)
+Last verified: 2026-11-06 (owner-supplied official-page text)
+Notes: Brian supplied the official-page text on 2026-11-06 in response to reviewer-requested live statute verification. Checked against supplied text; reviewer did not independently retrieve LegInfo (403). Attachment: Elections Code - 9217(1).txt.
+Rule: draft and review from this copy; verify against the official URL before later publication (EVD-SOURCE-SNAPSHOTS in docs/02).
+=== BEGIN VERBATIM TEXT ===
+Elections Code - ELEC
+DIVISION 9. MEASURES SUBMITTED TO THE VOTERS [9000 - 9611]  ( Division 9 enacted by Stats. 1994, Ch. 920, Sec. 2. )
+  
+CHAPTER 3. Municipal Elections [9200 - 9295]  ( Chapter 3 enacted by Stats. 1994, Ch. 920, Sec. 2. )
+  
+
+ARTICLE 1. Initiative [9200 - 9226]  ( Article 1 enacted by Stats. 1994, Ch. 920, Sec. 2. )
+
+  
+9217.  
+
+If a majority of the voters voting on a proposed ordinance vote in its favor, the ordinance shall become a valid and binding ordinance of the city. The ordinance shall be considered as adopted upon the date that the vote is declared by the legislative body, and shall go into effect 10 days after that date. No ordinance that is either proposed by initiative petition and adopted by the vote of the legislative body of the city without submission to the voters, or adopted by the voters, shall be repealed or amended except by a vote of the people, unless provision is otherwise made in the original ordinance.
+(Enacted by Stats. 1994, Ch. 920, Sec. 2.)

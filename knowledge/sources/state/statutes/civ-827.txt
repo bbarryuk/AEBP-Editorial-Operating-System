@@ -2,12 +2,11 @@
 Title: Civil Code § 827 — Notice of rent increase / change in terms
 Jurisdiction: California
 Source type: Statute (EVD-SOURCE-HIERARCHY level 1)
-Official URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=827.  [standard leginfo pattern]
+Official URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=827.
 Version: (Amended by Stats. 2024, Ch. 1015, Sec. 1. (SB 1103) Effective January 1, 2025.)
-Saved to OneDrive: 2026-09-26   Added to repo: 2026-10-30
-Original file: Rental-Law-Resources/bill-texts/Civil-Code-827.txt
-Notes: See the Stats. amendment note in the text for the version in force when saved.
-Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+Last verified: 2026-11-06 (owner-supplied official-page text)
+Notes: Brian supplied the official-page text on 2026-11-06 in response to reviewer-requested live statute verification. Checked against supplied text; reviewer did not independently retrieve LegInfo (403). Attachment: Civil-Code-827(1).txt.
+Rule: draft and review from this copy; verify against the official URL before later publication (EVD-SOURCE-SNAPSHOTS in docs/02).
 === BEGIN VERBATIM TEXT ===
 Civil Code - CIV
 DIVISION 2. PROPERTY [654 - 1422]  ( Heading of Division 2 amended by Stats. 1988, Ch. 160, Sec. 13. )

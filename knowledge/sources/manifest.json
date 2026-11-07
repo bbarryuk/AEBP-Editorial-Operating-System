@@ -190,9 +190,9 @@
     "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=827.",
     "url_status": "standard leginfo pattern",
     "version": "(Amended by Stats. 2024, Ch. 1015, Sec. 1. (SB 1103) Effective January 1, 2025.)",
-    "saved": "2026-09-26",
-    "src": "Civil-Code-827.txt",
-    "notes": "See the Stats. amendment note in the text for the version in force when saved.",
+    "saved": "2026-11-06",
+    "src": "Civil-Code-827(1).txt",
+    "notes": "Brian supplied the official-page text on 2026-11-06 in response to reviewer-requested live statute verification. Checked against supplied text; reviewer did not independently retrieve LegInfo (403). Attachment: Civil-Code-827(1).txt.",
     "ocr": false
   },
   {
@@ -204,9 +204,9 @@
     "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1013.",
     "url_status": "standard leginfo pattern",
     "version": "(Amended by Stats. 2022, Ch. 686, Sec. 2. (AB 1726) Effective January 1, 2023.)",
-    "saved": "2026-09-28",
-    "src": "CCP-1013.txt",
-    "notes": "See the Stats. amendment note in the text for the version in force when saved.",
+    "saved": "2026-11-06",
+    "src": "CCP-1013(1).txt",
+    "notes": "Brian supplied the official-page text on 2026-11-06 in response to reviewer-requested live statute verification. Checked against supplied text; reviewer did not independently retrieve LegInfo (403). Attachment: CCP-1013(1).txt.",
     "ocr": false
   },
   {
@@ -781,6 +781,20 @@
     "saved": "2026-10-06",
     "src": "AlamedaCounty-TenantProtections-StaffRpt-2-26-26.pdf",
     "notes": "Extracted from PDF with pdftotext.",
+    "ocr": false
+  },
+  {
+    "dest": "state/statutes/elec-9217.txt",
+    "title": "Elections Code § 9217 — Voter-approved city ordinances",
+    "jurisdiction": "California",
+    "type": "Statute",
+    "evd_level": 1,
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=ELEC&sectionNum=9217.",
+    "url_status": "owner-supplied official-page text",
+    "version": "(Enacted by Stats. 1994, Ch. 920, Sec. 2.)",
+    "saved": "2026-11-06",
+    "src": "Elections Code - 9217(1).txt",
+    "notes": "Brian supplied the official-page text on 2026-11-06 in response to reviewer-requested live statute verification. Checked against supplied text; reviewer did not independently retrieve LegInfo (403). Attachment: Elections Code - 9217(1).txt.",
     "ocr": false
   }
 ]

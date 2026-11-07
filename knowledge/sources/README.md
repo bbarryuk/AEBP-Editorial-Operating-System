@@ -26,6 +26,10 @@ Verbatim text of the statutes, bills, ordinances and regulations that `knowledge
 
 Each file starts with a header (title, jurisdiction, source type and `EVD-SOURCE-HIERARCHY` level, official URL, version, dates, notes), then `=== BEGIN VERBATIM TEXT ===`. `manifest.json` holds the same data in machine-readable form.
 
+## November 6, 2026 verification
+
+Brian supplied official-page text for Civil Code §827, CCP §1013, and Elections Code §9217 after automated access returned 403. The first two match the existing snapshot bodies; headers and manifest now record this provenance. Added `state/statutes/elec-9217.txt`. These texts resolve statute-verification findings 10340-F06-OPEN and 10342-F04-OPEN; they do not establish Measure X's actual council declaration or effective date.
+
 ## Open items
 
 - **URLs marked "to confirm"** need the exact deep link added (Oakland Municode articles, Berkeley regulations and deposit-interest pages, HUD FMR page, Alameda County ordinance and report).
@@ -56,6 +60,7 @@ Each file starts with a header (title, jurisdiction, source type and `EVD-SOURCE
 | `state/statutes/civ-789.3.txt` | Civil Code § 789.3 — Utility shutoff / lockout prohibited | 1 | (Amended by Stats. 1979, Ch. 333.) | 2026-10-06 | [link](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=789.3.) |
 | `state/statutes/civ-827.txt` | Civil Code § 827 — Notice of rent increase / change in terms | 1 | (Amended by Stats. 2024, Ch. 1015, Sec. 1. (SB 1103) Effective January 1, 2025.) | 2026-09-26 | [link](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=827.) |
 | `state/statutes/ccp-1013.txt` | Code of Civil Procedure § 1013 — Service by mail — time extensions | 1 | (Amended by Stats. 2022, Ch. 686, Sec. 2. (AB 1726) Effective January 1, 2023.) | 2026-09-28 | [link](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1013.) |
+| `state/statutes/elec-9217.txt` | Elections Code §9217 — Voter-approved city ordinances | 1 | Stats. 1994, Ch. 920, Sec. 2 | 2026-11-06 | [link](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=ELEC&sectionNum=9217.) |
 | `state/statutes/ccp-1161.txt` | Code of Civil Procedure § 1161 — Unlawful detainer — grounds and notices | 1 | (Amended (as added by Stats. 2020, Ch. 37, Sec. 16) by Stats. 2024, Ch. 287, Sec. 6. (SB 611) Effective Jan… | 2026-09-26 | [link](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1161.) |
 | `state/statutes/ccp-1162.txt` | Code of Civil Procedure § 1162 — Service of notices | 1 | (Amended by Stats. 2010, Ch. 144, Sec. 1. (AB 1263) Effective January 1, 2011.) | 2026-09-26 | [link](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1162.) |
 | `state/statutes/ccp-1167.txt` | Code of Civil Procedure § 1167 — UD summons and response time | 1 | (Amended by Stats. 2024, Ch. 512, Sec. 1. (AB 2347) Effective January 1, 2025.) | 2026-09-28 | [link](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1167.) |

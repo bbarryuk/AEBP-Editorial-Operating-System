@@ -2,12 +2,11 @@
 Title: Code of Civil Procedure § 1013 — Service by mail — time extensions
 Jurisdiction: California
 Source type: Statute (EVD-SOURCE-HIERARCHY level 1)
-Official URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1013.  [standard leginfo pattern]
+Official URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1013.
 Version: (Amended by Stats. 2022, Ch. 686, Sec. 2. (AB 1726) Effective January 1, 2023.)
-Saved to OneDrive: 2026-09-28   Added to repo: 2026-10-30
-Original file: Rental-Law-Resources/bill-texts/CCP-1013.txt
-Notes: See the Stats. amendment note in the text for the version in force when saved.
-Rule: draft and review from this copy; verify against the official URL before publishing (EVD-SOURCE-SNAPSHOTS in docs/02).
+Last verified: 2026-11-06 (owner-supplied official-page text)
+Notes: Brian supplied the official-page text on 2026-11-06 in response to reviewer-requested live statute verification. Checked against supplied text; reviewer did not independently retrieve LegInfo (403). Attachment: CCP-1013(1).txt.
+Rule: draft and review from this copy; verify against the official URL before later publication (EVD-SOURCE-SNAPSHOTS in docs/02).
 === BEGIN VERBATIM TEXT ===
 Code of Civil Procedure - CCP
 PART 2. OF CIVIL ACTIONS [307 - 1062.34]  ( Part 2 enacted 1872. )
