@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10340,
+  "content_type": "cornerstone",
+  "responds_to": {
+    "review_file": "reviews/posts/10340/01-review.json",
+    "timestamp": "2026-11-07T02:08:08.221Z"
+  },
+  "repo": {
+    "commit": "3b3dbcb9ecfc3c6bb202026d73f5b37dabd1032c",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10340,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10340"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-11-07T02:25:00Z",
+  "dispositions": [
+    {
+      "finding_id": "10340-F01",
+      "disposition": "accepted",
+      "rationale": "Correct: the script shifted to present tense and dropped the 12-month window and the interpretation label the FAQ carries.",
+      "change_applied": "Video Script paragraph 4 replaced on both pages (post 10340 and video page 10342). The markdown source carries the same text.",
+      "quote_before": "Now it's ten percent at a time, with the rest still banked for later.",
+      "quote_after": "Once it takes effect, increases based on the adjustment are limited to ten percent in a twelve-month period. Our reading is that anything above that stays in the rent ceiling for later, but confirm the amount with the Rent Board."
+    },
+    {
+      "finding_id": "10340-F02",
+      "disposition": "accepted",
+      "rationale": "Correct: premature 'now', and the ordinance tests parcels, not buildings. Reviewer's visual check of PDF p.18 also confirms the continuing-rights sentence is new.",
+      "change_applied": "Video Script paragraph 6 rewritten on both pages with 'once the measure takes effect', parcels, and continuing rights.",
+      "quote_before": "And tenant associations can now form in self-managed buildings with five or more units.",
+      "quote_after": "And tenants on self-managed parcels with five to nine units will be able to form a tenant association. Professionally managed parcels already qualified at any size, and an established association keeps its rights if the manager leaves."
+    },
+    {
+      "finding_id": "10340-F03",
+      "disposition": "accepted",
+      "rationale": "Correct: election day, adoption and effective date were conflated.",
+      "change_applied": "Key Facts footer rewritten; AEBP observation 'Before November 3 ... Under Measure X' changed to 'Without Measure X's cap ... Once Measure X takes effect'. Quick Answer and FAQ 1 now cite Alameda County's unofficial count with an as-of date; county results link added to Sources.",
+      "quote_before": "everything in this table except the 2027 AGA became law on November 3, 2026, pending certification.",
+      "quote_after": "voters approved these amendments in the November 3 election, according to unofficial results. They aren't in effect yet, and the operative date hasn't been announced. The 2027 AGA is a separate Rent Board determination; Measure X doesn't change it, the new-tenancy rule, or the notice periods."
+    },
+    {
+      "finding_id": "10340-F04",
+      "disposition": "accepted",
+      "rationale": "Correct: the threshold change and the continuing-rights change are separate, and the latter also touches professionally managed parcels.",
+      "change_applied": "Subsection renamed 'Tenant associations: lower thresholds and continuing rights' and rewritten with parcel wording and the continuing-rights sentence. Key Facts tenant-association row updated to match, including the 'Who it affects' column.",
+      "quote_before": "The change only reaches self-managed buildings with 5 to 9 units.",
+      "quote_after": "The threshold expansion reaches self-managed parcels with 5 to 9 rental units. Measure X also says an established association keeps its rights even if the property management company stops managing the units."
+    },
+    {
+      "finding_id": "10340-F05",
+      "disposition": "accepted",
+      "rationale": "Correct: including the 2027 AGA in a 'before Measure X' action implied notice could defeat the cap, and eligibility assumptions were unstated.",
+      "change_applied": "Worked example now states its assumptions (tenancy began before 2022, $2,500 at ceiling end of 2022, eligible for every listed AGA) and compares rules rather than actions. The 90-day notice parenthetical is removed. The remainder is labeled as our reading, with a Rent Board check.",
+      "quote_before": "the owner could serve one increase to about $2,811 (with 90 days' notice, since it's over 10%).",
+      "quote_after": "Without Measure X's cap: the hypothetical 2027 ceiling would be about $2,811. This compares the two sets of rules; it isn't a suggestion that serving notice before the measure takes effect permits that January increase."
+    },
+    {
+      "finding_id": "10340-F06",
+      "disposition": "accepted_with_modification",
+      "rationale": "Wording accepted. Verification: Civil Code 827(b)(2)-(3) and CCP 1013(a) checked against the repo snapshots (knowledge/sources/state/statutes/civ-827.txt, ccp-1013.txt); the 12-month cumulative test, 'subject to Section 1013', and the five-day in-state extension are in the text. Live leginfo URLs were not reachable from this session either. Elections Code 9217 has no repo snapshot; cited via california.public.law (states it was checked against leginfo on 2026-07-20) and corroborated by the Measure BB precedent: Council declaration Dec 10, 2024 (City document) and Rent Board rules for tenancies starting on or after Dec 20, 2024 (Rent Board Measure BB page). Brian to confirm 827, 1013 and 9217 against leginfo in a browser before publishing.",
+      "change_applied": "Heading renamed 'Notice for an increase within the cap'. Section rewritten with the 12-month aggregation test, the 30-day result limited to AGA-only increases within 10%, the 'longer contractual or other requirements still control' caveat, and the CCP 1013(a) five-day in-state mailing basis for the Nov 25 target. CCP 1013(a) added to Sources; Measure BB precedent sources added.",
+      "quote_before": "One side effect: the 90-day notice path mostly goes away",
+      "quote_after": "For an AGA-only increase that stays within 10% over the preceding 12 months, the ordinary statutory notice period is 30 days. Longer contractual or other applicable notice requirements still control. If the notice is mailed from and to addresses within California, Code of Civil Procedure §1013(a) adds five calendar days."
+    },
+    {
+      "finding_id": "10340-F07",
+      "disposition": "accepted_with_modification",
+      "rationale": "Checklist and deep-dive link accepted. The video teaser wording is modified slightly so it still names the video page. Rendered blocks, schema and media still need an authenticated preview; not possible from this session.",
+      "change_applied": "Added 'Before You Serve a Berkeley Rent Increase' checklist (five items) before Bottom Line, with contextual links to the Berkeley Rent Control Compliance Guide and the Berkeley Rent Stabilization law-library entry. Video teaser now reads 'once it's published, with the draft script below'.",
+      "quote_before": "Bottom Line",
+      "quote_after": "Before You Serve a Berkeley Rent Increase: Confirm the unit is fully covered and the tenancy is AGA-eligible ... Calculate notice and service time: 30 days for a total increase of 10% or less over 12 months, plus five days if mailed within California."
+    }
+  ],
+  "claim_provenance_updates": [],
+  "operating_system_followups": [
+    {
+      "description": "Tenant-association 9→4 change and continuing-rights sentence visually verified by reviewer on official PDF p.18; already recorded in rent-caps.md by commit 382f8d8, no further change.",
+      "target_doc": "knowledge/laws/rent-caps.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Save an Elections Code 9217 snapshot to knowledge/sources/state/statutes/ and re-verify civ-827/ccp-1013 against leginfo (inaccessible to both reviewers this round).",
+      "target_doc": "knowledge/sources/README.md",
+      "type_c_followup": true
+    }
+  ],
+  "summary": "All seven findings addressed. F01–F05 applied with the reviewer's wording (F05 restated as a rules comparison with stated assumptions). F06 rewritten; 827/1013 checked against repo snapshots, 9217 corroborated by the Measure BB timeline, but live leginfo checks remain for Brian. F07 checklist and Berkeley deep-dive links added. Authenticated preview, featured image and the video remain open.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "proceed_to_gpt_final_review"
+}

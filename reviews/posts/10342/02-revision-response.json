@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10342,
+  "content_type": "video",
+  "responds_to": {
+    "review_file": "reviews/posts/10342/01-review.json",
+    "timestamp": "2026-11-07T02:08:08.221Z"
+  },
+  "repo": {
+    "commit": "3b3dbcb9ecfc3c6bb202026d73f5b37dabd1032c",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10342,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10342"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-11-07T02:25:00Z",
+  "dispositions": [
+    {
+      "finding_id": "10342-F01",
+      "disposition": "accepted",
+      "rationale": "Same as 10340-F01.",
+      "change_applied": "Video Script paragraph 4 replaced.",
+      "quote_before": "Now it's ten percent at a time, with the rest still banked for later.",
+      "quote_after": "Once it takes effect, increases based on the adjustment are limited to ten percent in a twelve-month period. Our reading is that anything above that stays in the rent ceiling for later, but confirm the amount with the Rent Board."
+    },
+    {
+      "finding_id": "10342-F02",
+      "disposition": "accepted",
+      "rationale": "Same as 10340-F02.",
+      "change_applied": "Video Script paragraph 6 replaced.",
+      "quote_before": "And tenant associations can now form in self-managed buildings with five or more units.",
+      "quote_after": "And tenants on self-managed parcels with five to nine units will be able to form a tenant association. Professionally managed parcels already qualified at any size, and an established association keeps its rights if the manager leaves."
+    },
+    {
+      "finding_id": "10342-F03",
+      "disposition": "accepted",
+      "rationale": "Same root cause as F02.",
+      "change_applied": "Key Takeaway rewritten with 'once Measure X takes effect', parcels and continuing rights. Intro also now says the result is unofficial and not yet in effect.",
+      "quote_before": "Tenant associations can now form in self-managed buildings of 5 or more units; professionally managed buildings were already covered at any size",
+      "quote_after": "Once Measure X takes effect, the tenant-association threshold expands to self-managed parcels with 5 to 9 units; professionally managed parcels already qualify at any size, and established associations keep their rights if management ends"
+    },
+    {
+      "finding_id": "10342-F04",
+      "disposition": "accepted_with_modification",
+      "rationale": "Draft-until-video and transcript relabel accepted as standing process. Berkeley deep-dive link added now. Elections Code 9217 handled as in 10340-F06 (snapshot-less; Brian to confirm on leginfo). Rendered VideoObject/blocks can only be checked after the video is embedded.",
+      "change_applied": "Added Berkeley Rent Control Compliance Guide to Laws & Resources. Page stays draft with 'Video Script' label until the render is checked against the script.",
+      "quote_before": "Video in production. It will appear here once it's published.",
+      "quote_after": "(unchanged until the video exists)"
+    }
+  ],
+  "claim_provenance_updates": [],
+  "operating_system_followups": [
+    {
+      "description": "Tenant-association 9→4 change and continuing-rights sentence visually verified by reviewer on official PDF p.18; already recorded in rent-caps.md by commit 382f8d8, no further change.",
+      "target_doc": "knowledge/laws/rent-caps.md",
+      "type_c_followup": true
+    },
+    {
+      "description": "Save an Elections Code 9217 snapshot to knowledge/sources/state/statutes/ and re-verify civ-827/ccp-1013 against leginfo (inaccessible to both reviewers this round).",
+      "target_doc": "knowledge/sources/README.md",
+      "type_c_followup": true
+    }
+  ],
+  "summary": "All four findings addressed. Script and Key Takeaway fixed to match 10340; Berkeley guide link added. Page stays draft until the video is recorded, embedded and the script relabeled 'Video Transcript' after checking.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "proceed_to_gpt_final_review"
+}
