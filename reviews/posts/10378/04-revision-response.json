@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10378,
+  "content_type": "cornerstone",
+  "responds_to": {
+    "review_file": "reviews/posts/10378/03-final-review.json",
+    "timestamp": "2026-11-13T03:22:00Z"
+  },
+  "repo": {
+    "commit": "eb89a709884caf8fe24c57c7ff9984345cb7b976",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10378,
+    "revision_id": null,
+    "modified_gmt": null,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10378"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-11-13T03:22:00Z",
+  "dispositions": [
+    {
+      "finding_id": "10378-F08",
+      "disposition": "accepted",
+      "rationale": "Correct. CCP 417.10(a)(1)(B) only excuses the missing GPS stamp (with a statement); (a)(4) excuses the photo itself only for safety. 'Exceptions for no signal or safety' blurred the two.",
+      "change_applied": "Video Script paragraph 2 replaced with the reviewer's wording on both pages (10378, 10383). On 10378, the Key Facts AB 747 row and the Before/After proof-of-service row now separate the two conditions.",
+      "quote_before": "with exceptions when there's no signal or a photo isn't safe",
+      "quote_after": "Proofs of service generally need a photo with the date, time and location. If there's no location signal, the server explains the missing stamp. If taking the photo would compromise safety, the server documents the attempt or service and explains why."
+    },
+    {
+      "finding_id": "10378-F09",
+      "disposition": "accepted",
+      "rationale": "Correct. Pen. Code 396(j)(11)(B) sets the baseline at 160% of HUD fair market rent for housing not rented or offered in the prior year, so 'pre-emergency baseline' is inaccurate for those units.",
+      "change_applied": "Video Script paragraph 4 replaced on both pages. On 10383, Key Takeaway 4 now says 'the baseline set by law, which depends on the property's rental history'. The article body already used 'statutory baseline'.",
+      "quote_before": "above a pre-emergency baseline",
+      "quote_after": "above the baseline set by law, which depends on the property's rental history. Limited defenses apply, and the owner has to prove them."
+    }
+  ],
+  "claim_provenance_updates": [],
+  "operating_system_followups": [
+    {
+      "description": "Changed the placeholder finding's disposition in 02-revision-response from 'deferred' to 'requires_human', per the reviewer's schema note. Rationale and requires_human_review kept.",
+      "target_doc": "reviews/posts/10378/02-revision-response.json",
+      "type_c_followup": false
+    }
+  ],
+  "summary": "Both second-pass wording findings accepted and applied, with the shared script identical on both pages. Remaining before publish: render the video and swap the placeholder for the real embed, verify playback, chapters, transcript and rendered schema, and recheck Measure X certification.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "approve_for_recording"
+}

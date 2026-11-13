@@ -73,7 +73,7 @@
     },
     {
       "finding_id": "10378-F07",
-      "disposition": "deferred",
+      "disposition": "requires_human",
       "rationale": "Agreed on substance, but the placeholder is the standard pre-render state (skill Step 6). The reviewer's replacement can't go in until a video exists. The placeholder, script label and links will be swapped for the real shortcode and a verified transcript once the video is rendered and uploaded, before publish.",
       "change_applied": "No change yet. Tracked as a pre-publish step.",
       "quote_before": "🎥 Video in production. It will appear here once it's live.",

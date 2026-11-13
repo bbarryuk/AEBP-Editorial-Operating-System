@@ -71,7 +71,7 @@ WordPress: draft, https://dev.alleastbayproperties.com/?p=10378
 
 > After: The law still allows evictions for lawful reasons. Separately, it bars evicting a tenant during the protected period and then renting or offering the unit for more than the evicted tenant could have been charged. An eviction lawfully begun before the declaration may continue.
 
-### 10378-F07 — deferred
+### 10378-F07 — requires_human
 
 **Rationale:** Agreed on substance, but the placeholder is the standard pre-render state (skill Step 6). The reviewer's replacement can't go in until a video exists. The placeholder, script label and links will be swapped for the real shortcode and a verified transcript once the video is rendered and uploaded, before publish.
 

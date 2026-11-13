@@ -51,7 +51,7 @@ WordPress: draft, https://dev.alleastbayproperties.com/?post_type=video&p=10383
 
 > After: available on the property website and in digital ads they control (and on third-party sites where the platform allows it), and given with every application
 
-### 10383-F05 — deferred
+### 10383-F05 — requires_human
 
 **Rationale:** Agreed on substance, but the placeholder is the standard pre-render state (skill Step 6). The reviewer's replacement can't go in until a video exists. The placeholder, script label and links will be swapped for the real shortcode and a verified transcript once the video is rendered and uploaded, before publish.
 
