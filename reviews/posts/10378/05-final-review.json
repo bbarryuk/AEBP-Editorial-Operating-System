@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10378,
+  "title": "New California Landlord Laws for 2027: 4 Changes East Bay Owners Need to Know",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "eb89a709884caf8fe24c57c7ff9984345cb7b976",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10378,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10378"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex"
+  },
+  "timestamp": "2026-11-13T03:19:50.964Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10378-F07",
+          "quote": "🎥 Video in production. It will appear here once it's live.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The article links to the companion and promises a transcript while the recording is still in production. Coordinate publication and verify both links, rendered blocks, and applicable schema after embedding.",
+          "fix": "Watch the video below for a summary of the four changes."
+        }
+      ]
+    }
+  ],
+  "scores": [],
+  "claim_provenance": [
+    {
+      "claim_id": "10378-C01",
+      "quote": "Our listing photos are mostly shot by a professional photographer",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-11-12 entry for 10378 and 10383"
+    },
+    {
+      "claim_id": "10378-C02",
+      "quote": "we're adding written pet policies and updating our applications before the end of this year",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-11-12 entry for 10378 and 10383"
+    },
+    {
+      "claim_id": "10378-C03",
+      "quote": "eviction service is handled by the eviction attorneys we hire",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-11-12 entry for 10378 and 10383"
+    },
+    {
+      "claim_id": "10378-C04",
+      "quote": "We manage 600+ rental units",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md"
+    }
+  ],
+  "strengths": [
+    "The cornerstone uses an answer-first structure, a comparison table, a checklist, five FAQs, and primary bill citations.",
+    "The company's operating claims match the dated company records."
+  ],
+  "article_fixes": [],
+  "operating_system_improvements": [],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Verified WordPress revision modified 2026-11-12 19:16:06 (site local time). Both wording fixes verified. The shared scripts match. Cleared for recording. Publication remains on hold for the final embed, playback, chapter links, verified transcript and rendered schema. Berkeley Rent Board still lists Measure X as pending certification. Round two now uses requires_human. Round four uses approve_for_recording, outside the response schema enum. Repo baseline inherited from prior review; worktree status was unavailable."
+}
