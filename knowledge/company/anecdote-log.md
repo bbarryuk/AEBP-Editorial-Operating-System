@@ -161,3 +161,16 @@ Any future post, video script, or social copy reusing this same observation (rat
 **Do not:** claim AEBP serves every notice with proof of service, attaches RAP notices/tax certificates to every Oakland increase, or "applies the right rate per jurisdiction" as an AEBP service claim. Brian didn't confirm those; they were removed from 10268's comparison table in 02-revision-response. Don't attach specific unit counts (how many Berkeley units are held back each January); none was given.
 
 **Used in:** Post 10268 ("How We Time Rent Increases at AEBP" section, comparison table, FAQ 2, CTA, Video Script) and video page 10269 (intro, CTA, Video Script). Reused (claims 1, 3, 4 and 5 only) in the Nov 5 Thursday Tip, post 10299, its email, video script and social copy; no unit counts or client stories added. Reused (claims 1, 3 and 5 only) in the Nov 9 cornerstone, post 10340 ("What We See at AEBP: Skipped Years Become Banked Increases", comparison table, Video Script) and video page 10342; no unit counts, client stories, or claims that AEBP checks banked amounts or advises on skip decisions. Reused (claims 1, 3 and 5 only, "a common reason" wording per 10340-F09) in the Nov 12 Thursday Tip, post 10370, its email, video script and social copy; no unit counts or client stories added.
+
+### 2026-11-12 — 2027 laws: listing photos, pet policies, UD service (posts 10378, 10383)
+
+**Claims (company policy / practice):**
+1. Listing photos: AEBP mostly hires a professional photographer; sometimes the agent shoots them. AEBP has used virtual staging in the past, but not often. After January 1, 2027, any virtually staged photo will follow AB 2025's disclosure-and-original rule.
+2. Pet policy: AEBP is adding written pet policies and updating its rental applications before the end of 2026 (ahead of SB 1296's April 1, 2027 date).
+3. Unlawful detainers: anything to do with a UD, including service, is handled by the eviction attorneys AEBP hires.
+
+**Confirmed by:** Brian, directly, in the Nov 16 cornerstone session (2026-11-12), when asked for a first-person observation on AB 2025, SB 1296 and AB 747/2042.
+
+**Used in:** Post 10378 ("New California Landlord Laws for 2027," "What We're Changing at AEBP Before 2027," comparison table, CTA, Video Script) and video page 10383 (CTA, Video Script).
+
+**Do not:** say AEBP currently uses virtual staging, give a share of listings that are staged or shot by agents, or say pet policies are already on every listing (they're being added before year-end). Don't claim AEBP serves termination notices with proof of service, or that AEBP or its attorneys have already changed process-server practices for AB 747. Brian confirmed none of these.
