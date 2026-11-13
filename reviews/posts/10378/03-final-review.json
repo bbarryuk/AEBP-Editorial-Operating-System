@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10378,
+  "title": "New California Landlord Laws for 2027: 4 Changes East Bay Owners Need to Know",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1",
+    "manifest": "0.1"
+  },
+  "repo": {
+    "commit": "eb89a709884caf8fe24c57c7ff9984345cb7b976",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10378,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10378"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "Codex"
+  },
+  "timestamp": "2026-11-13T03:13:45.165Z",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10378-F08",
+          "quote": "with exceptions when there's no signal or a photo isn't safe",
+          "root_cause": "The revised article body distinguishes the two conditions correctly. The shared script and article tables still imply lack of signal excuses the photo. CCP §417.10(a)(1)(B), (a)(4).",
+          "fix": "Proof of service generally needs a photo with the date, time and location. If there’s no location signal, the server explains the missing stamp. If taking the photo would compromise safety, the server documents the attempt or service and explains why.",
+          "find_type": [
+            "A"
+          ]
+        },
+        {
+          "finding_id": "10378-F09",
+          "quote": "above a pre-emergency baseline",
+          "root_cause": "The video implies the baseline is always a pre-emergency amount. Penal Code §396(j)(11) includes a HUD-based baseline for units without recent rental activity. The article body correctly uses statutory baseline.",
+          "fix": "During a covered emergency, the law generally bars rent more than ten percent above the baseline set by law, which depends on the property’s rental history. Limited defenses apply.",
+          "find_type": [
+            "A"
+          ]
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-STRUCTURE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "CORNERSTONE-AEBP-VOICE",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10378-F07",
+          "quote": "🎥 Video in production. It will appear here once it's live.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The article links to the companion and promises a transcript while the recording is still in production. Coordinate publication and verify both links, rendered blocks, and applicable schema after embedding.",
+          "fix": "Watch the video below for a summary of the four changes."
+        }
+      ]
+    }
+  ],
+  "scores": [],
+  "claim_provenance": [
+    {
+      "claim_id": "10378-C01",
+      "quote": "Our listing photos are mostly shot by a professional photographer",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-11-12 entry for 10378 and 10383"
+    },
+    {
+      "claim_id": "10378-C02",
+      "quote": "we're adding written pet policies and updating our applications before the end of this year",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-11-12 entry for 10378 and 10383"
+    },
+    {
+      "claim_id": "10378-C03",
+      "quote": "eviction service is handled by the eviction attorneys we hire",
+      "provenance": "documented",
+      "source": "knowledge/company/anecdote-log.md, 2026-11-12 entry for 10378 and 10383"
+    },
+    {
+      "claim_id": "10378-C04",
+      "quote": "We manage 600+ rental units",
+      "provenance": "documented",
+      "source": "knowledge/company/overview.md"
+    }
+  ],
+  "strengths": [
+    "The cornerstone uses an answer-first structure, a comparison table, a checklist, five FAQs, and primary bill citations.",
+    "The company's operating claims match the dated company records."
+  ],
+  "article_fixes": [],
+  "operating_system_improvements": [],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Baseline is the verified first-round review commit; current worktree status was not independently verified. Re-read WordPress draft modified 2026-11-12 19:08:53 (site local time) and Claude's 02-revision-response.json. Scripts match. Prior legal findings are materially addressed, with the two remaining wording issues below. The final embed, playback, chapter links, transcript and rendered schema are pending. The Rent Board still reports Measure X pending certification. Claude's response lists a disposition for each finding, but uses \"deferred\" for the media placeholder, outside the current response schema enum. Use \"requires_human\" for that entry and retain the rationale and requires_human_review flag."
+}
