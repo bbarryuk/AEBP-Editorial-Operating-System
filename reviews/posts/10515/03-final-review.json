@@ -1,0 +1,28 @@
+{
+  "review_type": "final_recheck",
+  "post_id": 10515,
+  "title": "First Rain, First Leak: How East Bay Landlords Should Triage Winter Repair Calls",
+  "timestamp": "2026-11-20T20:30:00-08:00",
+  "reviewer": "chatgpt (gpt-6)",
+  "based_on_repo_commit": "36f871fb368dc1f0633df4717105dcc5c52df200",
+  "wordpress_status": "draft",
+  "findings_resolved": [
+    "F01",
+    "F02",
+    "F03",
+    "F06",
+    "F07 editorial wording"
+  ],
+  "anecdote_integrity": "PASS — documented in knowledge/company/anecdote-log.md 2026-11-20 entry",
+  "legal_content": "Pass on accessible 2026 code mirrors; official-source site unavailable",
+  "video_script_consistency": "PASS — both copies aligned",
+  "editorial_result": "conditionally_approved",
+  "remaining_dependencies": [
+    {
+      "id": "LEGAL-LIVE",
+      "status": "pending_external_verification",
+      "details": "Official leginfo.legislature.ca.gov was not accessible; cross-checks completed against California code mirrors, the state DRE and CDPH. Check the official statutes before publishing."
+    }
+  ],
+  "publication_guidance": "Publication can proceed once the human official-statute spot-check and final visual/schema checks are complete. The companion-video teaser is correctly labeled in production. If the Monday November 23 publication slips beyond Thanksgiving, revise the Thanksgiving-specific section."
+}
