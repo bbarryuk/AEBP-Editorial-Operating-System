@@ -796,5 +796,33 @@
     "src": "Elections Code - 9217(1).txt",
     "notes": "Brian supplied the official-page text on 2026-11-06 in response to reviewer-requested live statute verification. Checked against supplied text; reviewer did not independently retrieve LegInfo (403). Attachment: Elections Code - 9217(1).txt.",
     "ocr": false
+  },
+  {
+    "dest": "state/statutes/civ-1941.7.txt",
+    "title": "Civil Code § 1941.7 — Mold: notice before repair duty; entry to repair",
+    "jurisdiction": "California",
+    "type": "Statute",
+    "evd_level": 1,
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1941.7.",
+    "url_status": "standard leginfo pattern",
+    "version": "(Added by Stats. 2015, Ch. 720, Sec. 1. (SB 655) Effective January 1, 2016.)",
+    "saved": "2026-11-20",
+    "src": "Civil-Code-1941_7.txt",
+    "notes": "Supplied by Brian 2026-11-20 after automated leginfo access returned 403 (reviews 10515/10516). Cited in post 10515.",
+    "ocr": false
+  },
+  {
+    "dest": "state/statutes/hsc-17920.3.txt",
+    "title": "Health & Safety Code § 17920.3 — Substandard building conditions (incl. (a)(11) dampness, (a)(13) visible mold, (g) faulty weather protection)",
+    "jurisdiction": "California",
+    "type": "Statute",
+    "evd_level": 1,
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=17920.3.",
+    "url_status": "standard leginfo pattern",
+    "version": "(Amended by Stats. 2024, Ch. 487, Sec. 2. (SB 1465) Effective January 1, 2025.)",
+    "saved": "2026-11-20",
+    "src": "HSC-17920_3.txt",
+    "notes": "Supplied by Brian 2026-11-20 after automated leginfo access returned 403 (reviews 10515/10516). Cited in post 10515.",
+    "ocr": false
   }
 ]
