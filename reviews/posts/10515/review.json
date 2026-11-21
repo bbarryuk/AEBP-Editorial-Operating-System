@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10515,
+  "title": "First Rain, First Leak: How East Bay Landlords Should Triage Winter Repair Calls",
+  "content_type": "cornerstone",
+  "review_mode": "Pre-Publish Audit",
+  "docs_versions": {
+    "doc_01": "0.5",
+    "doc_02": "0.2",
+    "doc_03": "0.3",
+    "doc_07": "0.1"
+  },
+  "repo": {
+    "commit": "e79de04a62c3d656c2b63ea64205dcf5f1ae2b22",
+    "state": "clean"
+  },
+  "wordpress": {
+    "post_id": 10515,
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?p=10515"
+  },
+  "reviewer": {
+    "name": "chatgpt",
+    "identity": "gpt-6"
+  },
+  "timestamp": "2026-11-20T20:00:00-08:00",
+  "gates": [
+    {
+      "gate_id": "GATE-LEGAL-ACCURACY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10515-F02",
+          "quote": "the repair clock starts when you get notice",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Civil Code 1942(a) is specific to notice of untenantable conditions; phrasing sweeps in all reports.",
+          "fix": "Replace 'the repair clock starts when you get notice' with 'Once you receive notice of a condition affecting habitability, respond within a reasonable time for the circumstances; document and investigate every leak report.'",
+          "future_prevention": "Apply the same correction to parent article, video page, and script; verify before publication."
+        },
+        {
+          "finding_id": "10515-F03",
+          "quote": "Emergency entry without notice (§1954)",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Operational emergency classification is not by itself a legal determination that emergency entry is warranted.",
+          "fix": "Replace 'Emergency entry without notice (§1954)' with 'Emergency entry without advance notice only where circumstances constitute an actual emergency under §1954; otherwise use statutory notice or applicable consent.'",
+          "future_prevention": "Apply the same correction to parent article, video page, and script; verify before publication."
+        },
+        {
+          "finding_id": "10515-F06",
+          "quote": "Two kinds of calls should always move up a tier: anything involving electrical, and anything where the tenant mentions a musty smell or spots on the wall.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "Musty odor and stains call for prompt investigation but aren't necessarily legally defined emergencies.",
+          "fix": "Replace with 'Treat water near electrical fixtures as a potential immediate safety hazard. Prioritize prompt inspection of musty odors or suspected mold, and escalate based on the actual risk.'",
+          "future_prevention": "Apply the same correction to parent article, video page, and script; verify before publication."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-LOCAL-ACCURACY",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-TECHNICAL-SEO",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10515-F07",
+          "quote": "Watch the video version, with chapter links and a full transcript.",
+          "find_type": [
+            "A"
+          ],
+          "root_cause": "The linked video remains in production and currently has neither chapter links nor a transcript.",
+          "fix": "Replace with 'A companion video is in production. The written guidance is available below.'",
+          "future_prevention": "Apply the same correction to parent article, video page, and script; verify before publication."
+        }
+      ]
+    },
+    {
+      "gate_id": "GATE-COMPLIANCE-RISK",
+      "status": "PASS"
+    },
+    {
+      "gate_id": "GATE-ANECDOTE-INTEGRITY",
+      "status": "FAIL",
+      "findings": [
+        {
+          "finding_id": "10515-F04",
+          "quote": "four weather-related maintenance requests",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "Specific portfolio counts need independently accessible internal data or human verification; published assertion of confirmation does not independently substantiate them.",
+          "fix": "Replace 'our portfolio of 600+ East Bay units logged four weather-related maintenance requests' with 'our portfolio received weather-related maintenance reports' until the exact counts and comparisons have been independently documented.",
+          "future_prevention": "Apply the same correction to parent article, video page, and script; verify before publication."
+        },
+        {
+          "finding_id": "10515-F05",
+          "quote": "water actively coming in is an emergency on our 24/7 line, with a vendor sent the same day",
+          "find_type": [
+            "B"
+          ],
+          "root_cause": "The repository verifies 24/7 bilingual maintenance, not an unconditional same-day vendor dispatch commitment.",
+          "fix": "Replace 'with a vendor sent the same day' with 'which we prioritize for same-day assessment and vendor dispatch, subject to the circumstances' unless AEBP confirms the stronger service guarantee.",
+          "future_prevention": "Apply the same correction to parent article, video page, and script; verify before publication."
+        }
+      ]
+    }
+  ],
+  "scores": [
+    {
+      "score_id": "SCORE-SEO",
+      "threshold": 90,
+      "value": 91,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear searchable heading and internal links",
+      "whats_holding_back": "Unfinished video/schema/metadata not fully checked"
+    },
+    {
+      "score_id": "SCORE-GEO",
+      "threshold": 95,
+      "value": 95,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Direct answers and practical steps",
+      "whats_holding_back": "Qualify statutory and operational claims"
+    },
+    {
+      "score_id": "SCORE-EEAT",
+      "threshold": 95,
+      "value": 90,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Relevant first-hand operational context",
+      "whats_holding_back": "Uncorroborated request counts and policy promises"
+    },
+    {
+      "score_id": "SCORE-READABILITY",
+      "threshold": 90,
+      "value": 94,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Clear triage categories and scannable sections",
+      "whats_holding_back": "Some overgeneralized legal phrasing"
+    },
+    {
+      "score_id": "SCORE-CONVERSION",
+      "threshold": 85,
+      "value": 92,
+      "status": "PASS",
+      "estimated": true,
+      "whats_working": "Relevant CTA and correct maintenance number",
+      "whats_holding_back": "Avoid unconditional guarantees"
+    },
+    {
+      "score_id": "SCORE-OVERALL",
+      "threshold": 95,
+      "value": 91,
+      "status": "FAIL",
+      "estimated": true,
+      "whats_working": "Useful local landlord topic",
+      "whats_holding_back": "Publication blockers remain"
+    }
+  ],
+  "claim_provenance": [
+    {
+      "claim_id": "10515-C01",
+      "quote": "Our portfolio logged four weather-related maintenance requests in the week of November sixteenth; four preceding weeks had zero.",
+      "provenance": "unverified",
+      "note": "Post claims internal verification, but no underlying record provided to reviewer."
+    },
+    {
+      "claim_id": "10515-C02",
+      "quote": "Water actively coming in is an emergency on our 24/7 line, and a vendor goes out the same day.",
+      "provenance": "unverified",
+      "note": "24/7 bilingual line confirmed in knowledge/company/overview.md; same-day dispatch guarantee requires confirmation."
+    }
+  ],
+  "strengths": [
+    "Practical three-tier triage and seasonal checklist",
+    "Cross-linking of educational article and video",
+    "Citations to relevant California codes and clear AEBP contact path"
+  ],
+  "article_fixes": [
+    "10515-F01: Replace 'Last week (November 16–20)' with 'During November 16–20, 2026'.",
+    "10515-F02: Replace 'the repair clock starts when you get notice' with 'Once you receive notice of a condition affecting habitability, respond within a reasonable time for the circumstances; document and investigate every leak report.'",
+    "10515-F03: Replace 'Emergency entry without notice (§1954)' with 'Emergency entry without advance notice only where circumstances constitute an actual emergency under §1954; otherwise use statutory notice or applicable consent.'",
+    "10515-F04: Replace 'our portfolio of 600+ East Bay units logged four weather-related maintenance requests' with 'our portfolio received weather-related maintenance reports' until the exact counts and comparisons have been independently documented.",
+    "10515-F05: Replace 'with a vendor sent the same day' with 'which we prioritize for same-day assessment and vendor dispatch, subject to the circumstances' unless AEBP confirms the stronger service guarantee.",
+    "10515-F06: Replace with 'Treat water near electrical fixtures as a potential immediate safety hazard. Prioritize prompt inspection of musty odors or suspected mold, and escalate based on the actual risk.'",
+    "Change 'last week' to date-neutral language and align the Thanksgiving reference with publication timing."
+  ],
+  "operating_system_improvements": [
+    {
+      "description": "Add dated, auditable evidence for AEBP weather-related maintenance counts and vendor-dispatch service standard; refresh knowledge/company/overview.md (review due November 18).",
+      "target_doc": "knowledge/company/overview.md",
+      "type_c_followup": true
+    }
+  ],
+  "recommendation": "hold_pending_fixes",
+  "notes": "Official California Legislative Information pages returned 403; review relied on public code mirrors and California DRE guidance. Final official-live comparison remains required by EVD-SOURCE-SNAPSHOTS. Review based on draft content read November 20. GitHub default branch HEAD used for repo.commit; working tree state inferred clean from remote-only access."
+}
