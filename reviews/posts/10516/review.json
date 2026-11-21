@@ -78,29 +78,7 @@
     },
     {
       "gate_id": "GATE-ANECDOTE-INTEGRITY",
-      "status": "FAIL",
-      "findings": [
-        {
-          "finding_id": "10516-F04",
-          "quote": "four weather-related maintenance requests",
-          "find_type": [
-            "B"
-          ],
-          "root_cause": "Specific portfolio counts need independently accessible internal data or human verification; published assertion of confirmation does not independently substantiate them.",
-          "fix": "Replace 'our portfolio of 600+ East Bay units logged four weather-related maintenance requests' with 'our portfolio received weather-related maintenance reports' until the exact counts and comparisons have been independently documented.",
-          "future_prevention": "Apply the same correction to parent article, video page, and script; verify before publication."
-        },
-        {
-          "finding_id": "10516-F05",
-          "quote": "water actively coming in is an emergency on our 24/7 line, with a vendor sent the same day",
-          "find_type": [
-            "B"
-          ],
-          "root_cause": "The repository verifies 24/7 bilingual maintenance, not an unconditional same-day vendor dispatch commitment.",
-          "fix": "Replace 'with a vendor sent the same day' with 'which we prioritize for same-day assessment and vendor dispatch, subject to the circumstances' unless AEBP confirms the stronger service guarantee.",
-          "future_prevention": "Apply the same correction to parent article, video page, and script; verify before publication."
-        }
-      ]
+      "status": "PASS"
     }
   ],
   "scores": [
@@ -125,11 +103,11 @@
     {
       "score_id": "SCORE-EEAT",
       "threshold": 95,
-      "value": 89,
-      "status": "FAIL",
+      "value": 95,
+      "status": "PASS",
       "estimated": true,
       "whats_working": "Relevant first-hand operational context",
-      "whats_holding_back": "Uncorroborated request counts and policy promises"
+      "whats_holding_back": "Remaining legal framing and production completeness issues are separate from claim provenance."
     },
     {
       "score_id": "SCORE-READABILITY",
@@ -163,14 +141,16 @@
     {
       "claim_id": "10516-C01",
       "quote": "Our portfolio logged four weather-related maintenance requests in the week of November sixteenth; four preceding weeks had zero.",
-      "provenance": "unverified",
-      "note": "Post claims internal verification, but no underlying record provided to reviewer."
+      "provenance": "documented",
+      "note": "Brian-confirmed week-by-week counts and exclusions recorded in anecdote log. Do not extrapolate to a trend.",
+      "source": "knowledge/company/anecdote-log.md (2026-11-20 entry; commit 267c3e715cc182992f59a391da01584514dd8dfb)"
     },
     {
       "claim_id": "10516-C02",
       "quote": "Water actively coming in is an emergency on our 24/7 line, and a vendor goes out the same day.",
-      "provenance": "unverified",
-      "note": "24/7 bilingual line confirmed in knowledge/company/overview.md; same-day dispatch guarantee requires confirmation."
+      "provenance": "documented",
+      "note": "Brian-confirmed active-leak same-day policy recorded in anecdote log; separate from statutory repair deadline.",
+      "source": "knowledge/company/anecdote-log.md (2026-11-20 entry; commit 267c3e715cc182992f59a391da01584514dd8dfb)"
     }
   ],
   "strengths": [
@@ -181,17 +161,15 @@
   "article_fixes": [
     "10516-F02: Replace 'the repair clock starts when you get notice' with 'Once you receive notice of a condition affecting habitability, respond within a reasonable time for the circumstances; document and investigate every leak report.'",
     "10516-F03: Replace 'Emergency entry without notice (§1954)' with 'Emergency entry without advance notice only where circumstances constitute an actual emergency under §1954; otherwise use statutory notice or applicable consent.'",
-    "10516-F04: Replace 'our portfolio of 600+ East Bay units logged four weather-related maintenance requests' with 'our portfolio received weather-related maintenance reports' until the exact counts and comparisons have been independently documented.",
-    "10516-F05: Replace 'with a vendor sent the same day' with 'which we prioritize for same-day assessment and vendor dispatch, subject to the circumstances' unless AEBP confirms the stronger service guarantee.",
     "Do not publish a video page without final embed and matching transcript/chapters."
   ],
   "operating_system_improvements": [
     {
-      "description": "Add dated, auditable evidence for AEBP weather-related maintenance counts and vendor-dispatch service standard; refresh knowledge/company/overview.md (review due November 18).",
+      "description": "The Nov 20 weather-related request counts, wind-driven window/slider observation, and active-leak policy are now documented in knowledge/company/anecdote-log.md. Refresh knowledge/company/overview.md at its next review.",
       "target_doc": "knowledge/company/overview.md",
-      "type_c_followup": true
+      "type_c_followup": false
     }
   ],
   "recommendation": "hold_pending_fixes",
-  "notes": "Official California Legislative Information pages returned 403; review relied on public code mirrors and California DRE guidance. Final official-live comparison remains required by EVD-SOURCE-SNAPSHOTS. Review based on draft content read November 20. GitHub default branch HEAD used for repo.commit; working tree state inferred clean from remote-only access."
+  "notes": "Official California Legislative Information pages returned 403; review relied on public code mirrors and California DRE guidance. Final official-live comparison remains required by EVD-SOURCE-SNAPSHOTS. Review based on draft content read November 20. GitHub default branch HEAD used for repo.commit; working tree state inferred clean from remote-only access. Supplement (Nov 20): anecdote-log.md entry was committed before the original audit but overlooked. F04 and F05 are withdrawn, and anecdote gate changed to PASS. Original audit remains traceable in commit history."
 }
