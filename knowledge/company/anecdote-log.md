@@ -180,7 +180,7 @@ Any future post, video script, or social copy reusing this same observation (rat
 **Source:** Brian, directly, in the session building the Nov 23 cornerstone ("First Rain, First Leak," 2026-11-20), answering what happens at AEBP when the first storms hit and how leak calls are classified.
 
 **Claims as published:**
-1. *AEBP company data:* the portfolio received **4 weather-related maintenance requests** in the week of Nov 16–20, 2026; each of the prior four comparable Monday–Friday periods had **0**. Brian's method: excluded routine water/leak (plumbing) requests and descriptions that only referenced a past flooding event, so the count reflects weather-caused requests only. Published as "Last week (November 16–20)..." in post 10515 and "in the week of November sixteenth" in the Video Script.
+1. *AEBP company data:* the portfolio received **4 weather-related maintenance requests** in the week of Nov 16–20, 2026; each of the prior four comparable Monday–Friday periods had **0**. Brian's method: excluded routine water/leak (plumbing) requests and descriptions that only referenced a past flooding event, so the count reflects weather-caused requests only. Published as "During November 16–20, 2026..." in post 10515 (changed from "Last week" per review 10515-F01) and "in the week of November sixteenth" in the Video Script.
 2. *AEBP experience:* window and sliding-door leaks are a place AEBP sees rain problems show up once rain is wind-driven. (Brian selected this option; no count attached.)
 3. *Company policy:* water actively coming in is an emergency on the 24/7 line with a vendor sent the same day; staining and slow drips go in as work orders. (Brian selected "Active = same day.") Consistent with the 2026-09-30 same-day emergency lock policy.
 

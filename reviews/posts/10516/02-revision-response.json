@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "post_id": 10516,
+  "content_type": "video",
+  "responds_to": {
+    "review_file": "reviews/posts/10516/review.json",
+    "timestamp": "2026-11-20T20:00:00-08:00"
+  },
+  "repo": {
+    "commit": "cd58ae46a7b6d12d6de5045c461f9f6d6f79a443",
+    "state": "dirty"
+  },
+  "wordpress": {
+    "post_id": 10516,
+    "revision_id": null,
+    "modified_gmt": "2026-11-21T04:08:10Z",
+    "status": "draft",
+    "permalink": "https://dev.alleastbayproperties.com/?post_type=video&p=10516"
+  },
+  "reviewer": {
+    "name": "claude",
+    "identity": "Claude (Cowork)"
+  },
+  "timestamp": "2026-11-21T04:15:00Z",
+  "dispositions": [
+    {
+      "finding_id": "10516-F02",
+      "disposition": "accepted_with_modification",
+      "rationale": "Same scope point as 10515-F02. The quoted text isn't on this page; the page's versions were the script line and Key Takeaway 5.",
+      "change_applied": "Video Script paragraph 5 and Key Takeaway 5.",
+      "quote_before": "A phone call or text from the tenant counts as notice and starts the repair clock",
+      "quote_after": "A phone call or text telling you about a leak that affects habitability counts as notice; the law then expects a repair within a reasonable time"
+    },
+    {
+      "finding_id": "10516-F03",
+      "disposition": "accepted_with_modification",
+      "rationale": "Same point as 10515-F03. The quoted table cell isn't on this page; Key Takeaway 2 carried the same unqualified claim.",
+      "change_applied": "Key Takeaway 2.",
+      "quote_before": "Water actively coming in is an emergency: same-day response, and entry without the usual notice is allowed",
+      "quote_after": "Water actively coming in calls for a same-day response, and entry without the usual notice is allowed when it's an actual emergency"
+    },
+    {
+      "finding_id": "10516-F07",
+      "disposition": "accepted",
+      "rationale": "Correct. Nothing to change in content yet.",
+      "change_applied": "No content change. Page held as draft; at the video swap the placeholder becomes the lite_youtube shortcode, chapters get SRT timestamps, the title and Yoast title get '(Video, N min)', and 'Video Script' is relabeled 'Video Transcript' only after an SRT check.",
+      "quote_before": null,
+      "quote_after": null
+    }
+  ],
+  "claim_provenance_updates": [],
+  "operating_system_followups": [
+    {
+      "description": "Video Script holiday line and the 'What This Video Covers' chapter label made date-neutral ('Before a holiday weekend'), since the video usually goes live after the post.",
+      "target_doc": null,
+      "type_c_followup": false
+    }
+  ],
+  "summary": "F02 and F03 accepted with modification. Neither quoted phrase appears on the video page itself (both come from the article), so the equivalent claims on this page were fixed: Key Takeaways 2 and 5, and Video Script paragraph 5 (shared with 10515). F07 accepted: the page stays a draft until the real embed, SRT-based chapters and a verified transcript are in. F04 and F05 withdrawn by the reviewer. A chapter label and the script's holiday line were made date-neutral.",
+  "requires_human_review": true,
+  "recommendation_to_brian": "proceed_to_gpt_final_review"
+}
