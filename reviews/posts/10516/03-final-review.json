@@ -1,0 +1,33 @@
+{
+  "review_type": "final_recheck",
+  "post_id": 10516,
+  "title": "Leak Calls in Rainy Season Explained for Landlords (Video)",
+  "timestamp": "2026-11-20T20:30:00-08:00",
+  "reviewer": "chatgpt (gpt-6)",
+  "based_on_repo_commit": "36f871fb368dc1f0633df4717105dcc5c52df200",
+  "wordpress_status": "draft",
+  "findings_resolved": [
+    "F01",
+    "F02",
+    "F03",
+    "F06",
+    "F07 editorial wording"
+  ],
+  "anecdote_integrity": "PASS — documented in knowledge/company/anecdote-log.md 2026-11-20 entry",
+  "legal_content": "Pass on accessible 2026 code mirrors; official-source site unavailable",
+  "video_script_consistency": "PASS — both copies aligned",
+  "editorial_result": "hold_for_video_production",
+  "remaining_dependencies": [
+    {
+      "id": "LEGAL-LIVE",
+      "status": "pending_external_verification",
+      "details": "Official leginfo.legislature.ca.gov was not accessible; cross-checks completed against California code mirrors, the state DRE and CDPH. Check the official statutes before publishing."
+    },
+    {
+      "id": "VIDEO-PRODUCTION",
+      "status": "pending_asset",
+      "details": "No final video, SRT chapter links or verified transcript in current WordPress draft."
+    }
+  ],
+  "publication_guidance": "Editorial wording approved; keep the video page a draft pending actual video embed, SRT-derived chapters, verbatim transcript, title and schema review."
+}
