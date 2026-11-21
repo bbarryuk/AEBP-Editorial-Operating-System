@@ -6,7 +6,7 @@ WordPress: draft, https://dev.alleastbayproperties.com/?p=10378
 
 **Summary:** Both second-pass wording findings accepted and applied, with the shared script identical on both pages. Remaining before publish: render the video and swap the placeholder for the real embed, verify playback, chapters, transcript and rendered schema, and recheck Measure X certification.
 
-**requires_human_review:** true · **recommendation_to_brian:** approve_for_recording
+**requires_human_review:** true · **recommendation_to_brian:** proceed_to_gpt_final_review
 
 ## Dispositions
 
